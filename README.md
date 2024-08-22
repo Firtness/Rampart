@@ -27,7 +27,7 @@ Product: Sentinel
 ### **Integrantes:**
 
 - Estefano Oscar Jaque Peña - u202225466
-- Maria
+- Maria Jose Pezo Castilla - u20221c590
 - Jose Antonio Alejo Cardenas - u202122484
 - Diego
 - Sebastian Omar Real Calderón - u20221d964
