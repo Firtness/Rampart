@@ -516,7 +516,30 @@ Estas preguntas están diseñadas para llevar la conversación de manera lógica
 
 ### 2.3. Needfinding
 
+Tras la identificación de los segmentos objetivo (cocineros caseros y estudiantes/profesionales ocupados), se realizaron entrevistas a individuos pertenecientes a dichos segmentos con el objetivo de de hallar información relevante para el desarrollo del producto final, tal como sentimientos, deseos y necesidades. En esta sección se incluirán los esquemas de _User Personas_, _User Task Matrix_, _User Journey Mapping_ y _Empathy Mapping_.
+
 ### 2.3.1. User Personas
+
+**User Persona del Segmento Objetivo 1: Cocineros Caseros**
+---
+| Attributes | <p align="center">Values</p> |
+|--|--|
+| Name | María Gonzales |
+| Age | 42 Años |
+| Occupation | Ama de casa |
+| Status | Casada |
+| Location | Lima, Perú |
+| Tier | Madre de Familia |
+| Archetype | Cocinera |
+| Image | <br><p align="center"><img height="100px" src="https://cdn.discordapp.com/attachments/1257109045723271192/1276684259842719755/ama-de-casa.jpg?ex=66ca6c5f&is=66c91adf&hm=f447f736c0eda5dfa07b10676ddbc229006b6d3177ac81d910e8d5b776ef860b&"></p> |
+| Quote | _"Cada comida que preparo es una manera de compartir mi corazón con los demás."_ |
+| Motivations | <p><ul><li>Incentive: **70 de 100**<li>Fear: **60 de 100**<li>Achievement: **60 de 100**<li>Growth: **50 de 100**<li>Power: **60 de 100**<li>Social: **80 de 100** |
+| Goals | <p><ul><li>Generar ingresos adicionales para su familia.</li><li>Ser flexible en su trabajo, para poder gestionar mejor sus responsabilidades familiares.</li><li>Compartir su pasión por la cocina con una comunidad.</li></ul></p> |
+| Frustrations | <p><ul><li>No muy hábil con la tecnología.<li>Competencia local.<li>No tiene suficiente espacio como para preparar grandes cantidades de comida todos los días. |
+| Biography | <br><p>Desde que era pequeña, María siempre tuvo pasión por la cocina. Pasó su juventud ayudando y aprendiendo a cocinar en restaurantes locales, con lo que mejoró sus habilidades. Hoy en día es madre de dos niños pequeños, para los que prepara comida a diario. Ella busca una manera de sacarle provecho a sus habilidades culinarias de una manera que le permita ganar dinero y aportar a la economía familiar sin comprometer la cantidad de tiempo que puede pasar en casa para cuidar a sus hijos. |
+| Personality | <p><ul><li>Extrovert: **80 de 100**<li>Thinking: **80 de 100**<li>Judging: **50 de 100** |
+| Technology | <p><ul><li>IT and Internet: **50 de 100**<li>Software: **50 de 100**<li>Mobile Apps: **60 de 100**<li>Social Networks: **60 de 100** |
+| Brands | <p><ul><li>Facebook<li>Youtube |
 
 ### 2.3.2. User Task Matrix
 
