@@ -225,7 +225,6 @@ Visión:
    Factores como la conveniencia, la personalización de los pedidos, la calidad y la frescura de los ingredientes, la posibilidad de apoyar a cocineros locales, y la interacción dentro de una comunidad culinaria atractiva son claves para que los clientes elijan "Sabores Cercanos".
 
 
-
 ###### How much?
 
    La aplicación generará ingresos principalmente a través de comisiones por transacción. Los cocineros pueden usar la plataforma de forma gratuita, pero se retendrá un porcentaje de cada pedido realizado. Los consumidores pagan por los pedidos que realicen, con precios establecidos por los cocineros. Además, podría haber modelos de suscripción para acceder a recetas exclusivas o servicios premium.
