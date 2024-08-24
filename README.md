@@ -129,9 +129,13 @@ Visión:
 
 - _¿Qué problema hay?_
 
+   Muchas personas, especialmente universitarios y profesionales, no tienen tiempo para cocinar debido a sus horarios ocupados. Esto los lleva a depender de comida rápida o de baja calidad, afectando su salud y bienestar. Por otro lado, hay muchas personas que disfrutan cocinar y buscan una manera de generar ingresos adicionales desde casa.
+
 
 
 - _¿Qué relación tiene el problema con el usuario/cliente?_
+
+   Los consumidores buscan una opción de comida casera y saludable que se ajuste a su estilo de vida ocupado. Los cocineros buscan una manera de monetizar su habilidad culinaria sin tener que invertir en un restaurante completo o un negocio de catering.
 
 
 
@@ -139,9 +143,13 @@ Visión:
 
 - _¿Cuándo sucede el problema?_
 
+   El problema es continuo. Ocurre diariamente cuando los consumidores enfrentan la necesidad de comer mientras equilibran otras responsabilidades, como el trabajo o los estudios. El problema se intensifica durante las horas pico de almuerzo y cena, cuando el tiempo es limitado.
+
 
 
 - _¿Cuándo el cliente necesita el programa?_
+
+   Los consumidores necesitan la plataforma durante sus horarios de comida, especialmente durante el almuerzo y la cena. Los cocineros necesitan la plataforma para poder planificar y gestionar sus servicios de manera eficiente, incluyendo la publicación de menús y la preparación de pedidos.
 
 
 
@@ -149,9 +157,13 @@ Visión:
 
 - _¿Dónde el cliente usara el producto?_
 
+   La aplicación se usará principalmente en entornos urbanos y semiurbanos, donde hay una alta concentración de profesionales y estudiantes. Los consumidores usarán la aplicación desde sus teléfonos móviles o computadoras para hacer pedidos mientras están en casa, en la oficina o en el campus.
+
 
 
 - _¿A quién está destinado?_
+
+   Está destinado a dos segmentos principales: cocineros caseros que buscan ingresos adicionales y consumidores, principalmente universitarios y profesionales, que buscan comida casera y saludable sin tener que cocinar.
 
 
 
@@ -159,13 +171,19 @@ Visión:
 
 - _¿Quiénes van a involucrarse con nuestra aplicación?_
 
+   Cocineros caseros, consumidores (universitarios y profesionales), repartidores (si se incluye el servicio de entrega), y administradores de la plataforma. Además, pueden involucrarse socios de pago y servicios de logística.
+
 
 
 - _¿Quiénes son afectados por el problema?_
 
+   Los consumidores afectados son aquellos que tienen poco tiempo para cocinar pero valoran una alimentación saludable. Los cocineros que tienen habilidades culinarias y buscan monetizarlas también están afectados por la falta de plataformas accesibles para ofrecer sus servicios.
+
 
 
 - _¿Quién utilizará este producto?_
+
+   El producto será utilizado por cocineros caseros para ofrecer sus servicios y por consumidores que buscan comidas caseras y saludables. También podría ser utilizado por repartidores para gestionar las entregas.
 
 
 
@@ -173,31 +191,44 @@ Visión:
 
 - _¿Por qué ocurre el problema?_
 
+   El ritmo de vida moderno es acelerado, dejando poco tiempo para cocinar. Además, hay una falta de opciones accesibles que ofrezcan comida casera y saludable. A menudo, la comida rápida es la opción más conveniente, pero no siempre es la más saludable.
+
 
 
 - _¿Por qué los clientes elegirían utilizar nuestro producto?_
+
+   Los clientes elegirían "Sabores Cercanos" porque ofrece una alternativa conveniente, saludable y asequible a la comida rápida, con el beneficio añadido de apoyar a cocineros locales. Además, la posibilidad de personalizar pedidos y conocer de antemano quién prepara la comida añade un valor significativo.
 
 
 
 - _¿Por qué las personas estarán motivadas a usar nuestra aplicación?_
 
+   Las personas estarán motivadas por la conveniencia de recibir comida casera y saludable, la variedad de opciones disponibles, y la conexión con su comunidad. Para los cocineros, la motivación proviene de la oportunidad de ganar dinero haciendo lo que aman, sin los costos y riesgos asociados con un negocio de restauración tradicional.
 
 
 ###### Who?
 
 - _¿Cómo nos descubren nuestros clientes?_
 
+   Los clientes pueden descubrir "Sabores Cercanos" a través de estrategias de marketing digital, publicidad en redes sociales, colaboraciones con universidades y espacios de trabajo, y a través del boca a boca en la comunidad local.
+
 
 
 - _¿Cómo pueden los clientes acceder a nuestro contenido?_
+
+   Los clientes pueden acceder al contenido a través de la aplicación móvil o el sitio web de "Sabores Cercanos". Además, recibirán notificaciones y alertas sobre nuevas ofertas y publicaciones de recetas.
 
 
 
 - _¿Qué factores llevan a los clientes a elegirnos?_
 
+   Factores como la conveniencia, la personalización de los pedidos, la calidad y la frescura de los ingredientes, la posibilidad de apoyar a cocineros locales, y la interacción dentro de una comunidad culinaria atractiva son claves para que los clientes elijan "Sabores Cercanos".
+
 
 
 ###### How much?
+
+   La aplicación generará ingresos principalmente a través de comisiones por transacción. Los cocineros pueden usar la plataforma de forma gratuita, pero se retendrá un porcentaje de cada pedido realizado. Los consumidores pagan por los pedidos que realicen, con precios establecidos por los cocineros. Además, podría haber modelos de suscripción para acceder a recetas exclusivas o servicios premium.
 
 
 
