@@ -430,6 +430,27 @@ Tras la identificación de los segmentos objetivo (cocineros caseros y estudiant
 | Technology | <p><ul><li>IT and Internet: **50 de 100**<li>Software: **50 de 100**<li>Mobile Apps: **60 de 100**<li>Social Networks: **60 de 100** |
 | Brands | <p><ul><li>Facebook<li>Youtube |
 
+**User Persona del Segmento Objetivo 2: Estudiantes/Profesionales Ocupados**
+---
+| Attributes | <p align="center">Values</p> |
+|--|--|
+| Name | Ricardo Martinez |
+| Age | 21 Años |
+| Occupation | Estudiante Universitario |
+| Status | Soltero |
+| Location | Lima, Perú |
+| Tier | Estudiante Pregrado |
+| Archetype | Estudiante |
+| Image | <br><p align="center"><img height="100px" src="https://cdn.discordapp.com/attachments/1257109045723271192/1276741316692148224/estudiante_ocupado.jpg?ex=66caa182&is=66c95002&hm=ceea1a90f62dcb6dae877eeb0522e602576bdc04721eac7d35cc41ac5dcfe93b&"></p> |
+| Quote | _"El tiempo lo es todo, pero la salud también, por eso es importante encontrar un balance."_ |
+| Motivations | <p><ul><li>Incentive: **90 de 100**<li>Fear: **60 de 100**<li>Achievement: **80 de 100**<li>Growth: **80 de 100**<li>Power: **60 de 100**<li>Social: **50 de 100** |
+| Goals | <p><ul><li>Ahorrar tiempo.</li><li>Estar saludable.</li><li>Disfrutar de buena comida.</li></ul></p> |
+| Frustrations | <p><ul><li>Poco tiempo libre para cocinar.<li>Falta de presupuesto.<li>No posee muchas opciones para obtener comida saludable. |
+| Biography | <br><p>Ricardo es un estudiante de ingeniería de software(porque todos sabemos que en esta carrera nos sobreexplotan) que busca rendir lo mejor posible con tal de alcanzar sus metas de carrera. Sin embargo, la cantidad de clases, tareas y trabajos le hacen imposible conseguir un balance entre lo académico y su salud. Por ello, busca maneras de tener acceso a una dieta balanceada que a su vez sea asequible con los pocos ingresos con los que cuenta.  |
+| Personality | <p><ul><li>Extrovert: **90 de 100**<li>Thinking: **80 de 100**<li>Judging: **60 de 100** |
+| Technology | <p><ul><li>IT and Internet: **80 de 100**<li>Software: **80 de 100**<li>Mobile Apps: **90 de 100**<li>Social Networks: **60 de 100** |
+| Brands | <p><ul><li>Uber Eats<li>Domicilios.com |
+
 ### 2.3.2. User Task Matrix
 
 ### 2.3.3. User Journey Mapping
