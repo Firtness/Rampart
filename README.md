@@ -71,6 +71,7 @@ Product: Sentinel
 ## Student Outcome
 
 _ABET – EAC - Student Outcome 5_
+
 **Criterio:**  La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos. 
 
 En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5. 
@@ -387,17 +388,35 @@ En esta sección del informe se realizará el diseño, registro y análisis de l
 
 ### 2.2.1. Diseño de entrevistas
 
-N
+Antes de poder realizar las entrevistas, consideramos prudente poder concretar un análisis previo para poder realizar las entrevistas de una mejor manera. Es por ello, que para cada uno de nuestros segmentos proponemos estas preguntas para poder conocer un poco más sobre nuestro público objetivo.
 
-### Segmento: N
+### Preguntas para Entrevistar a Estudiantes/Profesionales Ocupados
 
-N
+1. ¿Podrías presentarte y contarme un poco sobre tu rutina diaria y tus responsabilidades?
+2. ¿Cómo manejas tus comidas diarias durante la semana laboral/estudiantil?
+3. ¿Cuánto tiempo dedicas, en promedio, a cocinar tus propias comidas durante la semana?
+4. ¿Qué haces cuando no tienes tiempo para cocinar? ¿Qué tipo de comida tiendes a elegir?
+5. ¿Puedes contarme una experiencia reciente en la que te resultó difícil encontrar una comida saludable y conveniente?
+6. ¿Qué importancia le das a la calidad nutricional de las comidas que consumes diariamente?
+7. ¿Alguna vez te has sentido frustrado/a por no poder encontrar opciones de comida saludable y casera cerca de ti?
+8. ¿Qué opinas de la idea de poder pedir comida casera a través de una plataforma que conecta a cocineros locales con consumidores?
+9. ¿Te gustaría tener más opciones de comida casera accesible en tu área? ¿Por qué?
+10. ¿Cómo te sentirías si pudieras personalizar un menú casero según tus preferencias alimenticias a través de una aplicación?
+11. ¿Podrías compartir una situación en la que te hubiera gustado tener acceso a una opción de comida casera rápida y no lo encontraste?
 
-### Segmento: N
+### Preguntas para Entrevistar a Cocineros Caseros
 
-N
-
-Estas preguntas están diseñadas para llevar la conversación de manera lógica y ordenada, desde la comprensión del rol y desafíos actuales hasta la exploración de futuras colaboraciones y expectativas.
+1. ¿Podrías presentarte y contarnos sobre tu experiencia en la cocina y tu interés en cocinar para otros?
+2. ¿Qué tan a menudo cocinas para ti y/o para otras personas?
+3. ¿Has considerado alguna vez monetizar tus habilidades culinarias? ¿Por qué?
+4. ¿Qué barreras has encontrado al intentar vender comida casera o al considerar iniciar un negocio relacionado con la cocina?
+5. ¿Puedes contarme una experiencia en la que te hubiera gustado poder vender tus comidas pero no tuviste los medios para hacerlo?
+6. ¿Qué piensas sobre la posibilidad de ofrecer tus comidas caseras a través de una plataforma en línea?
+7. ¿Cómo te sentirías si pudieras ganar dinero cocinando desde casa, sin necesidad de invertir en un restaurante o negocio formal?
+8. ¿Qué tan importante sería para ti poder gestionar tu tiempo y pedidos de manera flexible a través de una aplicación?
+9. ¿Crees que existe una demanda real de comida casera en tu comunidad? ¿Por qué?
+10. ¿Alguna vez has recibido comentarios positivos de amigos o familiares sobre tu cocina? ¿Cómo te hizo sentir eso?
+11. ¿Qué tan interesado/a estarías en unirte a una comunidad de cocineros caseros donde pudieras compartir recetas y aprender de otros?
 
 ### 2.2.2. Registro de entrevistas
 
