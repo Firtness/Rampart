@@ -280,7 +280,7 @@ Cookpad es una plataforma en línea dedicada a compartir recetas de cocina. Fund
 
 En Cookpad, los usuarios pueden buscar recetas basadas en ingredientes, tipo de plato, o tiempo de preparación. La plataforma permite a los usuarios publicar sus propias recetas, así como seguir y comentar en las recetas de otros. Además, ofrece aplicaciones móviles para facilitar el acceso a recetas en cualquier momento.
 
- <p align="center"><img height="150px" src="https://cdn.discordapp.com/attachments/1257109045723271192/1276583497149972552/images.png?ex=66ca0e87&is=66c8bd07&hm=a40eddf42e34a7f73cc533aa47a1cc8dd6621d553ea0b41b1cdc717a96506e06&"> </p> 
+ <p align="center"><img height="150px" src="assets/svg/Cookpad_logo.svg"> </p> 
 
 - **Uber Eats (compra/venta de comida, Global)**
 
@@ -296,7 +296,7 @@ Características destacadas:
 
 - Innovaciones: Incluye características como entregas con drones y cocina en la nube.
 
-<p align="center"><img height="250px" src="https://cdn.discordapp.com/attachments/1257109045723271192/1276583497368080419/images.png?ex=66ca0e87&is=66c8bd07&hm=26a17a212b285ed490175a83d813a1964560a379d95070b54145e2bfc4bd79fa&"> </p> 
+<p align="center"><img height="80px" src="assets/svg/Uber-eats_logo.svg"> </p> 
 
 - **HomeCooked (compra/venta de comida casera, Estados Unidos)**
 
@@ -312,7 +312,7 @@ Características principales:
 
 - Recogida o Entrega: Los consumidores pueden recoger las comidas en la casa del cocinero o recibirlas a domicilio.
 
-<p align="center"><img height="250px" src="https://cdn.discordapp.com/attachments/1257109045723271192/1276583497565474886/homecooked-placement-logo.png?ex=66ca0e87&is=66c8bd07&hm=f50e925f8c1da7a904149626fb8d9e3e207f756c9d795b3fe6b4294ed9652091&"> </p>
+<p align="center"><img height="150px" src="assets/svg/Homecooked_logo.svg"> </p>
 
 - **DishDivvy (compra/venta comida casera, Estados Unidos)**
 
@@ -326,7 +326,7 @@ Características principales:
 
 - Diversidad Culinaria: Ofrece una amplia gama de platos que reflejan la diversidad cultural de las comunidades locales.
 
-<p align="center"><img height="250px" src="https://cdn.discordapp.com/attachments/1257109045723271192/1276583497888169985/DishDivvy_Logo.png?ex=66ca0e87&is=66c8bd07&hm=739c9187587c3b4561c377052b3f1267823ff9078d54873fa821d986441440b0&"> </p>
+<p align="center"><img height="150px" src="assets/svg/Dishdivvy_logo.svg"> </p>
 
 - **Nestlecocina (recetas de cocina, España)**
 
@@ -338,7 +338,7 @@ Características principales:
 
 - Recetas por Producto: Facilita la búsqueda de recetas basadas en productos específicos de Nestlé.
 
-<p align="center"><img height="350px" src="https://cdn.discordapp.com/attachments/1257109045723271192/1276583498215456769/BnX5dzolRMqShIK2wCAuToGHwc5lo5lc5vTDI8EvUyKV8qU1q1j-GCg7csDWyxeR_xU.png?ex=66ca0e87&is=66c8bd07&hm=673edb40b5f1710bdbd7fc8ef92a6a232393138a7e5884912b3a99bcb881948a&"> </p>
+<p align="center"><img height="150px" src="assets/svg/Nestle-cocina_logo.svg"> </p>
 
 - **Tasty (recetas de cocina y videos de cocina, Global)**
 
@@ -350,7 +350,7 @@ Características principales:
 
 - Secciones Temáticas: Incluye recomendaciones de recetas basadas en tendencias actuales o eventos especiales.
 
-<p align="center"><img height="300px" src="https://cdn.discordapp.com/attachments/1257109045723271192/1276583498446147594/tasty2497.png?ex=66ca0e87&is=66c8bd07&hm=9b9e6875f9f42c97bb8192dcd089c4063159083ac85c924c7829abb0f0728521&"> </p>
+<p align="center"><img height="180px" src="assets/svg/Tasty_logo.svg"> </p>
 
 ### 2.1.1. Análisis competitivo
 
