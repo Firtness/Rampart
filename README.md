@@ -704,7 +704,7 @@ Estos son los términos identificados hasta el avance de esta primera entrega de
 
 ### 4.8.1. Database Diagram
 
-## 5. Capítulo V: Product Implementation, Validation & Deployment
+## Capítulo V: Product Implementation, Validation & Deployment
 
 ### 5.1. Software Configuration Management
 
