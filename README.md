@@ -439,7 +439,7 @@ Tras la identificación de los segmentos objetivo (cocineros caseros y estudiant
 | Location | Lima, Perú |
 | Tier | Madre de Familia |
 | Archetype | Cocinera |
-| Image | <br><p align="center"><img height="100px" src="/assets/images/user-persona-1.jpg"></p> |
+| Image | <br><p align="center"><img height="100px" src="assets/images/user-persona-1.jpg"></p> |
 | Quote | _"Cada comida que preparo es una manera de compartir mi corazón con los demás."_ |
 | Motivations | <p><ul><li>Incentive: **70 de 100**<li>Fear: **60 de 100**<li>Achievement: **60 de 100**<li>Growth: **50 de 100**<li>Power: **60 de 100**<li>Social: **80 de 100** |
 | Goals | <p><ul><li>Generar ingresos adicionales para su familia.</li><li>Ser flexible en su trabajo, para poder gestionar mejor sus responsabilidades familiares.</li><li>Compartir su pasión por la cocina con una comunidad.</li></ul></p> |
@@ -460,7 +460,7 @@ Tras la identificación de los segmentos objetivo (cocineros caseros y estudiant
 | Location | Lima, Perú |
 | Tier | Estudiante Pregrado |
 | Archetype | Estudiante |
-| Image | <br><p align="center"><img height="100px" src="https://cdn.discordapp.com/attachments/1257109045723271192/1276741316692148224/estudiante_ocupado.jpg?ex=66caa182&is=66c95002&hm=ceea1a90f62dcb6dae877eeb0522e602576bdc04721eac7d35cc41ac5dcfe93b&"></p> |
+| Image | <br><p align="center"><img height="100px" src="assets/images/user-persona-2.jpg"></p> |
 | Quote | _"El tiempo lo es todo, pero la salud también, por eso es importante encontrar un balance."_ |
 | Motivations | <p><ul><li>Incentive: **90 de 100**<li>Fear: **60 de 100**<li>Achievement: **80 de 100**<li>Growth: **80 de 100**<li>Power: **60 de 100**<li>Social: **50 de 100** |
 | Goals | <p><ul><li>Ahorrar tiempo.</li><li>Estar saludable.</li><li>Disfrutar de buena comida.</li></ul></p> |
