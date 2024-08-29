@@ -293,11 +293,66 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 
 ### 1.2.2. Lean UX Process
-
+El proceso Lean UX se adapta especialmente bien a startups como SSVR que buscan crear soluciones innovadoras y efectivas en el mercado. Este enfoque se caracteriza por su agilidad y centrado en el usuario, lo que significa que estamos constantemente buscando validar nuestras ideas y prototipos con los usuarios para garantizar que estamos abordando sus necesidades de manera adecuada. 
 ### 1.2.2.1. Lean UX Problem Statements
+La aplicación generará ingresos principalmente a través de comisiones por transacción. Los cocineros pueden usar la plataforma de forma gratuita, pero se retendrá un porcentaje de cada pedido realizado. Los consumidores pagan por los pedidos que realicen, con precios establecidos por los cocineros. Además, podría haber modelos de suscripción para acceder a recetas exclusivas o servicios premium.
 
+Hemos identificado un desafío significativo para los consumidores, quienes a menudo recurren a comida rápida o de baja calidad debido a la falta de tiempo para cocinar. Esto impacta negativamente su salud y bienestar. Simultáneamente, existen cocineros caseros que buscan oportunidades para monetizar sus habilidades culinarias, pero no tienen acceso a una plataforma que les permita hacerlo de manera flexible y sin grandes inversiones.
+
+¿Cómo podemos mejorar la experiencia de los consumidores que buscan opciones de comida saludable y casera, y al mismo tiempo, ofrecer a los cocineros caseros una vía efectiva para generar ingresos adicionales?
 ### 1.2.2.2. Lean UX Assumptions
+### Assumptions para "Sabores Cercanos"
+**Assumptions:** 
+1. Creo que mis clientes necesitan una opción accesible y saludable de comida casera que se adapte a su estilo de vida ocupado.
+2. Estas necesidades se pueden resolver con una plataforma que conecte a consumidores con cocineros caseros locales.
+3. Mis clientes iniciales son (o serán) universitarios y profesionales que tienen poco tiempo para cocinar.
+4. El valor #1 que un cliente quiere de mi servicio es la conveniencia de recibir comida casera y personalizada.
+5. El cliente también puede obtener estos beneficios adicionales apoyo a la economía local, la posibilidad de personalizar sus pedidos, y el acceso a una comunidad culinaria.
+6. Voy a adquirir la mayoría de mis clientes a través de marketing digital, redes sociales, y colaboraciones con universidades y espacios de trabajo.
+7. Haré dinero a través de comisiones por transacción en los pedidos realizados a través de la plataforma.
+8. Mi competencia principal en el mercado será servicios de comida rápida y aplicaciones de delivery.
+9. Los venceremos debido a la personalización, la calidad de la comida casera, y la conexión con la comunidad local.
+10. Mi mayor riesgo de producto es que los cocineros no puedan cumplir con la demanda o que los consumidores no encuentren suficiente variedad.
+11. Resolveremos esto a través de una cuidadosa gestión de la oferta y la demanda, y mediante incentivos para atraer a más cocineros a la plataforma.
+Aquí tienes un conjunto de **assumptions (supuestos)** para "Sabores Cercanos":
 
+1) **¿Quién es el usuario?**
+   - Universitarios y profesionales ocupados que buscan opciones de comida casera y saludable.
+   - Cocineros caseros interesados en generar ingresos adicionales.
+
+2) **¿Dónde encaja nuestro producto en su trabajo o vida?**
+   - Para los consumidores, la plataforma encaja en su rutina diaria, especialmente en las horas de almuerzo y cena, ofreciendo una solución conveniente y saludable.
+   - Para los cocineros, la plataforma encaja en su vida como una oportunidad flexible para monetizar sus habilidades culinarias desde casa.
+
+3) **¿Qué problemas tiene nuestro producto y cómo se pueden resolver?**
+   - Problema: Dificultad en personalizar las ofertas para diferentes dietas y preferencias alimenticias.
+   - Solución: Implementar filtros avanzados y opciones de personalización en la plataforma para adaptarse a las necesidades específicas de los usuarios.
+
+4) **¿Cuándo y cómo es usado nuestro producto?**
+   - El producto se usa principalmente durante las horas de comida, cuando los consumidores necesitan una solución rápida y saludable. Se accede a través de dispositivos móviles o computadoras.
+
+5) **¿Qué características son importantes?**
+   - Facilidad de uso, personalización de menús, comunicación fluida entre cocineros y consumidores, y un sistema de notificaciones eficaz para pedidos y promociones.
+
+6) **¿Cómo debe verse nuestro producto y cómo debe comportarse?**
+   - El diseño debe ser atractivo, limpio y fácil de navegar, destacando la frescura y calidad de los ingredientes. Debe ser intuitivo, rápido, y confiable, con un énfasis en la comunidad y la conexión personal entre cocineros y consumidores.
+
+**Business Outcomes:**
+
+1. Incrementar la base de cocineros registrados en un 20% en los próximos seis meses.
+2. Aumentar el número de pedidos diarios en un 30% en el primer año.
+3. Mejorar la retención de clientes recurrentes en un 25% mediante promociones personalizadas.
+4. Expandir la presencia de la plataforma en cinco nuevas ciudades dentro del próximo año.
+5. Maximizar las ganancias por transacción incrementando el ticket promedio en un 15%.
+
+**User Outcomes:**
+
+1. Los consumidores obtendrán acceso rápido a comidas caseras personalizadas según sus preferencias dietéticas.
+2. Los cocineros podrán generar ingresos adicionales sin complicaciones, ofreciendo sus menús a través de la plataforma.
+3. Los usuarios disfrutarán de notificaciones oportunas sobre ofertas y promociones que se adapten a sus necesidades.
+4. Facilitar la planificación de comidas diarias para profesionales ocupados con una experiencia de usuario intuitiva.
+5. Garantizar la frescura y calidad de la comida casera entregada dentro de tiempos de espera reducidos.
+   
 ### 1.2.2.3. Lean UX Hypothesis Statements
 
 
