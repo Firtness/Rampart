@@ -439,7 +439,7 @@ Tras la identificación de los segmentos objetivo (cocineros caseros y estudiant
 | Location | Lima, Perú |
 | Tier | Madre de Familia |
 | Archetype | Cocinera |
-| Image | <br><p align="center"><img height="100px" src="https://cdn.discordapp.com/attachments/1257109045723271192/1276684259842719755/ama-de-casa.jpg?ex=66ca6c5f&is=66c91adf&hm=f447f736c0eda5dfa07b10676ddbc229006b6d3177ac81d910e8d5b776ef860b&"></p> |
+| Image | <br><p align="center"><img height="100px" src="/assets/images/user-persona-1.jpg"></p> |
 | Quote | _"Cada comida que preparo es una manera de compartir mi corazón con los demás."_ |
 | Motivations | <p><ul><li>Incentive: **70 de 100**<li>Fear: **60 de 100**<li>Achievement: **60 de 100**<li>Growth: **50 de 100**<li>Power: **60 de 100**<li>Social: **80 de 100** |
 | Goals | <p><ul><li>Generar ingresos adicionales para su familia.</li><li>Ser flexible en su trabajo, para poder gestionar mejor sus responsabilidades familiares.</li><li>Compartir su pasión por la cocina con una comunidad.</li></ul></p> |
