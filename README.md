@@ -67,6 +67,8 @@ Product: Sentinel
       2. [User Task Matrix](#232-user-task-matrix)
       3. [User Journey Mapping](#233-user-journey-mapping)
       4. [Empathy Mapping](#234-empathy-mapping)
+      5. [As-is Scenario Mapping](#235-as-is-scenario-mapping)
+   4. [Ubiquitous Language](#24-ubiquitous-language)
 
 ## Student Outcome
 
@@ -422,7 +424,7 @@ Antes de poder realizar las entrevistas, consideramos prudente poder concretar u
 
 ### 2.2.3. Análisis de entrevistas
 
-### 2.3. Needfinding
+## 2.3. Needfinding
 
 Tras la identificación de los segmentos objetivo (cocineros caseros y estudiantes/profesionales ocupados), se realizaron entrevistas a individuos pertenecientes a dichos segmentos con el objetivo de de hallar información relevante para el desarrollo del producto final, tal como sentimientos, deseos y necesidades. En esta sección se incluirán los esquemas de _User Personas_, _User Task Matrix_, _User Journey Mapping_ y _Empathy Mapping_.
 
@@ -475,3 +477,111 @@ Tras la identificación de los segmentos objetivo (cocineros caseros y estudiant
 ### 2.3.3. User Journey Mapping
 
 ### 2.3.4. Empathy Mapping
+
+### 2.3.5. As-is Scenario Mapping
+
+## 2.4. Ubiquitous Language
+
+En Sabores Cercanos, utilizamos un lenguaje común para asegurar una comunicación clara y efectiva entre todos los miembros del equipo, cocineros, y usuarios. A continuación, se describen algunos de los términos clave:
+
+### Términos generales
+
+- Cocinero Casero: Persona que prepara comidas en su hogar para ofrecerlas a través de la plataforma. Este término abarca tanto a quienes cocinan de manera ocasional como a aquellos que lo hacen regularmente.
+
+- Consumidor: Universitarios, profesionales y cualquier persona que busca acceder a comidas caseras a través de Sabores Cercanos.
+
+- Ubicación: Lugar donde un cocinero casero prepara y/o entrega la comida, o donde el consumidor puede recoger su pedido.
+
+- Perfil de Usuario: Información personal y preferencias de un consumidor o cocinero casero, utilizada para personalizar la experiencia en la plataforma.
+
+- Plataforma de Pago: Mecanismos y proveedores utilizados para procesar pagos en la plataforma (e.g., tarjeta de crédito, billetera digital).
+
+- Costo de Servicio: Comisiones o tarifas aplicadas a los cocineros caseros por usar la plataforma, o costos adicionales para los usuarios por servicios como la entrega a domicilio.
+
+- Comunicación en Tiempo Real: Canal dentro de la plataforma para que cocineros y usuarios se comuniquen directamente sobre detalles del pedido.
+
+### Perfiles de Usuario
+
+Para el Consumidor:
+
+- Menú: Conjunto de platos que un cocinero casero ofrece en la plataforma, incluyendo detalles como ingredientes, precios y disponibilidad.
+
+- Filtro de Búsqueda: Herramienta que permite a los usuarios buscar platos y cocineros según criterios como precio, tipo de comida, horario de disponibilidad, etc.
+
+- Recomendaciones Personalizadas: Sugerencias de platos y cocineros basadas en las preferencias y hábitos de compra de un usuario.
+
+- Cesta de Compras: Sección donde un consumidor puede revisar y modificar los platos seleccionados antes de completar un pedido.
+
+- Punto de Recogida: Lugar designado donde el consumidor puede ir a recoger su pedido.
+
+- Entrega a Domicilio: Opción ofrecida por algunos cocineros caseros para llevar el pedido directamente al domicilio del consumidor.
+
+- Reseña: Opinión y valoración que un consumidor deja sobre un cocinero casero o un plato después de haber realizado un pedido.
+
+- Feedback: Retroalimentación que los usuarios proporcionan sobre su experiencia, utilizada para mejorar los servicios y la calidad en la plataforma.
+
+- Notificación: Alerta enviada a los usuarios sobre nuevos menús, ofertas especiales, o actualizaciones de recetas en la plataforma.
+
+- Programa de Lealtad: Sistema de recompensas para usuarios frecuentes, incentivando su permanencia en la plataforma.
+
+Para el Cocinero Casero:
+
+- Receta: Descripción detallada de los ingredientes y pasos para preparar un plato, compartida por cocineros en la plataforma.
+
+- Oferta Especial: Promoción o descuento que un cocinero casero ofrece por tiempo limitado.
+
+- Horario de Disponibilidad: Períodos en los que un cocinero casero está disponible para preparar y vender comidas a través de la plataforma.
+
+- Capacidad de Producción: El número máximo de pedidos que un cocinero casero puede manejar en un período determinado.
+
+- Certificación de Cocinero: Programas o insignias que certifican la calidad o especialización de un cocinero en la plataforma.
+
+- Gestión de Reseñas: Sistema que permite a los cocineros y a la plataforma manejar y responder a las reseñas de los usuarios.
+
+- Comunicación en Tiempo Real: Canal dentro de la plataforma para que cocineros y usuarios se comuniquen directamente sobre detalles del pedido.
+
+- Receta Estrella: Recetas destacadas que han recibido las mejores valoraciones de la comunidad y que son promovidas en la plataforma.
+
+### Proceso de Pedido y Entrega
+
+- Pedido: Transacción realizada por un consumidor para adquirir uno o más platos del menú de un cocinero casero.
+
+- Cesta de Compras: Sección donde un consumidor puede revisar y modificar los platos seleccionados antes de completar un pedido.
+
+- Tiempo de Preparación: Duración estimada que le toma a un cocinero casero preparar un plato después de que se realiza el pedido.
+
+- Tiempo de Llegada: Tiempo estimado que tarda un pedido en llegar a su destino desde el momento en que se completa la preparación.
+
+### Gestión y Administración
+
+Para Administradores:
+
+- Política de Devoluciones: Reglas y procedimientos para manejar devoluciones o reembolsos en caso de problemas con un pedido.
+
+- Costo de Servicio: Comisiones o tarifas aplicadas a los cocineros caseros por usar la plataforma, o costos adicionales para los usuarios por servicios como la entrega a domicilio.
+
+- Certificación de Cocinero: Programas o insignias que certifican la calidad o especialización de un cocinero en la plataforma. (Puede ser gestionado por administradores para asegurar estándares de calidad).
+
+Para Cocineros Caseros:
+
+- Gestión de Reseñas: Sistema que permite a los cocineros y a la plataforma manejar y responder a las reseñas de los usuarios.
+
+- Receta Estrella: Recetas destacadas que han recibido las mejores valoraciones de la comunidad y que son promovidas en la plataforma.
+
+- Oferta Especial: Promoción o descuento que un cocinero casero ofrece por tiempo limitado.
+
+- Capacidad de Producción: El número máximo de pedidos que un cocinero casero puede manejar en un período determinado.
+
+- Horario de Disponibilidad: Períodos en los que un cocinero casero está disponible para preparar y vender comidas a través de la plataforma.
+
+### Datos y Análisis
+
+- Tendencia de Consumo: Datos y patrones sobre las preferencias de comida de los usuarios, utilizados para mejorar la oferta de platos y servicios.
+
+### Disponibilidad y Programación
+
+- Horario de Disponibilidad: Períodos en los que un cocinero casero está disponible para preparar y vender comidas a través de la plataforma.
+
+- Comunicación en Tiempo Real: Canal dentro de la plataforma para que cocineros y usuarios se comuniquen directamente sobre detalles del pedido.
+
+Estos son los términos identificados hasta el avance de esta primera entrega del proyecto, fechada el 29 de agosto de 2024. Se actualizarán y ampliarán conforme avancemos en las siguientes etapas del desarrollo.
