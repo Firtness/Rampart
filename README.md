@@ -22,7 +22,7 @@ Product: Sentinel
 
 ### "Rampart"
 
-### "Sabores Cercanos"
+### "Sentinel"
 
 ### **Integrantes:**
 
@@ -35,8 +35,6 @@ Product: Sentinel
 ### Agosto, 2024
 
 ## Registro de Versiones del Informe
-
-
 
 ## Project Report Collaboration Insights
 
@@ -357,62 +355,23 @@ Aquí tienes un conjunto de **assumptions (supuestos)** para "Sabores Cercanos":
    
 ### 1.2.2.3. Lean UX Hypothesis Statements
 
-1. Creemos que mejorar la interfaz de búsqueda para encontrar cocineros cercanos incrementará la frecuencia con la que los usuarios realizan pedidos. Sabremos que hemos tenido éxito cuando veamos un aumento del 10% en la tasa de pedidos repetidos en un mes.
-
-2. Creemos que añadir perfiles detallados de los cocineros con su historia y especialidades aumentará la confianza de los consumidores. Sabremos que esto es cierto cuando veamos que el 15% de los nuevos usuarios eligen cocineros con perfiles completos sobre los que no tienen esa información.
-
-3. Creemos que ofrecer una opción de chat directo entre cocineros y clientes mejorará la personalización de los pedidos. Sabremos que hemos tenido éxito cuando veamos un aumento del 20% en la satisfacción del cliente en los pedidos personalizados.
-
-4. Creemos que implementar un sistema de reseñas y calificaciones para los cocineros aumentará la confianza en la plataforma. Sabremos que esto es cierto cuando veamos un incremento del 25% en el número de nuevos clientes que completan su primer pedido.
-
-5. Creemos que ofrecer descuentos para los primeros tres pedidos atraerá a nuevos usuarios a la plataforma. Sabremos que hemos tenido éxito cuando veamos un aumento del 30% en las inscripciones y los pedidos dentro del primer mes de uso.
-
-6. Creemos que incluir una opción de "menú saludable" incrementará el interés de los consumidores en opciones de comida nutritiva. Sabremos que esto es cierto cuando veamos un aumento del 40% en los pedidos de menús etiquetados como saludables.
-
-7. Creemos que añadir una función de “pedido recurrente” facilitará la planificación de comidas para los usuarios. Sabremos que hemos tenido éxito cuando veamos un 15% de usuarios configurando pedidos recurrentes en sus cuentas.
-
-8. Creemos que destacar las cocinas más populares en la página de inicio incentivará a más cocineros a registrarse en la plataforma. Sabremos que esto es cierto cuando veamos un aumento del 20% en el número de cocineros que se inscriben mensualmente.
-
-9. Creemos que ofrecer recetas exclusivas y consejos de cocina a través de la plataforma aumentará la fidelidad de los cocineros y usuarios. Sabremos que hemos tenido éxito cuando veamos una disminución del 10% en la tasa de cancelación de cuentas en los siguientes 6 meses.
-
-10. Creemos que implementar un sistema de notificaciones para recordar a los usuarios sobre promociones y nuevos cocineros incrementará la actividad en la plataforma. Sabremos que esto es cierto cuando veamos un aumento del 15% en la interacción con las notificaciones y el consiguiente aumento de pedidos.
 
 ### 1.2.2.4. Lean UX Canvas
 
 | Sección                                                                                             | Contenido                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Business Problem**                                                                                | Problema que se trata de resolver: Las personas que buscan opciones de comida saludable y conveniente a menudo se enfrentan a una oferta limitada y estandarizada, mientras que los cocineros caseros tienen pocas oportunidades de monetizar sus habilidades culinarias y llegar a un público más amplio. Por lo tanto, existe una falta de conexión entre consumidores que desean comida casera y saludable y cocineros apasionados.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| **Business Outcomes**                                                                               | - Aumento del 30% en la tasa de adquisición de nuevos usuarios (cocineros y consumidores) en los primeros 6 meses. <br> - Incremento del 20% en la retención mensual de usuarios activos. <br> - Generar un aumento del 25% en los ingresos provenientes de comisiones por transacciones.                                                                                                                                                                                                                                                                                                                 |
-| **Users and Customers**                                                                             | Nos enfocaremos principalmente en : <br>* Cocineros Caseros: Personas apasionadas por la cocina, con habilidades culinarias que desean monetizar y compartir con una comunidad más amplia.<br>* Consumidores Ocupados: Universitarios y profesionales con poco tiempo para cocinar, pero que buscan opciones de comida casera, saludable y conveniente.<br> Nos enfocaremos secundariamente en:   <br> * Familias: Grupos familiares que buscan una alternativa saludable y casera para sus comidas diarias. <br> * Personas con necesidades dietéticas específicas: Usuarios que requieren opciones alimenticias personalizadas debido a alergias, preferencias o restricciones dietéticas.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| **User Benefits**                                                                                   | * Cocineros Caseros: <br>- Outcomes: Monetizar sus habilidades culinarias, alcanzar a un público más amplio, recibir reconocimiento y satisfacción personal por compartir su pasión.<br>- Benefits: Ingresos adicionales, mayor autoestima y oportunidades de crecimiento dentro de una comunidad culinaria.<br>* Consumidores Ocupados: <br>- Outcomes: Acceder a comidas caseras, saludables y convenientes de manera rápida y sin esfuerzo.<br> - Benefits: Mejor calidad de vida, ahorro de tiempo, y satisfacción por consumir alimentos nutritivos.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| **Solution Ideas**                                                                                  | Consideramos los siguientes medios para resolver el problema principal y conocer las necesidades de nuestros clientes: <br>- Plataforma de Conexión: Crear una plataforma que permita a los cocineros caseros registrarse, publicar sus menús, y gestionar pedidos de manera sencilla.<br>- Personalización de Pedidos: Implementar una opción que permita a los consumidores personalizar sus pedidos según sus preferencias dietéticas y necesidades.<br>- Sistema de Reseñas y Recomendaciones: Desarrollar un sistema de reseñas y recomendaciones para que los consumidores puedan elegir con confianza a los cocineros.<br>- Ofertas y Promociones: Crear ofertas especiales para nuevos usuarios y promociones para incentivar la fidelidad y la repetición de pedidos.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| **Hypotheses**                                                                                      | - Ejemplo 1: Creemos que mejorar la interfaz de búsqueda para encontrar cocineros cercanos incrementará la frecuencia con la que los usuarios realizan pedidos.<br> -Ejemplo 2: Creemos que añadir perfiles detallados de los cocineros con su historia y especialidades aumentará la confianza de los consumidores.<br> -Ejemplo 3: Creemos que implementar un sistema de notificaciones personalizadas aumentará la actividad en la plataforma. |
-| **What's the most important <br> thing we need to learn first?**                                    | ¿Los consumidores están dispuestos a probar y pagar por comida casera hecha por cocineros locales en lugar de opciones más comerciales? <br> Con esta pregunta podemos identificar los principales riesgos a conocer como conocer el ingreso de los clientes, la calidad de la comida, el tiempo de espera, etc.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| **What's the least amount of <br> work we need to do to learn <br> the next most important thing?** | MVP : Lanzar una versión beta de la plataforma con un grupo reducido de cocineros y consumidores, centrada en una sola ciudad o área geográfica, para validar la demanda y obtener feedback directo sobre la experiencia de usuario.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **Business Problem**                                                                                | N.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Business Outcomes**                                                                               | N.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Users and Customers**                                                                             | N.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **User Benefits**                                                                                   | N                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Solution Ideas**                                                                                  | N.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Hypotheses**                                                                                      | N. |
+| **What's the most important <br> thing we need to learn first?**                                    | N.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| **What's the least amount of <br> work we need to do to learn <br> the next most important thing?** | N.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 
 ### 1.3. Segmentos objetivo
 
-Hemos optado por elegir dos segmentos objetivos Cocineros Caseros y Universitarios o Profesionales Ocupados , ya que representan tanto la oferta como la demanda en este ecosistema que busca revalorizar la comida casera y mejorar la calidad de vida de todos los involucrados.
 
-* Segmento Objetivo 1: Universitarios o Profesionales Ocupados
-   * Edad: 18-33 años.
-   * Género: Mixto, con ligera predominancia masculina.
-   * Ubicación: Zonas urbanas y metropolitanas, cerca de universidades y centros empresariales.
-   * Nivel Educativo: Actualmente cursando estudios universitarios o con educación superior completa.
-   * Estado Civil: Predominantemente solteros o conviviendo.
-   * Nivel de ingresos: Medio a medio-alto. Pueden permitirse servicios que les ahorren tiempo y mejoren su calidad de vida.
-   * Estilo de Vida: Activo, con poco tiempo libre. Interesados en la conveniencia, la salud, y el bienestar.
-   * Descripción: Personas altamente activas en plataformas digitales, especialmente a través de smartphones. Prefieren aplicaciones que ofrezcan soluciones rápidas y personalizadas. Así mismo, estan interesados en opciones de comida saludable y conveniente con poco tiempo para realizar la tarea de cocinar debido a sus estudios o trabajo. Por ello, buscan servicios que les ahorren tiempo, ofrezcan opciones personalizadas y les permitan mantener un estilo de vida saludable sin sacrificar la conveniencia.
-
-* Segmento Objetivo 2:
-   * Edad: 30-60 años.
-   * Género: Mixto.
-   * Ubicación: Zonas urbanas y suburbanas, con mayor presencia en comunidades con tradición culinaria.
-   * Nivel Educativo: Varía desde educación secundaria hasta superior. Considerando una formación culinaria informal, formal o autodidacta.
-   * Estado Civil: Mayormente casados o en relaciones estables, con hijos o dependientes.
-   * Nivel de ingresos: Medio-bajo a medio con intereses por generar ingresos adicionales.
-   * Estilo de Vida: Orientado al hogar, con pasión por la cocina y el deseo de compartir su talento culinario con otros.
-   * Descripción: Personas especializados en platos caseros, tradicionales y confortables. Así mismo, estos quieren monetizar sus habilidades culinarias y compartir su amor por la cocina con su comunidad. Ven en la plataforma una oportunidad para obtener ingresos adicionales y conectarse con otros a través de la comida. Por esta razon, requieren una medio que les permita mostrar sus habilidades culinarias, atraer clientes y gestionar pedidos de manera fácil y eficiente.
 
 ## Capítulo II: Requirements Elicitation & Analysis
 
@@ -542,6 +501,8 @@ Antes de poder realizar las entrevistas, consideramos prudente poder concretar u
 
 ### Preguntas para Entrevistar a Estudiantes/Profesionales Ocupados
 
+**Preguntas principales:**
+
 1. ¿Podrías presentarte y contarme un poco sobre tu rutina diaria y tus responsabilidades?
 2. ¿Cómo manejas tus comidas diarias durante la semana laboral/estudiantil?
 3. ¿Cuánto tiempo dedicas, en promedio, a cocinar tus propias comidas durante la semana?
@@ -554,7 +515,17 @@ Antes de poder realizar las entrevistas, consideramos prudente poder concretar u
 10. ¿Cómo te sentirías si pudieras personalizar un menú casero según tus preferencias alimenticias a través de una aplicación?
 11. ¿Podrías compartir una situación en la que te hubiera gustado tener acceso a una opción de comida casera rápida y no lo encontraste?
 
+**Preguntas Complementarias:**
+
+12. ¿Qué tan a menudo comes fuera de casa? ¿Prefieres hacerlo por comodidad o por falta de tiempo?
+13. ¿Qué importancia le das a saber quién prepara la comida que consumes?
+14. ¿Qué opinas sobre la posibilidad de apoyar a cocineros locales al pedir comida casera?
+15. ¿Cómo te sentirías si pudieras planificar tus comidas semanales con antelación a través de una plataforma?
+16. ¿Alguna vez has utilizado servicios de comida a domicilio? ¿Cómo ha sido tu experiencia con ellos en cuanto a calidad y conveniencia?
+
 ### Preguntas para Entrevistar a Cocineros Caseros
+
+**Preguntas principales:**
 
 1. ¿Podrías presentarte y contarnos sobre tu experiencia en la cocina y tu interés en cocinar para otros?
 2. ¿Qué tan a menudo cocinas para ti y/o para otras personas?
@@ -567,6 +538,14 @@ Antes de poder realizar las entrevistas, consideramos prudente poder concretar u
 9. ¿Crees que existe una demanda real de comida casera en tu comunidad? ¿Por qué?
 10. ¿Alguna vez has recibido comentarios positivos de amigos o familiares sobre tu cocina? ¿Cómo te hizo sentir eso?
 11. ¿Qué tan interesado/a estarías en unirte a una comunidad de cocineros caseros donde pudieras compartir recetas y aprender de otros?
+
+**Preguntas Complementarias:**
+
+12. ¿Qué tipo de platos disfrutas más cocinar? ¿Por qué?
+13. ¿Has vendido alguna vez comida casera de manera informal? Si es así, ¿cómo fue esa experiencia?
+14. ¿Qué opinas sobre la posibilidad de que tus clientes puedan personalizar los platos que ofreces?
+15. ¿Cómo te sentirías si pudieras recibir retroalimentación directa de tus clientes a través de una aplicación?
+16. ¿Qué valoras más en una plataforma que te permita vender tus comidas caseras: flexibilidad, facilidad de uso, o seguridad?
 
 ### 2.2.2. Registro de entrevistas
 
@@ -621,33 +600,6 @@ Tras la identificación de los segmentos objetivo (cocineros caseros y estudiant
 | Brands | <p><ul><li>Uber Eats<li>Domicilios.com |
 
 ### 2.3.2. User Task Matrix
-
-| Tareas | María | | Ricardo | |
-|-|-|-|-|-|
-|  | Frecuencia | Importancia | Frecuencia | Importancia |
-| Preparar Comidas Caseras | Alta | Alta | Baja | Media |
-| Planificar Menús Diarios | Media | Alta | Baja | Media |
-| Comprar Ingredientes Frescos | Alta | Alta | Baja | Baja |
-| Monitorear Gastos e Ingresos | Media | Media | Media | Alta |
-| Mantener una Dieta Equilibrada | Media | Alta | Alta | Alta |
-| Ordenar Comida en Linea | Baja  | Baja | Alta | Alta |
-| Comparar Precios y Calidad de la Comida | Baja | Baja | Media | Media |
-| Buscar Recetas Nuevas | Alta | Media | Baja | Baja |
-| Participar en Comunidades Culinarias | Baja | Media | Baja | Baja |
-| Aprender Nuevas Técnicas de Cocina | Media | Media | Baja | Baja |
-
-#### Interpretación de Resultados:
-
-Para María (Cocinera Casera):
- * Las tareas más importantes y de mayor frecuencia son las de **Preparar Comidas Caseras**, **Comprar Ingredientes Frescos** y **Planificar Menús Diarios**. Ya que estas le permiten acercarse a su objetivo de generar ingresos adicionales a su familia a través de sus habilidades culinarias.
-
-Para Ricardo (Estudiante Ocupado):
- * Las tareas más importantes y de mayor frecuencia son las de **Monitorear Gastos e Ingresos**, **Ordenar Comida en Linea** y **Mantener una Dieta Equilibrada**. Ya que estas van de acuerdo a su objetivo de balancear sus estudios con una alimentación saludable, gastando lo menor posible. 
-
-##### Principales Diferencias y Coincidencias
-| Diferencias | Coincidencias |
-|-|-|
-| **María** se centra en las tareas relacinadas a la producción y gestión de comida, así como en maneras de mejorar sus capacidades para generar ingresos. Mientras que **Ricardo** se centra en las tareas relacionadas con consumir y seleccionar opciones de comida saludables. | **Ambos** valoran la calidad y frescura de la comida: **María** a la hora de elegir sus ingredientes y **Ricardo** al elegir opciones de alimentos saludables. |
 
 ### 2.3.3. User Journey Mapping
 
@@ -765,67 +717,9 @@ Estos son los términos identificados hasta el avance de esta primera entrega de
 
 ### 3.1. To-Be Scenario Mapping
 
-* Segmento 1: Universitarios/Profesionales ocupados para cocinar
-
-|Fases|Registrarse en la plataforma|Seleccionar y personalizar un pedido|Realizar el pago y programar la entrega|
-|-|-|-|-|
-|Doing|El usuario se registra, inicia sesion en "Sabores Cercanos" y navega por las opciones de comida casera disponible cerca de su ubicación.|Elige un menú que le interese, personaliza los ingredientes según sus preferencias dietéticas, y lo añade al carrito.|Completa la compra con su método de pago preferido y selecciona la hora de entrega más conveniente según su horario.|
-|Thinking|¿Encontraré una opción que se ajuste a mis gustos y necesidades dietéticas?|¿Puedo confiar en que este cocinero me ofrecerá una comida saludable y bien preparada?|¿Llegará mi comida a tiempo para que pueda comer antes de mi próxima reunión/clase?|
-|Feeling|Se siente aliviado de no tener que cocinar después de un día largo y ocupado, y satisfecho por haber encontrado una opción saludable.|Desarrolla confianza en la plataforma y en el cocinero seleccionado al recibir un servicio de calidad.|Siente una conexión con la comunidad al saber que está apoyando a un cocinero local.|
-
-* Segmento 2: Cocineros Caseros
-
-|Fases|Registrarse en la plataforma|Configurar perfil y menú|Gestionar y entregar pedidos|
-|-|-|-|-|
-|Doing|El cocinero casero se registra en la plataforma como cocinero completando los datos solicitados como conocimientos culinarios, fotos y disponibilidad. |El cocinero casero inicia sesión en la plataforma, completa su perfil, y publica su menú semanal con descripciones detalladas de los platos.|Revisa y acepta los pedidos entrantes, organiza los ingredientes necesarios, y planifica el tiempo de preparación y entrega. <br> Prepara el pedido, empaqueta la comida cuidadosamente, y la entrega al servicio de reparto o directamente al cliente.|
-|Thinking|¿Cómo puedo destacar mi trabajo y atraer a más clientes? | ¿Están bien las fotos, descripciones y horarios de atencion? | ¿Cómo puedo optimizar mi tiempo para cumplir con todos los pedidos sin comprometer la calidad? ¿Mis clientes estarán satisfechos con la comida que preparo? ¿Volverán a pedir?|
-|Feeling|Se siente comprometido con la comunidad de "Sabores Cercanos" y motivado para mejorar continuamente su servicio.|Siente orgullo al compartir su pasión por la cocina y recibir buenos comentarios de los clientes.|Se siente empoderado al generar ingresos adicionales y contribuir a la economía familiar.|
-
 ### 3.2. User Stories
 
-|Story ID|Título|Descripción|Criterios de Aceptación|Epic ID|
-|-|-|-|-|-|
-|US01|Registro de usuario|Como usuario ocupado, quiero poder acceder al servicio para ahorar tiempo en la preparacion de comidas diarias y semanales. |-Escenario 1: Registro rápido<br>Dado que el usuario es un profesional ocupado que necesita acceder rápidamente a la plataforma,<br>Cuando el usuario introduce su correo electrónico y una contraseña para registrarse,<br>Entonces el aplicativo completa el proceso de registro en menos de 2 minutos, permitiéndole explorar de inmediato las opciones de comida disponibles.<br><br>-Escenario 2: Registro con redes sociales<br>Dado que el usuario prefiere utilizar sus cuentas de redes sociales para registrarse rápidamente,<br>Cuando el usuario selecciona la opción de registrarse con Google o Facebook,<br>Entonces el aplicativo realiza el registro automáticamente y lo redirige a la página de inicio en cuestión de segundos.|EP01|
-|US02|Busqueda por preferencias|Como usuario ocupado, quiero poder filtrar las opciones de comida según mis preferencias dietéticas, para encontrar rápidamente algo que se ajuste a mi dieta.|-Escenario 1: Filtro por dieta vegetariana<br>Dado que el usuario sigue una dieta vegetariana y quiere encontrar opciones que se ajusten a sus necesidades,<br>Cuando el usuario aplica el filtro de comida vegetariana en la búsqueda,<br>Entonces el aplicativo muestra solo opciones de comidas vegetarianas, facilitando la selección rápida de un plato adecuado.<br><br>-Escenario 2: Búsqueda por preferencias de bajo contenido calórico<br>Dado que el usuario está cuidando su ingesta calórica,<br>Cuando el usuario aplica el filtro de “bajo en calorías”,<br>Entonces el aplicativo presenta únicamente las opciones que cumplen con este criterio, ayudando al usuario a hacer una elección informada.<br>|EP01|
-|US03|Visualización de reseñas|Como usuario, quiero poder ver reseñas detalladas y perfiles de cocineros, para sentirme seguro de que estoy eligiendo la mejor opción.|-Escenario 1: Ver reseñas antes de hacer un pedido<br>Dado que el usuario quiere asegurarse de que el cocinero ofrece comida de calidad,<br>Cuando el usuario revisa las reseñas y calificaciones de otros clientes,<br>Entonces el aplicativo muestra de forma clara y detallada las opiniones y calificaciones, permitiéndole tomar una decisión informada.<br><br>-Escenario 2: Comparar cocineros antes de elegir<br>Dado que el usuario tiene varias opciones de cocineros y quiere elegir la mejor,<br>Cuando el usuario compara las reseñas y perfiles de varios cocineros,<br>Entonces el aplicativo facilita la comparación lado a lado, ayudando al usuario a seleccionar el cocinero que mejor se ajusta a sus expectativas.<br>|EP01|
-|US04|Visualizacion de informacion nutricional|Proporcionar información nutricional detallada de cada plato para ayudar a los usuarios a tomar decisiones informadas sobre su alimentación.|-Escenario 1: Revisión de información nutricional para una comida específica<br>Dado que el usuario está preocupado por la cantidad de calorías y nutrientes en su comida,<br>Cuando el usuario revisa la información nutricional detallada de un plato antes de pedirlo,<br>Entonces el aplicativo despliega la información de manera clara y comprensible, permitiéndole tomar una decisión basada en sus objetivos de salud.<br><br>-Escenario 2: Comparación de platos por contenido nutricional<br>Dado que el usuario está tratando de elegir entre dos opciones de platos,<br>Cuando el usuario compara la información nutricional de ambos platos,<br>Entonces el aplicativo facilita la comparación, ayudándole a elegir la opción que mejor se ajuste a sus necesidades dietéticas.<br>|EP01|
-|US05|Programacion de entrega|Como usuario, quiero poder programar la entrega de mi pedido para que llegue en un momento conveniente, ajustándose a mi agenda.|-Escenario 1: Programación para recibir la comida después del trabajo<br>Dado que el usuario tiene un horario de trabajo ocupado y quiere cenar a una hora específica,<br>Cuando el usuario programa la entrega para que llegue justo después de que termine su jornada laboral,<br>Entonces el aplicativo asegura que la comida sea entregada puntualmente, sin interrupciones en su rutina diaria.<br><br>-Escenario 2: Entrega programada durante un descanso corto<br>Dado que el usuario tiene un breve periodo de descanso para comer,<br>Cuando el usuario programa la entrega para que coincida con el inicio de su descanso,<br>Entonces el aplicativo gestiona la entrega para que llegue en el momento preciso, permitiéndole disfrutar de su comida sin retrasos.<br>|EP01|
-|US06|Experiencia personalizada|Como usuario ocupado, quiero recibir recomendaciones personalizadas de comidas basadas en mis pedidos anteriores y preferencias, para ahorrar tiempo en la selección de opciones que se ajusten a mis gustos.|-Escenario 1: Recomendaciones basadas en pedidos anteriores<br>Dado que el usuario suele pedir comidas similares cada semana,<br>Cuando el usuario recibe recomendaciones basadas en sus pedidos anteriores,<br>Entonces el aplicativo sugiere opciones que se alinean con sus preferencias, facilitando la selección de sus comidas habituales.<br><br>-Escenario 2: Recomendaciones basadas en preferencias dietéticas<br>Dado que el usuario tiene preferencias dietéticas específicas (por ejemplo, bajo en carbohidratos),<br>Cuando el usuario recibe sugerencias de platos que cumplen con sus criterios,<br>Entonces el aplicativo presenta opciones personalizadas, ahorrándole tiempo y esfuerzo en la búsqueda de comidas adecuadas.|EP01|
-|US07|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
-|US08|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
-|US09|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
-|US10|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
-|US11|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
-|US12|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
-|US13|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
-|US14|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
-|US15|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
-|US16|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
-|US17|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
-|US18|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
-|US19|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
-|US20|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
-|US21|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
-|US22|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
-|US23|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
-|US24|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
-|US25|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
-|US26|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
-|US27|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
-|US28|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
-|US29|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
-|US30|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
-
 ### 3.3. Impact Mapping
-
-Metas |Actores | Impacto | Entregables
------ |------- | ------- | -----------
-x| Universitarios/Profesionales ocupados para cocinar | Ahorro de tiempo | Implementacion de proceso de selección, pedido y entrega para que los usuarios puedan obtener su comida sin dedicar tiempo significativo.
-x|  | Experiencia Personalizada | Proporcionar información nutricional detallada de cada plato para ayudar a los usuarios a tomar decisiones informadas sobre su alimentación
-x||Información Nutricional|Proporcionar información nutricional detallada de cada plato para ayudar a los usuarios a tomar decisiones informadas sobre su alimentación.
-Transformar la forma en que las personas acceden a la comida casera, conectando a cocineros apasionados con consumidores que buscan opciones de alimentación saludable y conveniente. | Cocineros Caseros | Generación de ingresos|Proporcionar un medio de pago que permita a los cocineros caseros monetizar sus habilidades culinarias de manera eficiente.
-x|  | Ampliación de su alcance | Permitir a los cocineros conocer las preferencias del público , aumentando su base de clientes.
-x| | Mejora de la eficiencia operativa | Implementar un apartado que permita gestionar pedidos y horarios de manera efectiva para optimizar su tiempo y recursos.
 
 ### 3.4. Product Backlog
 
@@ -841,138 +735,13 @@ x| | Mejora de la eficiencia operativa | Implementar un apartado que permita ges
 
 ### 4.2.1. Organization Systems
 
-Tenemos como objetivo proporcionar una experiencia de usuario coherente y eficiente tanto en nuestra página web como en nuestra aplicación móvil. A continuación, podemos ver la estructura visual, la cual fue diseñada para adaptarse a nuestros dos segmentos objetivos.<br> <br>
-Para nuestro primer segmento enfocado en Universitarios/Profesionales ocupados para cocinar, el proceso inicia accediendo a la plataforma y registrándose. El usuario accede a la plataforma y es recibido en una página de bienvenida con opciones claras para el registro. Los botones de registro están organizados secuencialmente para facilitar el proceso: “Regístrate con tu correo electrónico” o “Regístrate con redes sociales”. El usuario selecciona el método de registro preferido, ingresa la información requerida y es guiado paso a paso a través del proceso. Se utiliza un diseño de organización secuencial para asegurar que cada paso esté claramente definido y que el usuario pueda completar el registro de manera rápida y sin complicaciones. Una vez registrado, el usuario es dirigido a una página para configurar sus preferencias dietéticas y de comida. Aquí se utiliza una organización visual jerárquica para destacar las opciones más importantes (como tipo de dieta y alergias) en la parte superior de la página, con opciones menos críticas ubicadas en niveles inferiores. El usuario elige sus preferencias principales de una lista desplegable y completa un breve cuestionario para personalizar aún más su experiencia. Este enfoque jerárquico permite al usuario enfocar su atención en las opciones más relevantes primero. En la pantalla principal de la búsqueda, se presentan diferentes categorías de comida (como "Vegetariana", "Sin Gluten", "Bajo en Calorías") organizadas jerárquicamente en un menú lateral. Dentro de cada categoría, las opciones se presentan en un formato con tarjetas visuales que muestran platos individuales. El usuario explora las categorías según sus preferencias dietéticas y visualiza los platos en una cuadrícula. Puede aplicar filtros adicionales y ordenar las opciones por relevancia, precio o calificación. 
-Al seleccionar un plato, el usuario accede a una página detallada con información del plato, incluyendo una sección de reseñas y perfil del cocinero. La información está organizada jerárquicamente, con datos esenciales como la descripción del plato y la información nutricional en la parte superior, seguidos por reseñas y calificaciones en secciones inferiores. El usuario lee la descripción del plato, consulta la información nutricional y revisa las reseñas antes de tomar una decisión. La organización jerárquica facilita una navegación lógica desde los detalles del plato hasta la información de los usuarios. El usuario llega a la página de programación de entrega, donde se le presenta un calendario y opciones de horarios. La interfaz está organizada secuencialmente para guiar al usuario a través del proceso de selección de fecha y hora de entrega. El usuario selecciona la fecha y hora deseada para la entrega, revisa la información y confirma la programación. El diseño secuencial asegura que cada etapa del proceso de programación sea clara y fácil de completar.
-Después de realizar su primera compra, en la página de inicio o en una sección dedicada a recomendaciones, el usuario recibe sugerencias de platos basadas en sus pedidos anteriores y preferencias. Las recomendaciones se organizan jerárquicamente por categorías como "Recomendados para Ti" y "Nuevos en la Plataforma". El usuario explora las recomendaciones personalizadas presentadas en una vista de cuadrícula o lista. Puede ver las opciones sugeridas y decidir rápidamente cuáles le interesan. La organización jerárquica y matricial ayuda a destacar las opciones más relevantes y personalizadas.<br> <br>
-
-![texto_alternativo](/assets/images/UP%20ocupados%20para%20cocinar.png){width=width height=height}
-
-Para nuestro segundo segmento enfocado en Cocineros Caseros, el proceso inicia al registrarse y configurar su perfil. El cocinero casero inicia su viaje en la plataforma mediante un proceso de registro. La interfaz está organizada secuencialmente, comenzando con el registro básico y luego avanzando a la configuración del perfil. El cocinero completa su registro, proporcionando detalles básicos como nombre y contacto. Luego, avanza a la configuración del perfil, donde debe ingresar información sobre sus especialidades culinarias, fotografías de sus platos y detalles de su cocina. Cada etapa del proceso está claramente definida para facilitar la finalización del registro y configuración. Una vez configurado el perfil, el cocinero accede a una sección para crear y gestionar sus menús. La interfaz utiliza una organización jerárquica para presentar opciones como “Añadir Nuevo Plato” y “Gestionar Menús Actuales”. Dentro de estas opciones, el contenido se organiza de forma matricial, mostrando platos individuales con detalles visuales. El cocinero selecciona “Añadir Nuevo Plato”, completa los detalles del plato, incluyendo nombre, descripción, precio y fotos. Luego puede ver y editar los menús existentes. La organización visual permite al cocinero gestionar sus menús de manera eficiente, con un enfoque en las tareas más importantes primero. En la sección de gestión de pedidos, el cocinero puede ver y procesar los pedidos recibidos. La interfaz está organizada secuencialmente por estados del pedido (por ejemplo, “Nuevo”, “En Proceso”, “Completado”), y los pedidos se presentan en un formato cronológico. El cocinero revisa los nuevos pedidos, los procesa según la secuencia establecida, y actualiza el estado de los pedidos en función del progreso. La organización secuencial y cronológica asegura que los pedidos se manejen de manera ordenada y eficiente. El cocinero puede acceder a una sección para revisar las reseñas y calificaciones de sus platos. La interfaz está organizada jerárquicamente, mostrando primero las reseñas más recientes y destacadas, seguidas de las reseñas más antiguas y menos relevantes. El cocinero lee las reseñas y calificaciones recibidas, prestando especial atención a los comentarios destacados para mejorar sus platos y servicios. La organización jerárquica facilita el enfoque en los comentarios más importantes y recientes. En la sección de configuración de perfil, el cocinero puede actualizar su información personal y de menú. La interfaz está organizada jerárquicamente con secciones principales como “Información del Perfil”, “Fotos de Platos”, y “Detalles de Cocina”. Dentro de cada sección, la información se presenta de manera alfabética para una fácil navegación. El cocinero actualiza su perfil y la información de los platos, navegando a través de las secciones y sub-secciones organizadas alfabéticamente para facilitar la búsqueda de elementos específicos. El cocinero tiene acceso a un panel de estadísticas que muestra el rendimiento de sus platos, incluyendo ventas y popularidad. La organización visual se utiliza para presentar gráficos y datos en un formato jerárquico, mientras que los datos se presentan cronológicamente. El cocinero revisa los informes y gráficos, analizando el rendimiento de sus platos a lo largo del tiempo. La organización visual y cronológica ayuda a identificar tendencias y patrones en las ventas y la popularidad de los platos.
-
-![texto_alternativo](/assets/images/Cocinero%20Casero.png){width=width height=height}
-
-Link: [url LucidChard](https://lucid.app/lucidchart/434db23b-883c-43b4-98ea-2da63e5366d5/edit?viewport_loc=-320%2C-12555%2C5713%2C2681%2C0_0&invitationId=inv_f9b021da-b3ba-42f7-b73a-b5085b472ce8 "Clickeame :3")
 ### 4.2.2. Labeling Systems
-
-El equipo de "Sabores Cercanos" opto por usar etiquetas simples, claras y que están diseñadas para minimizar la confusión, garantizando una navegación intuitiva y fluida para todos los usuarios de la plataforma "Sabores Cercanos". Acontinuacion las mencionaremos y sus relaciones:
-
-* Preferencias:<br>La sección de Preferencias permite a los usuarios personalizar su experiencia en la plataforma ajustando diversas opciones según sus necesidades. Esto incluye configuraciones dietéticas, como la selección de tipos de dieta (vegetariana, vegana, sin gluten, etc.), preferencias de ingredientes, y opciones de notificaciones. Esta área asegura que los usuarios reciban recomendaciones y filtros que se alineen con sus gustos y necesidades alimenticias.<br>
-* Reseñas y Calificaciones:<br>La sección de Reseñas y Calificaciones es donde los usuarios pueden ver y dejar comentarios sobre sus experiencias con los cocineros y sus platos. Esta área incluye una calificación numérica o en estrellas, junto con comentarios escritos que otros usuarios han proporcionado, ayudando a tomar decisiones informadas al elegir qué comida ordenar. Es un espacio crucial para la transparencia y confianza dentro de la comunidad.<br>
-* Pedidos:<br>La etiqueta Pedidos representa la sección donde los usuarios pueden visualizar y gestionar todas las órdenes de comida realizadas. Incluye información sobre el estado del pedido (nuevo, en proceso, completado), detalles del plato ordenado, y opciones para modificar o cancelar el pedido antes de que sea procesado.<br>
-* Recomendaciones:<br>Recomendaciones es la sección dedicada a sugerir platos o cocineros basados en el historial de pedidos y preferencias de los usuarios. Esta área muestra una lista curada de opciones que se alinean con las preferencias dietéticas del usuario y sus elecciones anteriores, facilitando la búsqueda de nuevas comidas que puedan ser de su agrado.<br>
-* Medios de pagos:<br>La sección de Medios de Pago permite a los usuarios gestionar sus opciones de pago dentro de la plataforma. Aquí, los usuarios pueden añadir, actualizar o eliminar métodos de pago como tarjetas de crédito, débito, o cuentas de pago en línea. También es donde pueden seleccionar su método de pago preferido para futuras compras.<br>
-* Configuración:<br>Configuración es la sección donde los usuarios pueden personalizar aspectos generales de su cuenta, incluyendo opciones de privacidad, ajustes de notificaciones, y preferencias de idioma. También es el área donde los usuarios pueden acceder a la configuración de seguridad, como cambiar contraseñas y activar la autenticación de dos factores.<br>
-* Estadísticas y Rendimiento:<br>La etiqueta Estadísticas y Rendimiento se refiere a un panel de control accesible principalmente por los cocineros caseros. Aquí, los cocineros pueden revisar datos analíticos sobre sus ventas, popularidad de los platos, y otros indicadores clave de rendimiento. Esta información es esencial para entender el comportamiento del mercado y hacer ajustes necesarios para mejorar la oferta culinaria.<br>
-* Revisión de reseñas y calificaciones:<br>Revisión de Reseñas y Calificaciones es una subsección dentro de la plataforma donde los cocineros pueden ver y gestionar los comentarios y calificaciones que han recibido. Esto les permite responder a los comentarios, entender mejor las necesidades de los clientes, y hacer ajustes en sus menús para mejorar la satisfacción del usuario.<br>
-* Recepción y gestión de pedidos:<br>La sección Recepción y Gestión de Pedidos es donde los cocineros caseros gestionan los pedidos que reciben de los consumidores. Esta área permite a los cocineros aceptar, rechazar, o modificar pedidos, así como actualizar el estado de cada pedido a medida que se procesa (nuevo, en preparación, listo para entrega).<br>
-* Creación y gestión de menús:<br>Creación y Gestión de Menús es la sección dedicada a que los cocineros diseñen, editen y organicen sus ofertas culinarias. Aquí pueden añadir nuevos platos, ajustar precios, y organizar los menús de acuerdo con la demanda o las estaciones del año. Esta área permite una gestión ágil y efectiva de las opciones que los cocineros ofrecen a los consumidores.<br>
-* Medios de pagos recibidos:<br>En la sección de Medios de Pago Recibidos, los cocineros caseros pueden gestionar las formas en que reciben los pagos de los consumidores. Aquí se configura qué métodos de pago aceptan, como tarjetas de crédito, transferencias bancarias, o billeteras electrónicas, y pueden hacer un seguimiento de los pagos recibidos.<br>
-* Promociones:<br>La sección de Promociones está diseñada para que tanto los cocineros como los administradores de la plataforma creen y gestionen ofertas especiales, descuentos, o paquetes promocionales. Estas promociones pueden estar vinculadas a fechas especiales, temporadas, o para incentivar la compra de ciertos platos, atrayendo así más clientes a la plataforma.<br>
 
 ### 4.2.3. SEO Tags and Meta Tags
 
-Para mejorar la visibilidad de "Sabores Cercanos" en los motores de búsqueda y atraer a los usuarios adecuados se ha optado por definir los siguientes datos:
-
-* Landing Page
-   * Title: Sabores Cercanos 
-
-   * Meta Description:
-   Descubre Sabores Cercanos, una plataforma que conecta a cocineros apasionados con consumidores que buscan opciones de comida casera saludable y conveniente.
-
-   * Keywords:
-   comida casera, cocineros locales,entrega de comida y platos caseros.
-
-   * Author:
-   El equipo de Sabores Cercanos
-
-* Página de Categorías
-   * Title:
-   Explora Categorías de Comida 
-
-   * Meta Description:
-   Explora una amplia variedad de categorías de comida en Sabores Cercanos, desde opciones vegetarianas hasta cocina casera.
-
-   * Keywords:
-   categorías de comida,explorar comida y tipos de cocina.
-
-   * Author:
-   El equipo de Sabores Cercanos
-
-* Página de Detalle de Plato
-   * Title:
-   [Nombre del Plato] por [Nombre del Cocinero]
-
-   * Meta Description:
-   Disfruta de [Nombre del Plato], una deliciosa creación de [Nombre del Cocinero] en Sabores Cercanos.
-
-   * Keywords:
-   [nombre del plato], comida casera y cocineros caseros.
-
-   * Author:
-   El equipo de Sabores Cercanos
-
-* Página de Reseñas y Calificaciones
-   * Title:
-   Reseñas de Platos y Cocineros
-
-   * Meta Description:
-   Lee reseñas detalladas y calificaciones de platos y cocineros en Sabores Cercanos.
-
-   * Keywords:
-    calificaciones de cocineros, opiniones de usuarios, reseñas de platos y valoraciones de comida.
-
-   * Author:
-   El equipo de Sabores Cercanos
-
-* Página de Carrito y Pago
-   * Title:
-   Carrito de Compras
-
-   * Meta Description:
-   Revisa tu carrito de compras en Sabores Cercanos y finaliza tu pedido de comida casera. Opciones de pago seguras y entrega rápida disponibles.
-
-   * Keywords:
-   carrito de compras, finalizar compra, pago seguro y entrega de comida.
-
-   * Author:
-   El equipo de Sabores Cercanos
-
-* Página de Promociones
-   * Title:
-   Promociones Especiales
-
-   * Meta Description:
-   Descubre promociones y ofertas exclusivas en Sabores Cercanos. Ahorra en tus platos caseros favoritos y disfruta de descuentos especiales.
-
-   * Keywords:
-   ofertas especiales, descuentos en comida y promociones de platos.
-
-   * Author:
-   El equipo de Sabores Cercanos
-
-
-
 ### 4.2.4. Searching Systems
 
-Nuestro sistema de búsqueda está diseñado para ofrecer a los usuarios una herramienta poderosa y eficiente que les permita navegar a través de grandes cantidades de información sin sentirse perdidos o abrumados. Aquí explicamos las opciones que tenemos con una breve descripción de la misma.<br>
-1. Barra de Búsqueda General:<br>Esta barara estara ubicada en la parte superior de la pantalla en todas las secciones de la plataforma, permitiendo a los usuarios realizar búsquedas rápidas y globales. Al comenzar a escribir en la barra de búsqueda, se mostrarán sugerencias automáticas basadas en las entradas más comunes o recientes. Esto ayudará a guiar al usuario hacia los resultados más relevantes antes de que terminen de escribir.<br>
-2. Filtros de Búsqueda:<br>Los filtros estarán disponibles en un menú desplegable o lateral, permitiendo al usuario seleccionar múltiples criterios simultáneamente. Los resultados de la búsqueda se actualizarán en tiempo real a medida que se seleccionen los filtros. Entre estos filtros podemos encontrar opciones generales, tales como rango de precio, distancia, tiempo de demora y calificación.<br>
-3. Visualización de Resultados:<br>Los resultados de la búsqueda se mostrarán en una lista que incluye una miniatura de la imagen del plato. Además, los usuarios pueden cambiar entre diferentes modos de visualización, como "Lista" o "Cuadrícula". Así mismo, los usuarios podrán ordenar los resultados de menor a mayor respecto al precio o calificación. <br>
-4. Búsqueda Avanzada:<br>Para los usuarios que necesitan realizar búsquedas más específicas, se ofrecerá una opción de "Búsqueda Avanzada". El cual permitirá colocar datos precisos como, nombre del cocinero, nombre de la promoción, fecha de publicación,etc.<br>
-
-
 ### 4.2.5. Navigation Systems
-
-Estas configuraciones aseguran que los usuarios de "Sabores Cercanos" puedan moverse fácilmente por la plataforma, encontrar lo que buscan y realizar sus acciones deseadas sin complicaciones, mejorando así la satisfacción general y la eficiencia del servicio.
-
-1. Tutorial para nuevos usuarios:<br> Al registrarse por primera vez, los usuarios recibirán una navegación guiada por las principales funciones de la plataforma. Este tutorial interactivo destacará cómo buscar platos, realizar pedidos, y personalizar su perfil. Este se podra saltar o repetir desde cualquier momento desde configuracion del perfil <br>
-
-2. Navegación Principal:<br>Cada enlace en la barra de navegación llevará al usuario directamente a la sección correspondiente. Al pasar el cursor sobre las opciones de la barra, se mostrarán menús desplegables con subcategorías o accesos directos a funciones específicas, como "Recomendados para Ti" en "Recomendados" o "Historial de pedidos" en "Pedidos".<br>
-
-3. Navegación Secuencial: <br> La navegación secuencial guiará a los usuarios a través de procesos que requieren múltiples pasos, como realizar un pedido. Por ejemplo: Selección del plato,Personalización del pedido,Selección de métodos de pago,Programación de la entrega y Confirmación del pedido.<br>
-
-4. Navegación de Pie de Página: <br> El pie de página incluirá enlaces a secciones importantes como "Términos y Condiciones", "Política de Privacidad", "Contacto", "Redes Sociales", y "Blog". <br>
 
 ### 4.3. Landing Page UI Design
 
