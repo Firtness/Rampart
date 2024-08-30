@@ -22,7 +22,7 @@ Product: Sentinel
 
 ### "Rampart"
 
-### "Sentinel"
+### "Sabores Cercanos"
 
 ### **Integrantes:**
 
@@ -35,6 +35,8 @@ Product: Sentinel
 ### Agosto, 2024
 
 ## Registro de Versiones del Informe
+
+
 
 ## Project Report Collaboration Insights
 
