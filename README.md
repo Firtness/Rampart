@@ -22,7 +22,7 @@ Product: Sentinel
 
 ### "Rampart"
 
-### "Sentinel"
+### "Sabores Cercanos"
 
 ### **Integrantes:**
 
@@ -664,8 +664,6 @@ Para el Cocinero Casero:
 - Certificación de Cocinero: Programas o insignias que certifican la calidad o especialización de un cocinero en la plataforma.
 
 - Gestión de Reseñas: Sistema que permite a los cocineros y a la plataforma manejar y responder a las reseñas de los usuarios.
-
-- Comunicación en Tiempo Real: Canal dentro de la plataforma para que cocineros y usuarios se comuniquen directamente sobre detalles del pedido.
 
 - Receta Estrella: Recetas destacadas que han recibido las mejores valoraciones de la comunidad y que son promovidas en la plataforma.
 
