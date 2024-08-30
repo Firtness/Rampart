@@ -649,7 +649,9 @@ Para Ricardo (Estudiante Ocupado):
 
 ### 2.3.3. User Journey Mapping
 
+#### User Persona 1: María
 
+#### User Persona 2: Ricardo
 
 ### 2.3.4. Empathy Mapping
 
