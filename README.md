@@ -736,9 +736,67 @@ Estos son los términos identificados hasta el avance de esta primera entrega de
 
 ### 3.1. To-Be Scenario Mapping
 
+* Segmento 1: Universitarios/Profesionales ocupados para cocinar
+
+|Fases|Registrarse en la plataforma|Seleccionar y personalizar un pedido|Realizar el pago y programar la entrega|
+|-|-|-|-|
+|Doing|El usuario se registra, inicia sesion en "Sabores Cercanos" y navega por las opciones de comida casera disponible cerca de su ubicación.|Elige un menú que le interese, personaliza los ingredientes según sus preferencias dietéticas, y lo añade al carrito.|Completa la compra con su método de pago preferido y selecciona la hora de entrega más conveniente según su horario.|
+|Thinking|¿Encontraré una opción que se ajuste a mis gustos y necesidades dietéticas?|¿Puedo confiar en que este cocinero me ofrecerá una comida saludable y bien preparada?|¿Llegará mi comida a tiempo para que pueda comer antes de mi próxima reunión/clase?|
+|Feeling|Se siente aliviado de no tener que cocinar después de un día largo y ocupado, y satisfecho por haber encontrado una opción saludable.|Desarrolla confianza en la plataforma y en el cocinero seleccionado al recibir un servicio de calidad.|Siente una conexión con la comunidad al saber que está apoyando a un cocinero local.|
+
+* Segmento 2: Cocineros Caseros
+
+|Fases|Registrarse en la plataforma|Configurar perfil y menú|Gestionar y entregar pedidos|
+|-|-|-|-|
+|Doing|El cocinero casero se registra en la plataforma como cocinero completando los datos solicitados como conocimientos culinarios, fotos y disponibilidad. |El cocinero casero inicia sesión en la plataforma, completa su perfil, y publica su menú semanal con descripciones detalladas de los platos.|Revisa y acepta los pedidos entrantes, organiza los ingredientes necesarios, y planifica el tiempo de preparación y entrega. <br> Prepara el pedido, empaqueta la comida cuidadosamente, y la entrega al servicio de reparto o directamente al cliente.|
+|Thinking|¿Cómo puedo destacar mi trabajo y atraer a más clientes? | ¿Están bien las fotos, descripciones y horarios de atencion? | ¿Cómo puedo optimizar mi tiempo para cumplir con todos los pedidos sin comprometer la calidad? ¿Mis clientes estarán satisfechos con la comida que preparo? ¿Volverán a pedir?|
+|Feeling|Se siente comprometido con la comunidad de "Sabores Cercanos" y motivado para mejorar continuamente su servicio.|Siente orgullo al compartir su pasión por la cocina y recibir buenos comentarios de los clientes.|Se siente empoderado al generar ingresos adicionales y contribuir a la economía familiar.|
+
 ### 3.2. User Stories
 
+|Story ID|Título|Descripción|Criterios de Aceptación|Epic ID|
+|-|-|-|-|-|
+|US01|Registro de usuario|Como usuario ocupado, quiero poder acceder al servicio para ahorar tiempo en la preparacion de comidas diarias y semanales. |-Escenario 1: Registro rápido<br>Dado que el usuario es un profesional ocupado que necesita acceder rápidamente a la plataforma,<br>Cuando el usuario introduce su correo electrónico y una contraseña para registrarse,<br>Entonces el aplicativo completa el proceso de registro en menos de 2 minutos, permitiéndole explorar de inmediato las opciones de comida disponibles.<br><br>-Escenario 2: Registro con redes sociales<br>Dado que el usuario prefiere utilizar sus cuentas de redes sociales para registrarse rápidamente,<br>Cuando el usuario selecciona la opción de registrarse con Google o Facebook,<br>Entonces el aplicativo realiza el registro automáticamente y lo redirige a la página de inicio en cuestión de segundos.|EP01|
+|US02|Busqueda por preferencias|Como usuario ocupado, quiero poder filtrar las opciones de comida según mis preferencias dietéticas, para encontrar rápidamente algo que se ajuste a mi dieta.|-Escenario 1: Filtro por dieta vegetariana<br>Dado que el usuario sigue una dieta vegetariana y quiere encontrar opciones que se ajusten a sus necesidades,<br>Cuando el usuario aplica el filtro de comida vegetariana en la búsqueda,<br>Entonces el aplicativo muestra solo opciones de comidas vegetarianas, facilitando la selección rápida de un plato adecuado.<br><br>-Escenario 2: Búsqueda por preferencias de bajo contenido calórico<br>Dado que el usuario está cuidando su ingesta calórica,<br>Cuando el usuario aplica el filtro de “bajo en calorías”,<br>Entonces el aplicativo presenta únicamente las opciones que cumplen con este criterio, ayudando al usuario a hacer una elección informada.<br>|EP01|
+|US03|Visualización de reseñas|Como usuario, quiero poder ver reseñas detalladas y perfiles de cocineros, para sentirme seguro de que estoy eligiendo la mejor opción.|-Escenario 1: Ver reseñas antes de hacer un pedido<br>Dado que el usuario quiere asegurarse de que el cocinero ofrece comida de calidad,<br>Cuando el usuario revisa las reseñas y calificaciones de otros clientes,<br>Entonces el aplicativo muestra de forma clara y detallada las opiniones y calificaciones, permitiéndole tomar una decisión informada.<br><br>-Escenario 2: Comparar cocineros antes de elegir<br>Dado que el usuario tiene varias opciones de cocineros y quiere elegir la mejor,<br>Cuando el usuario compara las reseñas y perfiles de varios cocineros,<br>Entonces el aplicativo facilita la comparación lado a lado, ayudando al usuario a seleccionar el cocinero que mejor se ajusta a sus expectativas.<br>|EP01|
+|US04|Visualizacion de informacion nutricional|Proporcionar información nutricional detallada de cada plato para ayudar a los usuarios a tomar decisiones informadas sobre su alimentación.|-Escenario 1: Revisión de información nutricional para una comida específica<br>Dado que el usuario está preocupado por la cantidad de calorías y nutrientes en su comida,<br>Cuando el usuario revisa la información nutricional detallada de un plato antes de pedirlo,<br>Entonces el aplicativo despliega la información de manera clara y comprensible, permitiéndole tomar una decisión basada en sus objetivos de salud.<br><br>-Escenario 2: Comparación de platos por contenido nutricional<br>Dado que el usuario está tratando de elegir entre dos opciones de platos,<br>Cuando el usuario compara la información nutricional de ambos platos,<br>Entonces el aplicativo facilita la comparación, ayudándole a elegir la opción que mejor se ajuste a sus necesidades dietéticas.<br>|EP01|
+|US05|Programacion de entrega|Como usuario, quiero poder programar la entrega de mi pedido para que llegue en un momento conveniente, ajustándose a mi agenda.|-Escenario 1: Programación para recibir la comida después del trabajo<br>Dado que el usuario tiene un horario de trabajo ocupado y quiere cenar a una hora específica,<br>Cuando el usuario programa la entrega para que llegue justo después de que termine su jornada laboral,<br>Entonces el aplicativo asegura que la comida sea entregada puntualmente, sin interrupciones en su rutina diaria.<br><br>-Escenario 2: Entrega programada durante un descanso corto<br>Dado que el usuario tiene un breve periodo de descanso para comer,<br>Cuando el usuario programa la entrega para que coincida con el inicio de su descanso,<br>Entonces el aplicativo gestiona la entrega para que llegue en el momento preciso, permitiéndole disfrutar de su comida sin retrasos.<br>|EP01|
+|US06|Experiencia personalizada|Como usuario ocupado, quiero recibir recomendaciones personalizadas de comidas basadas en mis pedidos anteriores y preferencias, para ahorrar tiempo en la selección de opciones que se ajusten a mis gustos.|-Escenario 1: Recomendaciones basadas en pedidos anteriores<br>Dado que el usuario suele pedir comidas similares cada semana,<br>Cuando el usuario recibe recomendaciones basadas en sus pedidos anteriores,<br>Entonces el aplicativo sugiere opciones que se alinean con sus preferencias, facilitando la selección de sus comidas habituales.<br><br>-Escenario 2: Recomendaciones basadas en preferencias dietéticas<br>Dado que el usuario tiene preferencias dietéticas específicas (por ejemplo, bajo en carbohidratos),<br>Cuando el usuario recibe sugerencias de platos que cumplen con sus criterios,<br>Entonces el aplicativo presenta opciones personalizadas, ahorrándole tiempo y esfuerzo en la búsqueda de comidas adecuadas.|EP01|
+|US07|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
+|US08|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
+|US09|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
+|US10|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
+|US11|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
+|US12|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
+|US13|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
+|US14|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
+|US15|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
+|US16|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
+|US17|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
+|US18|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
+|US19|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
+|US20|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
+|US21|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
+|US22|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
+|US23|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
+|US24|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
+|US25|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
+|US26|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
+|US27|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
+|US28|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
+|US29|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
+|US30|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
+
 ### 3.3. Impact Mapping
+
+Metas |Actores | Impacto | Entregables
+----- |------- | ------- | -----------
+x| Universitarios/Profesionales ocupados para cocinar | Ahorro de tiempo | Implementacion de proceso de selección, pedido y entrega para que los usuarios puedan obtener su comida sin dedicar tiempo significativo.
+x|  | Experiencia Personalizada | Proporcionar información nutricional detallada de cada plato para ayudar a los usuarios a tomar decisiones informadas sobre su alimentación
+x||Información Nutricional|Proporcionar información nutricional detallada de cada plato para ayudar a los usuarios a tomar decisiones informadas sobre su alimentación.
+Transformar la forma en que las personas acceden a la comida casera, conectando a cocineros apasionados con consumidores que buscan opciones de alimentación saludable y conveniente. | Cocineros Caseros | Generación de ingresos|Proporcionar un medio de pago que permita a los cocineros caseros monetizar sus habilidades culinarias de manera eficiente.
+x|  | Ampliación de su alcance | Permitir a los cocineros conocer las preferencias del público , aumentando su base de clientes.
+x| | Mejora de la eficiencia operativa | Implementar un apartado que permita gestionar pedidos y horarios de manera efectiva para optimizar su tiempo y recursos.
 
 ### 3.4. Product Backlog
 
