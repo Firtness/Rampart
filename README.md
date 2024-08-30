@@ -763,11 +763,31 @@ Estos son los términos identificados hasta el avance de esta primera entrega de
 
 ### 4.6. Domain-Driven Software Architecture
 
+En esta sección, presentamos la arquitectura de software para nuestro proyecto Sabores Cercanos. Hemos diseñado esta arquitectura con un enfoque centrado en el dominio, asegurando que los aspectos más críticos de nuestra plataforma estén bien representados y alineados con las necesidades de nuestros usuarios y cocineros. A continuación, mostramos diagramas clave que describen cómo los diferentes componentes de nuestro sistema interactúan entre sí y con actores externos:
+
 ### 4.6.1. Software Architecture Context Diagram
+
+Este diagrama muestra las interacciones principales entre el sistema y los actores externos, como los consumidores, los cocineros, y el administrador de la plataforma. Además, se incluyen las conexiones con sistemas externos como el Payment Gateway y el Email Service, proporcionando una vista general de cómo el sistema se integra y se comunica con el entorno externo.
+
+<p align="center">
+  <img src="assets/images/structurizr-SystemContext_Diagram.png">
+</p>
 
 ### 4.6.2. Software Architecture Container Diagrams
 
+Aquí se detalla los principales contenedores de software dentro del sistema, como la Web Application, la Mobile App, la Single-Page Application, la API, y la Database. Cada contenedor representa una parte clave de la arquitectura del sistema y se muestra cómo interactúan entre sí, manejando funciones como la gestión de usuarios, el procesamiento de pagos, y la comunicación con los servicios externos.
+
+<p align="center">
+  <img src="assets/images/structurizr-Containers_Diagram.png">
+</p>
+
 ### 4.6.3. Software Architecture Components Diagrams
+
+Este diagrama desglosa los componentes internos clave, como el Order Controller, el User Controller, el Payment Service, y el Notification Manager. El diagrama muestra las relaciones y dependencias entre estos componentes, ilustrando cómo trabajan juntos para proporcionar la funcionalidad central de la plataforma.
+
+<p align="center">
+  <img src="assets/images/structurizr-Component_Diagram.png">
+</p>
 
 ### 4.7. Software Object-Oriented Design
 
