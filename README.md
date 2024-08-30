@@ -649,6 +649,8 @@ Para Ricardo (Estudiante Ocupado):
 
 ### 2.3.3. User Journey Mapping
 
+
+
 ### 2.3.4. Empathy Mapping
 
 ### 2.3.5. As-is Scenario Mapping
