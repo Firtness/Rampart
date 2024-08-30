@@ -620,6 +620,33 @@ Tras la identificación de los segmentos objetivo (cocineros caseros y estudiant
 
 ### 2.3.2. User Task Matrix
 
+| Tareas | María | | Ricardo | |
+|-|-|-|-|-|
+|  | Frecuencia | Importancia | Frecuencia | Importancia |
+| Preparar Comidas Caseras | Alta | Alta | Baja | Media |
+| Planificar Menús Diarios | Media | Alta | Baja | Media |
+| Comprar Ingredientes Frescos | Alta | Alta | Baja | Baja |
+| Monitorear Gastos e Ingresos | Media | Media | Media | Alta |
+| Mantener una Dieta Equilibrada | Media | Alta | Alta | Alta |
+| Ordenar Comida en Linea | Baja  | Baja | Alta | Alta |
+| Comparar Precios y Calidad de la Comida | Baja | Baja | Media | Media |
+| Buscar Recetas Nuevas | Alta | Media | Baja | Baja |
+| Participar en Comunidades Culinarias | Baja | Media | Baja | Baja |
+| Aprender Nuevas Técnicas de Cocina | Media | Media | Baja | Baja |
+
+#### Interpretación de Resultados:
+
+Para María (Cocinera Casera):
+ * Las tareas más importantes y de mayor frecuencia son las de **Preparar Comidas Caseras**, **Comprar Ingredientes Frescos** y **Planificar Menús Diarios**. Ya que estas le permiten acercarse a su objetivo de generar ingresos adicionales a su familia a través de sus habilidades culinarias.
+
+Para Ricardo (Estudiante Ocupado):
+ * Las tareas más importantes y de mayor frecuencia son las de **Monitorear Gastos e Ingresos**, **Ordenar Comida en Linea** y **Mantener una Dieta Equilibrada**. Ya que estas van de acuerdo a su objetivo de balancear sus estudios con una alimentación saludable, gastando lo menor posible. 
+
+##### Principales Diferencias y Coincidencias
+| Diferencias | Coincidencias |
+|-|-|
+| **María** se centra en las tareas relacinadas a la producción y gestión de comida, así como en maneras de mejorar sus capacidades para generar ingresos. Mientras que **Ricardo** se centra en las tareas relacionadas con consumir y seleccionar opciones de comida saludables. | **Ambos** valoran la calidad y frescura de la comida: **María** a la hora de elegir sus ingredientes y **Ricardo** al elegir opciones de alimentos saludables. |
+
 ### 2.3.3. User Journey Mapping
 
 ### 2.3.4. Empathy Mapping
