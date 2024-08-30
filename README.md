@@ -839,13 +839,138 @@ x| | Mejora de la eficiencia operativa | Implementar un apartado que permita ges
 
 ### 4.2.1. Organization Systems
 
+Tenemos como objetivo proporcionar una experiencia de usuario coherente y eficiente tanto en nuestra página web como en nuestra aplicación móvil. A continuación, podemos ver la estructura visual, la cual fue diseñada para adaptarse a nuestros dos segmentos objetivos.<br> <br>
+Para nuestro primer segmento enfocado en Universitarios/Profesionales ocupados para cocinar, el proceso inicia accediendo a la plataforma y registrándose. El usuario accede a la plataforma y es recibido en una página de bienvenida con opciones claras para el registro. Los botones de registro están organizados secuencialmente para facilitar el proceso: “Regístrate con tu correo electrónico” o “Regístrate con redes sociales”. El usuario selecciona el método de registro preferido, ingresa la información requerida y es guiado paso a paso a través del proceso. Se utiliza un diseño de organización secuencial para asegurar que cada paso esté claramente definido y que el usuario pueda completar el registro de manera rápida y sin complicaciones. Una vez registrado, el usuario es dirigido a una página para configurar sus preferencias dietéticas y de comida. Aquí se utiliza una organización visual jerárquica para destacar las opciones más importantes (como tipo de dieta y alergias) en la parte superior de la página, con opciones menos críticas ubicadas en niveles inferiores. El usuario elige sus preferencias principales de una lista desplegable y completa un breve cuestionario para personalizar aún más su experiencia. Este enfoque jerárquico permite al usuario enfocar su atención en las opciones más relevantes primero. En la pantalla principal de la búsqueda, se presentan diferentes categorías de comida (como "Vegetariana", "Sin Gluten", "Bajo en Calorías") organizadas jerárquicamente en un menú lateral. Dentro de cada categoría, las opciones se presentan en un formato con tarjetas visuales que muestran platos individuales. El usuario explora las categorías según sus preferencias dietéticas y visualiza los platos en una cuadrícula. Puede aplicar filtros adicionales y ordenar las opciones por relevancia, precio o calificación. 
+Al seleccionar un plato, el usuario accede a una página detallada con información del plato, incluyendo una sección de reseñas y perfil del cocinero. La información está organizada jerárquicamente, con datos esenciales como la descripción del plato y la información nutricional en la parte superior, seguidos por reseñas y calificaciones en secciones inferiores. El usuario lee la descripción del plato, consulta la información nutricional y revisa las reseñas antes de tomar una decisión. La organización jerárquica facilita una navegación lógica desde los detalles del plato hasta la información de los usuarios. El usuario llega a la página de programación de entrega, donde se le presenta un calendario y opciones de horarios. La interfaz está organizada secuencialmente para guiar al usuario a través del proceso de selección de fecha y hora de entrega. El usuario selecciona la fecha y hora deseada para la entrega, revisa la información y confirma la programación. El diseño secuencial asegura que cada etapa del proceso de programación sea clara y fácil de completar.
+Después de realizar su primera compra, en la página de inicio o en una sección dedicada a recomendaciones, el usuario recibe sugerencias de platos basadas en sus pedidos anteriores y preferencias. Las recomendaciones se organizan jerárquicamente por categorías como "Recomendados para Ti" y "Nuevos en la Plataforma". El usuario explora las recomendaciones personalizadas presentadas en una vista de cuadrícula o lista. Puede ver las opciones sugeridas y decidir rápidamente cuáles le interesan. La organización jerárquica y matricial ayuda a destacar las opciones más relevantes y personalizadas.<br> <br>
+
+![texto_alternativo](/assets/images/UP%20ocupados%20para%20cocinar.png){width=width height=height}
+
+Para nuestro segundo segmento enfocado en Cocineros Caseros, el proceso inicia al registrarse y configurar su perfil. El cocinero casero inicia su viaje en la plataforma mediante un proceso de registro. La interfaz está organizada secuencialmente, comenzando con el registro básico y luego avanzando a la configuración del perfil. El cocinero completa su registro, proporcionando detalles básicos como nombre y contacto. Luego, avanza a la configuración del perfil, donde debe ingresar información sobre sus especialidades culinarias, fotografías de sus platos y detalles de su cocina. Cada etapa del proceso está claramente definida para facilitar la finalización del registro y configuración. Una vez configurado el perfil, el cocinero accede a una sección para crear y gestionar sus menús. La interfaz utiliza una organización jerárquica para presentar opciones como “Añadir Nuevo Plato” y “Gestionar Menús Actuales”. Dentro de estas opciones, el contenido se organiza de forma matricial, mostrando platos individuales con detalles visuales. El cocinero selecciona “Añadir Nuevo Plato”, completa los detalles del plato, incluyendo nombre, descripción, precio y fotos. Luego puede ver y editar los menús existentes. La organización visual permite al cocinero gestionar sus menús de manera eficiente, con un enfoque en las tareas más importantes primero. En la sección de gestión de pedidos, el cocinero puede ver y procesar los pedidos recibidos. La interfaz está organizada secuencialmente por estados del pedido (por ejemplo, “Nuevo”, “En Proceso”, “Completado”), y los pedidos se presentan en un formato cronológico. El cocinero revisa los nuevos pedidos, los procesa según la secuencia establecida, y actualiza el estado de los pedidos en función del progreso. La organización secuencial y cronológica asegura que los pedidos se manejen de manera ordenada y eficiente. El cocinero puede acceder a una sección para revisar las reseñas y calificaciones de sus platos. La interfaz está organizada jerárquicamente, mostrando primero las reseñas más recientes y destacadas, seguidas de las reseñas más antiguas y menos relevantes. El cocinero lee las reseñas y calificaciones recibidas, prestando especial atención a los comentarios destacados para mejorar sus platos y servicios. La organización jerárquica facilita el enfoque en los comentarios más importantes y recientes. En la sección de configuración de perfil, el cocinero puede actualizar su información personal y de menú. La interfaz está organizada jerárquicamente con secciones principales como “Información del Perfil”, “Fotos de Platos”, y “Detalles de Cocina”. Dentro de cada sección, la información se presenta de manera alfabética para una fácil navegación. El cocinero actualiza su perfil y la información de los platos, navegando a través de las secciones y sub-secciones organizadas alfabéticamente para facilitar la búsqueda de elementos específicos. El cocinero tiene acceso a un panel de estadísticas que muestra el rendimiento de sus platos, incluyendo ventas y popularidad. La organización visual se utiliza para presentar gráficos y datos en un formato jerárquico, mientras que los datos se presentan cronológicamente. El cocinero revisa los informes y gráficos, analizando el rendimiento de sus platos a lo largo del tiempo. La organización visual y cronológica ayuda a identificar tendencias y patrones en las ventas y la popularidad de los platos.
+
+![texto_alternativo](/assets/images/Cocinero%20Casero.png){width=width height=height}
+
+Link: [url LucidChard](https://lucid.app/lucidchart/434db23b-883c-43b4-98ea-2da63e5366d5/edit?viewport_loc=-320%2C-12555%2C5713%2C2681%2C0_0&invitationId=inv_f9b021da-b3ba-42f7-b73a-b5085b472ce8 "Clickeame :3")
 ### 4.2.2. Labeling Systems
+
+El equipo de "Sabores Cercanos" opto por usar etiquetas simples, claras y que están diseñadas para minimizar la confusión, garantizando una navegación intuitiva y fluida para todos los usuarios de la plataforma "Sabores Cercanos". Acontinuacion las mencionaremos y sus relaciones:
+
+* Preferencias:<br>La sección de Preferencias permite a los usuarios personalizar su experiencia en la plataforma ajustando diversas opciones según sus necesidades. Esto incluye configuraciones dietéticas, como la selección de tipos de dieta (vegetariana, vegana, sin gluten, etc.), preferencias de ingredientes, y opciones de notificaciones. Esta área asegura que los usuarios reciban recomendaciones y filtros que se alineen con sus gustos y necesidades alimenticias.<br>
+* Reseñas y Calificaciones:<br>La sección de Reseñas y Calificaciones es donde los usuarios pueden ver y dejar comentarios sobre sus experiencias con los cocineros y sus platos. Esta área incluye una calificación numérica o en estrellas, junto con comentarios escritos que otros usuarios han proporcionado, ayudando a tomar decisiones informadas al elegir qué comida ordenar. Es un espacio crucial para la transparencia y confianza dentro de la comunidad.<br>
+* Pedidos:<br>La etiqueta Pedidos representa la sección donde los usuarios pueden visualizar y gestionar todas las órdenes de comida realizadas. Incluye información sobre el estado del pedido (nuevo, en proceso, completado), detalles del plato ordenado, y opciones para modificar o cancelar el pedido antes de que sea procesado.<br>
+* Recomendaciones:<br>Recomendaciones es la sección dedicada a sugerir platos o cocineros basados en el historial de pedidos y preferencias de los usuarios. Esta área muestra una lista curada de opciones que se alinean con las preferencias dietéticas del usuario y sus elecciones anteriores, facilitando la búsqueda de nuevas comidas que puedan ser de su agrado.<br>
+* Medios de pagos:<br>La sección de Medios de Pago permite a los usuarios gestionar sus opciones de pago dentro de la plataforma. Aquí, los usuarios pueden añadir, actualizar o eliminar métodos de pago como tarjetas de crédito, débito, o cuentas de pago en línea. También es donde pueden seleccionar su método de pago preferido para futuras compras.<br>
+* Configuración:<br>Configuración es la sección donde los usuarios pueden personalizar aspectos generales de su cuenta, incluyendo opciones de privacidad, ajustes de notificaciones, y preferencias de idioma. También es el área donde los usuarios pueden acceder a la configuración de seguridad, como cambiar contraseñas y activar la autenticación de dos factores.<br>
+* Estadísticas y Rendimiento:<br>La etiqueta Estadísticas y Rendimiento se refiere a un panel de control accesible principalmente por los cocineros caseros. Aquí, los cocineros pueden revisar datos analíticos sobre sus ventas, popularidad de los platos, y otros indicadores clave de rendimiento. Esta información es esencial para entender el comportamiento del mercado y hacer ajustes necesarios para mejorar la oferta culinaria.<br>
+* Revisión de reseñas y calificaciones:<br>Revisión de Reseñas y Calificaciones es una subsección dentro de la plataforma donde los cocineros pueden ver y gestionar los comentarios y calificaciones que han recibido. Esto les permite responder a los comentarios, entender mejor las necesidades de los clientes, y hacer ajustes en sus menús para mejorar la satisfacción del usuario.<br>
+* Recepción y gestión de pedidos:<br>La sección Recepción y Gestión de Pedidos es donde los cocineros caseros gestionan los pedidos que reciben de los consumidores. Esta área permite a los cocineros aceptar, rechazar, o modificar pedidos, así como actualizar el estado de cada pedido a medida que se procesa (nuevo, en preparación, listo para entrega).<br>
+* Creación y gestión de menús:<br>Creación y Gestión de Menús es la sección dedicada a que los cocineros diseñen, editen y organicen sus ofertas culinarias. Aquí pueden añadir nuevos platos, ajustar precios, y organizar los menús de acuerdo con la demanda o las estaciones del año. Esta área permite una gestión ágil y efectiva de las opciones que los cocineros ofrecen a los consumidores.<br>
+* Medios de pagos recibidos:<br>En la sección de Medios de Pago Recibidos, los cocineros caseros pueden gestionar las formas en que reciben los pagos de los consumidores. Aquí se configura qué métodos de pago aceptan, como tarjetas de crédito, transferencias bancarias, o billeteras electrónicas, y pueden hacer un seguimiento de los pagos recibidos.<br>
+* Promociones:<br>La sección de Promociones está diseñada para que tanto los cocineros como los administradores de la plataforma creen y gestionen ofertas especiales, descuentos, o paquetes promocionales. Estas promociones pueden estar vinculadas a fechas especiales, temporadas, o para incentivar la compra de ciertos platos, atrayendo así más clientes a la plataforma.<br>
 
 ### 4.2.3. SEO Tags and Meta Tags
 
+Para mejorar la visibilidad de "Sabores Cercanos" en los motores de búsqueda y atraer a los usuarios adecuados se ha optado por definir los siguientes datos:
+
+* Landing Page
+   * Title: Sabores Cercanos 
+
+   * Meta Description:
+   Descubre Sabores Cercanos, una plataforma que conecta a cocineros apasionados con consumidores que buscan opciones de comida casera saludable y conveniente.
+
+   * Keywords:
+   comida casera, cocineros locales,entrega de comida y platos caseros.
+
+   * Author:
+   El equipo de Sabores Cercanos
+
+* Página de Categorías
+   * Title:
+   Explora Categorías de Comida 
+
+   * Meta Description:
+   Explora una amplia variedad de categorías de comida en Sabores Cercanos, desde opciones vegetarianas hasta cocina casera.
+
+   * Keywords:
+   categorías de comida,explorar comida y tipos de cocina.
+
+   * Author:
+   El equipo de Sabores Cercanos
+
+* Página de Detalle de Plato
+   * Title:
+   [Nombre del Plato] por [Nombre del Cocinero]
+
+   * Meta Description:
+   Disfruta de [Nombre del Plato], una deliciosa creación de [Nombre del Cocinero] en Sabores Cercanos.
+
+   * Keywords:
+   [nombre del plato], comida casera y cocineros caseros.
+
+   * Author:
+   El equipo de Sabores Cercanos
+
+* Página de Reseñas y Calificaciones
+   * Title:
+   Reseñas de Platos y Cocineros
+
+   * Meta Description:
+   Lee reseñas detalladas y calificaciones de platos y cocineros en Sabores Cercanos.
+
+   * Keywords:
+    calificaciones de cocineros, opiniones de usuarios, reseñas de platos y valoraciones de comida.
+
+   * Author:
+   El equipo de Sabores Cercanos
+
+* Página de Carrito y Pago
+   * Title:
+   Carrito de Compras
+
+   * Meta Description:
+   Revisa tu carrito de compras en Sabores Cercanos y finaliza tu pedido de comida casera. Opciones de pago seguras y entrega rápida disponibles.
+
+   * Keywords:
+   carrito de compras, finalizar compra, pago seguro y entrega de comida.
+
+   * Author:
+   El equipo de Sabores Cercanos
+
+* Página de Promociones
+   * Title:
+   Promociones Especiales
+
+   * Meta Description:
+   Descubre promociones y ofertas exclusivas en Sabores Cercanos. Ahorra en tus platos caseros favoritos y disfruta de descuentos especiales.
+
+   * Keywords:
+   ofertas especiales, descuentos en comida y promociones de platos.
+
+   * Author:
+   El equipo de Sabores Cercanos
+
+
+
 ### 4.2.4. Searching Systems
 
+Nuestro sistema de búsqueda está diseñado para ofrecer a los usuarios una herramienta poderosa y eficiente que les permita navegar a través de grandes cantidades de información sin sentirse perdidos o abrumados. Aquí explicamos las opciones que tenemos con una breve descripción de la misma.<br>
+1. Barra de Búsqueda General:<br>Esta barara estara ubicada en la parte superior de la pantalla en todas las secciones de la plataforma, permitiendo a los usuarios realizar búsquedas rápidas y globales. Al comenzar a escribir en la barra de búsqueda, se mostrarán sugerencias automáticas basadas en las entradas más comunes o recientes. Esto ayudará a guiar al usuario hacia los resultados más relevantes antes de que terminen de escribir.<br>
+2. Filtros de Búsqueda:<br>Los filtros estarán disponibles en un menú desplegable o lateral, permitiendo al usuario seleccionar múltiples criterios simultáneamente. Los resultados de la búsqueda se actualizarán en tiempo real a medida que se seleccionen los filtros. Entre estos filtros podemos encontrar opciones generales, tales como rango de precio, distancia, tiempo de demora y calificación.<br>
+3. Visualización de Resultados:<br>Los resultados de la búsqueda se mostrarán en una lista que incluye una miniatura de la imagen del plato. Además, los usuarios pueden cambiar entre diferentes modos de visualización, como "Lista" o "Cuadrícula". Así mismo, los usuarios podrán ordenar los resultados de menor a mayor respecto al precio o calificación. <br>
+4. Búsqueda Avanzada:<br>Para los usuarios que necesitan realizar búsquedas más específicas, se ofrecerá una opción de "Búsqueda Avanzada". El cual permitirá colocar datos precisos como, nombre del cocinero, nombre de la promoción, fecha de publicación,etc.<br>
+
+
 ### 4.2.5. Navigation Systems
+
+Estas configuraciones aseguran que los usuarios de "Sabores Cercanos" puedan moverse fácilmente por la plataforma, encontrar lo que buscan y realizar sus acciones deseadas sin complicaciones, mejorando así la satisfacción general y la eficiencia del servicio.
+
+1. Tutorial para nuevos usuarios:<br> Al registrarse por primera vez, los usuarios recibirán una navegación guiada por las principales funciones de la plataforma. Este tutorial interactivo destacará cómo buscar platos, realizar pedidos, y personalizar su perfil. Este se podra saltar o repetir desde cualquier momento desde configuracion del perfil <br>
+
+2. Navegación Principal:<br>Cada enlace en la barra de navegación llevará al usuario directamente a la sección correspondiente. Al pasar el cursor sobre las opciones de la barra, se mostrarán menús desplegables con subcategorías o accesos directos a funciones específicas, como "Recomendados para Ti" en "Recomendados" o "Historial de pedidos" en "Pedidos".<br>
+
+3. Navegación Secuencial: <br> La navegación secuencial guiará a los usuarios a través de procesos que requieren múltiples pasos, como realizar un pedido. Por ejemplo: Selección del plato,Personalización del pedido,Selección de métodos de pago,Programación de la entrega y Confirmación del pedido.<br>
+
+4. Navegación de Pie de Página: <br> El pie de página incluirá enlaces a secciones importantes como "Términos y Condiciones", "Política de Privacidad", "Contacto", "Redes Sociales", y "Blog". <br>
 
 ### 4.3. Landing Page UI Design
 
