@@ -26,7 +26,7 @@ workspace "Sabores Cercanos" "Plataforma que conecta a cocineros caseros con con
                 resetPasswordController = component "Controlador de Restablecimiento de Contraseña" "Gestiona solicitudes de restablecimiento de contraseña y genera enlaces de recuperación." "Node.js"
                 securityComponent = component "Componente de Seguridad" "Proporciona funcionalidad relacionada con seguridad para autenticación y autorización." "Node.js"
             }
-            database = container "Base de Datos" "Almacena perfiles de usuarios, detalles de pedidos, información de cocineros y más." "MySQL"
+            database = container "Base de Datos" "Almacena perfiles de usuarios, detalles de pedidos, información de cocineros y más." "MySQL" "Database"
             notificationService = container "Servicio de Notificaciones" "Envía notificaciones a usuarios y cocineros sobre pedidos y actualizaciones." "JavaScript"
         }
 
@@ -107,6 +107,10 @@ workspace "Sabores Cercanos" "Plataforma que conecta a cocineros caseros con con
             element "Component" {
                 background #85bbf0
                 color #000000
+            }
+            element "Database" {
+                shape Cylinder
+                background #103a63
             }
         }
     }
