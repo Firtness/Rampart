@@ -651,6 +651,14 @@ Para Ricardo (Estudiante Ocupado):
 
 #### User Persona 1: María
 
+| **Journey Phases** | **Necesidad Inicial** | **Búsqueda de Opciones** | **Preparación para la Venta** | **Promoción del servicio** | **Gestión de Pedidos** | **Entrega y Servicio al Cliente** | **Retroalimentación y Repetición** |
+|-|-|-|-|-|-|-|-|
+| **Jobs to be done** | Identificar la Necesidad de Ingresos. | Investigar formas de vender comida. | Preparar comidas para venta. | Promocionar el servicio. | Recibir pedidos de comida. | Coordinar entregas. | Solicitar comentarios y ajustar el servicio en base a ellos. |
+| **Context & Touchpoints** | Hogar; Familia. | Redes Sociales; Internet. | Hogar; Cocina. | Redes Sociales; Recomendaciones. | Internet; Teléfono. | A Domicilio. | Comunicación con clientes. |
+| **Gains** | Ingresos adicionales. | Encuentra grupos locales de venta. | Practica sus habilidades culinarias. | Capta nuevos clientes. | Consigue pedidos de clientes. | Completa entregas satisfactoriamente. | Retroalimentación positiva. |
+| **Pains** | Falta de conocimiento sobre como iniciar un negocio. | Dificultad para encontrar modelos confiables. | Inversión inicial. | Proceso manual. | No recibir tantos pedidos. | Cansancio y logística de entregas. | Dificultad para obtener retroalimentación detallada. |
+| **Emotion** | 🟡 (Neutra) | 🟢 (Positiva) | 🟡 (Neutra) | 🟠 (Levemente Negativa) | 🟢 (Positiva) | 🟠 (Levemente Negativa) | 🟢 (Positiva) |
+
 #### User Persona 2: Ricardo
 
 ### 2.3.4. Empathy Mapping
