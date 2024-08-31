@@ -819,12 +819,72 @@ Este diagrama desglosa los componentes internos clave, como el Order Controller,
 
 ### 5.2.1.3. Development Evidence for Sprint Review
 
+| **Repository** | **Branch**       | **Commit Id** | **Commit Message**       | **Commit Message Body**                                    | **Committed on (Date)** |
+|----------------|------------------|---------------|--------------------------|------------------------------------------------------------|--------------------------|
+| `my-repo`      | `main`           | `a1b2c3d4e5`  | `Update README`          | `Updated the README file with new project details.`        | `2024-08-30`             |
+| `my-repo`      | `feature-branch` | `f6g7h8i9j0`  | `Add user authentication`| `Implemented user authentication with JWT.`               | `2024-08-29`             |
+| `my-repo`      | `bugfix`         | `k1l2m3n4o5`  | `Fix login bug`          | `Resolved issue where login failed under certain conditions.` | `2024-08-28`             |
+
+
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
 
+**Resumen**
+Durante este Sprint, hemos completado la implementación de la Landing Page, incluyendo la estructura básica y la funcionalidad inicial. 
+
+**Capturas de Pantalla**
+- Página de Inicio: ![Screenshot1](URL_de_la_imagen)
+- Página de Registro: ![Screenshot2](URL_de_la_imagen)
+
+**Enlace a Video**
+[Visualización y Navegación](URL_del_video)
+
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+**Resumen**
+En este Sprint, hemos documentado los Endpoints de la API utilizando OpenAPI.
+
+**Tabla de Endpoints**
+
+| **Endpoint** | **Acción** | **Verbo HTTP** | **Sintaxis de Llamada** | **Parámetros** | **Ejemplo de Response** | **Enlace a Documentación** |
+|--------------|------------|----------------|--------------------------|----------------|--------------------------|-----------------------------|
+| /api/login    | Login       | POST           | /api/login               | username, password | { "token": "abc123" }     | [Documentación](URL)       |
+
+**Capturas de Pantalla**
+- Documentación de Login: ![Screenshot1](URL_de_la_imagen)
+
+**URL del Repositorio de Web Services**
+[Repositorio](URL_del_repositorio)
+
+**Commits Relacionados**
+| **Commit Id** | **Commit Message** | **Commited on (Date)** |
+|---------------|---------------------|--------------------------|
+| `xyz789`      | Documentación de Endpoints | `2024-08-30` |
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
+**Resumen**
+Durante este Sprint, hemos configurado el entorno de despliegue para la Landing Page.
+
+**Actividades Realizadas**
+- Creación de cuentas en el proveedor de servicios en la nube.
+- Configuración de recursos necesarios para el despliegue.
+- Configuración del proyecto de desarrollo para automatización de despliegue.
+
+**Capturas de Pantalla**
+- Configuración en la nube: ![Screenshot1](URL_de_la_imagen)
+- Configuración de Automatización: ![Screenshot2](URL_de_la_imagen)
+
 ### 5.2.1.8. Team Collaboration Insights during Sprint
+
+**Resumen**
+El equipo ha trabajado de manera colaborativa para implementar la Landing Page. Cada miembro ha contribuido en diferentes aspectos del proyecto.
+
+**Capturas de Pantalla**
+- Analíticos de Colaboración en GitHub: ![Screenshot1](URL_de_la_imagen)
+- Commits Realizados: ![Screenshot2](URL_de_la_imagen)
+
+**Participación del Equipo**
+- Diego: Implementación de la Landing Page.
+- [Otros Miembros]: Contribuciones en diseño, pruebas y documentación.
