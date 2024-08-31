@@ -649,7 +649,7 @@ Para Ricardo (Estudiante Ocupado):
 
 ### 2.3.3. User Journey Mapping
 
-#### User Persona 1: María
+#### **User Persona 1: María**
 
 | **Journey Phases** | **Necesidad Inicial** | **Búsqueda de Opciones** | **Preparación para la Venta** | **Promoción del servicio** | **Gestión de Pedidos** | **Entrega y Servicio al Cliente** | **Retroalimentación y Repetición** |
 |-|-|-|-|-|-|-|-|
@@ -659,7 +659,15 @@ Para Ricardo (Estudiante Ocupado):
 | **Pains** | Falta de conocimiento sobre como iniciar un negocio. | Dificultad para encontrar modelos confiables. | Inversión inicial. | Proceso manual. | No recibir tantos pedidos. | Cansancio y logística de entregas. | Dificultad para obtener retroalimentación detallada. |
 | **Emotion** | 🟡 (Neutra) | 🟢 (Positiva) | 🟡 (Neutra) | 🟠 (Levemente Negativa) | 🟢 (Positiva) | 🟠 (Levemente Negativa) | 🟢 (Positiva) |
 
-#### User Persona 2: Ricardo
+#### **User Persona 2: Ricardo**
+
+| **Journey Phases** | **Necesidad Inicial** | **Búsqueda de Opciones** | **Selección de Comida** | **Espera de Entrega** | **Recepción de Comida y Consumo** | **Evaluación y decisión** |
+|-|-|-|-|-|-|-| 
+| **Jobs to be done** | Hallar comida saludable y conveniente. | Explorar distintos servicios de delivery. | Elegir un proveedor y realizar el pedido. | Monitorear la entrega. | Verificación de la comida, y consumo. | Evaluar si está satisfecho con el servicio, y decidir si repetir. |
+| **Context & Touchpoints** | Universidad; Clases | Internet; Anuncios. | Redes Sociales. | Aplicaciones Móviles; Páginas Web. | Hogar o Universidad. | Redes Sociales. |
+| **Gains** | Manenerse saludable sin perder eficiencia de trabajo. | Encuentra opciones convenientes a sus necesidades. | Realizar un pedido de forma eficaz y sencilla. | Seguridad y control sobre los tiempos de su pedido. | Recibe la comida sin complicaciones. | Obtiene una forma confiable de realizar pedidos de comida, con la cuál puede repetir cuando lo necesite. |
+| **Pains** | Falta de opciones convenientes. | Las opciones que se ajustan a sus necesidades son limitadas. | Incertidumbre sobre la calidad del servicio. | Tiempos de espera inconvenientes. | Si la calidad de la comida es inconsistente. | Si la calidad no es buena, se ve obligado a buscar una nueva plataforma. |
+| **Emotion** | 🟡 (Neutra) | 🟠 (Levemente Negativa) | 🟢 (Positiva) | 🟠 (Levemente Negativa) | 🟢 (Positiva) | 🟡 (Neutra) |
 
 ### 2.3.4. Empathy Mapping
 
