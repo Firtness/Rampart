@@ -640,6 +640,20 @@ Tras la identificación de los segmentos objetivo (cocineros caseros y estudiant
 
 ### 2.3.2. User Task Matrix
 
+| Tareas | María | | Ricardo | |
+|-|-|-|-|-|
+|  | Frecuencia | Importancia | Frecuencia | Importancia |
+| Preparar Comidas Caseras | Alta | Alta | Baja | Media |
+| Planificar Menús Diarios | Media | Alta | Baja | Media |
+| Comprar Ingredientes Frescos | Alta | Alta | Baja | Baja |
+| Monitorear Gastos e Ingresos | Media | Media | Media | Alta |
+| Mantener una Dieta Equilibrada | Media | Alta | Alta | Alta |
+| Ordenar Comida en Linea | Baja  | Baja | Alta | Alta |
+| Comparar Precios y Calidad de la Comida | Baja | Baja | Media | Media |
+| Buscar Recetas Nuevas | Alta | Media | Baja | Baja |
+| Participar en Comunidades Culinarias | Baja | Media | Baja | Baja |
+| Aprender Nuevas Técnicas de Cocina | Media | Media | Baja | Baja |
+
 ### 2.3.3. User Journey Mapping
 
 #### **User Persona 1: María**
