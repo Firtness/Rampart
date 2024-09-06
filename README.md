@@ -400,9 +400,9 @@ Hemos optado por elegir dos segmentos objetivos Cocineros Caseros y Universitari
    * Estado Civil: Predominantemente solteros o conviviendo.
    * Nivel de ingresos: Medio a medio-alto. Pueden permitirse servicios que les ahorren tiempo y mejoren su calidad de vida.
    * Estilo de Vida: Activo, con poco tiempo libre. Interesados en la conveniencia, la salud, y el bienestar.
-   * Descripción: Personas altamente activas en plataformas digitales, especialmente a través de smartphones. Prefieren aplicaciones que ofrezcan soluciones rápidas y personalizadas. Así mismo, estan interesados en opciones de comida saludable y conveniente con poco tiempo para realizar la tarea de cocinar debido a sus estudios o trabajo. Por ello, buscan servicios que les ahorren tiempo, ofrezcan opciones personalizadas y les permitan mantener un estilo de vida saludable sin sacrificar la conveniencia.
+   * Descripción: Personas altamente activas en plataformas digitales, especialmente a través de smartphones. Prefieren aplicaciones que ofrezcan soluciones rápidas y personalizadas. Así mismo, están interesados en opciones de comida saludable y conveniente con poco tiempo para realizar la tarea de cocinar debido a sus estudios o trabajo. Por ello, buscan servicios que les ahorren tiempo, ofrezcan opciones personalizadas y les permitan mantener un estilo de vida saludable sin sacrificar la conveniencia.
 
-* Segmento Objetivo 2:
+* Segmento Objetivo 2: Cocineros Caseros
    * Edad: 30-60 años.
    * Género: Mixto.
    * Ubicación: Zonas urbanas y suburbanas, con mayor presencia en comunidades con tradición culinaria.
@@ -410,7 +410,7 @@ Hemos optado por elegir dos segmentos objetivos Cocineros Caseros y Universitari
    * Estado Civil: Mayormente casados o en relaciones estables, con hijos o dependientes.
    * Nivel de ingresos: Medio-bajo a medio con intereses por generar ingresos adicionales.
    * Estilo de Vida: Orientado al hogar, con pasión por la cocina y el deseo de compartir su talento culinario con otros.
-   * Descripción: Personas especializados en platos caseros, tradicionales y confortables. Así mismo, estos quieren monetizar sus habilidades culinarias y compartir su amor por la cocina con su comunidad. Ven en la plataforma una oportunidad para obtener ingresos adicionales y conectarse con otros a través de la comida. Por esta razon, requieren una medio que les permita mostrar sus habilidades culinarias, atraer clientes y gestionar pedidos de manera fácil y eficiente.
+   * Descripción: Personas especializados en platos caseros, tradicionales y confortables. Así mismo, estos quieren monetizar sus habilidades culinarias y compartir su amor por la cocina con su comunidad. Ven en la plataforma una oportunidad para obtener ingresos adicionales y conectarse con otros a través de la comida. Por esta razón, requieren una medio que les permita mostrar sus habilidades culinarias, atraer clientes y gestionar pedidos de manera fácil y eficiente.
    
 ## Capítulo II: Requirements Elicitation & Analysis
 
@@ -811,9 +811,9 @@ EPICS:
 |--------|------|-----------|
 |EP01|Registro y Búsqueda de Comida|Como usuario ocupado, quiero poder registrarme fácilmente en la plataforma y buscar comida según mis preferencias dietéticas, para ahorrar tiempo en la preparación de comidas y encontrar opciones adecuadas rápidamente.|
 |EP02|Gestión y Personalización de Pedidos|Como usuario de la plataforma, quiero tener la capacidad de gestionar y personalizar mis pedidos para adaptarlos a mis horarios y preferencias, asegurando una experiencia de compra eficiente y adaptada a mis necesidades.|
-|EP03|Mejoras en la Experiencia de Pedido y Gestión en Sabores Cercanos.|XXXX|
+|EP03|Mejoras en la Experiencia de Pedido y Gestión en Sabores Cercanos.|Como usuario, quiero que hacer y gestionar pedidos sea más fácil y rápido, con opciones personalizadas, programación de entregas y métodos de pago flexibles, para que todo el proceso sea cómodo y se ajuste a mis necesidades diarias.|
 |EP04| Interacción con la comunidad.|Como usuario de la plataforma, quiero interactuar con otros usuarios para compartir recetas y tips de cocina. |
-|EP05|XXXX|XXXX|
+|EP05|Gestión de Perfiles y Seguridad|Como usuario, quiero gestionar fácilmente mi perfil, controlar mis datos personales, actualizar mis métodos de pago y configurar mis preferencias de seguridad para sentirme seguro y cómodo al usar la plataforma.|
 
 
 |Story ID|Título|Descripción|Criterios de Aceptación|Epic ID|
@@ -842,12 +842,12 @@ EPICS:
 |US22|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
 |US23|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
 |US24|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
-|US25|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
-|US26|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
-|US27|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
-|US28|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
-|US29|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
-|US30|Titulo|Descrip|-Escenario x: <br>Dado que<br>Cuando<br>Entonces<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP0X|
+|US25|Edición de perfil de usuario|Como usuario, quiero poder editar mis datos personales, como nombre, dirección y preferencias de contacto, para asegurarme de que la información esté actualizada.|-Escenario 1: <br>Dado que el usuario necesita actualizar su información,<br>cuando hace clic en la opción de editar perfil,<br>entonces el sistema permite modificar sus datos personales<br><br>-Escenario y: <br>Dado que <br>Cuando<br>Entonces |EP05|
+| US26 | Cambio de contraseña | Como usuario, quiero poder cambiar mi contraseña para mantener la seguridad de mi cuenta. | -Escenario 1: <br>Dado que el usuario desea aumentar la seguridad de su cuenta,<br>cuando accede a la opción de cambiar contraseña,<br>entonces el sistema permite ingresar la nueva contraseña y confirmarla.<br><br>-Escenario 2: <br>Dado que el usuario introduce una contraseña débil,<br>cuando intenta guardarla,<br>entonces el sistema muestra una advertencia de seguridad y sugiere una contraseña más segura. | EP05 |
+| US27 | Eliminación de cuenta | Como usuario, quiero poder eliminar mi cuenta si ya no deseo utilizar la plataforma, para tener control total sobre mi perfil. | -Escenario 1: <br>Dado que el usuario decide dejar de usar la plataforma,<br>cuando selecciona la opción de eliminar cuenta,<br>entonces el sistema elimina permanentemente su perfil y datos asociados.<br><br>-Escenario 2: <br>Dado que el usuario tiene pedidos en curso,<br>cuando intenta eliminar la cuenta,<br>entonces el sistema le informa que debe finalizar o cancelar los pedidos antes de proceder. | EP05 |
+| US28 | Configuración de seguridad en dos pasos | Como usuario, quiero activar la autenticación de dos factores para asegurar que mi cuenta esté protegida contra accesos no autorizados. | -Escenario 1: <br>Dado que el usuario quiere proteger su cuenta,<br>cuando habilita la autenticación en dos pasos,<br>entonces el sistema solicita un segundo método de verificación al iniciar sesión.<br><br>-Escenario 2: <br>Dado que el usuario no tiene acceso a su segundo factor,<br>cuando intenta iniciar sesión,<br>entonces el sistema proporciona un método alternativo para recuperar el acceso a la cuenta. | EP05 |
+| US29 | Gestión de métodos de pago | Como usuario, quiero poder añadir, editar o eliminar métodos de pago en mi cuenta, para tener flexibilidad al realizar mis pedidos. | -Escenario 1: <br>Dado que el usuario quiere agregar una nueva tarjeta de crédito,<br>cuando ingresa la información de la tarjeta,<br>entonces el sistema guarda el método de pago para futuras transacciones.<br><br>-Escenario 2: <br>Dado que el usuario desea eliminar un método de pago antiguo,<br>cuando selecciona la opción de eliminar,<br>entonces el sistema confirma la acción antes de eliminar el método de pago. | EP05 |
+| US30 | Recuperación de cuenta | Como usuario, quiero poder recuperar mi cuenta si olvido mis credenciales, para no perder acceso a la plataforma. | -Escenario 1: <br>Dado que el usuario olvida su contraseña,<br>cuando solicita la recuperación de cuenta,<br>entonces el sistema envía un enlace para restablecer la contraseña al correo electrónico registrado.<br><br>-Escenario 2: <br>Dado que el usuario no tiene acceso al correo registrado,<br>cuando intenta recuperar su cuenta,<br>entonces el sistema proporciona alternativas como preguntas de seguridad o verificación telefónica. | EP05 |
 
 ### 3.3. Impact Mapping
 
