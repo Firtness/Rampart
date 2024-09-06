@@ -678,6 +678,16 @@ Tras la identificación de los segmentos objetivo (cocineros caseros y estudiant
 
 ### 2.3.4. Empathy Mapping
 
+#### **User Persona 1: María**
+| <p align="center">Think and Feel | <p align="center">Hear | <p align="center">See | <p align="center">Say and Do | <p align="center">Pain | <p align="center">Gain |
+|-|-|-|-|-|-|
+| <p align="center" justify-content="center"><ul><li>Piensa en como aportar ingresos a su hogar para apoyar a su familia.<li>Siente orgullo por sus habilidades culinarias y quiere compartirlas con su comunidad. | <p align="center"><ul><li>Escucha los comentarios positivos de su familia y consumidores.<li>Oye historias de otros cocineros que lograron monetizar su pasión. | <p align="center"><ul><li>Observa que otros cocineros locales mejoraron sus ventas gracias a los negocios online.<li>Nota que otros cocineros tienen presentaciones más profesionales, lo que les otorga mayor visibilidad.  | <p align="center"><ul><li>Ofrece menús variados e intenta adaptarse a sus clientes.<li>Publica fotos de sus platos en internet. | <p align="center"><ul><li>La competencia online le parece abrumadora.<li>Le cuesta gestionar los pedidos durante horas pico. | <p align="center"><ul><li>Una plataforma que le permita manejarse de manera sencilla en el ámbito de las ventas online.<li>Retroalimentación directa de los clientes para mejorar sus platillos y servicio. |
+
+#### **User Persona 2: Ricardo**
+| <p align="center">Think and Feel | <p align="center">Hear | <p align="center">See | <p align="center">Say and Do | <p align="center">Pain | <p align="center">Gain |
+|-|-|-|-|-|-|
+| <p align="center" justify-content="center"><ul><li>Piensa en como gestionar su tiempo con sus estudios.<li>Siente que su salud se ve afectada por la falta de una dieta balanceada. | <p align="center" justify-content="center"><ul><li>Oye recomendaciones de amigos sobre comprar comida online.<li>Escucha a sus compañeros quejarse de la falta de opciones de comida saludable en el mercado. | <p align="center" justify-content="center"><ul><li>Ve a muchos estudiantes dependiendo de la comida rápida.<li>Observa a algunos compañeros aprendiendo a cocinar, pero él no tiene tiempo para ello. | <p align="center" justify-content="center"><ul><li>Suele usar aplicaciones de comida rápida, pero siente que no son buenas para su salud a largo plazo<li>Investiga sobre formas de ordenar comida saludable a través de internet. | <p align="center" justify-content="center"><ul><li>No tener opciones de comida saludable, o que estás estén fuera de su presupuesto.<li>No tener tiempo para aprender a cocinar por si mismo. | <p align="center" justify-content="center"><ul><li>Una plataforma que ofrezca una variedad de platos sin tener que invertir demasiado tiempo.<li>Una experiencia de compra fluida que se adapte a sus horarios ajustados. |
+
 ### 2.3.5. As-is Scenario Mapping
 
 ## 2.4. Ubiquitous Language
