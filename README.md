@@ -861,6 +861,38 @@ x|  | Ampliación de su alcance | Permitir a los cocineros conocer las preferenc
 x| | Mejora de la eficiencia operativa | Implementar un apartado que permita gestionar pedidos y horarios de manera efectiva para optimizar su tiempo y recursos.
 
 ### 3.4. Product Backlog
+| #Orden | User Story ID | Título                                          | Descripción                                                                                                                                           | Story Points <br> (1/2/3/5/8) |
+| ------ | ------------- | ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |:-----------------------------:|
+|1|US01|Registro de usuario|Como usuario ocupado, quiero poder acceder al servicio para ahorar tiempo en la preparacion de comidas diarias y semanales.|3|
+|2|US02|Busqueda por preferencias|Como usuario ocupado, quiero poder filtrar las opciones de comida según mis preferencias dietéticas, para encontrar rápidamente algo que se ajuste a mi dieta.|5|
+|3|US03|Visualización de reseñas|Como usuario, quiero poder ver reseñas detalladas y perfiles de cocineros, para sentirme seguro de que estoy eligiendo la mejor opción.|5|
+|4|US04|Visualizacion de informacion nutricional|Proporcionar información nutricional detallada de cada plato para ayudar a los usuarios a tomar decisiones informadas sobre su alimentación.|5|
+|5|US05|Programacion de entrega|Como usuario, quiero poder programar la entrega de mi pedido para que llegue en un momento conveniente, ajustándose a mi agenda.|5|
+|6|US06|Experiencia personalizada|Como usuario ocupado, quiero recibir recomendaciones personalizadas de comidas basadas en mis pedidos anteriores y preferencias, para ahorrar tiempo en la selección de opciones que se ajusten a mis gustos.|8|
+|7|US07|Personalización de Menús|Como usuario, quiero poder personalizar los menús según mis gustos y necesidades dietéticas para asegurarme de recibir comidas que cumplan con mis preferencias. |5|
+|8|US08|Programación de Repetición de Pedidos|Como usuario frecuente, quiero poder programar la repetición de mis pedidos para recibir mis comidas favoritas de manera regular sin tener que hacer un pedido manualmente cada vez.|8|
+|9|US09|Recordatorios de Entrega|Como usuario, quiero recibir recordatorios antes de la entrega de mi pedido para asegurarme de estar disponible para recibirlo|3|
+|10|US10|Opción de Entrega en Múltiples Direcciones|Como usuario, quiero poder elegir diferentes direcciones de entrega para recibir mis pedidos en varios lugares según mi ubicación en el momento|5|
+|11|US11|Confirmación de Recepción de Pedido|Como usuario, quiero confirmar la recepción de mi pedido para asegurarme de que el servicio ha sido entregado correctamente y para actualizar el estado del pedido.|3|
+|12|US12|Opciones de Suscripción para Ofertas Exclusivas|Como usuario, quiero poder suscribirme a ofertas y menús exclusivos para recibir descuentos y acceso anticipado a nuevas opciones.|5|
+|13|US13|Notificaciones de nuevo menús|Como profesional ocupado, quiero recibir notificaciones sobre nuevos menús cerca de mi ubicación para aprovechar las ofertas más recientes. |5|
+|14|US14|Repetición de pedidos|Como profesional ocupado, quiero tener la opción de repetir mis pedidos anteriores para ahorrar tiempo al hacer futuras compras.|8|
+|15|US15|Programación de pedidos| Como profesional ocupado, quiero programar la fecha y hora de entrega de mis pedidos para asegurarme de recibir la comida cuando la necesite.|5|
+|16|US16|Métodos de pago|Como profesional ocupado, quiero pagar mi pedido a través de múltiples métodos de pago para tener más flexibilidad.|5|
+|17|US17| Confirmación de entrega|Como profesional ocupado, quiero confirmar la recepción de mi pedido para asegurarme de que el servicio fue exitoso.|3|
+|18|US18| Gestión de favoritos|Como profesional ocupado, quiero poder guardar mis cocineros y menús favoritos para acceder fácilmente a ellos en el futuro|5|
+|19|US19|Publicar Recetas|Como cocinero, quiero publicar recetas para compartir mis conocimientos culinarios con la comunidad.|5|
+|20|US20|Filtrar Recetas.|Como usuario de la plataforma, quiero poder filtrar las recetas según varios criterios para encontrar la que más se ajuste a mis necesidades.|5|
+|21|US21|Guardar Recetas Favoritas.|Como usuario, quiero poder guardar mis recetas favoritas para acceder a ellas fácilmente en el futuro.|3|
+|22|US22|Comentarios en Recetas.|Como usuario, quiero poder dejar comentarios en las recetas para compartir mis opiniones o sugerencias.|5|
+|23|US23|Calificar Recetas.|Como usuario, quiero poder calificar las recetas que preparo para dar feedback a los cocineros y ayudar a otros usuarios a encontrar las mejores opciones.|5|
+|24|US24|Notificación de Nuevas Recetas.|Como usuario, quiero recibir notificaciones cuando se publiquen nuevas recetas por cocineros que sigo para estar al tanto de sus últimas creaciones.|5|
+|25|US25|Edición de perfil de usuario|Como usuario, quiero poder editar mis datos personales, como nombre, dirección y preferencias de contacto, para asegurarme de que la información esté actualizada.|3|
+|26|US26|Cambio de contraseña y métodos de autenticación| Como usuario, quiero poder cambiar mi contraseña y gestionar métodos de autenticación adicionales para aumentar la seguridad de mi cuenta.|5|
+|27|US27|Actualización de métodos de pago|Como usuario, quiero poder agregar, editar o eliminar métodos de pago, para tener flexibilidad al realizar mis compras.|5|
+|28|US28|Alertas de actividad sospechosa|Como usuario, quiero recibir notificaciones en caso de actividad sospechosa en mi cuenta para tomar medidas inmediatas.|5|
+|29|US29|Cierre de cuenta|Como usuario, quiero poder eliminar mi cuenta y todos los datos asociados de manera definitiva, para tener control sobre mi información.|3|
+|30|US30|Gestión de consentimiento de datos|Como usuario, quiero gestionar el consentimiento de uso de mis datos personales para asegurarme de que se respeten mis preferencias de privacidad.|5|
 
 ## Capítulo IV: Product Design
 
