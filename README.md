@@ -76,8 +76,8 @@ Product: Sabores Cercanos
     - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
   - [2.3. Needfinding](#23-needfinding)
     - [2.3.1. User Personas](#231-user-personas)
-  - [**User Persona del Segmento Objetivo 1: Cocineros Caseros**](#user-persona-del-segmento-objetivo-1-cocineros-caseros)
-  - [**User Persona del Segmento Objetivo 2: Estudiantes/Profesionales Ocupados**](#user-persona-del-segmento-objetivo-2-estudiantesprofesionales-ocupados)
+      - [2.3.1.1. User Persona del Segmento Objetivo 1: Cocineros Caseros](#2311-User-Persona-del-Segmento-Objetivo-1-Cocineros-Caseros)
+      - [2.3.1.2. User Persona del Segmento Objetivo 2: Estudiantes/Profesionales Ocupados](#2312-user-persona-del-segmento-objetivo-2-estudiantesprofesionales-ocupados)
     - [2.3.2. User Task Matrix](#232-user-task-matrix)
     - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
       - [**User Persona 1: María**](#user-persona-1-maría)
@@ -625,7 +625,7 @@ Antes de poder realizar las entrevistas, consideramos prudente poder concretar u
    La entrevista con omar proporcionó información valiosa sobre como un universitario ocupado realiza sus actividades y sus principales desafios respecto a su alimentacion. Omar nos comenta que tiene muy poco tiempo para cocinar durante el horario del almuerzo y tiene que almorzar en restaurantes de comida rapida. Cuando el no tiene tiempo para cocinar pide deliverys mediante aplicativos de celular para ahorrarse el tiempo de cocinar. Por otro lado, el considera que la calidad de la comida nutricional es minima en los restaurantes locales. Así mismo, El considera que una plataforma que permita a las personas ocupadas conseguir buena comida y accesible es una gran idea. El espera que una herramienta le brinde la tranquilidad de encontrar comidas saludables y caseras para su bien estar diario y semanal.
 
    2. Entrevista 2:<br>
-   ![Captura entrevista 1](/assets/images/Captura_Entrevista_2_Segmento_1.png)
+   ![Captura entrevista 2](/assets/images/Captura_Entrevista_2_Segmento_1.png)
    <br>Nombre: Lourdes<br>
    Apellidos: Huamaní <br>
    Edad: 22 <br>
@@ -638,7 +638,7 @@ Antes de poder realizar las entrevistas, consideramos prudente poder concretar u
 
 * Segmento 2: Cocineros Caseros
    1. Entrevista 1:<br>
-   ![Captura entrevista 1](/assets/images/Captura_Entrevista_1_Segmento_2.png)
+   ![Captura entrevista 3](/assets/images/Captura_Entrevista_1_Segmento_2.png)
    <br>Nombre: Alejandro<br>
    Apellidos: Luján <br>
    Edad: 25 <br>
@@ -660,7 +660,7 @@ Tras la identificación de los segmentos objetivo (cocineros caseros y estudiant
 
 ### 2.3.1. User Personas
 
-**User Persona del Segmento Objetivo 1: Cocineros Caseros**
+#### 2.3.1.1. **User Persona del Segmento Objetivo 1: Cocineros Caseros**
 ---
 | Attributes | <p align="center">Values</p> |
 |--|--|
@@ -681,7 +681,7 @@ Tras la identificación de los segmentos objetivo (cocineros caseros y estudiant
 | Technology | <p><ul><li>IT and Internet: **50 de 100**<li>Software: **50 de 100**<li>Mobile Apps: **60 de 100**<li>Social Networks: **60 de 100** |
 | Brands | <p><ul><li>Facebook<li>Youtube |
 
-**User Persona del Segmento Objetivo 2: Estudiantes/Profesionales Ocupados**
+#### 2.3.1.2. **User Persona del Segmento Objetivo 2: Estudiantes/Profesionales Ocupados**
 ---
 | Attributes | <p align="center">Values</p> |
 |--|--|
