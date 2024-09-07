@@ -879,7 +879,7 @@ Elegimos Lora para los párrafos debido a su legibilidad y estilo. Haciéndola p
 
 ### 4.1.2. Web Style Guidelines
 
-
+![Web Style Guidelines](/assets/images/web-style-guidelines.jpg)
 
 ### 4.2. Information Architecture
 
