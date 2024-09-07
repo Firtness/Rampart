@@ -1,6 +1,6 @@
 # Rampart
 
-Product: Sentinel
+Product: Sabores Cercanos
 
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
 
