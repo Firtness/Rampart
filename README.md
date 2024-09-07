@@ -41,19 +41,6 @@ Product: Sabores Cercanos
 ## Contenido
 
 ### Tabla de contenidos
-
-- [Rampart](#rampart)
-- [UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS](#universidad-peruana-de-ciencias-aplicadas)
-  - [Ingenieria de Software](#ingenieria-de-software)
-  - [5to ciclo](#5to-ciclo)
-  - [Aplicaciones Web](#aplicaciones-web)
-    - [**Sección:** WS51](#sección-ws51)
-    - [**Profesor:** Hugo Allan Mori Paiva](#profesor-hugo-allan-mori-paiva)
-    - [Informe de Trabajo Final](#informe-de-trabajo-final)
-    - ["Rampart"](#rampart-1)
-    - ["Sabores Cercanos"](#sabores-cercanos)
-    - [**Integrantes:**](#integrantes)
-    - [Agosto, 2024](#agosto-2024)
   - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
   - [Project Report Collaboration Insights](#project-report-collaboration-insights)
   - [Contenido](#contenido)
@@ -643,7 +630,7 @@ Antes de poder realizar las entrevistas, consideramos prudente poder concretar u
 
    2. Entrevista 2:<br>
    ![Captura entrevista 1](/assets/images/Captura_Entrevista_2_Segmento_1.png)
-   Nombre: Lourdes<br>
+   <br>Nombre: Lourdes<br>
    Apellidos: Huamaní <br>
    Edad: 22 <br>
    Distrito: Comas <br>
@@ -656,7 +643,7 @@ Antes de poder realizar las entrevistas, consideramos prudente poder concretar u
 * Segmento 2: Cocineros Caseros
    1. Entrevista 1:<br>
    ![Captura entrevista 1](/assets/images/Captura_Entrevista_1_Segmento_2.png)
-   Nombre: Alejandro<br>
+   <br>Nombre: Alejandro<br>
    Apellidos: Luján <br>
    Edad: 25 <br>
    Distrito: Comas <br>
