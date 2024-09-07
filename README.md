@@ -1174,13 +1174,36 @@ Estas configuraciones aseguran que los usuarios de "Sabores Cercanos" puedan mov
 
 ### 4.3.1. Landing Page Wireframe
 
+<p align="center"><img height="180px" src="assets/images/Wireframe_LP.png"> </p>
+
+<p align="center"><img height="100px" src="assets/images/Wireframe_LP_Mobile.png"> </p>
+
 ### 4.3.2. Landing Page Mock-up
+
+<p align="center"><img height="180px" src="assets/images/Mockup_LP_1.png"> </p>
+
+<p align="center"><img height="180px" src="assets/images/Mockup_LP_2.png"> </p>
+
+<p align="center"><img height="100px" src="assets/images/Mockuo_LP_Mobile.png"> </p>
 
 ### 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
 
+<p align="center"><img height="100px" src="assets/images/Wireframe_WA_1.png"> </p>
+
+<p align="center"><img height="100px" src="assets/images/Wireframe_WA_2.png"> </p>
+
+<p align="center"><img height="100px" src="assets/images/Wireframe_WA_3.png"> </p>
+
+<p align="center"><img height="100px" src="assets/images/Wireframe_WA_4.png"> </p>
+
+<p align="center"><img height="100px" src="assets/images/Wireframe_WA_5.png"> </p>
+
 ### 4.4.2. Web Applications Wireflow Diagrams
+
+* #### Goal: El usuario se registra en la aplicacion:
+El siguiente wireflow muestra la secuencia de pasos que un usuario sigue para crear una cuenta. Primero debe elegir el tipo de usuario, llenar todos los campos solicitados en el registro, hacer clic en “Siguiente” e ingresar el código de verificación enviado al correo electrónico proporcionado.
 
 ### 4.4.2. Web Applications Mock-ups
 
