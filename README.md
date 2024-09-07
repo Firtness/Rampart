@@ -690,6 +690,22 @@ Tras la identificación de los segmentos objetivo (cocineros caseros y estudiant
 
 ### 2.3.5. As-is Scenario Mapping
 
+* Segmento 1: Cocineros Caseros
+
+| **Fases**|**Preparar la comida diaria para la familia**|**Explorar opciones para generar ingresos**| **Vender comida en eventos o a conocidos**|
+|-|-|-|-|
+|**Doing**|Prepara comidas para su familia diariamente y busca optimizar su tiempo y recursos.|Considera opciones para vender comida como un negocio secundario, investigando el mercado.| Participa en ventas pequeñas, vendiendo a amigos o en eventos locales.|
+|**Thinking**|"¿Cómo puedo aprovechar mis habilidades de cocina para apoyar a mi familia?"|"¿Qué plataformas o herramientas existen para vender comida casera y hacerlo viable?"|"¿Vale la pena invertir tiempo en esto?"|
+| **Feeling**|Motivación por encontrar maneras de contribuir a la economía familiar.|Incertidumbre sobre cómo iniciar un negocio en línea sin suficiente conocimiento tecnológico.|Orgullo al vender comida, pero cansancio por el trabajo de logística.|
+
+* Segmento 2: Universitarios/Profesionales ocupados para cocinar
+
+|**Fases**|**Identificar la necesidad de comida**|**Buscar opciones y hacer el pedido**|**Recibir y consumir la comida**|
+|-|-|-|-|
+|**Doing**|El usuario reconoce que necesita una comida rápida y conveniente.| Investiga diferentes opciones de comida rápida o servicios de entrega.| Recibe la comida, la consume y continúa con sus actividades.|
+|**Thinking**|"No tengo tiempo para cocinar, pero quiero algo saludable y económico."|"¿Cuál de estas opciones me permite comer bien sin gastar demasiado y esperar demasiado?"|"¿Será lo suficientemente bueno a largo plazo o tendré que buscar otra opción la próxima vez?"|
+|**Feeling**|Frustración por no tener tiempo para cocinar o preparar algo nutritivo.| Dudas sobre si la opción que eligió es la más conveniente en términos de calidad y precio.|Alivio si la comida llega a tiempo y satisface sus expectativas, o decepción si no.|
+
 ## 2.4. Ubiquitous Language
 
 En Sabores Cercanos, utilizamos un lenguaje común para asegurar una comunicación clara y efectiva entre todos los miembros del equipo, cocineros, y usuarios. A continuación, se describen algunos de los términos clave:
