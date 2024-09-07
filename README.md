@@ -637,6 +637,18 @@ Antes de poder realizar las entrevistas, consideramos prudente poder concretar u
    Resumen: <br>
    En la entrevista con Lourdes, se discutió su rutina diaria y las dificultades que enfrenta en cuanto a la alimentación debido a su apretada agenda. Lourdes, quien está en el séptimo ciclo de enfermería y trabaja, comienza su día temprano para ayudar a su hermana y, debido a su ocupada rutina, compra la mayor parte de sus comidas en la calle, ya que le falta tiempo y recursos para cocinar y calentar alimentos en su lugar de trabajo o estudio.Lourdes expresó que, aunque a veces puede preparar meriendas o algo simple, no tiene tiempo para cocinar comidas más elaboradas. Prefiere comida rápida por su conveniencia, pero ha tenido malas experiencias con la calidad nutricional de estos alimentos y desearía opciones más saludables y caseras. La comida casera es importante para ella, especialmente para el desayuno, aunque su almuerzo suele ser algo rápido debido a su falta de tiempo. Lourdes consideraría muy interesante una plataforma que le permita pedir comida casera a través de una aplicación móvil, ya que le ofrecería la flexibilidad de recibir comida a la hora que desee y revisar menús de antemano. Ella valoraría la posibilidad de personalizar su menú según sus preferencias y horarios, y estaría dispuesta a usar la aplicación si los precios son accesibles y la calidad es buena. Además, Lourdes espera que la aplicación incluya información sobre la salubridad de los cocineros y sus métodos de cocina. Le gustaría ver categorías de comidas en la aplicación y utilizar filtros para encontrar opciones que se ajusten a sus gustos, como la comida asiática.
 
+   3. Entrevista 3:<br>
+   ![Captura entrevista 3](assets/Captura_Entrevistas_3_Segmento_1.jpg)
+   <br>Nombre: Pia <br>
+   Apellidos: Barandiaran <br>
+   Edad: 22 <br>
+   Distrito: San Miguel <br>
+   URL: [Link de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201913495_upc_edu_pe/ETavGC5q4nxIhwrjuExv0NYBNt1Zw0AWpBjLssBDm5Gvsg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=s4zokS) <br>
+   Inicio: 00:24<br>
+   Duración: 05:12 <br>
+   Resumen: <br>
+   Pia Barandiaran, de 22 años, se desempeña como administradora. Durante la entrevista, nos comentó que, debido a su trabajo y la falta de tiempo, suele comer fuera de casa de lunes a viernes. Esto le representa un desafío, ya que le resulta difícil encontrar opciones de comida casera y saludable, además por cuestiones de tiempo, se le es complicado cocinar. Pia expresó que una aplicación como Sabores Cercanos sería un gran beneficio para su día a día.
+
 * Segmento 2: Cocineros Caseros
    1. Entrevista 1:<br>
    ![Captura entrevista 3](/assets/images/Captura_Entrevista_1_Segmento_2.png)
