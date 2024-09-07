@@ -42,83 +42,123 @@ Product: Sentinel
 
 ### Tabla de contenidos
 
-1. [**Capítulo I: Introducción**](#capítulo-i-introducción)
-   1. [Startup Profile](#11-startup-profile)
-      1. [Descripción de la Startup](#111-descripción-de-la-startup)
-      2. [Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
-   2. [Solution Profile](#12-solution-profile)
-      1. [Antecedentes y problemática](#121-antecedentes-y-problemática)
-      2. [Lean UX Process](#122-lean-ux-process)
-         1. [Lean UX Problem Statements](#1221-lean-ux-problem-statements)
-         2. [Lean UX Assumptions](#1222-lean-ux-assumptions)
-         3. [Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
-         4. [Lean UX Canvas](#1224-lean-ux-canvas)
-   3. [Segmentos objetivo](#13-segmentos-objetivo)
-2. [**Capítulo II: Requirements Elicitation & Analysis**](#capítulo-ii-requirements-elicitation--analysis)
-   1. [Competidores](#21-competidores)
-      1. [Análisis competitivo](#211-análisis-competitivo)
-      2. [Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
-   2. [Entrevistas](#22-entrevistas)
-      1. [Diseño de entrevistas](#221-diseño-de-entrevistas)
-      2. [Registro de entrevistas](#222-registro-de-entrevistas)
-      3. [Análisis de entrevistas](#223-análisis-de-entrevistas)
-   3. [Needfinding](#23-needfinding)
-      1. [User Personas](#231-user-personas)
-      2. [User Task Matrix](#232-user-task-matrix)
-      3. [User Journey Mapping](#233-user-journey-mapping)
-      4. [Empathy Mapping](#234-empathy-mapping)
-      5. [As-is Scenario Mapping](#235-as-is-scenario-mapping)
-   4. [Ubiquitous Language](#24-ubiquitous-language)
-3. [**Capítulo III: Requirements Specification**](#capítulo-iii-requirements-specification)
-   1. [To-Be Scenario Mapping](#31-to-be-scenario-mapping)
-   2. [User Stories](#32-user-stories)
-   3. [Impact Mapping](#33-impact-mapping)
-   4. [Product Backlog](#34-product-backlog)
-
-4. [**Capítulo IV: Product Design**](#capítulo-iv-product-design)
-   1. [Style Guidelines](#41-style-guidelines)
-      1. [General Style Guidelines](#411-general-style-guidelines)
-      2. [Web Style Guidelines](#412-web-style-guidelines)
-   2. [Information Architecture](#42-information-architecture)
-      1. [Organization Systems](#421-organization-systems)
-      2. [Labeling Systems](#422-labeling-systems)
-      3. [SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
-      4. [Searching Systems](#424-searching-systems)
-      5. [Navigation Systems](#425-navigation-systems)
-   3. [Landing Page UI Design](#43-landing-page-ui-design)
-      1. [Landing Page Wireframe](#431-landing-page-wireframe)
-      2. [Landing Page Mock-up](#432-landing-page-mock-up)
-   4. [Web Applications UX/UI Design](#44-web-applications-uxui-design)
-      1. [Web Applications Wireframes](#441-web-applications-wireframes)
-      2. [Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
-      3. [Web Applications Mock-ups](#443-web-applications-mock-ups)
-      4. [Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
-   5. [Web Applications Prototyping](#45-web-applications-prototyping)
-   6. [Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
-      1. [Software Architecture Context Diagram](#461-software-architecture-context-diagram)
-      2. [Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
-      3. [Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
-   7. [Software Object-Oriented Design](#47-software-object-oriented-design)
-      1. [Class Diagrams](#471-class-diagrams)
-      2. [Class Dictionary](#472-class-dictionary)
-   8. [Database Design](#48-database-design)
-      1. [Database Diagram](#481-database-diagram)
-5. [**Capítulo V: Product Implementation, Validation & Deployment**](#capítulo-v-product-implementation-validation--deployment)
-   1. [Software Configuration Management](#51-software-configuration-management)
-      1. [Software Development Environment Configuration](#511-software-development-environment-configuration)
-      2. [Source Code Management](#512-source-code-management)
-      3. [Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
-      4. [Software Deployment Configuration](#514-software-deployment-configuration)
-   2. [Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
-      1. [Sprint 1](#521-sprint-1)
-         1. [Sprint Planning 1](#5211-sprint-planning-1)
-         2. [Sprint Backlog 1](#5212-sprint-backlog-1)
-         3. [Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
-         4. [Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
-         5. [Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
-         6. [Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
-         7. [Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
-         8. [Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+- [Rampart](#rampart)
+- [UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS](#universidad-peruana-de-ciencias-aplicadas)
+  - [Ingenieria de Software](#ingenieria-de-software)
+  - [5to ciclo](#5to-ciclo)
+  - [Aplicaciones Web](#aplicaciones-web)
+    - [**Sección:** WS51](#sección-ws51)
+    - [**Profesor:** Hugo Allan Mori Paiva](#profesor-hugo-allan-mori-paiva)
+    - [Informe de Trabajo Final](#informe-de-trabajo-final)
+    - ["Rampart"](#rampart-1)
+    - ["Sabores Cercanos"](#sabores-cercanos)
+    - [**Integrantes:**](#integrantes)
+    - [Agosto, 2024](#agosto-2024)
+  - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
+  - [Project Report Collaboration Insights](#project-report-collaboration-insights)
+  - [Contenido](#contenido)
+    - [Tabla de contenidos](#tabla-de-contenidos)
+  - [Student Outcome](#student-outcome)
+  - [Capítulo I: Introducción](#capítulo-i-introducción)
+    - [1.1. Startup Profile](#11-startup-profile)
+    - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
+          - [Misión:](#misión)
+          - [Visión:](#visión)
+    - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+    - [1.2. Solution Profile](#12-solution-profile)
+    - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
+          - [What?](#what)
+          - [When?](#when)
+          - [Where?](#where)
+          - [Who?](#who)
+          - [Why?](#why)
+          - [Who?](#who-1)
+          - [How much?](#how-much)
+    - [1.2.2. Lean UX Process](#122-lean-ux-process)
+    - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+    - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+    - [Assumptions para "Sabores Cercanos"](#assumptions-para-sabores-cercanos)
+    - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+    - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+    - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
+  - [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
+    - [2.1. Competidores](#21-competidores)
+    - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
+    - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+    - [2.2. Entrevistas](#22-entrevistas)
+    - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
+    - [Preguntas para Entrevistar a Estudiantes/Profesionales Ocupados](#preguntas-para-entrevistar-a-estudiantesprofesionales-ocupados)
+    - [Preguntas para Entrevistar a Cocineros Caseros](#preguntas-para-entrevistar-a-cocineros-caseros)
+    - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
+    - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
+  - [2.3. Needfinding](#23-needfinding)
+    - [2.3.1. User Personas](#231-user-personas)
+  - [**User Persona del Segmento Objetivo 1: Cocineros Caseros**](#user-persona-del-segmento-objetivo-1-cocineros-caseros)
+  - [**User Persona del Segmento Objetivo 2: Estudiantes/Profesionales Ocupados**](#user-persona-del-segmento-objetivo-2-estudiantesprofesionales-ocupados)
+    - [2.3.2. User Task Matrix](#232-user-task-matrix)
+    - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+      - [**User Persona 1: María**](#user-persona-1-maría)
+      - [**User Persona 2: Ricardo**](#user-persona-2-ricardo)
+    - [2.3.4. Empathy Mapping](#234-empathy-mapping)
+      - [**User Persona 1: María**](#user-persona-1-maría-1)
+      - [**User Persona 2: Ricardo**](#user-persona-2-ricardo-1)
+    - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+  - [2.4. Ubiquitous Language](#24-ubiquitous-language)
+    - [Términos generales](#términos-generales)
+    - [Perfiles de Usuario](#perfiles-de-usuario)
+    - [Proceso de Pedido y Entrega](#proceso-de-pedido-y-entrega)
+    - [Gestión y Administración](#gestión-y-administración)
+    - [Datos y Análisis](#datos-y-análisis)
+    - [Disponibilidad y Programación](#disponibilidad-y-programación)
+  - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
+    - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+    - [3.2. User Stories](#32-user-stories)
+    - [3.3. Impact Mapping](#33-impact-mapping)
+    - [3.4. Product Backlog](#34-product-backlog)
+  - [Capítulo IV: Product Design](#capítulo-iv-product-design)
+    - [4.1. Style Guidelines.](#41-style-guidelines)
+    - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
+    - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
+    - [4.2. Information Architecture](#42-information-architecture)
+    - [4.2.1. Organization Systems](#421-organization-systems)
+    - [4.2.2. Labeling Systems](#422-labeling-systems)
+    - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+    - [4.2.4. Searching Systems](#424-searching-systems)
+    - [4.2.5. Navigation Systems](#425-navigation-systems)
+    - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
+    - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
+    - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
+    - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
+    - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
+    - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
+    - [4.4.2. Web Applications Mock-ups](#442-web-applications-mock-ups)
+    - [4.4.3. Web Applications User Flow Diagrams](#443-web-applications-user-flow-diagrams)
+    - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
+    - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
+    - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
+    - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
+    - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
+    - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
+    - [4.7.1. Class Diagrams](#471-class-diagrams)
+    - [4.7.2. Class Dictionary](#472-class-dictionary)
+    - [4.8. Database Design](#48-database-design)
+    - [4.8.1. Database Diagram](#481-database-diagram)
+  - [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
+    - [5.1. Software Configuration Management](#51-software-configuration-management)
+    - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
+    - [5.1.2. Source Code Management](#512-source-code-management)
+    - [5.1.3. Source Code Style Guide \& Conventions](#513-source-code-style-guide--conventions)
+    - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
+    - [5.2. Landing Page, Services \& Applications Implementation](#52-landing-page-services--applications-implementation)
+    - [5.2.1. Sprint 1](#521-sprint-1)
+    - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
+    - [5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)
+    - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
+    - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
+    - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+    - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+    - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+    - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
 
 
 
@@ -173,7 +213,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 |-|-|
 - José Antonio Alejo Cárdenas - U202122484
 
-| <p align="center"><img width="3400" src="https://cdn.discordapp.com/attachments/1257109045723271192/1275483107750969374/431736242_1183080929593718_8350965829789705455_n.jpg?ex=66c60db6&is=66c4bc36&hm=474bf1421134dedcd161b88fdedca0785b7ee469488a854a42e817df68a83594&"> </p> | Soy José Alejo Cárdenas tengo 23 años soy estudiante de la carrera de Ingeniería de Software del quinto ciclo. Desde pequeño he sentido facinacion por la tecnologia en general sobretodo por el funcionamiento, desarrollo y proteccion del software. He estudiado lenguajes de programacion (java, python y C++), bases de datos (Microsoft SQL Server y Mongo DB) y Sistemas Operativos (Kali Linux y Windows). Asi mismo, tengo experiencia con hardware a nivel de esamblamiento de equipos y funcionamiento del mismo con sus especificaciones tecnicas. Además, mi constante comunicacion y organizacion durante cualquier trabajo grupal aportara mucho dinamismo al proyecto. Mis principales hobbies son entrenar en el gimnasio, jugar videojuegos con mis amigos y salir a conversar con estos ultimos durante algun almuerzo o cena. Para el proyecto aportare organizacion, comunicacion e inspiracion durante todo el transcurso del mismo.
+| <p align="center"><img width="3000" height="auto" src="assets/images/Jose_profile.jpg"> | Soy José Alejo Cárdenas tengo 23 años soy estudiante de la carrera de Ingeniería de Software del quinto ciclo. Desde pequeño he sentido facinacion por la tecnologia en general sobretodo por el funcionamiento, desarrollo y proteccion del software. He estudiado lenguajes de programacion (java, python y C++), bases de datos (Microsoft SQL Server y Mongo DB) y Sistemas Operativos (Kali Linux y Windows). Asi mismo, tengo experiencia con hardware a nivel de esamblamiento de equipos y funcionamiento del mismo con sus especificaciones tecnicas. Además, mi constante comunicacion y organizacion durante cualquier trabajo grupal aportara mucho dinamismo al proyecto. Mis principales hobbies son entrenar en el gimnasio, jugar videojuegos con mis amigos y salir a conversar con estos ultimos durante algun almuerzo o cena. Para el proyecto aportare organizacion, comunicacion e inspiracion durante todo el transcurso del mismo.
 |-|-|
 - Sebastián Omar Real Calderón - U20221D964
 
@@ -831,7 +871,7 @@ EPICS:
 |US01|Registro de usuario|Como usuario ocupado, quiero poder acceder al servicio para ahorar tiempo en la preparacion de comidas diarias y semanales. |-Escenario 1: Registro rápido<br>Dado que el usuario es un profesional ocupado que necesita acceder rápidamente a la plataforma,<br>Cuando el usuario introduce su correo electrónico y una contraseña para registrarse,<br>Entonces el aplicativo completa el proceso de registro en menos de 2 minutos, permitiéndole explorar de inmediato las opciones de comida disponibles.<br><br>-Escenario 2: Registro con redes sociales<br>Dado que el usuario prefiere utilizar sus cuentas de redes sociales para registrarse rápidamente,<br>Cuando el usuario selecciona la opción de registrarse con Google o Facebook,<br>Entonces el aplicativo realiza el registro automáticamente y lo redirige a la página de inicio en cuestión de segundos.|EP01|
 |US02|Busqueda por preferencias|Como usuario ocupado, quiero poder filtrar las opciones de comida según mis preferencias dietéticas, para encontrar rápidamente algo que se ajuste a mi dieta.|-Escenario 1: Filtro por dieta vegetariana<br>Dado que el usuario sigue una dieta vegetariana y quiere encontrar opciones que se ajusten a sus necesidades,<br>Cuando el usuario aplica el filtro de comida vegetariana en la búsqueda,<br>Entonces el aplicativo muestra solo opciones de comidas vegetarianas, facilitando la selección rápida de un plato adecuado.<br><br>-Escenario 2: Búsqueda por preferencias de bajo contenido calórico<br>Dado que el usuario está cuidando su ingesta calórica,<br>Cuando el usuario aplica el filtro de “bajo en calorías”,<br>Entonces el aplicativo presenta únicamente las opciones que cumplen con este criterio, ayudando al usuario a hacer una elección informada.<br>|EP01|
 |US03|Visualización de reseñas|Como usuario, quiero poder ver reseñas detalladas y perfiles de cocineros, para sentirme seguro de que estoy eligiendo la mejor opción.|-Escenario 1: Ver reseñas antes de hacer un pedido<br>Dado que el usuario quiere asegurarse de que el cocinero ofrece comida de calidad,<br>Cuando el usuario revisa las reseñas y calificaciones de otros clientes,<br>Entonces el aplicativo muestra de forma clara y detallada las opiniones y calificaciones, permitiéndole tomar una decisión informada.<br><br>-Escenario 2: Comparar cocineros antes de elegir<br>Dado que el usuario tiene varias opciones de cocineros y quiere elegir la mejor,<br>Cuando el usuario compara las reseñas y perfiles de varios cocineros,<br>Entonces el aplicativo facilita la comparación lado a lado, ayudando al usuario a seleccionar el cocinero que mejor se ajusta a sus expectativas.<br>|EP01|
-|US04|Visualizacion de informacion nutricional|Proporcionar información nutricional detallada de cada plato para ayudar a los usuarios a tomar decisiones informadas sobre su alimentación.|-Escenario 1: Revisión de información nutricional para una comida específica<br>Dado que el usuario está preocupado por la cantidad de calorías y nutrientes en su comida,<br>Cuando el usuario revisa la información nutricional detallada de un plato antes de pedirlo,<br>Entonces el aplicativo despliega la información de manera clara y comprensible, permitiéndole tomar una decisión basada en sus objetivos de salud.<br><br>-Escenario 2: Comparación de platos por contenido nutricional<br>Dado que el usuario está tratando de elegir entre dos opciones de platos,<br>Cuando el usuario compara la información nutricional de ambos platos,<br>Entonces el aplicativo facilita la comparación, ayudándole a elegir la opción que mejor se ajuste a sus necesidades dietéticas.<br>|EP01|
+|US04|Visualizacion de informacion nutricional|Como usuario, quiero ver información nutricional detallada de cada plato, para poder tomar decisiones informadas sobre mi alimentación y elegir opciones que se adapten a mis necesidades nutricionales.|-Escenario 1: Revisión de información nutricional para una comida específica<br>Dado que el usuario está preocupado por la cantidad de calorías y nutrientes en su comida,<br>Cuando el usuario revisa la información nutricional detallada de un plato antes de pedirlo,<br>Entonces el aplicativo despliega la información de manera clara y comprensible, permitiéndole tomar una decisión basada en sus objetivos de salud.<br><br>-Escenario 2: Comparación de platos por contenido nutricional<br>Dado que el usuario está tratando de elegir entre dos opciones de platos,<br>Cuando el usuario compara la información nutricional de ambos platos,<br>Entonces el aplicativo facilita la comparación, ayudándole a elegir la opción que mejor se ajuste a sus necesidades dietéticas.<br>|EP01|
 |US05|Programacion de entrega|Como usuario, quiero poder programar la entrega de mi pedido para que llegue en un momento conveniente, ajustándose a mi agenda.|-Escenario 1: Programación para recibir la comida después del trabajo<br>Dado que el usuario tiene un horario de trabajo ocupado y quiere cenar a una hora específica,<br>Cuando el usuario programa la entrega para que llegue justo después de que termine su jornada laboral,<br>Entonces el aplicativo asegura que la comida sea entregada puntualmente, sin interrupciones en su rutina diaria.<br><br>-Escenario 2: Entrega programada durante un descanso corto<br>Dado que el usuario tiene un breve periodo de descanso para comer,<br>Cuando el usuario programa la entrega para que coincida con el inicio de su descanso,<br>Entonces el aplicativo gestiona la entrega para que llegue en el momento preciso, permitiéndole disfrutar de su comida sin retrasos.<br>|EP01|
 |US06|Experiencia personalizada|Como usuario ocupado, quiero recibir recomendaciones personalizadas de comidas basadas en mis pedidos anteriores y preferencias, para ahorrar tiempo en la selección de opciones que se ajusten a mis gustos.|-Escenario 1: Recomendaciones basadas en pedidos anteriores<br>Dado que el usuario suele pedir comidas similares cada semana,<br>Cuando el usuario recibe recomendaciones basadas en sus pedidos anteriores,<br>Entonces el aplicativo sugiere opciones que se alinean con sus preferencias, facilitando la selección de sus comidas habituales.<br><br>-Escenario 2: Recomendaciones basadas en preferencias dietéticas<br>Dado que el usuario tiene preferencias dietéticas específicas (por ejemplo, bajo en carbohidratos),<br>Cuando el usuario recibe sugerencias de platos que cumplen con sus criterios,<br>Entonces el aplicativo presenta opciones personalizadas, ahorrándole tiempo y esfuerzo en la búsqueda de comidas adecuadas.|EP01|
 |US07|Personalización de Menús|Como usuario, quiero poder personalizar los menús según mis gustos y necesidades dietéticas para asegurarme de recibir comidas que cumplan con mis preferencias.|-Escenario 1: <br>Dado que el usuario quiere ajustar un menú,<br> cuando seleccione opciones de personalización,<br> entonces el sistema debe actualizar el menú de acuerdo con sus elecciones.<br>-Escenario 2: <br>Dado que el usuario tiene restricciones dietéticas,<br> cuando elija opciones específicas,<br> entonces el sistema debe mostrar sólo los platos que cumplen con esas restricciones. |EP02|
@@ -861,14 +901,7 @@ EPICS:
 
 ### 3.3. Impact Mapping
 
-Metas |Actores | Impacto | Entregables
------ |------- | ------- | -----------
-x| Universitarios/Profesionales ocupados para cocinar | Ahorro de tiempo | Implementacion de proceso de selección, pedido y entrega para que los usuarios puedan obtener su comida sin dedicar tiempo significativo.
-x|  | Experiencia Personalizada | Proporcionar información nutricional detallada de cada plato para ayudar a los usuarios a tomar decisiones informadas sobre su alimentación
-x||Información Nutricional|Proporcionar información nutricional detallada de cada plato para ayudar a los usuarios a tomar decisiones informadas sobre su alimentación.
-Transformar la forma en que las personas acceden a la comida casera, conectando a cocineros apasionados con consumidores que buscan opciones de alimentación saludable y conveniente. | Cocineros Caseros | Generación de ingresos|Proporcionar un medio de pago que permita a los cocineros caseros monetizar sus habilidades culinarias de manera eficiente.
-x|  | Ampliación de su alcance | Permitir a los cocineros conocer las preferencias del público , aumentando su base de clientes.
-x| | Mejora de la eficiencia operativa | Implementar un apartado que permita gestionar pedidos y horarios de manera efectiva para optimizar su tiempo y recursos.
+![texto_alternativo](/assets/images/Mapa%20de%20impacto.jpg)
 
 ### 3.4. Product Backlog
 | #Orden | User Story ID | Título                                          | Descripción                                                                                                                                           | Story Points <br> (1/2/3/5/8) |
@@ -956,11 +989,11 @@ Para nuestro primer segmento enfocado en Universitarios/Profesionales ocupados p
 Al seleccionar un plato, el usuario accede a una página detallada con información del plato, incluyendo una sección de reseñas y perfil del cocinero. La información está organizada jerárquicamente, con datos esenciales como la descripción del plato y la información nutricional en la parte superior, seguidos por reseñas y calificaciones en secciones inferiores. El usuario lee la descripción del plato, consulta la información nutricional y revisa las reseñas antes de tomar una decisión. La organización jerárquica facilita una navegación lógica desde los detalles del plato hasta la información de los usuarios. El usuario llega a la página de programación de entrega, donde se le presenta un calendario y opciones de horarios. La interfaz está organizada secuencialmente para guiar al usuario a través del proceso de selección de fecha y hora de entrega. El usuario selecciona la fecha y hora deseada para la entrega, revisa la información y confirma la programación. El diseño secuencial asegura que cada etapa del proceso de programación sea clara y fácil de completar.
 Después de realizar su primera compra, en la página de inicio o en una sección dedicada a recomendaciones, el usuario recibe sugerencias de platos basadas en sus pedidos anteriores y preferencias. Las recomendaciones se organizan jerárquicamente por categorías como "Recomendados para Ti" y "Nuevos en la Plataforma". El usuario explora las recomendaciones personalizadas presentadas en una vista de cuadrícula o lista. Puede ver las opciones sugeridas y decidir rápidamente cuáles le interesan. La organización jerárquica y matricial ayuda a destacar las opciones más relevantes y personalizadas.<br> <br>
 
-![texto_alternativo](/assets/images/UP%20ocupados%20para%20cocinar.png){width=width height=height}
+![texto_alternativo](/assets/images/UP%20ocupados%20para%20cocinar.png)
 
 Para nuestro segundo segmento enfocado en Cocineros Caseros, el proceso inicia al registrarse y configurar su perfil. El cocinero casero inicia su viaje en la plataforma mediante un proceso de registro. La interfaz está organizada secuencialmente, comenzando con el registro básico y luego avanzando a la configuración del perfil. El cocinero completa su registro, proporcionando detalles básicos como nombre y contacto. Luego, avanza a la configuración del perfil, donde debe ingresar información sobre sus especialidades culinarias, fotografías de sus platos y detalles de su cocina. Cada etapa del proceso está claramente definida para facilitar la finalización del registro y configuración. Una vez configurado el perfil, el cocinero accede a una sección para crear y gestionar sus menús. La interfaz utiliza una organización jerárquica para presentar opciones como “Añadir Nuevo Plato” y “Gestionar Menús Actuales”. Dentro de estas opciones, el contenido se organiza de forma matricial, mostrando platos individuales con detalles visuales. El cocinero selecciona “Añadir Nuevo Plato”, completa los detalles del plato, incluyendo nombre, descripción, precio y fotos. Luego puede ver y editar los menús existentes. La organización visual permite al cocinero gestionar sus menús de manera eficiente, con un enfoque en las tareas más importantes primero. En la sección de gestión de pedidos, el cocinero puede ver y procesar los pedidos recibidos. La interfaz está organizada secuencialmente por estados del pedido (por ejemplo, “Nuevo”, “En Proceso”, “Completado”), y los pedidos se presentan en un formato cronológico. El cocinero revisa los nuevos pedidos, los procesa según la secuencia establecida, y actualiza el estado de los pedidos en función del progreso. La organización secuencial y cronológica asegura que los pedidos se manejen de manera ordenada y eficiente. El cocinero puede acceder a una sección para revisar las reseñas y calificaciones de sus platos. La interfaz está organizada jerárquicamente, mostrando primero las reseñas más recientes y destacadas, seguidas de las reseñas más antiguas y menos relevantes. El cocinero lee las reseñas y calificaciones recibidas, prestando especial atención a los comentarios destacados para mejorar sus platos y servicios. La organización jerárquica facilita el enfoque en los comentarios más importantes y recientes. En la sección de configuración de perfil, el cocinero puede actualizar su información personal y de menú. La interfaz está organizada jerárquicamente con secciones principales como “Información del Perfil”, “Fotos de Platos”, y “Detalles de Cocina”. Dentro de cada sección, la información se presenta de manera alfabética para una fácil navegación. El cocinero actualiza su perfil y la información de los platos, navegando a través de las secciones y sub-secciones organizadas alfabéticamente para facilitar la búsqueda de elementos específicos. El cocinero tiene acceso a un panel de estadísticas que muestra el rendimiento de sus platos, incluyendo ventas y popularidad. La organización visual se utiliza para presentar gráficos y datos en un formato jerárquico, mientras que los datos se presentan cronológicamente. El cocinero revisa los informes y gráficos, analizando el rendimiento de sus platos a lo largo del tiempo. La organización visual y cronológica ayuda a identificar tendencias y patrones en las ventas y la popularidad de los platos.
 
-![texto_alternativo](/assets/images/Cocinero%20Casero.png){width=width height=height}
+![texto_alternativo](/assets/images/Cocinero%20Casero.png)
 
 Link: [url LucidChard](https://lucid.app/lucidchart/434db23b-883c-43b4-98ea-2da63e5366d5/edit?viewport_loc=-320%2C-12555%2C5713%2C2681%2C0_0&invitationId=inv_f9b021da-b3ba-42f7-b73a-b5085b472ce8 "Clickeame :3")
 ### 4.2.2. Labeling Systems
