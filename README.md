@@ -1255,17 +1255,60 @@ El usuario puede elegir la opción de “Compartir” dentro de la sección de P
 
 ### 4.4.3. Web Applications User Flow Diagrams
 
+* #### Goal: El usuario se registra en la aplicación:
+
+#### Happy path: 
+El usuario ingresa sus datos correctamente en la pantalla de registro y valida la creación de su cuenta con un código de seguridad.
+#### Unhappy path:
+El usuario no ingresa sus datos correctamente y recibe una advertencia.
+
 ![MOCKUP 1](/assets/images/Mockups/Uno.png)
+
+* #### Goal: El usuario inica sesión con su cuenta de Google:
+
+#### Happy path: 
+El usuario selecciona una cuenta de Google de su dispositivo e inicia sesión en la aplicación.
 
 ![MOCKUP 2](/assets/images/Mockups/Dos.png)
 
+* #### Goal: El usuario restablece su contraseña:
+
+#### Happy path: 
+El usuario ingresa su correo electrónico y recibe el enlace para reestablecer su contraseña.
+
 ![MOCKUP 3](/assets/images/Mockups/Tres.png)
+
+* #### Goal: El usuario recibe recomendaciones personalizadas:
+
+#### Happy path: 
+El usuario agrega su información de dieta y salud. Al dirigirse a la sección de de Recetas, visualiza las recomendaciones de la aplicación según sus preferencias.
+#### Unhappy path:
+El usuario, al no agregar su información personal, no recibe recomendaciones de recetas y debe buscarlas manualmente.
 
 ![MOCKUP 4](/assets/images/Mockups/Cuatro.png)
 
+* #### Goal: El usuario añade una receta a su plan de alimentación de un día específico:
+
+#### Happy path: 
+El usuario quiere agregar una receta a su plan de alimentación, así que coloca una fecha en la que debe añadirse y el tiempo de comida. Luego, visualiza sus recetas añadidas al plan de alimentación en “Plan”.
+#### Unhappy path:
+El usuario no selecciona la fecha ni tiempo de comida, por lo tanto, la receta no se agrega.
+
 ![MOCKUP 5](/assets/images/Mockups/Cinco.png)
 
+* #### Goal: El usuario exporta su plan alimenticio en pdf:
+
+#### Happy path: 
+El usuario selecciona la opción de “Exportar a PDF” y el plan se descarga en el formato elegido.
+#### Unhappy path:
+El usuario no puede descargar el plan debido a errores.
+
 ![MOCKUP 6](/assets/images/Mockups/Seis.png)
+
+* #### Goal: El usuario comparte su plan alimenticio con amigos o familiares:
+
+#### Happy path: 
+El usuario selecciona la opción “Compartir” y elige mediante qué aplicación desea compartir su plan de alimentación a uno de sus contactos.
 
 ![MOCKUP 7](/assets/images/Mockups/Siete.png)
 
