@@ -291,7 +291,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
    Las personas estarán motivadas por la conveniencia de recibir comida casera y saludable, la variedad de opciones disponibles, y la conexión con su comunidad. Para los cocineros, la motivación proviene de la oportunidad de ganar dinero haciendo lo que aman, sin los costos y riesgos asociados con un negocio de restauración tradicional.
 
 
-###### Who?
+###### How?
 
 - _¿Cómo nos descubren nuestros clientes?_
 
