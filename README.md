@@ -1205,19 +1205,37 @@ Estas configuraciones aseguran que los usuarios de "Sabores Cercanos" puedan mov
 * #### Goal: El usuario se registra en la aplicacion:
 El siguiente wireflow muestra la secuencia de pasos que un usuario sigue para crear una cuenta. Primero debe elegir el tipo de usuario, llenar todos los campos solicitados en el registro, hacer clic en “Siguiente” e ingresar el código de verificación enviado al correo electrónico proporcionado.
 
-![MOCKUP 1](/assets/images/Mockups/Uno.png)
+![Wireflow 1](assets/images/WA_Wireflow1.png)
 
-![MOCKUP 2](/assets/images/Mockups/Dos.png)
+* #### Goal: El usuario inicia sesión con su cuenta de Google:
+Para iniciar sesión con una cuenta de Google, el usuario debe hacer clic en “Continuar con Google” y elegir una cuenta en la que previamente ha iniciado sesión en su dispositivo. Esto le redirigirá a la página de bienvenida.
 
-![MOCKUP 3](/assets/images/Mockups/Tres.png)
+![Wireflow 2](assets/images/WA_Wireflow2.png)
 
-![MOCKUP 4](/assets/images/Mockups/Cuatro.png)
+* #### Goal: El usuario restablece su contraseña:
+Para lograr este goal, el usuario hace clic en “¿Olvidaste tu contraseña?” y será redirigido a un formulario en el cual debe ingresar el correo electrónico con el que se registró. Al hacer clic en “Enviar”, se le enviará un correo electrónico con un enlace para cambiar la contraseña. Una vez en esta sección, el usuario deberá ingresar una contraseña nueva y hacer clic en “Aceptar”.
 
-![MOCKUP 5](/assets/images/Mockups/Cinco.png)
+![Wireflow 3](assets/images/WA_Wireflow3.png)
 
-![MOCKUP 6](/assets/images/Mockups/Seis.png)
+* #### Goal: El usuario recibe recomendaciones personalizadas:
+El usuario inicia en la página de su cuenta. Al  hacer clic en la sección de “Preferencias dietéticas” es redirigido a un formulario donde deberá indicar sus gustos, alergias, etc. Una vez guardados los cambios, el usuario se dirige a la página “Recetas” y aparecerán sugerencias personalizadas, de lo contrario, aparecerá un mensaje de “No tienes recomendaciones”.
 
-![MOCKUP 7](/assets/images/Mockups/Siete.png)
+![Wireflow 4](assets/images/WA_Wireflow4.png)
+
+* #### Goal: El usuario añade una receta a su plan de alimentación de un día específico:
+El usuario inicia en la sección de “Recetas”. Aquí, puede dar clic en “Ver receta” para visualizar la información y agregarla a su plan de alimentación. Al momento de agregar, se solicitará elegir en qué fecha desea agregar la receta y en qué tiempo de comida. Una vez seleccionadas las opciones, el usuario podrá visualizar la receta en el apartado de “Recetas”.
+
+![Wireflow 5](assets/images/WA_Wireflow5.png)
+
+* #### Goal: El usuario exporta su plan alimenticio en pdf:
+En este goal, el usuario se dirige a la sección “Plan alimenticio”, hace clic en el menú desplegable y selecciona la opción “Exportar a PDF”. La descarga se confirma mediante un mensaje.
+
+![Wireflow 6](assets/images/WA_Wireflow6.png)
+
+* #### Goal: El usuario comparte su plan alimenticio con familiares o amigos:
+El usuario puede elegir la opción de “Compartir” dentro de la sección de Plan Alimenticio. Luego deberá elegir a quién desea enviar el archivo.
+
+![Wireflow 7](assets/images/WA_Wireflow7.png)
 
 ### 4.4.2. Web Applications Mock-ups
 
@@ -1236,6 +1254,20 @@ El siguiente wireflow muestra la secuencia de pasos que un usuario sigue para cr
 ![MOCKUP 7](/assets/images/Mockups/Siete.png)
 
 ### 4.4.3. Web Applications User Flow Diagrams
+
+![MOCKUP 1](/assets/images/Mockups/Uno.png)
+
+![MOCKUP 2](/assets/images/Mockups/Dos.png)
+
+![MOCKUP 3](/assets/images/Mockups/Tres.png)
+
+![MOCKUP 4](/assets/images/Mockups/Cuatro.png)
+
+![MOCKUP 5](/assets/images/Mockups/Cinco.png)
+
+![MOCKUP 6](/assets/images/Mockups/Seis.png)
+
+![MOCKUP 7](/assets/images/Mockups/Siete.png)
 
 ### 4.5. Web Applications Prototyping
 
