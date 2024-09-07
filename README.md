@@ -628,8 +628,26 @@ Antes de poder realizar las entrevistas, consideramos prudente poder concretar u
 
 ### 2.2.2. Registro de entrevistas
 
-### 2.2.3. Análisis de entrevistas
+* Segmento 1: Universitarios o Profesionales Ocupados
+   1. Entrevista 1:<br>
+   ![Captura entrevista 1](/assets/images/Captura%20Entrevista%201%20Segmento%20Universitarios%20o%20Profesionales%20ocupados.png)
+   Nombre: Omar<br>
+   Apellidos: Luquillas Asto <br>
+   Edad: 20 <br>
+   Distrito: San Martin de Porres <br>
+   URL: [Link de entrevista](https://drive.google.com/file/d/1WrxFb_8KqRk6mWSrgUbvFpkfpjyIU0vI/view?usp=sharing) <br>
+   Inicio: 00:48<br>
+   Duracion: 03:58 <br>
+   Resumen: <br>
+   La entrevista con omar proporcionó información valiosa sobre como un universitario ocupado realiza sus actividades y sus principales desafios respecto a su alimentacion. Omar nos comenta que tiene muy poco tiempo para cocinar durante el horario del almuerzo y tiene que almorzar en restaurantes de comida rapida. Cuando el no tiene tiempo para cocinar pide deliverys mediante aplicativos de celular para ahorrarse el tiempo de cocinar. Por otro lado, el considera que la calidad de la comida nutricional es minima en los restaurantes locales. Así mismo, El considera que una plataforma que permita a las personas ocupadas conseguir buena comida y accesible es una gran idea. El espera que una herramienta le brinde la tranquilidad de encontrar comidas saludables y caseras para su bien estar diario y semanal.
 
+* Segmento 2: Cocineros Caseros
+
+### 2.2.3. Análisis de entrevistas
+* Segmento 1: Universitarios o Profesionales Ocupados <br>
+  
+* Segmento 2: Cocineros Caseros <br>
+  
 ## 2.3. Needfinding
 
 Tras la identificación de los segmentos objetivo (cocineros caseros y estudiantes/profesionales ocupados), se realizaron entrevistas a individuos pertenecientes a dichos segmentos con el objetivo de de hallar información relevante para el desarrollo del producto final, tal como sentimientos, deseos y necesidades. En esta sección se incluirán los esquemas de _User Personas_, _User Task Matrix_, _User Journey Mapping_ y _Empathy Mapping_.
