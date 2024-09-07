@@ -910,7 +910,42 @@ x| | Mejora de la eficiencia operativa | Implementar un apartado que permita ges
 
 ### 4.1.1. General Style Guidelines
 
+**Overview:** El diseño web es una parte fundamental de nuestro proyecto. Debe ser consistente con lo que queremos transmitir como empresa, así como agradable y fácil de procesar por los usuarios.
+
+**Brand Name:** "Sabores Cercanos" es un nombre con el que buscamos transmitir una sensación de familiaridad y comodidad con relación a la comida. Surge de nuestro deseo por llevar a los usuarios la mejor versión del mundo culinario casero.
+
+![Sabores Cercanos, Logo](/assets/images/logo.png)
+
+**¿Qué debe tener?**
+
+1. El logo usa colores que recuerdan a los clásicos vegetales presentes en muchos platos caseros. Se representa una olla de cocina junto con otros símbolos que representan salud y calidad.
+1. Diseño minimalista, con colores cálidos.
+
+**¿Qué <ins>no</ins> debe tener?**
+
+1. Colores fuertes y brillantes.
+
+**Tipography:**
+
+* #### Para Títulos: Playfair.
+
+![Playfair, Tipo de Letra](/assets/images/playfair-typography.png)
+
+Elegimos Playfair para los títulos por su estilo ligeramente elegante a la vez que legible.
+
+* #### Para Párrafos: Lora.
+
+![Lora, Tipo de Letra](/assets/images/lora-typography.png)
+
+Elegimos Lora para los párrafos debido a su legibilidad y estilo. Haciéndola perfecta para cantidades moderadas de texto.
+
+**Buttons:**
+
+![Botones](/assets/images/button-layout.jpg)
+
 ### 4.1.2. Web Style Guidelines
+
+![Web Style Guidelines](/assets/images/web-style-guidelines.jpg)
 
 ### 4.2. Information Architecture
 
