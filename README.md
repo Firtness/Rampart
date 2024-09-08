@@ -232,7 +232,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 - Estefano Oscar Jaque Peña - U202225466
 
-| <p align="center"><img src="https://cdn.discordapp.com/attachments/1246609784501833810/1275485196589732011/image.png?ex=66c60fa8&is=66c4be28&hm=28e9a7ace2f1c7416404ba1e95041b745cda9a5046b828c99ca1a5039445b645&"> </p> | Soy Estefano Oscar Jaque Peña, tengo 23 años y soy estudiante de la carrera de Ingeniería de Software,<br> una disciplina enfocada en el diseño, desarrollo y gestión de software para solucionar problemas <br>complejos. Desde temprana edad, he sentido fascinación por la tecnología y he buscado aprender <br>constantemente sobre las últimas tendencias en programación. He ampliado mis conocimientos a <br>través de cursos en Python, SQL, y C++, así como también explorando otros lenguajes de programación <br>por mi cuenta. Además, tengo habilidades en el uso avanzado de Excel para análisis de datos y gestión<br> de información. Mi experiencia trabajando en equipos me ha brindado habilidades de comunicación y <br>colaboración que considero fundamentales para contribuir de manera efectiva a proyectos innovadores<br> en el área de la Ingeniería de Software. |
+| assets/images/Estefano_profile.jpg | Soy Estefano Oscar Jaque Peña, tengo 23 años y soy estudiante de la carrera de Ingeniería de Software,<br> una disciplina enfocada en el diseño, desarrollo y gestión de software para solucionar problemas <br>complejos. Desde temprana edad, he sentido fascinación por la tecnología y he buscado aprender <br>constantemente sobre las últimas tendencias en programación. He ampliado mis conocimientos a <br>través de cursos en Python, SQL, y C++, así como también explorando otros lenguajes de programación <br>por mi cuenta. Además, tengo habilidades en el uso avanzado de Excel para análisis de datos y gestión<br> de información. Mi experiencia trabajando en equipos me ha brindado habilidades de comunicación y <br>colaboración que considero fundamentales para contribuir de manera efectiva a proyectos innovadores<br> en el área de la Ingeniería de Software. |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 - Diego Alonso Rosado Iporre -   u201620127
@@ -1768,10 +1768,41 @@ git commit -m “<type>[optional scope]: <title>“ -m “<description”
 ### 5.2. Landing Page, Services & Applications Implementation
 
 ### 5.2.1. Sprint 1
-
 ### 5.2.1.1. Sprint Planning 1
+|Sprint#|Srint 1|
+|:--:|:--:|
+|Sprint Planning Background|---------|
+|Date|2024-09-06|
+|Time|10:10 PM|
+|Location|Reunión virtual en Google Meet|
+|Prepared by|Maria Jose Pezo Castillam|
+|Attendees (to <br>planning meeting)|Estefano Oscar Jaque Peña, Maria Jose Pezo Castillam, Jose Antonio Alejo Cardenas, Diego Alonso Rosado Iporre, Sebastian Omar Real Calderón|
+|Sprint Goal & User<br>stories|---------|
+|Sprint 1 Goal|Construir y diseñar una landing page interactiva, llamativa, profesional e informativa para la aplicación web "Sabores Cercanos".|
+|Sprint 1 Velocity|5(US01,US02,US03,US04,US25)|
+|Sum of story points|21|
 
 ### 5.2.1.2. Sprint Backlog 1
+Para el primer sprint backlog, recopilamos las historias de usuario
+relacionadas con la página de inicio (landing page). Las dividimos en tareas manejables y asignándolas a los miembros del equipo de manera eficiente.<br>
+Durante este sprint, nos enfocamos en completar las historias de
+usuario, con el objetivo principal de desarrollar una landing page
+completa, con un diseño atractivo e intuitivo para los usuarios. Gracias a nuestra buena organización, pudimos seguir el progreso de las tareas y colaborar efectivamente, lo que nos permitió abordar y resolver la mayoría de las historias de usuario planificadas para este sprint.
+![alt text](assets/images/environments/meet.jpg)
+
+Estefano Oscar Jaque Peña, Maria Jose Pezo Castillam, Jose Antonio Alejo Cardenas, Diego Alonso Rosado Iporre, Sebastian Omar Real Calderón
+
+| sprint # | Sprint 1 | | | | | | |
+|-|-|-|-|-|-|-|-|
+|User<br>Story|-|Work-Item /Task|-|-|-|-|-|
+|ID|Title|ID|Title|Description|Estimation<br>(Hours)|Assigned<br>To|Status<br>(To-do <br>/InProcess<br>/ To-Review <br>/Done)|
+|US01|Registro de usuario|TA001|||½ hora|Estefano Jaque|Done|
+|||||||TA002||
+|US02|Busqueda por preferencias|TA001|||½ hora|Maria Jose Pezo |Done|
+|US03|Visualización de reseñas|TA001|||½ hora|Jose Alejo|Done|
+|US04|Visualizacion de informacion nutricional|TA001|||½ hora|Diego Rosado |Done|
+|US25|Gestión de perfil de usuario|TA001|||½ hora|Sebastian Real|Done|
+
 
 ### 5.2.1.3. Development Evidence for Sprint Review
 
