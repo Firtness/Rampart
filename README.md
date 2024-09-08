@@ -1928,3 +1928,6 @@ Anexo D: https://lucid.app/lucidchart/c228e218-6d6b-484c-8557-0fae7cba2738/edit?
 
 Anexo E:  https://lucid.app/lucidchart/de7494c8-ca20-4b78-8732-fb0986780e5e/edit?viewport_loc=-5%2C469%2C2982%2C1387%2C0_0&invitationId=inv_df6f46c5-10c8-405e-8b2b-2a1a52ca42fa 
 
+ANEFO F: https://drive.google.com/drive/folders/14X--cRiq700Ryxi1WeZE7CM0riqFNCae?usp=sharing
+
+ANEXO G: https://drive.google.com/drive/folders/1aIE_Dj5v-rLgMxIZl-rMrsUlPqoVnidZ?usp=sharing
