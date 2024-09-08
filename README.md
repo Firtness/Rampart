@@ -35,9 +35,16 @@ Product: Sabores Cercanos
 ### Agosto, 2024
 
 ## Registro de Versiones del Informe
-
+|Version|Fecha|Autor|Descripcion|
+|-|-|-|-|
+|TB1|28/09/24|José Alejo| Desarrollé el Lean UX Hypothesis Statements, Lean UX Canvas, Segmentos objetivo, Registro de entrevistas (1 entrevista) y Análisis de entrevistas (1 entrevista) |
+|TB1|29/09/24|José Alejo| Desarrollé el To-Be Scenario Mapping, 6 de las User Stories, Impact Mapping y todo el Information Architecture|
 ## Project Report Collaboration Insights
 
+TB1:<br>
+|Integrante|Tarea Asignada|
+|-|-|
+|Alejo Cárdenas, Jose Antonio|Lean UX Hypothesis Statements, Lean UX Canvas, Segmentos objetivo, 1 Registro de entrevistas, 1 Análisis de entrevistas, To-Be Scenario Mapping, 6 User Stories, Impact Mapping, Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems, Navigation Systems, Creacion del keynote, Reporte de participacion y parte la estructuracion del informe.|
 ## Contenido
 
 ### Tabla de contenidos
