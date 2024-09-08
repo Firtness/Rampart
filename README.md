@@ -39,8 +39,8 @@ Product: Sabores Cercanos
 |-|-|-|-|
 |TB1|28/08/24|José Alejo| Desarrollé el Lean UX Hypothesis Statements, Lean UX Canvas, Segmentos objetivo, Registro de entrevistas (1 entrevista) y Análisis de entrevistas (1 entrevista) |
 |TB1|29/08/24|José Alejo| Desarrollé el To-Be Scenario Mapping, 6 de las User Stories, Impact Mapping y todo el Information Architecture|
-|TB1|26/08/2024|Desarrollé el Lean UX Problem Statements,Lean UX Assumptions,Diseño de entrevistas|
-|TB1|05/09/2024|Desarrollé las User Stories,Product Backlog, Class Diagrams, Class Dictionary, Database Diagram, Sprint Planning 1, Sprint Backlog 1|
+|TB1|26/08/2024|Estefano Jaque |Desarrollé el Lean UX Problem Statements,Lean UX Assumptions,Diseño de entrevistas|
+|TB1|05/09/2024|Estefano Jaque|Desarrollé las User Stories,Product Backlog, Class Diagrams, Class Dictionary, Database Diagram, Sprint Planning 1, Sprint Backlog 1|
 ## Project Report Collaboration Insights
 
 TB1:<br>
