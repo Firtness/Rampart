@@ -1402,9 +1402,8 @@ Este diagrama desglosa los componentes internos clave, como el Order Controller,
 
 ### 4.7.1. Class Diagrams
 
-### 4.7.2. Class Dictionary
-![alt text](assets/images/class_diagram_left.png)
-![alt text](assets/images/class_diagram_right.png)
+![alt text](assets/images/diagama_class_right.png)
+![alt text](assets/images/diagrama_class_left.png)
 LINK:  
 https://lucid.app/lucidchart/c228e218-6d6b-484c-8557-0fae7cba2738/edit?viewport_loc=-216%2C49%2C4474%2C2081%2CHWEp-vi-RSFO&invitationId=inv_387afe2d-3886-4d53-a6e8-c42b2ae376e3
 
