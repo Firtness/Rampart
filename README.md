@@ -1401,17 +1401,15 @@ Este diagrama desglosa los componentes internos clave, como el Order Controller,
 ### 4.7.1. Class Diagrams
 
 ### 4.7.2. Class Dictionary
-![alt text](assets/images/diadgram_class_izquierda.png)
-![alt text](assets/images/diadgram_class_derecha.png)
+![alt text](assets/images/class_diagram_left.png)
+![alt text](assets/images/class_diagram_right.png)
 LINK:  
 https://lucid.app/lucidchart/c228e218-6d6b-484c-8557-0fae7cba2738/edit?viewport_loc=-216%2C49%2C4474%2C2081%2CHWEp-vi-RSFO&invitationId=inv_387afe2d-3886-4d53-a6e8-c42b2ae376e3
 
 ### 4.8. Database Design
 
 ### 4.8.1. Database Diagram
-
-![assets/images/bd_diagram.png](assets/images/bd_diagram.png)
-
+![alt text](assets/images/basedatos_diagram.png)
 LINK:
 https://lucid.app/lucidchart/de7494c8-ca20-4b78-8732-fb0986780e5e/edit?viewport_loc=-5%2C469%2C2982%2C1387%2C0_0&invitationId=inv_df6f46c5-10c8-405e-8b2b-2a1a52ca42fa
 ### 4.8.2. Database Dictionary
@@ -1448,7 +1446,7 @@ https://lucid.app/lucidchart/de7494c8-ca20-4b78-8732-fb0986780e5e/edit?viewport_
 #### Order
 | Campo | Tipo de Dato | Descripción |
 |-|-|-|
-| id_ order | int | Identificador de la orden. |
+| id_order | int | Identificador de la orden. |
 | Customer_ID | int | Llave Foranea - Identificador del cliente que realizó la orden. |
 | Chef_ID | int | Llave Foranea - Identificador del cocinero que recibió la orden. |
 | total-orders_id | INT | Llave Foranea - Identificador del voucher al que pertenece la orden. |
