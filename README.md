@@ -1896,15 +1896,23 @@ La participación de cada miembro será clave para el éxito de las siguientes f
    En conclusión, el proyecto demostró una excelente capacidad de colaboración y planificación, donde actividades clave como la elaboración de la Descripción de la Startup, Solution Profile, y el diseño de la Landing Page y la aplicación web se llevaron a cabo de manera conjunta y organizada. El equipo creó un entorno inclusivo y estructurado, permitiendo una asignación clara de responsabilidades y el cumplimiento efectivo de los objetivos. La capacidad de coordinar y tomar decisiones estratégicas en equipo fue esencial para avanzar con éxito en el desarrollo del proyecto.<br><br>
 * Diego Alonso Rosado Iporre:<br>
    - TB1:<br>
-   En el desarrollo de "Sabores Cercanos," hemos logrado definir una sólida arquitectura de software que facilita la escalabilidad y el mantenimiento del sistema, gracias a los detallados diagramas de contexto, contenedores y componentes. El análisis de competidores ha resaltado nuestras ventajas, como la autenticidad en las comidas caseras y la conexión directa con cocineros locales, diferenciándonos de plataformas que priorizan la eficiencia. Además, el exitoso despliegue de la landing page marca un hito importante, mostrando nuestros avances y proporcionando una base sólida para futuras integraciones y despliegues de otros componentes del proyecto. A medida que avanzamos, el compromiso del equipo y la atención a las áreas de oportunidad identificadas asegurarán el éxito continuo del proyecto.<br><br>
+   En el desarrollo de "Sabores Cercanos," hemos logrado definir una sólida arquitectura de software que facilita la escalabilidad y el mantenimiento del sistema, gracias a los detallados diagramas de contexto, contenedores y componentes. El análisis de competidores ha resaltado nuestras ventajas, como la autenticidad en las comidas caseras y la conexión directa con cocineros locales, diferenciándonos de plataformas que priorizan la eficiencia. Además, el exitoso despliegue de la landing page marca un hito importante, mostrando nuestros avances y proporcionando una base sólida para futuras integraciones y despliegues de otros componentes del proyecto. A medida que avanzamos, el compromiso del equipo y la atención a las áreas de oportunidad identificadas asegurarán el éxito continuo del proye
 * Sebastián Omar Real Calderón:
   - TB1:
   Durante las primeras etapas del desarrollo de la aplicación "Sabores Cercanos", hemos establecido las bases para el correcto funcionamiento del proyecto. Hemos analizado las necesidades de los usuarios a través de las entrevistas y el proceso de needfinding, y posteriormente aprovechamos la información recabada para armar un producto que satisfaga las necesidades de nuestros consumidores. Como grupo, nos dedicamos a realizar nuestras tareas de forma eficiente, y nuestro compromiso se solidificará conforme avance el proceso del proyecto, y eso llevará a que el éxito del proyecto sea más probable.
+
+* Estefano Oscar Jaque Peña:<br>
+   - TB1:<br>
+   En el desarrollo de "Sabores Cercanos", se utilizaron varias metodologías y herramientas de gestión de proyectos, incluido Lean UX, a lo largo del proyecto, lo que permitió definir claramente los problemas y las hipótesis a validar. Para garantizar que los requerimientos del usuario se alinearan con las soluciones propuestas, se debieron desarrollar User Stories, Product Backlog y Sprints. Los diagramas de clases y las bases de datos también brindaron una base sólida para la implementación del sistema. Este proceso permitió optimizar la organización y el flujo de trabajo dentro del equipo, lo que permitió la entrega de un producto eficiente y adaptable a las necesidades del mercado.<br><br>
+
+  
 
 ## Bibliografia
    - Biblioteca UPC. (2024). _Biblioteca virtual de la Universidad Peruana de Ciencias Aplicadas_. https://biblioteca.upc.edu.pe
    - Miro. (2024). _Miro_. Miro Corporation. https://miro.com
    - LucidChart. (2024). _LucidChart_. Lucid Software Inc. https://www.lucidchart.com
+   - Cohn, M. (2006). Historias de usuario: Un enfoque ágil. Pearson Educación.https://www.scrummanager.com/files/scrum_manager_historias_usuario.pdf
+   - Pressman, R. S. (2010). Ingeniería de Software: Un enfoque práctico. McGraw-Hill.https://www.javier8a.com/itc/bd1/ld-Ingenieria.de.software.enfoque.practico.7ed.Pressman.PDF
    - The C4 model for visualising software architecture. (2024). https://c4model.com/
    - Structurizr. (2024). https://www.structurizr.com/
 
@@ -1915,4 +1923,8 @@ Anexo A: https://miro.com/welcomeonboard/RTA3b0ZrRzFmckk5Z3BneTVwc3d5Z1BBYko4c3d
 Anexo B:https://lucid.app/lucidchart/434db23b-883c-43b4-98ea-2da63e5366d5/edit?viewport_loc=-854%2C-13081%2C4706%2C2108%2C0_0&invitationId=inv_f9b021da-b3ba-42f7-b73a-b5085b472ce8
 
 Anexo C:https://lucid.app/lucidchart/434db23b-883c-43b4-98ea-2da63e5366d5/edit?viewport_loc=-854%2C-13081%2C4706%2C2108%2C0_0&invitationId=inv_f9b021da-b3ba-42f7-b73a-b5085b472ce8
+
+Anexo D: https://lucid.app/lucidchart/c228e218-6d6b-484c-8557-0fae7cba2738/edit?viewport_loc=-216%2C49%2C4474%2C2081%2CHWEp-vi-RSFO&invitationId=inv_387afe2d-3886-4d53-a6e8-c42b2ae376e3 
+
+Anexo E:  https://lucid.app/lucidchart/de7494c8-ca20-4b78-8732-fb0986780e5e/edit?viewport_loc=-5%2C469%2C2982%2C1387%2C0_0&invitationId=inv_df6f46c5-10c8-405e-8b2b-2a1a52ca42fa 
 
