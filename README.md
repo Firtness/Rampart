@@ -42,6 +42,8 @@ Product: Sabores Cercanos
 |TB1|05/09/2024|Estefano Jaque|Desarrollé las User Stories,Product Backlog, Class Diagrams, Class Dictionary, Database Diagram, Sprint Planning 1, Sprint Backlog 1|
 |TB1|29/08/2024|Maria Jose Pezo|Desarrollé la Descripción de la Startup, Solution Profile, Antecedentes y problemática|
 |TB1|05/09/2024|Maria Jose Pezo|Desarrollé el regitro de una entrevista a un usuario del segmento 1, Landing Page Wireframe, Landing Page Mock-up, Web Applications UX/UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups y Web Applications User Flow Diagrams.|
+|TB1|18/08/2024|Sebastián Omar Real Calderón| Desarrollé el Needfinding, User Personas, User Task Matrix, User Journey Mapping, Empathy Mapping y As-Is Scenario Mapping. |
+|TB1|3/09/2024|Sebastián Omar Real Calderón| Realicé los General y Web Style Guidelines. Realicé la documentación de los entornos de trabajo. |
 ## Project Report Collaboration Insights
 
 TB1:<br>
@@ -50,6 +52,7 @@ TB1:<br>
 |Alejo Cárdenas, Jose Antonio|Lean UX Hypothesis Statements, Lean UX Canvas, Segmentos objetivo, 1 Registro de entrevistas, 1 Análisis de entrevistas, To-Be Scenario Mapping, 6 User Stories, Impact Mapping, Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems, Navigation Systems, Creacion del keynote, Reporte de participacion y parte la estructuracion del informe.|
 |Jaque Peña, Estefano Oscar|Lean UX Problem Statements,Lean UX Assumptions,Diseño de entrevistas,User Stories,Product Backlog, Class Diagrams, Class Dictionary, Database Diagram, Sprint Planning 1, Sprint Backlog 1|
 |Pezo Castilla, Maria Jose|Descripción de la Startup, Solution Profile, Antecedentes y problemática, el regitro de una entrevista a un estudiante ocupado, Landing Page Wireframe, Landing Page Mock-up, Web Applications UX/UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups y Web Applications User Flow Diagrams.|
+| Real Calderón, Sebastián Omar | User Personas, User Task Matrix, User Journey Mapping, Empathy Mapping, As-Is Scenario Mapping, Style Guidelines, Software Development Environment Configuration, Source Code Management, Source Code Style Guide & Conventions, Software Deployment Configuration. |
 ## Contenido
 
 ### Tabla de contenidos
@@ -1939,6 +1942,9 @@ La participación de cada miembro será clave para el éxito de las siguientes f
 * Diego Alonso Rosado Iporre:<br>
    - TB1:<br>
    En el desarrollo de "Sabores Cercanos," hemos logrado definir una sólida arquitectura de software que facilita la escalabilidad y el mantenimiento del sistema, gracias a los detallados diagramas de contexto, contenedores y componentes. El análisis de competidores ha resaltado nuestras ventajas, como la autenticidad en las comidas caseras y la conexión directa con cocineros locales, diferenciándonos de plataformas que priorizan la eficiencia. Además, el exitoso despliegue de la landing page marca un hito importante, mostrando nuestros avances y proporcionando una base sólida para futuras integraciones y despliegues de otros componentes del proyecto. A medida que avanzamos, el compromiso del equipo y la atención a las áreas de oportunidad identificadas asegurarán el éxito continuo del proyecto.<br><br>
+* Sebastián Omar Real Calderón:
+  - TB1:
+  Durante las primeras etapas del desarrollo de la aplicación "Sabores Cercanos", hemos establecido las bases para el correcto funcionamiento del proyecto. Hemos analizado las necesidades de los usuarios a través de las entrevistas y el proceso de needfinding, y posteriormente aprovechamos la información recabada para armar un producto que satisfaga las necesidades de nuestros consumidores. Como grupo, nos dedicamos a realizar nuestras tareas de forma eficiente, y nuestro compromiso se solidificará conforme avance el proceso del proyecto, y eso llevará a que el éxito del proyecto sea más probable.
 
 ## Bibliografia
    - Biblioteca UPC. (2024). _Biblioteca virtual de la Universidad Peruana de Ciencias Aplicadas_. https://biblioteca.upc.edu.pe
