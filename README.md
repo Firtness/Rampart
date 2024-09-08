@@ -1399,7 +1399,38 @@ Este diagrama desglosa los componentes internos clave, como el Order Controller,
 ### 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
+_¿Quiénes son afectados por el problema?_
 
+   Los consumidores afectados son aquellos que tienen poco tiempo para cocinar pero valoran una alimentación saludable. Los cocineros que tienen habilidades culinarias y buscan monetizarlas también están afectados por la falta de plataformas accesibles para ofrecer sus servicios.
+   _¿Quiénes son afectados por el problema?_
+
+   Los consumidores afectados son aquellos que tienen poco tiempo para cocinar pero valoran una alimentación saludable. Los cocineros que tienen habilidades culinarias y buscan monetizarlas también están afectados por la falta de plataformas accesibles para ofrecer sus servicios.
+
+
+   _¿Quiénes son afectados por el problema?_
+
+   Los consumidores afectados son aquellos que tienen poco tiempo para cocinar pero valoran una alimentación saludable. Los cocineros que tienen habilidades culinarias y buscan monetizarlas también están afectados por la falta de plataformas accesibles para ofrecer sus servicios.
+   _¿Quiénes son afectados por el problema?_
+
+   Los consumidores afectados son aquellos que tienen poco tiempo para cocinar pero valoran una alimentación saludable. Los cocineros que tienen habilidades culinarias y buscan monetizarlas también están afectados por la falta de plataformas accesibles para ofrecer sus servicios.
+   _¿Quiénes son afectados por el problema?_
+
+   Los consumidores afectados son aquellos que tienen poco tiempo para cocinar pero valoran una alimentación saludable. Los cocineros que tienen habilidades culinarias y buscan monetizarlas también están afectados por la falta de plataformas accesibles para ofrecer sus servicios.
+   _¿Quiénes son afectados por el problema?_
+
+   Los consumidores afectados son aquellos que tienen poco tiempo para cocinar pero valoran una alimentación saludable. Los cocineros que tienen habilidades culinarias y buscan monetizarlas también están afectados por la falta de plataformas accesibles para ofrecer sus servicios.
+   _¿Quiénes son afectados por el problema?_
+
+   Los consumidores afectados son aquellos que tienen poco tiempo para cocinar pero valoran una alimentación saludable. Los cocineros que tienen habilidades culinarias y buscan monetizarlas también están afectados por la falta de plataformas accesibles para ofrecer sus servicios.
+   _¿Quiénes son afectados por el problema?_
+
+   Los consumidores afectados son aquellos que tienen poco tiempo para cocinar pero valoran una alimentación saludable. Los cocineros que tienen habilidades culinarias y buscan monetizarlas también están afectados por la falta de plataformas accesibles para ofrecer sus servicios.
+   _¿Quiénes son afectados por el problema?_
+
+   Los consumidores afectados son aquellos que tienen poco tiempo para cocinar pero valoran una alimentación saludable. Los cocineros que tienen habilidades culinarias y buscan monetizarlas también están afectados por la falta de plataformas accesibles para ofrecer sus servicios.
+   _¿Quiénes son afectados por el problema?_
+
+   Los consumidores afectados son aquellos que tienen poco tiempo para cocinar pero valoran una alimentación saludable. Los cocineros que tienen habilidades culinarias y buscan monetizarlas también están afectados por la falta de plataformas accesibles para ofrecer sus servicios.
 ### 4.7.2. Class Dictionary
 ![alt text](assets/images/diadgram_class_izquierda.png)
 ![alt text](assets/images/diadgram_class_derecha.png)
