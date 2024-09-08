@@ -41,6 +41,22 @@ Product: Sabores Cercanos
 ## Contenido
 
 ### Tabla de contenidos
+- [Rampart](#rampart)
+- [UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS](#universidad-peruana-de-ciencias-aplicadas)
+  - [Ingenieria de Software](#ingenieria-de-software)
+  - [5to ciclo](#5to-ciclo)
+  - [Aplicaciones Web](#aplicaciones-web)
+    - [**Sección:** WS51](#sección-ws51)
+    - [**Profesor:** Hugo Allan Mori Paiva](#profesor-hugo-allan-mori-paiva)
+    - [Informe de Trabajo Final](#informe-de-trabajo-final)
+    - ["Rampart"](#rampart-1)
+    - ["Sabores Cercanos"](#sabores-cercanos)
+    - [**Integrantes:**](#integrantes)
+    - [Agosto, 2024](#agosto-2024)
+  - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
+  - [Project Report Collaboration Insights](#project-report-collaboration-insights)
+  - [Contenido](#contenido)
+    - [Tabla de contenidos](#tabla-de-contenidos)
   - [Student Outcome](#student-outcome)
   - [Capítulo I: Introducción](#capítulo-i-introducción)
     - [1.1. Startup Profile](#11-startup-profile)
@@ -55,7 +71,7 @@ Product: Sabores Cercanos
           - [Where?](#where)
           - [Who?](#who)
           - [Why?](#why)
-          - [Who?](#who-1)
+          - [How?](#how)
           - [How much?](#how-much)
     - [1.2.2. Lean UX Process](#122-lean-ux-process)
     - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
@@ -76,8 +92,8 @@ Product: Sabores Cercanos
     - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
   - [2.3. Needfinding](#23-needfinding)
     - [2.3.1. User Personas](#231-user-personas)
-      - [2.3.1.1. User Persona del Segmento Objetivo 1: Cocineros Caseros](#2311-User-Persona-del-Segmento-Objetivo-1-Cocineros-Caseros)
-      - [2.3.1.2. User Persona del Segmento Objetivo 2: Estudiantes/Profesionales Ocupados](#2312-user-persona-del-segmento-objetivo-2-estudiantesprofesionales-ocupados)
+      - [2.3.1.1. **User Persona del Segmento Objetivo 1: Cocineros Caseros**](#2311-user-persona-del-segmento-objetivo-1-cocineros-caseros)
+      - [2.3.1.2. **User Persona del Segmento Objetivo 2: Estudiantes/Profesionales Ocupados**](#2312-user-persona-del-segmento-objetivo-2-estudiantesprofesionales-ocupados)
     - [2.3.2. User Task Matrix](#232-user-task-matrix)
     - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
       - [**User Persona 1: María**](#user-persona-1-maría)
@@ -116,6 +132,17 @@ Product: Sabores Cercanos
     - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
     - [4.4.2. Web Applications Mock-ups](#442-web-applications-mock-ups)
     - [4.4.3. Web Applications User Flow Diagrams](#443-web-applications-user-flow-diagrams)
+      - [Happy path:](#happy-path)
+      - [Unhappy path:](#unhappy-path)
+      - [Happy path:](#happy-path-1)
+      - [Happy path:](#happy-path-2)
+      - [Happy path:](#happy-path-3)
+      - [Unhappy path:](#unhappy-path-1)
+      - [Happy path:](#happy-path-4)
+      - [Unhappy path:](#unhappy-path-2)
+      - [Happy path:](#happy-path-5)
+      - [Unhappy path:](#unhappy-path-3)
+      - [Happy path:](#happy-path-6)
     - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
     - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
     - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
@@ -127,10 +154,23 @@ Product: Sabores Cercanos
     - [4.8. Database Design](#48-database-design)
     - [4.8.1. Database Diagram](#481-database-diagram)
     - [4.8.2. Database Dictionary](#482-database-dictionary)
+      - [User](#user)
+      - [Chef](#chef)
+      - [Menu](#menu)
+      - [Order](#order)
+      - [Order-Details](#order-details)
+      - [Dish](#dish)
+      - [Publication](#publication)
+      - [Reviews](#reviews)
+      - [Category](#category)
+      - [Plans-Type](#plans-type)
   - [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
     - [5.1. Software Configuration Management](#51-software-configuration-management)
     - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
     - [5.1.2. Source Code Management](#512-source-code-management)
+    - [**Master o Main branch**](#master-o-main-branch)
+      - [Notación: master o main](#notación-master-o-main)
+    - [**Conventional Commits**](#conventional-commits)
     - [5.1.3. Source Code Style Guide \& Conventions](#513-source-code-style-guide--conventions)
     - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
     - [5.2. Landing Page, Services \& Applications Implementation](#52-landing-page-services--applications-implementation)
@@ -143,7 +183,9 @@ Product: Sabores Cercanos
     - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-
+  - [Conclusiones](#conclusiones)
+  - [Bibliografia](#bibliografia)
+  - [Anexos](#anexos)
 
 
 ## Student Outcome
@@ -156,8 +198,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 | Criterio especifico                                                          | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Conclusiones |
 | :--------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
-| 1.Trabaja en equipo para proporcionar liderazgo en forma conjunta   | **Estefano Oscar Jaque Peña**<br>TB1: Realice el Lean UX Prolem statements y los assumptions<br> **Diego Alonso Rosado Iporre**<br> TB1: Realice la "Descripción de la estrategia de la Startup" y 2 entrevistas <br>**Jose Antonio Alejo Cardenas:** <br>TB1: "Realice el Lean UX Hypothesis Statements y Lean UX Canvas" <br>**Sebastian**<br> TB1: "Realicé el needfinding para los segmentos objetivo, los Style Guidelines para la landing page y la documentación de los entornos de desarrollo utilizados para el trabajo."<br>**Maria Jose Pezo Castilla** <br>TB1: Realice la "Descripción de la Startup" y "Antecedentes y problemática | **TB1:** <br>     |
-| 2. Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.  | **Estefano Oscar Jaque Peña**<br>TB1: Realice el Lean UX Prolem statements y los assumptions<br> **Diego Alonso Rosado Iporre**<br> TB1: Realice la "Descripción de la estrategia de la Startup" y 2 entrevistas <br>**Jose Antonio Alejo Cardenas**<br> TB1: "Realice el Lean UX Hypothesis Statements y Lean UX Canvas" <br>**Sebastian**<br> TB1: "Realicé el needfinding para los segmentos objetivo, los Style Guidelines para la landing page y la documentación de los entornos de desarrollo utilizados para el trabajo."<br>**Maria** <br>TB1: Realice la "Descripción de la Startup" y "Antecedentes y problemática | **TB1:** <br>     |
+| 1.Trabaja en equipo para proporcionar liderazgo en forma conjunta   | **Estefano Oscar Jaque Peña**<br>TB1: Realice el Lean UX Prolem statements y los assumptions<br> **Diego Alonso Rosado Iporre**<br> TB1: Realice la "Descripción de la estrategia de la Startup" y 2 entrevistas <br>**Jose Antonio Alejo Cardenas:** <br>TB1: Para esta TB1, realicé actividades como Lean UX Hypothesis Statements, desarrollando hipótesis enfocadas en el usuario, Lean UX Canvas, realizando investigaciones y resaltando puntos clave, definición de Segmentos objetivo basados en datos demográficos, Registro y análisis de entrevistas para obtener informacion valiosa, To-Be Scenario Mapping, detallando escenarios futuros de como deberia ser, User Stories centradas en las necesidades del usuario, Impact Mapping para alinear entregables con sus respectivas user stories, desarrollo de Organization Systems y Labeling Systems para una mejor estructura, implementación de SEO Tags y Meta Tags para optimización de búsqueda, diseño de Searching Systems efectivos y configuración de Navigation Systems para mejorar la experiencia del usuario. <br>**Sebastian**<br> TB1: "Realicé el needfinding para los segmentos objetivo, los Style Guidelines para la landing page y la documentación de los entornos de desarrollo utilizados para el trabajo."<br>**Maria Jose Pezo Castilla** <br>TB1: Realice la "Descripción de la Startup" y "Antecedentes y problemática |  <br>  **Jose Antonio Alejo Cardenas**<br> TB1:<br> El desarrollo de actividades como las User Stories, Lean UX Canvas e Impact Mapping refleja el liderazgo colaborativo, pues estas tareas implican tener las ideas de todos los miembros centradas en los mismos objetivos y necesidades que se buscan satisfacer o solucionar mediante nuestro producto. Asi mismo, el desarrollo de la arquitectura informacion es tambien un punto importante para la colaboracion y comunicacion constante del equipo pues sera un apartado a cumplir proximamente durante las siguientes entregas.|
+| 2. Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.  | **Estefano Oscar Jaque Peña**<br>TB1: Realice el Lean UX Prolem statements y los assumptions<br> **Diego Alonso Rosado Iporre**<br> TB1: Realice la "Descripción de la estrategia de la Startup" y 2 entrevistas <br>**Jose Antonio Alejo Cardenas**<br> TB1: En esta TB1, creé un entorno colaborativo e inclusivo al involucrar a todos los miembros del equipo en la elaboración de cada uno de los siguientes puntos ,tales como Lean UX Hypothesis Statements, definiendo conjuntamente hipótesis clave. Se establecio metas claras a través del Lean UX Canvas, donde planificamos tareas alineadas con nuestros objetivos. Definimos Segmentos objetivo basados en datos compartidos y analizamos en equipo el Registro y análisis de entrevistas para tomar decisiones informadas. El To-Be Scenario Mapping nos ayudó a visualizar escenarios futuros y planificar el cumplimiento de nuestras metas. A través de la creación conjunta de User Stories, Impact Mapping, Organization Systems, y Labeling Systems, garantizamos una planificación efectiva y estructurada, mientras que los SEO Tags, Meta Tags, Searching Systems, y Navigation Systems se diseñaron con una visión compartida para cumplir los objetivos establecidos que se implementaran en siguientes entregas. <br>**Sebastian**<br> TB1: "Realicé el needfinding para los segmentos objetivo, los Style Guidelines para la landing page y la documentación de los entornos de desarrollo utilizados para el trabajo."<br>**Maria** <br>TB1: Realice la "Descripción de la Startup" y "Antecedentes y problemática |  <br>  **Jose Antonio Alejo Cardenas**<br> TB1: Crear un entorno colaborativo, donde cada integrante cumpla sus tareas establecidas, fue un punto crucial durante el desarrollo de este entregable, ya que al planificar y ejecutar actividades como la definicion de Segmentos Objetivos y la distribucion de las entrevistas nos permitio obtener informacion vital para el desarrollo cada punto de los entregables. En otras palabras, gracias a nuestro entorno colaborativo se aseguraron metas claras y compartidas por todos lo que permitio cumplir con los objetivos de este entregable. |
 
 ## Capítulo I: Introducción
 
@@ -954,7 +996,9 @@ EPICS:
 
 ### 3.3. Impact Mapping
 
-![texto_alternativo](/assets/images/Mapa%20de%20impacto.jpg)
+![Anexo A](/assets/images/Mapa%20de%20impacto.jpg)
+[Anexo A](#anexos)<br><br>
+
 
 ### 3.4. Product Backlog
 | #Orden | User Story ID | Título                                          | Descripción                                                                                                                                           | Story Points <br> (1/2/3/5/8) |
@@ -1042,13 +1086,13 @@ Para nuestro primer segmento enfocado en Universitarios/Profesionales ocupados p
 Al seleccionar un plato, el usuario accede a una página detallada con información del plato, incluyendo una sección de reseñas y perfil del cocinero. La información está organizada jerárquicamente, con datos esenciales como la descripción del plato y la información nutricional en la parte superior, seguidos por reseñas y calificaciones en secciones inferiores. El usuario lee la descripción del plato, consulta la información nutricional y revisa las reseñas antes de tomar una decisión. La organización jerárquica facilita una navegación lógica desde los detalles del plato hasta la información de los usuarios. El usuario llega a la página de programación de entrega, donde se le presenta un calendario y opciones de horarios. La interfaz está organizada secuencialmente para guiar al usuario a través del proceso de selección de fecha y hora de entrega. El usuario selecciona la fecha y hora deseada para la entrega, revisa la información y confirma la programación. El diseño secuencial asegura que cada etapa del proceso de programación sea clara y fácil de completar.
 Después de realizar su primera compra, en la página de inicio o en una sección dedicada a recomendaciones, el usuario recibe sugerencias de platos basadas en sus pedidos anteriores y preferencias. Las recomendaciones se organizan jerárquicamente por categorías como "Recomendados para Ti" y "Nuevos en la Plataforma". El usuario explora las recomendaciones personalizadas presentadas en una vista de cuadrícula o lista. Puede ver las opciones sugeridas y decidir rápidamente cuáles le interesan. La organización jerárquica y matricial ayuda a destacar las opciones más relevantes y personalizadas.<br> <br>
 
-![texto_alternativo](/assets/images/UP%20ocupados%20para%20cocinar.png)
-
+![Anexo B](/assets/images/UP%20ocupados%20para%20cocinar.png)
+[Anexo B](#anexos)<br><br>
 Para nuestro segundo segmento enfocado en Cocineros Caseros, el proceso inicia al registrarse y configurar su perfil. El cocinero casero inicia su viaje en la plataforma mediante un proceso de registro. La interfaz está organizada secuencialmente, comenzando con el registro básico y luego avanzando a la configuración del perfil. El cocinero completa su registro, proporcionando detalles básicos como nombre y contacto. Luego, avanza a la configuración del perfil, donde debe ingresar información sobre sus especialidades culinarias, fotografías de sus platos y detalles de su cocina. Cada etapa del proceso está claramente definida para facilitar la finalización del registro y configuración. Una vez configurado el perfil, el cocinero accede a una sección para crear y gestionar sus menús. La interfaz utiliza una organización jerárquica para presentar opciones como “Añadir Nuevo Plato” y “Gestionar Menús Actuales”. Dentro de estas opciones, el contenido se organiza de forma matricial, mostrando platos individuales con detalles visuales. El cocinero selecciona “Añadir Nuevo Plato”, completa los detalles del plato, incluyendo nombre, descripción, precio y fotos. Luego puede ver y editar los menús existentes. La organización visual permite al cocinero gestionar sus menús de manera eficiente, con un enfoque en las tareas más importantes primero. En la sección de gestión de pedidos, el cocinero puede ver y procesar los pedidos recibidos. La interfaz está organizada secuencialmente por estados del pedido (por ejemplo, “Nuevo”, “En Proceso”, “Completado”), y los pedidos se presentan en un formato cronológico. El cocinero revisa los nuevos pedidos, los procesa según la secuencia establecida, y actualiza el estado de los pedidos en función del progreso. La organización secuencial y cronológica asegura que los pedidos se manejen de manera ordenada y eficiente. El cocinero puede acceder a una sección para revisar las reseñas y calificaciones de sus platos. La interfaz está organizada jerárquicamente, mostrando primero las reseñas más recientes y destacadas, seguidas de las reseñas más antiguas y menos relevantes. El cocinero lee las reseñas y calificaciones recibidas, prestando especial atención a los comentarios destacados para mejorar sus platos y servicios. La organización jerárquica facilita el enfoque en los comentarios más importantes y recientes. En la sección de configuración de perfil, el cocinero puede actualizar su información personal y de menú. La interfaz está organizada jerárquicamente con secciones principales como “Información del Perfil”, “Fotos de Platos”, y “Detalles de Cocina”. Dentro de cada sección, la información se presenta de manera alfabética para una fácil navegación. El cocinero actualiza su perfil y la información de los platos, navegando a través de las secciones y sub-secciones organizadas alfabéticamente para facilitar la búsqueda de elementos específicos. El cocinero tiene acceso a un panel de estadísticas que muestra el rendimiento de sus platos, incluyendo ventas y popularidad. La organización visual se utiliza para presentar gráficos y datos en un formato jerárquico, mientras que los datos se presentan cronológicamente. El cocinero revisa los informes y gráficos, analizando el rendimiento de sus platos a lo largo del tiempo. La organización visual y cronológica ayuda a identificar tendencias y patrones en las ventas y la popularidad de los platos.
 
-![texto_alternativo](/assets/images/Cocinero%20Casero.png)
+![Anexo C](/assets/images/Cocinero%20Casero.png)
+[Anexo C](#anexos)<br><br>
 
-Link: [url LucidChard](https://lucid.app/lucidchart/434db23b-883c-43b4-98ea-2da63e5366d5/edit?viewport_loc=-320%2C-12555%2C5713%2C2681%2C0_0&invitationId=inv_f9b021da-b3ba-42f7-b73a-b5085b472ce8 "Clickeame :3")
 ### 4.2.2. Labeling Systems
 
 El equipo de "Sabores Cercanos" opto por usar etiquetas simples, claras y que están diseñadas para minimizar la confusión, garantizando una navegación intuitiva y fluida para todos los usuarios de la plataforma "Sabores Cercanos". Acontinuacion las mencionaremos y sus relaciones:
@@ -1793,3 +1837,23 @@ El equipo ha trabajado de manera colaborativa para implementar la Landing Page. 
 **Participación del Equipo**
 - Diego: Implementación de la Landing Page.
 - [Otros Miembros]: Contribuciones en diseño, pruebas y documentación.
+
+
+## Conclusiones
+
+ * José Antonio Alejo Cárdenas:<br>
+   - TB1:<br>
+   En conclusión, el proyecto reflejó una sólida capacidad de liderazgo compartido y trabajo en equipo, donde las actividades clave como la creación del Lean UX Canvas, Impact Mapping y el desarrollo de User Stories permitieron una participación equitativa y una toma de decisiones colaborativa. Al mismo tiempo, se estableció un entorno inclusivo y bien planificado, donde las metas y tareas, como la definición de Segmentos objetivo, SEO Tags, y Navigation Systems, fueron organizadas de manera efectiva, lo que resultó en el cumplimiento exitoso de los objetivos planteados. Esto resalta una gestión eficiente y un enfoque claro en la coordinación y ejecución de proyectos complejos.<br><br>
+
+## Bibliografia
+   - Biblioteca UPC. (2024). _Biblioteca virtual de la Universidad Peruana de Ciencias Aplicadas_. https://biblioteca.upc.edu.pe
+   - Miro. (2024). _Miro_. Miro Corporation. https://miro.com
+   - LucidChart. (2024). _LucidChart_. Lucid Software Inc. https://www.lucidchart.com
+
+## Anexos
+
+Anexo A: https://miro.com/welcomeonboard/RTA3b0ZrRzFmckk5Z3BneTVwc3d5Z1BBYko4c3d4SmpUaVMwTG93c0JjUmc2cERSNzJ5ZkxjOTZDWG5CbThHd3wzNDU4NzY0NTQzNjk5MTEyMTEwfDI=?share_link_id=280755829967
+
+Anexo B:https://lucid.app/lucidchart/434db23b-883c-43b4-98ea-2da63e5366d5/edit?viewport_loc=-854%2C-13081%2C4706%2C2108%2C0_0&invitationId=inv_f9b021da-b3ba-42f7-b73a-b5085b472ce8
+
+Anexo C:https://lucid.app/lucidchart/434db23b-883c-43b4-98ea-2da63e5366d5/edit?viewport_loc=-854%2C-13081%2C4706%2C2108%2C0_0&invitationId=inv_f9b021da-b3ba-42f7-b73a-b5085b472ce8
