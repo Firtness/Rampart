@@ -4,9 +4,8 @@ Product: Sabores Cercanos
 
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
 
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1274742305080737884/UPCLogo.png?ex=66c35bc9&is=66c20a49&hm=f1d242afd6f2610d918693b6cf1a25608406f2ea70eefd2a6926ca8f5df8251a&">
-</p>
+
+![!\[assets/images/Logo_upc.png\](assets/images/Logo_upc.png)](assets/images/Logo_upc.png)
 
 ## Ingenieria de Software
 
@@ -235,7 +234,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 - Estefano Oscar Jaque Peña - U202225466
 
-| <p align="center"><img width="auto" height="auto" src="assets/images/Estefano_profile.jpg"> </p> | Soy Estefano Oscar Jaque Peña, tengo 23 años y soy estudiante de la carrera de Ingeniería de Software,<br> una disciplina enfocada en el diseño, desarrollo y gestión de software para solucionar problemas <br>complejos. Desde temprana edad, he sentido fascinación por la tecnología y he buscado aprender <br>constantemente sobre las últimas tendencias en programación. He ampliado mis conocimientos a <br>través de cursos en Python, SQL, y C++, así como también explorando otros lenguajes de programación <br>por mi cuenta. Además, tengo habilidades en el uso avanzado de Excel para análisis de datos y gestión<br> de información. Mi experiencia trabajando en equipos me ha brindado habilidades de comunicación y <br>colaboración que considero fundamentales para contribuir de manera efectiva a proyectos innovadores<br> en el área de la Ingeniería de Software. |
+| <p align="center"><img width="auto" height="auto" src="assets/images/Estefano_profile.jpg"> </p> | Soy Estefano Oscar Jaque Peña, tengo 23 años y soy estudiante de la carrera de Ingeniería de Software, una disciplina enfocada en el diseño, desarrollo y gestión de software para solucionar problemas complejos. Desde temprana edad, he sentido fascinación por la tecnología y he buscado aprender constantemente sobre las últimas tendencias en programación. He ampliado mis conocimientos a través de cursos en Python, SQL, y C++, así como también explorando otros lenguajes de programación por mi cuenta. Además, tengo habilidades en el uso avanzado de Excel para análisis de datos y gestión de información. Mi experiencia trabajando en equipos me ha brindado habilidades de comunicación y colaboración que considero fundamentales para contribuir de manera efectiva a proyectos innovadores en el área de la Ingeniería de Software. |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 - Diego Alonso Rosado Iporre -   u201620127
