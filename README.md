@@ -53,22 +53,6 @@ TB1:<br>
 ## Contenido
 
 ### Tabla de contenidos
-- [Rampart](#rampart)
-- [UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS](#universidad-peruana-de-ciencias-aplicadas)
-  - [Ingenieria de Software](#ingenieria-de-software)
-  - [5to ciclo](#5to-ciclo)
-  - [Aplicaciones Web](#aplicaciones-web)
-    - [**Sección:** WS51](#sección-ws51)
-    - [**Profesor:** Hugo Allan Mori Paiva](#profesor-hugo-allan-mori-paiva)
-    - [Informe de Trabajo Final](#informe-de-trabajo-final)
-    - ["Rampart"](#rampart-1)
-    - ["Sabores Cercanos"](#sabores-cercanos)
-    - [**Integrantes:**](#integrantes)
-    - [Agosto, 2024](#agosto-2024)
-  - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
-  - [Project Report Collaboration Insights](#project-report-collaboration-insights)
-  - [Contenido](#contenido)
-    - [Tabla de contenidos](#tabla-de-contenidos)
   - [Student Outcome](#student-outcome)
   - [Capítulo I: Introducción](#capítulo-i-introducción)
     - [1.1. Startup Profile](#11-startup-profile)
