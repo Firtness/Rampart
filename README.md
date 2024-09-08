@@ -42,6 +42,8 @@ Product: Sabores Cercanos
 |TB1|05/09/2024|Estefano Jaque|Desarrollé las User Stories,Product Backlog, Class Diagrams, Class Dictionary, Database Diagram, Sprint Planning 1, Sprint Backlog 1|
 |TB1|29/08/2024|Maria Jose Pezo|Desarrollé la Descripción de la Startup, Solution Profile, Antecedentes y problemática|
 |TB1|05/09/2024|Maria Jose Pezo|Desarrollé el regitro de una entrevista a un usuario del segmento 1, Landing Page Wireframe, Landing Page Mock-up, Web Applications UX/UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups y Web Applications User Flow Diagrams.|
+|TB1|29/08/2024|Diego Alonso Rosado Iporre|Desarrollé la Descripción de la Startup, a su vez,  Competidores, Análisis competitivo, Registro de entrevistas, Análisis de entrevistas, Ubiquitous Language, User Stories, Web Applications Wireframes, Domain-Driven Software Architecture, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams.|
+|TB1|08/09/2024|Diego Alonso Rosado Iporre|Desarrollé la documentacion de la evidencia de los commits realizados: Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint, Avance de Conclusiones y Bibliografía. |
 |TB1|18/08/2024|Sebastián Omar Real Calderón| Desarrollé el Needfinding, User Personas, User Task Matrix, User Journey Mapping, Empathy Mapping y As-Is Scenario Mapping. |
 |TB1|3/09/2024|Sebastián Omar Real Calderón| Realicé los General y Web Style Guidelines. Realicé la documentación de los entornos de trabajo. |
 ## Project Report Collaboration Insights
@@ -52,42 +54,19 @@ TB1:<br>
 |Alejo Cárdenas, Jose Antonio|Lean UX Hypothesis Statements, Lean UX Canvas, Segmentos objetivo, 1 Registro de entrevistas, 1 Análisis de entrevistas, To-Be Scenario Mapping, 6 User Stories, Impact Mapping, Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems, Navigation Systems, Creacion del keynote, Reporte de participacion y parte la estructuracion del informe.|
 |Jaque Peña, Estefano Oscar|Lean UX Problem Statements,Lean UX Assumptions,Diseño de entrevistas,User Stories,Product Backlog, Class Diagrams, Class Dictionary, Database Diagram, Sprint Planning 1, Sprint Backlog 1|
 |Pezo Castilla, Maria Jose|Descripción de la Startup, Solution Profile, Antecedentes y problemática, el regitro de una entrevista a un estudiante ocupado, Landing Page Wireframe, Landing Page Mock-up, Web Applications UX/UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups y Web Applications User Flow Diagrams.|
+|Rosado Iporre, Diego Alonso|Descripción de la Startup, Competidores, Análisis Competitivo, Registro de Entrevistas, Análisis de Entrevistas, Ubiquitous Language, User Stories, Wireframes de Aplicaciones Web, Domain-Driven Software Architecture, Software Architecture Context Diagram, Software Architecture Container Diagrams, y Software Architecture Components Diagrams. Además, he trabajado en la creación y despliegue de la landing page, documentando el diseño y las pruebas realizadas. Documenté la evidencia de los commits realizados, incluyendo Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, y Team Collaboration Insights during Sprint. También incluí el avance de conclusiones y bibliografía.|
 | Real Calderón, Sebastián Omar | User Personas, User Task Matrix, User Journey Mapping, Empathy Mapping, As-Is Scenario Mapping, Style Guidelines, Software Development Environment Configuration, Source Code Management, Source Code Style Guide & Conventions, Software Deployment Configuration. |
+
 ## Contenido
 
 ### Tabla de contenidos
-- [Rampart](#rampart)
-- [UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS](#universidad-peruana-de-ciencias-aplicadas)
-  - [Ingenieria de Software](#ingenieria-de-software)
-  - [5to ciclo](#5to-ciclo)
-  - [Aplicaciones Web](#aplicaciones-web)
-    - [**Sección:** WS51](#sección-ws51)
-    - [**Profesor:** Hugo Allan Mori Paiva](#profesor-hugo-allan-mori-paiva)
-    - [Informe de Trabajo Final](#informe-de-trabajo-final)
-    - ["Rampart"](#rampart-1)
-    - ["Sabores Cercanos"](#sabores-cercanos)
-    - [**Integrantes:**](#integrantes)
-    - [Agosto, 2024](#agosto-2024)
-  - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
-  - [Project Report Collaboration Insights](#project-report-collaboration-insights)
-  - [Contenido](#contenido)
-    - [Tabla de contenidos](#tabla-de-contenidos)
   - [Student Outcome](#student-outcome)
   - [Capítulo I: Introducción](#capítulo-i-introducción)
     - [1.1. Startup Profile](#11-startup-profile)
     - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
-          - [Misión:](#misión)
-          - [Visión:](#visión)
     - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
     - [1.2. Solution Profile](#12-solution-profile)
     - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
-          - [What?](#what)
-          - [When?](#when)
-          - [Where?](#where)
-          - [Who?](#who)
-          - [Why?](#why)
-          - [How?](#how)
-          - [How much?](#how-much)
     - [1.2.2. Lean UX Process](#122-lean-ux-process)
     - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
     - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
@@ -147,17 +126,6 @@ TB1:<br>
     - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
     - [4.4.2. Web Applications Mock-ups](#442-web-applications-mock-ups)
     - [4.4.3. Web Applications User Flow Diagrams](#443-web-applications-user-flow-diagrams)
-      - [Happy path:](#happy-path)
-      - [Unhappy path:](#unhappy-path)
-      - [Happy path:](#happy-path-1)
-      - [Happy path:](#happy-path-2)
-      - [Happy path:](#happy-path-3)
-      - [Unhappy path:](#unhappy-path-1)
-      - [Happy path:](#happy-path-4)
-      - [Unhappy path:](#unhappy-path-2)
-      - [Happy path:](#happy-path-5)
-      - [Unhappy path:](#unhappy-path-3)
-      - [Happy path:](#happy-path-6)
     - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
     - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
     - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
@@ -169,23 +137,10 @@ TB1:<br>
     - [4.8. Database Design](#48-database-design)
     - [4.8.1. Database Diagram](#481-database-diagram)
     - [4.8.2. Database Dictionary](#482-database-dictionary)
-      - [User](#user)
-      - [Chef](#chef)
-      - [Menu](#menu)
-      - [Order](#order)
-      - [Order-Details](#order-details)
-      - [Dish](#dish)
-      - [Publication](#publication)
-      - [Reviews](#reviews)
-      - [Category](#category)
-      - [Plans-Type](#plans-type)
   - [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
     - [5.1. Software Configuration Management](#51-software-configuration-management)
     - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
     - [5.1.2. Source Code Management](#512-source-code-management)
-    - [**Master o Main branch**](#master-o-main-branch)
-      - [Notación: master o main](#notación-master-o-main)
-    - [**Conventional Commits**](#conventional-commits)
     - [5.1.3. Source Code Style Guide \& Conventions](#513-source-code-style-guide--conventions)
     - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
     - [5.2. Landing Page, Services \& Applications Implementation](#52-landing-page-services--applications-implementation)
@@ -1950,7 +1905,8 @@ La participación de cada miembro será clave para el éxito de las siguientes f
    - Biblioteca UPC. (2024). _Biblioteca virtual de la Universidad Peruana de Ciencias Aplicadas_. https://biblioteca.upc.edu.pe
    - Miro. (2024). _Miro_. Miro Corporation. https://miro.com
    - LucidChart. (2024). _LucidChart_. Lucid Software Inc. https://www.lucidchart.com
-   - Evans, E. (2004). Domain-Driven Design: Tackling Complexity in the Heart of Software. Addison-Wesley.
+   - The C4 model for visualising software architecture. (2024). https://c4model.com/
+   - Structurizr. (2024). https://www.structurizr.com/
 
 ## Anexos
 
