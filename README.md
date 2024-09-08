@@ -210,8 +210,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 | Criterio especifico                                                          | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Conclusiones |
 | :--------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
-| 1.Trabaja en equipo para proporcionar liderazgo en forma conjunta   | **Estefano Oscar Jaque Peña**<br>TB1: Realice el Lean UX Prolem statements y los assumptions<br>, luego me encargue de el diseño de las preguntas para las entrevistas, para finalizar el cap 3,4 y 5 realice 6 user stories, el product bakclog , el Diagrama de Clases y el diagrama de base de datos y luego el sprint planning y el spring backlog.<br> **Diego Alonso Rosado Iporre**<br> TB1: Realice la "Descripción de la estrategia de la Startup" y 2 entrevistas <br>**Jose Antonio Alejo Cardenas:** <br>TB1: Para esta TB1, realicé actividades como Lean UX Hypothesis Statements, desarrollando hipótesis enfocadas en el usuario, Lean UX Canvas, realizando investigaciones y resaltando puntos clave, definición de Segmentos objetivo basados en datos demográficos, Registro y análisis de entrevistas para obtener informacion valiosa, To-Be Scenario Mapping, detallando escenarios futuros de como deberia ser, User Stories centradas en las necesidades del usuario, Impact Mapping para alinear entregables con sus respectivas user stories, desarrollo de Organization Systems y Labeling Systems para una mejor estructura, implementación de SEO Tags y Meta Tags para optimización de búsqueda, diseño de Searching Systems efectivos y configuración de Navigation Systems para mejorar la experiencia del usuario. <br>**Sebastian**<br> TB1: "Realicé el needfinding para los segmentos objetivo, los Style Guidelines para la landing page y la documentación de los entornos de desarrollo utilizados para el trabajo."<br>**Maria Jose Pezo Castilla** <br>TB1: Redacté la Descripción de la Startup, explicando su misión, visión y objetivos principales, completé el Solution Profile, destacando las características clave de la solución propuesta, analicé los Antecedentes y problemática a la que se enfrenta el público objetivo de la startup, realicé y registré una entrevista a un estudiante ocupado, obteniendo información directa de sus necesidades, creé la Landing Page Wireframe que sirva de prototipo visual básico, desarrollé el Landing Page Mock-up, mostrando una versión más refinada y visualmente atractiva, diseñé la UX/UI de la aplicación web, enfocándose en la experiencia y la interfaz de usuario, creé el Web Applications Wireframes, estableciendo las bases del diseño de la estructura, elaboré los Wireflow Diagrams para detallar el flujo de interacción entre pantallas, desarrollé los Mock-ups de la aplicación web, reflejando el diseño final con mayor detalle visual y creé los User Flow Diagrams que representen la navegación completa del usuario dentro de la aplicación. |  <br>  **Jose Antonio Alejo Cardenas**<br> TB1:<br> El desarrollo de actividades como las User Stories, Lean UX Canvas e Impact Mapping refleja el liderazgo colaborativo, pues estas tareas implican tener las ideas de todos los miembros centradas en los mismos objetivos y necesidades que se buscan satisfacer o solucionar mediante nuestro producto. Asi mismo, el desarrollo de la arquitectura informacion es tambien un punto importante para la colaboracion y comunicacion constante del equipo pues sera un apartado a cumplir proximamente durante las siguientes entregas.<br>**Estefano Oscar Jaque Peña**<br>TB1:El realizar parte del Lean Ux Process me ayudo a poder aprender mas de la problematica actual en la que nos centramos como equipo para poder crear el aplicativo, asi como tambien aprender de nuestro usuario objetivo. Con la resolución del modelo físico de la base de datos, aprendí a optimizar el almacenamiento de usuarios, pedidos, y menús, así como a organizar eficientemente las relaciones entre tablas para mejorar el rendimiento de la plataforma 'Sabores Cercanos'. Y para finalizar con el Sprint planning y el Sprint Backlog, concluí que una planificación clara de tareas y la descomposición de user stories son fundamentales para organizar el trabajo del equipo, mantener el enfoque en los objetivos del sprint y garantizar un seguimiento eficiente del progreso en la plataforma.<br>**Maria Jose Pezo Castilla**<br> TB1: El trabajo en equipo para proporcionar liderazgo conjunto resultó en un proceso colaborativo y estructurado que facilitó el desarrollo del proyecto de manera eficiente. Las acciones realizadas, como la descripción de la startup, el perfil de la solución y el análisis de antecedentes, permitieron al equipo alinear su visión y tomar decisiones estratégicas en conjunto. La entrevista con un estudiante proporcionó información valiosa para ajustar prioridades, mientras que los diseños de la landing page y la aplicación web reflejaron una planificación detallada y una contribución equitativa de todos los miembros. Esto fortaleció las dinámicas de equipo y el liderazgo compartido, asegurando un progreso efectivo. |
-| 2. Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.  | **Estefano Oscar Jaque Peña**<br>TB1: TB1: Realice el Lean UX Prolem statements y los assumptions<br>, luego me encargue de el diseño de las preguntas para las entrevistas, para finalizar el cap 3,4 y 5 realice 6 user stories, el product bakclog , el Diagrama de Clases y el diagrama de base de datos y luego el sprint planning y el spring backlog.<br>**Diego Alonso Rosado Iporre**<br> TB1: Realice la "Descripción de la estrategia de la Startup" y 2 entrevistas <br>**Jose Antonio Alejo Cardenas**<br> TB1: En esta TB1, creé un entorno colaborativo e inclusivo al involucrar a todos los miembros del equipo en la elaboración de cada uno de los siguientes puntos ,tales como Lean UX Hypothesis Statements, definiendo conjuntamente hipótesis clave. Se establecio metas claras a través del Lean UX Canvas, donde planificamos tareas alineadas con nuestros objetivos. Definimos Segmentos objetivo basados en datos compartidos y analizamos en equipo el Registro y análisis de entrevistas para tomar decisiones informadas. El To-Be Scenario Mapping nos ayudó a visualizar escenarios futuros y planificar el cumplimiento de nuestras metas. A través de la creación conjunta de User Stories, Impact Mapping, Organization Systems, y Labeling Systems, garantizamos una planificación efectiva y estructurada, mientras que los SEO Tags, Meta Tags, Searching Systems, y Navigation Systems se diseñaron con una visión compartida para cumplir los objetivos establecidos que se implementaran en siguientes entregas. <br>**Sebastian**<br> TB1: "Realicé el needfinding para los segmentos objetivo, los Style Guidelines para la landing page y la documentación de los entornos de desarrollo utilizados para el trabajo.<br>**Maria Jose Pezo Castilla** <br>TB1: Redacté la Descripción de la Startup, explicando su misión, visión y objetivos principales, completé el Solution Profile, destacando las características clave de la solución propuesta, analicé los Antecedentes y problemática a la que se enfrenta el público objetivo de la startup, realicé y registré una entrevista a un estudiante ocupado, obteniendo información directa de sus necesidades, creé la Landing Page Wireframe que sirva de prototipo visual básico, desarrollé el Landing Page Mock-up, mostrando una versión más refinada y visualmente atractiva, diseñé la UX/UI de la aplicación web, enfocándose en la experiencia y la interfaz de usuario, creé el Web Applications Wireframes, estableciendo las bases del diseño de la estructura, elaboré los Wireflow Diagrams para detallar el flujo de interacción entre pantallas, desarrollé los Mock-ups de la aplicación web, reflejando el diseño final con mayor detalle visual y creé los User Flow Diagrams que representen la navegación completa del usuario dentro de la aplicación. |  <br>  **Jose Antonio Alejo Cardenas**<br> TB1: Crear un entorno colaborativo, donde cada integrante cumpla sus tareas establecidas, fue un punto crucial durante el desarrollo de este entregable, ya que al planificar y ejecutar actividades como la definicion de Segmentos Objetivos y la distribucion de las entrevistas nos permitio obtener informacion vital para el desarrollo cada punto de los entregables. En otras palabras, gracias a nuestro entorno colaborativo se aseguraron metas claras y compartidas por todos lo que permitio cumplir con los objetivos de este entregable.<br>**Maria Jose Pezo Castilla**<br> TB1: La creación de un entorno colaborativo e inclusivo, junto con metas claras y planificación efectiva, fue clave para el éxito del proyecto. El equipo trabajó en conjunto para definir la visión de la startup, desarrollar el perfil de la solución y analizar antecedentes, distribuyendo responsabilidades y garantizando el cumplimiento de plazos. La entrevista a un estudiante permitió ajustar objetivos en función de las necesidades reales. Además, el diseño de la landing page y la aplicación web reflejó una colaboración eficiente y una planificación detallada, lo que consolidó al equipo y permitió cumplir con los hitos establecidos.|
+| 1.Trabaja en equipo para proporcionar liderazgo en forma conjunta   | **Estefano Oscar Jaque Peña**<br>TB1: Realice el Lean UX Prolem statements y los assumptions<br>, luego me encargue de el diseño de las preguntas para las entrevistas, para finalizar el cap 3,4 y 5 realice 6 user stories, el product bakclog , el Diagrama de Clases y el diagrama de base de datos y luego el sprint planning y el spring backlog.<br> **Diego Alonso Rosado Iporre**<br> TB1: Realice la "Descripción de la estrategia de la Startup", Competidores, Análisis competitivo, Estrategias y tácticas frente a competidores, Registro de entrevistas, Análisis de entrevistas, Ubiquitous Language, User Stories, Domain-Driven Software Architecture, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review y Team Collaboration Insights during Sprint <br>**Jose Antonio Alejo Cardenas:** <br>TB1: Para esta TB1, realicé actividades como Lean UX Hypothesis Statements, desarrollando hipótesis enfocadas en el usuario, Lean UX Canvas, realizando investigaciones y resaltando puntos clave, definición de Segmentos objetivo basados en datos demográficos, Registro y análisis de entrevistas para obtener informacion valiosa, To-Be Scenario Mapping, detallando escenarios futuros de como deberia ser, User Stories centradas en las necesidades del usuario, Impact Mapping para alinear entregables con sus respectivas user stories, desarrollo de Organization Systems y Labeling Systems para una mejor estructura, implementación de SEO Tags y Meta Tags para optimización de búsqueda, diseño de Searching Systems efectivos y configuración de Navigation Systems para mejorar la experiencia del usuario. <br>**Sebastian**<br> TB1: "Realicé el needfinding para los segmentos objetivo, los Style Guidelines para la landing page y la documentación de los entornos de desarrollo utilizados para el trabajo."<br>**Maria Jose Pezo Castilla** <br>TB1: Redacté la Descripción de la Startup, explicando su misión, visión y objetivos principales, completé el Solution Profile, destacando las características clave de la solución propuesta, analicé los Antecedentes y problemática a la que se enfrenta el público objetivo de la startup, realicé y registré una entrevista a un estudiante ocupado, obteniendo información directa de sus necesidades, creé la Landing Page Wireframe que sirva de prototipo visual básico, desarrollé el Landing Page Mock-up, mostrando una versión más refinada y visualmente atractiva, diseñé la UX/UI de la aplicación web, enfocándose en la experiencia y la interfaz de usuario, creé el Web Applications Wireframes, estableciendo las bases del diseño de la estructura, elaboré los Wireflow Diagrams para detallar el flujo de interacción entre pantallas, desarrollé los Mock-ups de la aplicación web, reflejando el diseño final con mayor detalle visual y creé los User Flow Diagrams que representen la navegación completa del usuario dentro de la aplicación. |  <br>  **Jose Antonio Alejo Cardenas**<br> TB1:<br> El desarrollo de actividades como las User Stories, Lean UX Canvas e Impact Mapping refleja el liderazgo colaborativo, pues estas tareas implican tener las ideas de todos los miembros centradas en los mismos objetivos y necesidades que se buscan satisfacer o solucionar mediante nuestro producto. Asi mismo, el desarrollo de la arquitectura informacion es tambien un punto importante para la colaboracion y comunicacion constante del equipo pues sera un apartado a cumplir proximamente durante las siguientes entregas.<br>**Estefano Oscar Jaque Peña**<br>TB1:El realizar parte del Lean Ux Process me ayudo a poder aprender mas de la problematica actual en la que nos centramos como equipo para poder crear el aplicativo, asi como tambien aprender de nuestro usuario objetivo. Con la resolución del modelo físico de la base de datos, aprendí a optimizar el almacenamiento de usuarios, pedidos, y menús, así como a organizar eficientemente las relaciones entre tablas para mejorar el rendimiento de la plataforma 'Sabores Cercanos'. Y para finalizar con el Sprint planning y el Sprint Backlog, concluí que una planificación clara de tareas y la descomposición de user stories son fundamentales para organizar el trabajo del equipo, mantener el enfoque en los objetivos del sprint y garantizar un seguimiento eficiente del progreso en la plataforma.<br>**Maria Jose Pezo Castilla**<br> TB1: El trabajo en equipo para proporcionar liderazgo conjunto resultó en un proceso colaborativo y estructurado que facilitó el desarrollo del proyecto de manera eficiente. Las acciones realizadas, como la descripción de la startup, el perfil de la solución y el análisis de antecedentes, permitieron al equipo alinear su visión y tomar decisiones estratégicas en conjunto. La entrevista con un estudiante proporcionó información valiosa para ajustar prioridades, mientras que los diseños de la landing page y la aplicación web reflejaron una planificación detallada y una contribución equitativa de todos los miembros. Esto fortaleció las dinámicas de equipo y el liderazgo compartido, asegurando un progreso efectivo. |
+| 2. Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.  | **Estefano Oscar Jaque Peña**<br>TB1: TB1: Realice el Lean UX Prolem statements y los assumptions<br>, luego me encargue de el diseño de las preguntas para las entrevistas, para finalizar el cap 3,4 y 5 realice 6 user stories, el product bakclog , el Diagrama de Clases y el diagrama de base de datos y luego el sprint planning y el spring backlog.<br>**Diego Alonso Rosado Iporre**<br> TB1: Realice la "Descripción de la estrategia de la Startup", Competidores, Análisis competitivo, Estrategias y tácticas frente a competidores, Registro de entrevistas, Análisis de entrevistas, Ubiquitous Language, User Stories, Domain-Driven Software Architecture, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review y Team Collaboration Insights during Sprint <br>**Jose Antonio Alejo Cardenas**<br> TB1: En esta TB1, creé un entorno colaborativo e inclusivo al involucrar a todos los miembros del equipo en la elaboración de cada uno de los siguientes puntos ,tales como Lean UX Hypothesis Statements, definiendo conjuntamente hipótesis clave. Se establecio metas claras a través del Lean UX Canvas, donde planificamos tareas alineadas con nuestros objetivos. Definimos Segmentos objetivo basados en datos compartidos y analizamos en equipo el Registro y análisis de entrevistas para tomar decisiones informadas. El To-Be Scenario Mapping nos ayudó a visualizar escenarios futuros y planificar el cumplimiento de nuestras metas. A través de la creación conjunta de User Stories, Impact Mapping, Organization Systems, y Labeling Systems, garantizamos una planificación efectiva y estructurada, mientras que los SEO Tags, Meta Tags, Searching Systems, y Navigation Systems se diseñaron con una visión compartida para cumplir los objetivos establecidos que se implementaran en siguientes entregas. <br>**Sebastian**<br> TB1: "Realicé el needfinding para los segmentos objetivo, los Style Guidelines para la landing page y la documentación de los entornos de desarrollo utilizados para el trabajo.<br>**Maria Jose Pezo Castilla** <br>TB1: Redacté la Descripción de la Startup, explicando su misión, visión y objetivos principales, completé el Solution Profile, destacando las características clave de la solución propuesta, analicé los Antecedentes y problemática a la que se enfrenta el público objetivo de la startup, realicé y registré una entrevista a un estudiante ocupado, obteniendo información directa de sus necesidades, creé la Landing Page Wireframe que sirva de prototipo visual básico, desarrollé el Landing Page Mock-up, mostrando una versión más refinada y visualmente atractiva, diseñé la UX/UI de la aplicación web, enfocándose en la experiencia y la interfaz de usuario, creé el Web Applications Wireframes, estableciendo las bases del diseño de la estructura, elaboré los Wireflow Diagrams para detallar el flujo de interacción entre pantallas, desarrollé los Mock-ups de la aplicación web, reflejando el diseño final con mayor detalle visual y creé los User Flow Diagrams que representen la navegación completa del usuario dentro de la aplicación. |  <br>  **Jose Antonio Alejo Cardenas**<br> TB1: Crear un entorno colaborativo, donde cada integrante cumpla sus tareas establecidas, fue un punto crucial durante el desarrollo de este entregable, ya que al planificar y ejecutar actividades como la definicion de Segmentos Objetivos y la distribucion de las entrevistas nos permitio obtener informacion vital para el desarrollo cada punto de los entregables. En otras palabras, gracias a nuestro entorno colaborativo se aseguraron metas claras y compartidas por todos lo que permitio cumplir con los objetivos de este entregable.<br>**Maria Jose Pezo Castilla**<br> TB1: La creación de un entorno colaborativo e inclusivo, junto con metas claras y planificación efectiva, fue clave para el éxito del proyecto. El equipo trabajó en conjunto para definir la visión de la startup, desarrollar el perfil de la solución y analizar antecedentes, distribuyendo responsabilidades y garantizando el cumplimiento de plazos. La entrevista a un estudiante permitió ajustar objetivos en función de las necesidades reales. Además, el diseño de la landing page y la aplicación web reflejó una colaboración eficiente y una planificación detallada, lo que consolidó al equipo y permitió cumplir con los hitos establecidos.|
 
 ## Capítulo I: Introducción
 
@@ -718,8 +718,40 @@ Antes de poder realizar las entrevistas, consideramos prudente poder concretar u
 
 ### 2.2.3. Análisis de entrevistas
 * Segmento 1: Universitarios o Profesionales Ocupados <br>
+
+Patrones comunes:
+
+Falta de tiempo: Todos los entrevistados, Omar, Lourdes y Pia, tienen agendas ocupadas que les impiden cocinar, recurriendo a comida rápida o delivery.
+
+Preocupación por la calidad: A pesar de la conveniencia, les preocupa la baja calidad nutricional de estas opciones y prefieren comidas caseras.
+
+Necesidades clave:
+
+Comida saludable y casera: Valoran la posibilidad de acceder a opciones caseras, nutritivas y económicas.
+
+Flexibilidad: Buscan que la plataforma se ajuste a sus horarios con entregas rápidas.
+
+Personalización: Lourdes destaca la importancia de personalizar menús y contar con información sobre la higiene de los cocineros.
+
+Conclusión: Nosotros satisfacemos sus demandas, brindando acceso a comida casera de calidad, con flexibilidad y personalización, lo que la convierte en una solución ideal para universitarios ocupados.
   
 * Segmento 2: Cocineros Caseros <br>
+
+Patrones comunes:
+
+Habilidades culinarias: Alejandro ha desarrollado amplias habilidades cocinando tanto en su trabajo como en casa, y está interesado en monetizarlas.
+
+Barreras: Ha enfrentado dificultades como falta de permisos y tiempo para vender comida por su cuenta.
+
+Oportunidades: Percibe una alta demanda de comida casera y cree que una plataforma online le permitiría llegar a más clientes sin grandes inversiones.
+
+Necesidades clave:
+
+Flexibilidad: La posibilidad de gestionar sus tiempos y pedidos mientras sigue trabajando es esencial.
+
+Comunidad: Valora formar parte de una comunidad de cocineros caseros donde pueda compartir y aprender.
+
+Conclusión: Alejandro es un candidato ideal para Sabores Cercanos, ya que busca una plataforma que le permita monetizar su pasión culinaria con flexibilidad y formar parte de una comunidad de cocineros caseros.
   
 ## 2.3. Needfinding
 
@@ -1805,73 +1837,95 @@ completa, con un diseño atractivo e intuitivo para los usuarios. Gracias a nues
 
 | **Repository** | **Branch**       | **Commit Id** | **Commit Message**       | **Commit Message Body**                                    | **Committed on (Date)** |
 |----------------|------------------|---------------|--------------------------|------------------------------------------------------------|--------------------------|
-| `my-repo`      | `main`           | `a1b2c3d4e5`  | `Update README`          | `Updated the README file with new project details.`        | `2024-08-30`             |
-| `my-repo`      | `feature-branch` | `f6g7h8i9j0`  | `Add user authentication`| `Implemented user authentication with JWT.`               | `2024-08-29`             |
-| `my-repo`      | `bugfix`         | `k1l2m3n4o5`  | `Fix login bug`          | `Resolved issue where login failed under certain conditions.` | `2024-08-28`             |
+| `Landing-page`      | `main`           | `6b31206`  | `Initial commit`          | `Created the README file.`        | `2024-09-06`             |
+| `Landing-page`      | `main` | `9286067`  | `Added initial project files and structured the repository.`| `Implemented user authentication with JWT.`               | `2024-09-06`             |
+| `Landing-page`      | `main`         | `27eda4a`  | `Feat: add landing page design`          | `Added initial project files and structured the repository.` | `2024-09-06`             |
+| `Landing-page`      | `main`         | `k1l2m3n4o5`  | `Feat: add files and repository structure`          | `Implemented the design for the landing page, including layout and styles.` | `2024-09-07`             |
+| `Landing-page`      | `main`         | `06c098c`  | `Fix: link images`          | `Corrected the links for images on the landing page.` | `2024-09-07`             |
 
 
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
+En esta fase del proyecto, hemos estado concentrados en el desarrollo de la landing page. Debido a este enfoque, aún no hemos implementado pruebas automatizadas, como Unit Tests, Integration Tests y Acceptance Tests. Nuestra prioridad ha sido completar el diseño y la funcionalidad de la página. Sin embargo, planeamos incorporar un conjunto completo de pruebas en las próximas fases del proyecto para asegurar la calidad y robustez de la aplicación.
+
 ### 5.2.1.5. Execution Evidence for Sprint Review
 
-**Resumen**
-Durante este Sprint, hemos completado la implementación de la Landing Page, incluyendo la estructura básica y la funcionalidad inicial. 
+En este Sprint, hemos alcanzado un avance significativo en el desarrollo de la landing page. Nos hemos enfocado en implementar el diseño y la funcionalidad básica, incluyendo las principales vistas y elementos interactivos. A continuación, presentamos capturas de pantalla de las vistas principales que hemos desarrollado, junto con un enlace a un video que muestra la visualización y navegación logradas durante este Sprint.
 
 **Capturas de Pantalla**
-- Página de Inicio: ![Screenshot1](URL_de_la_imagen)
-- Página de Registro: ![Screenshot2](URL_de_la_imagen)
+- Seccion navbar: ![Screenshot1](/assets/images/Landingpage/Navbar.png)
+- Seccion home: ![Screenshot2](/assets/images/Landingpage/Home.png)
+- Seccion about us: ![Screenshot3](/assets/images/Landingpage/About_us.png)
+![Screenshot4](/assets/images/Landingpage/About_us_2.png) 
+- Seccion services: ![Screenshot5](/assets/images/Landingpage/Services.png)
+- Seccion contact us: ![Screenshot6](/assets/images/Landingpage/Contact%20us.png)
+- Seccion footer: ![Screenshot7](/assets/images/Landingpage/Footer.png)
 
 **Enlace a Video**
-[Visualización y Navegación](URL_del_video)
+[Visualización y Navegación de Landing Page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201620127_upc_edu_pe/EfpuXUqzu-1DhChn0fsPc5ABLiNG5nmudn_BF-MAj_j5eA?e=nxTG5W&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
-**Resumen**
-En este Sprint, hemos documentado los Endpoints de la API utilizando OpenAPI.
-
-**Tabla de Endpoints**
-
-| **Endpoint** | **Acción** | **Verbo HTTP** | **Sintaxis de Llamada** | **Parámetros** | **Ejemplo de Response** | **Enlace a Documentación** |
-|--------------|------------|----------------|--------------------------|----------------|--------------------------|-----------------------------|
-| /api/login    | Login       | POST           | /api/login               | username, password | { "token": "abc123" }     | [Documentación](URL)       |
-
-**Capturas de Pantalla**
-- Documentación de Login: ![Screenshot1](URL_de_la_imagen)
-
-**URL del Repositorio de Web Services**
-[Repositorio](URL_del_repositorio)
-
-**Commits Relacionados**
-| **Commit Id** | **Commit Message** | **Commited on (Date)** |
-|---------------|---------------------|--------------------------|
-| `xyz789`      | Documentación de Endpoints | `2024-08-30` |
+En este Sprint, nuestro enfoque principal ha sido el desarrollo y diseño de la landing page. Debido a que aún no hemos implementado Web Services, no contamos con documentación de endpoints en esta fase. En lugar de eso, hemos documentado el desarrollo y diseño de la landing page.
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 **Resumen**
-Durante este Sprint, hemos configurado el entorno de despliegue para la Landing Page.
+Durante este Sprint, nos hemos enfocado en el despliegue de la landing page. Las actividades realizadas incluyen la configuración del entorno de desarrollo y el despliegue inicial del sitio. A continuación, se detalla el proceso seguido para el despliegue de la landing page.
 
 **Actividades Realizadas**
-- Creación de cuentas en el proveedor de servicios en la nube.
-- Configuración de recursos necesarios para el despliegue.
-- Configuración del proyecto de desarrollo para automatización de despliegue.
+- Creación de Cuentas y Configuración de Recursos:
+
+Proveedor de Hosting: Selección y configuración de la cuenta en el proveedor de hosting para desplegar la landing page.
+Configuración del Entorno: Establecimiento del entorno de desarrollo y producción para la landing page.
+
+- Configuración de Proyectos para Integración:
+
+Repositorio de Código: Configuración del repositorio en GitHub para la integración continua y despliegue automático.
+Automatización: Configuración de scripts y herramientas para la automatización del despliegue.
+
+- Despliegue de la Landing Page:
+
+Subida de Archivos: Transferencia de archivos y recursos al servidor de hosting.
+Verificación: Comprobación de que la landing page se despliega correctamente y está accesible en la web.
 
 **Capturas de Pantalla**
-- Configuración en la nube: ![Screenshot1](URL_de_la_imagen)
-- Configuración de Automatización: ![Screenshot2](URL_de_la_imagen)
+- Repositorio de Landing Page: ![Screenshot8](/assets/images/Landingpage/Repository.png)
+- Demostración de despliegue en Github: ![Screenshot9](/assets/images/Landingpage/Landing_page_deployment.png)
+- Landing Page desplegado: ![Screenshot10](/assets/images/Landingpage/Deployment.png)
+
+**Enlace al Repositorio**: https://github.com/Rampart-SaboresCercanos/Landing-page
+
+**Link de landing page**: https://rampart-saborescercanos.github.io/Landing-page/
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 
-**Resumen**
-El equipo ha trabajado de manera colaborativa para implementar la Landing Page. Cada miembro ha contribuido en diferentes aspectos del proyecto.
+Durante este Sprint, he gestionado en solitario el desarrollo y despliegue de la landing page. Las actividades de implementación, documentación y despliegue han sido llevadas a cabo individualmente. A continuación, se detalla el trabajo realizado y la colaboración en términos de gestión y control de versiones.
+
+Actividades de Implementación:
+
+- Diseño y Desarrollo:
+
+Diseño de la Landing Page: Desarrollo y diseño completo de la landing page, incluyendo la creación de secciones y funcionalidad. <br>
+Implementación: Realización de las tareas de codificación, pruebas y ajustes necesarios para completar la página.
+
+- Documentación y Despliegue:
+
+Documentación: Creación de documentación relevante para la landing page, incluyendo capturas de pantalla y descripciones. <br>
+Despliegue: Configuración del entorno de despliegue y transferencia de archivos al servidor.
 
 **Capturas de Pantalla**
-- Analíticos de Colaboración en GitHub: ![Screenshot1](URL_de_la_imagen)
-- Commits Realizados: ![Screenshot2](URL_de_la_imagen)
+- Analíticos de Colaboración en GitHub: ![Screenshot11](/assets/images/Landingpage/Contributors.png)
+- Commits Realizados: ![Screenshot12](/assets/images/Landingpage/Commits_screen.png)
 
 **Participación del Equipo**
-- Diego: Implementación de la Landing Page.
-- [Otros Miembros]: Contribuciones en diseño, pruebas y documentación.
+- Diego: Aunque en este Sprint he sido el único que ha realizado los commits, es importante destacar que todos los miembros del equipo están comprometidos y participarán activamente en la siguiente entrega del proyecto.
+
+Para la próxima fase, cada miembro del equipo asumirá roles específicos que incluyen la realización de commits y la colaboración en la implementación de características y mejoras. Esto garantizará una distribución equitativa del trabajo y una integración más completa de las contribuciones de cada miembro.
+
+Además, el diseño principal del proyecto lo hemos desarrollado y revisado en conjunto. Este diseño refleja nuestro esfuerzo colectivo y servirá como base para las próximas iteraciones y desarrollos del proyecto.
+
+La participación de cada miembro será clave para el éxito de las siguientes fases, y esperamos que esta colaboración se refleje en los commits y en el progreso general del proyecto.
 
 
 ## Conclusiones
@@ -1882,11 +1936,15 @@ El equipo ha trabajado de manera colaborativa para implementar la Landing Page. 
  * Maria Jose Pezo Castilla:<br>
    - TB1:<br>
    En conclusión, el proyecto demostró una excelente capacidad de colaboración y planificación, donde actividades clave como la elaboración de la Descripción de la Startup, Solution Profile, y el diseño de la Landing Page y la aplicación web se llevaron a cabo de manera conjunta y organizada. El equipo creó un entorno inclusivo y estructurado, permitiendo una asignación clara de responsabilidades y el cumplimiento efectivo de los objetivos. La capacidad de coordinar y tomar decisiones estratégicas en equipo fue esencial para avanzar con éxito en el desarrollo del proyecto.<br><br>
+* Diego Alonso Rosado Iporre:<br>
+   - TB1:<br>
+   En el desarrollo de "Sabores Cercanos," hemos logrado definir una sólida arquitectura de software que facilita la escalabilidad y el mantenimiento del sistema, gracias a los detallados diagramas de contexto, contenedores y componentes. El análisis de competidores ha resaltado nuestras ventajas, como la autenticidad en las comidas caseras y la conexión directa con cocineros locales, diferenciándonos de plataformas que priorizan la eficiencia. Además, el exitoso despliegue de la landing page marca un hito importante, mostrando nuestros avances y proporcionando una base sólida para futuras integraciones y despliegues de otros componentes del proyecto. A medida que avanzamos, el compromiso del equipo y la atención a las áreas de oportunidad identificadas asegurarán el éxito continuo del proyecto.<br><br>
 
 ## Bibliografia
    - Biblioteca UPC. (2024). _Biblioteca virtual de la Universidad Peruana de Ciencias Aplicadas_. https://biblioteca.upc.edu.pe
    - Miro. (2024). _Miro_. Miro Corporation. https://miro.com
    - LucidChart. (2024). _LucidChart_. Lucid Software Inc. https://www.lucidchart.com
+   - Evans, E. (2004). Domain-Driven Design: Tackling Complexity in the Heart of Software. Addison-Wesley.
 
 ## Anexos
 
