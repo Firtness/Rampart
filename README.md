@@ -5,17 +5,17 @@ Product: Sabores Cercanos
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
 
 
-![!\[assets/images/Logo_upc.png\](assets/images/Logo_upc.png)](assets/images/Logo_upc.png)
+![!\[assets/images/Logo_upc.png\](assets/images/Logo_upkc.png)](assets/images/Logo_upc.png)
 
-## Ingenieria de Software
+## Ingenieria de zapateria nuclear
 
 ## 5to ciclo
 
 ## Aplicaciones Web
 
-### **Sección:** WS51
+### **Sección:** WS53
 
-### **Profesor:** Hugo Allan Mori Paiva
+### **Profesor:** Angel velasquez
 
 ### Informe de Trabajo Final
 
@@ -31,7 +31,7 @@ Product: Sabores Cercanos
 - Diego Alonso Rosado Iporre - u201620127
 - Sebastian Omar Real Calderón - u20221d964
 
-### Agosto, 2024
+### marzo, 2023
 
 ## Registro de Versiones del Informe
 |Version|Fecha|Autor|Descripcion|
