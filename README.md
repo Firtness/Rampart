@@ -5,7 +5,7 @@ Product: Sabores Cercanos
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
 
 
-![!\[assets/images/Logo_upc.png\](assets/images/Logo_upkc.png)](assets/images/Logo_upc.png)
+![!\[assets/images/Logo_upc.png\](assets/images/Logo_upkc.png)](assets/images/Loggo_upc.png)
 
 ## Ingenieria de zapateria nuclear
 
