@@ -4,18 +4,18 @@ Product: Sabores Cercanos
 
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
 
+![!\[assets/images/Logo_upc.png\](assets/images/Logo_upc.png)](assets/images/Logo_upc.png)
 
-![!\[assets/images/Logo_upc.png\](assets/images/Logo_upkc.png)](assets/images/Logo_upc.png)
 
-## Ingenieria de zapateria nuclear
+## Ingenieria de Software
 
 ## 5to ciclo
 
 ## Aplicaciones Web
 
-### **Sección:** WS53
+### **Sección:** WS51
 
-### **Profesor:** Angel velasquez
+### **Profesor:** Hugo Allan Mori Paiva
 
 ### Informe de Trabajo Final
 
@@ -31,7 +31,7 @@ Product: Sabores Cercanos
 - Diego Alonso Rosado Iporre - u201620127
 - Sebastian Omar Real Calderón - u20221d964
 
-### marzo, 2023
+### Agosto, 2024
 
 ## Registro de Versiones del Informe
 |Version|Fecha|Autor|Descripcion|
@@ -76,13 +76,38 @@ Sprint Backlog 1, Execution Evidence for Sprint Review, Software Deployment|
 ## Contenido
 
 ### Tabla de contenidos
+- [Rampart](#rampart)
+- [UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS](#universidad-peruana-de-ciencias-aplicadas)
+  - [Ingenieria de Software](#ingenieria-de-software)
+  - [5to ciclo](#5to-ciclo)
+  - [Aplicaciones Web](#aplicaciones-web)
+    - [**Sección:** WS51](#sección-ws51)
+    - [**Profesor:** Hugo Allan Mori Paiva](#profesor-hugo-allan-mori-paiva)
+    - [Informe de Trabajo Final](#informe-de-trabajo-final)
+    - ["Rampart"](#rampart-1)
+    - ["Sabores Cercanos"](#sabores-cercanos)
+    - [**Integrantes:**](#integrantes)
+    - [Agosto, 2024](#agosto-2024)
+  - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
+  - [Project Report Collaboration Insights](#project-report-collaboration-insights)
+  - [Contenido](#contenido)
+    - [Tabla de contenidos](#tabla-de-contenidos)
   - [Student Outcome](#student-outcome)
   - [Capítulo I: Introducción](#capítulo-i-introducción)
     - [1.1. Startup Profile](#11-startup-profile)
     - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
+          - [Misión:](#misión)
+          - [Visión:](#visión)
     - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
     - [1.2. Solution Profile](#12-solution-profile)
     - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
+          - [What?](#what)
+          - [When?](#when)
+          - [Where?](#where)
+          - [Who?](#who)
+          - [Why?](#why)
+          - [How?](#how)
+          - [How much?](#how-much)
     - [1.2.2. Lean UX Process](#122-lean-ux-process)
     - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
     - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
@@ -142,6 +167,17 @@ Sprint Backlog 1, Execution Evidence for Sprint Review, Software Deployment|
     - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
     - [4.4.2. Web Applications Mock-ups](#442-web-applications-mock-ups)
     - [4.4.3. Web Applications User Flow Diagrams](#443-web-applications-user-flow-diagrams)
+      - [Happy path:](#happy-path)
+      - [Unhappy path:](#unhappy-path)
+      - [Happy path:](#happy-path-1)
+      - [Happy path:](#happy-path-2)
+      - [Happy path:](#happy-path-3)
+      - [Unhappy path:](#unhappy-path-1)
+      - [Happy path:](#happy-path-4)
+      - [Unhappy path:](#unhappy-path-2)
+      - [Happy path:](#happy-path-5)
+      - [Unhappy path:](#unhappy-path-3)
+      - [Happy path:](#happy-path-6)
     - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
     - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
     - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
@@ -149,14 +185,26 @@ Sprint Backlog 1, Execution Evidence for Sprint Review, Software Deployment|
     - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
     - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
     - [4.7.1. Class Diagrams](#471-class-diagrams)
-    - [4.7.2. Class Dictionary](#472-class-dictionary)
     - [4.8. Database Design](#48-database-design)
     - [4.8.1. Database Diagram](#481-database-diagram)
     - [4.8.2. Database Dictionary](#482-database-dictionary)
+      - [User](#user)
+      - [Chef](#chef)
+      - [Menu](#menu)
+      - [Order](#order)
+      - [Order-Details](#order-details)
+      - [Dish](#dish)
+      - [Publication](#publication)
+      - [Reviews](#reviews)
+      - [Category](#category)
+      - [Plans-Type](#plans-type)
   - [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
     - [5.1. Software Configuration Management](#51-software-configuration-management)
     - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
     - [5.1.2. Source Code Management](#512-source-code-management)
+    - [**Master o Main branch**](#master-o-main-branch)
+      - [Notación: master o main](#notación-master-o-main)
+    - [**Conventional Commits**](#conventional-commits)
     - [5.1.3. Source Code Style Guide \& Conventions](#513-source-code-style-guide--conventions)
     - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
     - [5.2. Landing Page, Services \& Applications Implementation](#52-landing-page-services--applications-implementation)
@@ -225,6 +273,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 | <p align="center"><img width="auto" height="auto" src="assets/images/Estefano_profile.jpg"> </p> | Soy Estefano Oscar Jaque Peña, tengo 23 años y soy estudiante de la carrera de Ingeniería de Software,<br> una disciplina enfocada en el diseño, desarrollo y gestión de software para solucionar problemas <br>complejos. Desde temprana edad, he sentido fascinación por la tecnología y he buscado aprender <br>constantemente sobre las últimas tendencias en programación. He ampliado mis conocimientos a <br>través de cursos en Python, SQL, y C++, así como también explorando otros lenguajes de programación <br>por mi cuenta. Además, tengo habilidades en el uso avanzado de Excel para análisis de datos y gestión<br> de información. Mi experiencia trabajando en equipos me ha brindado habilidades de comunicación y <br>colaboración que considero fundamentales para contribuir de manera efectiva a proyectos innovadores en el área de la Ingeniería de Software. |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
+- Diego Alonso Rosado Iporre -   u201620127
+
+| <p align="center"><img width="auto" height="auto" src="assets/images/Diego_profile.jpg"> </p> | Mi nombre es Diego Rosado, tengo 24 años. Mi interés en las base de datos y arquitectura de páginas web me impulsó a estudiar Ingeniería de Software. Tengo conocimiento de lenguajes como C#, C++, JavaScript, Python, base de datos como MySQL y me atrae el diseño de páginas web con HTML y CSS. Me considero una persona positiva, tolerante y creativa. Mi aporte al grupo es mi total compromiso, apoyo mutuo y el esfuerzo por asegurar que todos tengamos una visión compartida del proyecto a elaborar. Mis habilidades son resolución de problemas, adaptabilidad, trabajo en equipo y toma de decisiones.  |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------ |
 
 - Maria Jose Pezo Castilla - u20221c590
 
@@ -678,7 +730,7 @@ Antes de poder realizar las entrevistas, consideramos prudente poder concretar u
    Apellidos: Barandiaran <br>
    Edad: 22 <br>
    Distrito: San Miguel <br>
-   URL: [Link de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201913495_upc_edu_pe/ETavGC5q4nxIhwrjuExv0NYBNt1Zw0AWpBjLssBDm5Gvsg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZhXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=s4zokS) <br>
+   URL: [Link de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201913495_upc_edu_pe/ETavGC5q4nxIhwrjuExv0NYBNt1Zw0AWpBjLssBDm5Gvsg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=s4zokS) <br>
    Inicio: 00:24<br>
    Duración: 05:12 <br>
    Resumen: <br>
@@ -691,7 +743,7 @@ Antes de poder realizar las entrevistas, consideramos prudente poder concretar u
    Apellidos: Luján <br>
    Edad: 25 <br>
    Distrito: Comas <br>
-   URL: [Link de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201620127_upc_edu_pe/EWtbYFhqidpIn5iPjJuaBdsB3_stAPSMxF8eeBT2ae81HA?e=2XvEiF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1jXZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) <br>
+   URL: [Link de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201620127_upc_edu_pe/EWtbYFhqidpIn5iPjJuaBdsB3_stAPSMxF8eeBT2ae81HA?e=2XvEiF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) <br>
    Inicio: 00:24<br>
    Duración: 05:21 <br>
    Resumen: <br>
@@ -751,7 +803,7 @@ Tras la identificación de los segmentos objetivo (cocineros caseros y estudiant
 | Location | Lima, Perú |
 | Tier | Madre de Familia |
 | Archetype | Cocinera |
-| Image | <br><p align="center"><img height="100px" src="assets/images/ukser-persona-1.jpg"></p> |
+| Image | <br><p align="center"><img height="100px" src="assets/images/user-persona-1.jpg"></p> |
 | Quote | _"Cada comida que preparo es una manera de compartir mi corazón con los demás."_ |
 | Motivations | <p><ul><li>Incentive: **70 de 100**<li>Fear: **60 de 100**<li>Achievement: **60 de 100**<li>Growth: **50 de 100**<li>Power: **60 de 100**<li>Social: **80 de 100** |
 | Goals | <p><ul><li>Generar ingresos adicionales para su familia.</li><li>Ser flexible en su trabajo, para poder gestionar mejor sus responsabilidades familiares.</li><li>Compartir su pasión por la cocina con una comunidad.</li></ul></p> |
@@ -772,7 +824,7 @@ Tras la identificación de los segmentos objetivo (cocineros caseros y estudiant
 | Location | Lima, Perú |
 | Tier | Estudiante Pregrado |
 | Archetype | Estudiante |
-| Image | <br><p align="center"><img height="100px" src="assets/images/userk-persona-2.jpg"></p> |
+| Image | <br><p align="center"><img height="100px" src="assets/images/user-persona-2.jpg"></p> |
 | Quote | _"El tiempo lo es todo, pero la salud también, por eso es importante encontrar un balance."_ |
 | Motivations | <p><ul><li>Incentive: **90 de 100**<li>Fear: **60 de 100**<li>Achievement: **80 de 100**<li>Growth: **80 de 100**<li>Power: **60 de 100**<li>Social: **50 de 100** |
 | Goals | <p><ul><li>Ahorrar tiempo.</li><li>Estar saludable.</li><li>Disfrutar de buena comida.</li></ul></p> |
@@ -1020,8 +1072,8 @@ EPICS:
 | US30 | Recuperación de cuenta | Como usuario, quiero poder recuperar mi cuenta si olvido mis credenciales, para no perder acceso a la plataforma. | -Escenario 1: <br>Dado que el usuario olvida su contraseña,<br>cuando solicita la recuperación de cuenta,<br>entonces el sistema envía un enlace para restablecer la contraseña al correo electrónico registrado.<br><br>-Escenario 2: <br>Dado que el usuario no tiene acceso al correo registrado,<br>cuando intenta recuperar su cuenta,<br>entonces el sistema proporciona alternativas como preguntas de seguridad o verificación telefónica. | EP05 |
 
 ### 3.3. Impact Mapping
-h
-![Anexo A](/assets/images/Mapa%20de%20ihmpacto.jpg)
+
+![Anexo A](/assets/images/Mapa%20de%20impacto.jpg)
 [Anexo A](#anexos)<br><br>
 
 
@@ -1069,7 +1121,7 @@ h
 
 **Brand Name:** "Sabores Cercanos" es un nombre con el que buscamos transmitir una sensación de familiaridad y comodidad con relación a la comida. Surge de nuestro deseo por llevar a los usuarios la mejor versión del mundo culinario casero.
 
-![Sabores Cercanos, Logo](/assetso/images/logo.png)
+![Sabores Cercanos, Logo](/assets/images/logo.png)
 
 **¿Qué debe tener?**
 
@@ -1084,19 +1136,19 @@ h
 
 * #### Para Títulos: Playfair.
 
-![Playfair, Tipo de Letra](/assets/images/pljayfair-typography.png)
+![Playfair, Tipo de Letra](/assets/images/playfair-typography.png)
 
 Elegimos Playfair para los títulos por su estilo ligeramente elegante a la vez que legible.
 
 * #### Para Párrafos: Lora.
 
-![Lora, Tipo de Letra](/assets/imagesh/lora-typography.png)
+![Lora, Tipo de Letra](/assets/images/lora-typography.png)
 
 Elegimos Lora para los párrafos debido a su legibilidad y estilo. Haciéndola perfecta para cantidades moderadas de texto.
 
 **Buttons:**
 
-![Botones](/assets/images/buttonj-layout.jpg)
+![Botones](/assets/images/button-layout.jpg)
 
 ### 4.1.2. Web Style Guidelines
 
@@ -1111,7 +1163,7 @@ Para nuestro primer segmento enfocado en Universitarios/Profesionales ocupados p
 Al seleccionar un plato, el usuario accede a una página detallada con información del plato, incluyendo una sección de reseñas y perfil del cocinero. La información está organizada jerárquicamente, con datos esenciales como la descripción del plato y la información nutricional en la parte superior, seguidos por reseñas y calificaciones en secciones inferiores. El usuario lee la descripción del plato, consulta la información nutricional y revisa las reseñas antes de tomar una decisión. La organización jerárquica facilita una navegación lógica desde los detalles del plato hasta la información de los usuarios. El usuario llega a la página de programación de entrega, donde se le presenta un calendario y opciones de horarios. La interfaz está organizada secuencialmente para guiar al usuario a través del proceso de selección de fecha y hora de entrega. El usuario selecciona la fecha y hora deseada para la entrega, revisa la información y confirma la programación. El diseño secuencial asegura que cada etapa del proceso de programación sea clara y fácil de completar.
 Después de realizar su primera compra, en la página de inicio o en una sección dedicada a recomendaciones, el usuario recibe sugerencias de platos basadas en sus pedidos anteriores y preferencias. Las recomendaciones se organizan jerárquicamente por categorías como "Recomendados para Ti" y "Nuevos en la Plataforma". El usuario explora las recomendaciones personalizadas presentadas en una vista de cuadrícula o lista. Puede ver las opciones sugeridas y decidir rápidamente cuáles le interesan. La organización jerárquica y matricial ayuda a destacar las opciones más relevantes y personalizadas.<br> <br>
 
-![Anexo B](/assets/images/UP%20ocupados%20para%j20cocinar.png)
+![Anexo B](/assets/images/UP%20ocupados%20para%20cocinar.png)
 [Anexo B](#anexos)<br><br>
 Para nuestro segundo segmento enfocado en Cocineros Caseros, el proceso inicia al registrarse y configurar su perfil. El cocinero casero inicia su viaje en la plataforma mediante un proceso de registro. La interfaz está organizada secuencialmente, comenzando con el registro básico y luego avanzando a la configuración del perfil. El cocinero completa su registro, proporcionando detalles básicos como nombre y contacto. Luego, avanza a la configuración del perfil, donde debe ingresar información sobre sus especialidades culinarias, fotografías de sus platos y detalles de su cocina. Cada etapa del proceso está claramente definida para facilitar la finalización del registro y configuración. Una vez configurado el perfil, el cocinero accede a una sección para crear y gestionar sus menús. La interfaz utiliza una organización jerárquica para presentar opciones como “Añadir Nuevo Plato” y “Gestionar Menús Actuales”. Dentro de estas opciones, el contenido se organiza de forma matricial, mostrando platos individuales con detalles visuales. El cocinero selecciona “Añadir Nuevo Plato”, completa los detalles del plato, incluyendo nombre, descripción, precio y fotos. Luego puede ver y editar los menús existentes. La organización visual permite al cocinero gestionar sus menús de manera eficiente, con un enfoque en las tareas más importantes primero. En la sección de gestión de pedidos, el cocinero puede ver y procesar los pedidos recibidos. La interfaz está organizada secuencialmente por estados del pedido (por ejemplo, “Nuevo”, “En Proceso”, “Completado”), y los pedidos se presentan en un formato cronológico. El cocinero revisa los nuevos pedidos, los procesa según la secuencia establecida, y actualiza el estado de los pedidos en función del progreso. La organización secuencial y cronológica asegura que los pedidos se manejen de manera ordenada y eficiente. El cocinero puede acceder a una sección para revisar las reseñas y calificaciones de sus platos. La interfaz está organizada jerárquicamente, mostrando primero las reseñas más recientes y destacadas, seguidas de las reseñas más antiguas y menos relevantes. El cocinero lee las reseñas y calificaciones recibidas, prestando especial atención a los comentarios destacados para mejorar sus platos y servicios. La organización jerárquica facilita el enfoque en los comentarios más importantes y recientes. En la sección de configuración de perfil, el cocinero puede actualizar su información personal y de menú. La interfaz está organizada jerárquicamente con secciones principales como “Información del Perfil”, “Fotos de Platos”, y “Detalles de Cocina”. Dentro de cada sección, la información se presenta de manera alfabética para una fácil navegación. El cocinero actualiza su perfil y la información de los platos, navegando a través de las secciones y sub-secciones organizadas alfabéticamente para facilitar la búsqueda de elementos específicos. El cocinero tiene acceso a un panel de estadísticas que muestra el rendimiento de sus platos, incluyendo ventas y popularidad. La organización visual se utiliza para presentar gráficos y datos en un formato jerárquico, mientras que los datos se presentan cronológicamente. El cocinero revisa los informes y gráficos, analizando el rendimiento de sus platos a lo largo del tiempo. La organización visual y cronológica ayuda a identificar tendencias y patrones en las ventas y la popularidad de los platos.
 
@@ -1562,21 +1614,21 @@ La gestión de la configuración del software es fundamental para nuestro trabaj
 
   Imagen de evidencia de uso
 
-  ![HTML5](/assets/imagems/environments/html.jpg)
+  ![HTML5](/assets/images/environments/html.jpg)
 
   * ### CSS
   Lenguaje de diseño gráfico utilizado para dar formato al código escrito en HTML.
 
   Imagen de evidencia de uso
 
-  ![CSS](/assets/images/environmemnts/css.jpg)
+  ![CSS](/assets/images/environments/css.jpg)
 
   * ### Javascript
   Lenguaje de programación orientado a objetos dinámico que utilizamos para implementar funcionalidades en un documento HTML.
 
   Imagen de evidencia de uso
 
-  ![Javascript](/assets/images/environmments/javascript.jpg)
+  ![Javascript](/assets/images/environments/javascript.jpg)
 
 * ### Software Documentation
   * ### Github
@@ -1590,7 +1642,7 @@ La gestión de la configuración del software es fundamental para nuestro trabaj
 
 * ### **Gitflow Implementation:**
 Implementamos el flujo de trabajo gitflow para el control de versiones con branches(ramas) para trabajar paralelamente.
-![Gitflow](/assets/images/environmentms/gitflow.jpg)
+![Gitflow](/assets/images/environments/gitflow.jpg)
 
 ### **Master o Main branch**
 La rama principal de desarrollo del proyecto es la Master branch. En esta rama reside el código que actualmente se encuentra en producción.
@@ -1829,21 +1881,36 @@ completa, con un diseño atractivo e intuitivo para los usuarios. Gracias a nues
 
 En esta fase del proyecto, hemos estado concentrados en el desarrollo de la landing page. Debido a este enfoque, aún no hemos implementado pruebas automatizadas, como Unit Tests, Integration Tests y Acceptance Tests. Nuestra prioridad ha sido completar el diseño y la funcionalidad de la página. Sin embargo, planeamos incorporar un conjunto completo de pruebas en las próximas fases del proyecto para asegurar la calidad y robustez de la aplicación.
 
+| **Repository**| **Branch**| **Commit Id**| **Commit Message** | **Commit Message Body**| **Committed on (Date)** |
+|-|-|-|-|-|-|
+| Rampart-SaboresCercanos/Rampart | feature/TP | 1f707b6c836010e3c39e5749d089f17c1c5cf710 |Initial commit  | Initial commit | 24/09/2024|
+| Rampart-SaboresCercanos/Rampart | feature/TP | f606937a71942bacf10be6b9df5cfb364d7f431e |feature: added US05 gherkin  | Se agregaron los features de las User Story 05 | 26/09/2024|
+| Rampart-SaboresCercanos/Rampart | feature/TP | f606937a71942bacf10be6b9df5cfb364d7f431e |feature: added US15 gherkin  | Se agregaron los features de las User Story 15 | 26/09/2024|
+| Rampart-SaboresCercanos/Rampart | feature/TP | f606937a71942bacf10be6b9df5cfb364d7f431e |feature: added US16 gherkin  | Se agregaron los features de las User Story 16 | 26/09/2024|
+| Rampart-SaboresCercanos/Rampart | feature/TP | 4eab30cf9eb74de34a070db9d64d742fecb89e68 |feature: added US29 gherkin  | Creacion del US29 feature | 26/09/2024|
+| Rampart-SaboresCercanos/Rampart | feature/TP | e7e266119cb91e8cd3b36b1182427f8df41d248a |feature: added US30 gherkin  | Creacion del US30 feature| 26/09/2024|
+| Rampart-SaboresCercanos/Rampart | feature/TP | b8090e41aec3c0d3314b9f63b242889320057ec7 |feature: added user 03 gherkin  | feature: added user 03 gherkin | 26/09/2024|
+| Rampart-SaboresCercanos/Rampart | feature/TP | c915c9b8d7831bb2060282af2cc583655b60eb06 |feature: added US19 gherkin  | Se creo el US19 para recetas | 26/09/2024|
+| Rampart-SaboresCercanos/Rampart | feature/TP | cecbe8d2165d6fb86c1092f5742365905ba81b38 |feature: added US20 gherkin  | Se creo es US20.feature para recetas | 26/09/2024|
+| Rampart-SaboresCercanos/Rampart | feature/TP | 4dc04ec922dc1331993e7454a333b52f3b21b976 |feature: added US21 gherkin  | Se creo es US21.feature para recetas | 26/09/2024|
+| Rampart-SaboresCercanos/Rampart | feature/TP | 12aee7b49a5647a81e956d6e7201558611d4eeac |feature: added US04 gherkin  | Agregué la US04.feature | 26/09/2024|
+| Rampart-SaboresCercanos/Rampart | feature/TP | 30d8350233d2e2d2445d58cdcfde16dfe2f252d0 |feature: added US06 gherkin  | Agregué US06.feature | 26/09/2024|
+
 ### 5.2.1.5. Execution Evidence for Sprint Review
 
 En este Sprint, hemos alcanzado un avance significativo en el desarrollo de la landing page. Nos hemos enfocado en implementar el diseño y la funcionalidad básica, incluyendo las principales vistas y elementos interactivos. A continuación, presentamos capturas de pantalla de las vistas principales que hemos desarrollado, junto con un enlace a un video que muestra la visualización y navegación logradas durante este Sprint.
 
 **Capturas de Pantalla**
-- Seccion navbar: ![Screenshot1](/assets/imagejs/Landingpage/Navbar.png)
-- Seccion home: ![Screenshot2](/assets/images/jLandingpage/Home.png)
-- Seccion about us: ![Screenshot3](/assets/imjages/Landingpage/About_us.png)
-![Screenshot4](/assets/images/Landingpage/Abjout_us_2.png) 
-- Seccion services: ![Screenshot5](/assets/imjages/Landingpage/Services.png)
-- Seccion contact us: ![Screenshot6](/assets/imjages/Landingpage/Contact%20us.png)
-- Seccion footer: ![Screenshot7](/assets/images/jLandingpage/Footer.png)
+- Seccion navbar: ![Screenshot1](/assets/images/Landingpage/Navbar.png)
+- Seccion home: ![Screenshot2](/assets/images/Landingpage/Home.png)
+- Seccion about us: ![Screenshot3](/assets/images/Landingpage/About_us.png)
+![Screenshot4](/assets/images/Landingpage/About_us_2.png) 
+- Seccion services: ![Screenshot5](/assets/images/Landingpage/Services.png)
+- Seccion contact us: ![Screenshot6](/assets/images/Landingpage/Contact%20us.png)
+- Seccion footer: ![Screenshot7](/assets/images/Landingpage/Footer.png)
 
 **Enlace a Video**
-[Visualización y Navegación de Landing Page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201620127_upc_edu_pe/EfpuXUqzu-1DhChn0fsPc5ABLiNG5nmudn_BF-MAj_j5eA?e=nxTG5W&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcjHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[Visualización y Navegación de Landing Page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201620127_upc_edu_pe/EfpuXUqzu-1DhChn0fsPc5ABLiNG5nmudn_BF-MAj_j5eA?e=nxTG5W&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -1871,9 +1938,9 @@ Subida de Archivos: Transferencia de archivos y recursos al servidor de hosting.
 Verificación: Comprobación de que la landing page se despliega correctamente y está accesible en la web.
 
 **Capturas de Pantalla**
-- Repositorio de Landing Page: ![Screenshot8](/assets/images/Landinjgpage/Repository.png)
-- Demostración de despliegue en Github: ![Screenshot9](/assets/imajges/Landingpage/Landing_page_deployment.png)
-- Landing Page desplegado: ![Screenshot10](/assets/images/Landingpajge/Deployment.png)
+- Repositorio de Landing Page: ![Screenshot8](/assets/images/Landingpage/Repository.png)
+- Demostración de despliegue en Github: ![Screenshot9](/assets/images/Landingpage/Landing_page_deployment.png)
+- Landing Page desplegado: ![Screenshot10](/assets/images/Landingpage/Deployment.png)
 
 **Enlace al Repositorio**: https://github.com/Rampart-SaboresCercanos/Landing-page
 
@@ -1896,8 +1963,8 @@ Documentación: Creación de documentación relevante para la landing page, incl
 Despliegue: Configuración del entorno de despliegue y transferencia de archivos al servidor.
 
 **Capturas de Pantalla**
-- Analíticos de Colaboración en GitHub: ![Screenshot11](/assets/images/Lajndingpage/Contributors.png)
-- Commits Realizados: ![Screenshot12](/assets/images/Landingpage/Commijts_screen.png)
+- Analíticos de Colaboración en GitHub: ![Screenshot11](/assets/images/Landingpage/Contributors.png)
+- Commits Realizados: ![Screenshot12](/assets/images/Landingpage/Commits_screen.png)
 
 **Participación del Equipo**
 - Diego: Aunque en este Sprint he sido el único que ha realizado los commits, es importante destacar que todos los miembros del equipo están comprometidos y participarán activamente en la siguiente entrega del proyecto.
@@ -2087,16 +2154,16 @@ La participación de cada miembro será clave para el éxito de las siguientes f
 
 ## Anexos
 
-Anexo A: https://miro.com/welcomeonboardn/RTA3b0ZrRzFmckk5Z3BneTVwc3d5Z1BBYko4c3d4SmpUaVMwTG93c0JjUmc2cERSNzJ5ZkxjOTZDWG5CbThHd3wzNDU4NzY0NTQzNjk5MTEyMTEwfDI=?share_link_id=280755829967
+Anexo A: https://miro.com/welcomeonboard/RTA3b0ZrRzFmckk5Z3BneTVwc3d5Z1BBYko4c3d4SmpUaVMwTG93c0JjUmc2cERSNzJ5ZkxjOTZDWG5CbThHd3wzNDU4NzY0NTQzNjk5MTEyMTEwfDI=?share_link_id=280755829967
 
-Anexo B:https://lucid.app/lucidchart/434db23kb-883c-43b4-98ea-2da63e5366d5/edit?viewport_loc=-854%2C-13081%2C4706%2C2108%2C0_0&invitationId=inv_f9b021da-b3ba-42f7-b73a-b5085b472ce8
+Anexo B:https://lucid.app/lucidchart/434db23b-883c-43b4-98ea-2da63e5366d5/edit?viewport_loc=-854%2C-13081%2C4706%2C2108%2C0_0&invitationId=inv_f9b021da-b3ba-42f7-b73a-b5085b472ce8
 
-Anexo C:https://lucid.app/lucidchart/434db23jb-883c-43b4-98ea-2da63e5366d5/edit?viewport_loc=-854%2C-13081%2C4706%2C2108%2C0_0&invitationId=inv_f9b021da-b3ba-42f7-b73a-b5085b472ce8
+Anexo C:https://lucid.app/lucidchart/434db23b-883c-43b4-98ea-2da63e5366d5/edit?viewport_loc=-854%2C-13081%2C4706%2C2108%2C0_0&invitationId=inv_f9b021da-b3ba-42f7-b73a-b5085b472ce8
 
-Anexo D: https://lucid.app/lucidchart/c228e218k-6d6b-484c-8557-0fae7cba2738/edit?viewport_loc=-216%2C49%2C4474%2C2081%2CHWEp-vi-RSFO&invitationId=inv_387afe2d-3886-4d53-a6e8-c42b2ae376e3 
+Anexo D: https://lucid.app/lucidchart/c228e218-6d6b-484c-8557-0fae7cba2738/edit?viewport_loc=-216%2C49%2C4474%2C2081%2CHWEp-vi-RSFO&invitationId=inv_387afe2d-3886-4d53-a6e8-c42b2ae376e3 
 
-Anexo E:  https://lucid.app/lucidchart/de7494cj8-ca20-4b78-8732-fb0986780e5e/edit?viewport_loc=-5%2C469%2C2982%2C1387%2C0_0&invitationId=inv_df6f46c5-10c8-405e-8b2b-2a1a52ca42fa 
+Anexo E:  https://lucid.app/lucidchart/de7494c8-ca20-4b78-8732-fb0986780e5e/edit?viewport_loc=-5%2C469%2C2982%2C1387%2C0_0&invitationId=inv_df6f46c5-10c8-405e-8b2b-2a1a52ca42fa 
 
-ANEFO F: https://drive.google.com/drive/folders/k14X--cRiq700Ryxi1WeZE7CM0riqFNCae?usp=sharing
+ANEFO F: https://drive.google.com/drive/folders/14X--cRiq700Ryxi1WeZE7CM0riqFNCae?usp=sharing
 
-ANEXO G: https://drive.google.com/drive/folders/1ajIE_Dj5v-rLgMxIZl-rMrsUlPqoVnidZ?usp=sharing
+ANEXO G: https://drive.google.com/drive/folders/1aIE_Dj5v-rLgMxIZl-rMrsUlPqoVnidZ?usp=sharing
