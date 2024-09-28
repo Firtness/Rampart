@@ -2138,32 +2138,15 @@ Verificación: Comprobación de que la landing page se despliega correctamente y
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 
-Durante este Sprint, he gestionado en solitario el desarrollo y despliegue de la landing page. Las actividades de implementación, documentación y despliegue han sido llevadas a cabo individualmente. A continuación, se detalla el trabajo realizado y la colaboración en términos de gestión y control de versiones.
+| Integrante | Acciones realizadas durante el sprint |
+|-|-|
+| Estefano Oscar Jaque Peña | Desarrollo del bounded context de Recetas |
+| Maria Jose Pezo Castilla | Desarrollo del bounded context de Platillos |
+| Diego Alonso Rosado Iporre | Desarrollo del bounded context de Plan Alimenticio |
+| Sebastián Omar Real Calderón | Desarrollo del bounded context de Cocineros |
+| Jose Antonio Alejo Cardenas | Desarrollo del bounder context de Pedidos |
 
-Actividades de Implementación:
-
-- Diseño y Desarrollo:
-
-Diseño de la Landing Page: Desarrollo y diseño completo de la landing page, incluyendo la creación de secciones y funcionalidad. <br>
-Implementación: Realización de las tareas de codificación, pruebas y ajustes necesarios para completar la página.
-
-- Documentación y Despliegue:
-
-Documentación: Creación de documentación relevante para la landing page, incluyendo capturas de pantalla y descripciones. <br>
-Despliegue: Configuración del entorno de despliegue y transferencia de archivos al servidor.
-
-**Capturas de Pantalla**
-- Analíticos de Colaboración en GitHub: ![Screenshot11](/assets/images/Landingpage/Contributors.png)
-- Commits Realizados: ![Screenshot12](/assets/images/Landingpage/Commits_screen.png)
-
-**Participación del Equipo**
-Durante este Sprint, todos los miembros del equipo han contribuido activamente al proyecto y han realizado commits. Es fundamental destacar el compromiso colectivo en el desarrollo de la landing page.
-
-En esta fase, cada miembro del equipo asumió roles específicos que incluyeron la realización de commits y la colaboración en la implementación de características y mejoras. Esto garantizó una distribución equitativa del trabajo y una integración más completa de las contribuciones de cada miembro.
-
-Además, el diseño principal del proyecto ha sido desarrollado y revisado en conjunto, reflejando nuestro esfuerzo colectivo. Este diseño servirá como base para las próximas iteraciones y desarrollos del proyecto.
-
-La participación de cada miembro fue clave para el éxito de esta fase, y esperamos que esta colaboración se refleje en los commits y en el progreso general del proyecto.
+![Project Insights De La Landing Page](/assets/images/insights_sprint2_1.png)
 
 ## Conclusiones
 
