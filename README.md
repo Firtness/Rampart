@@ -749,6 +749,26 @@ Antes de poder realizar las entrevistas, consideramos prudente poder concretar u
    Resumen: <br>
    De la entrevista con Alejandro sabemos que Alejandro trabaja en Rustica, donde ha desarrollado y perfeccionado sus habilidades culinarias mientras explora diversas recetas. Cocinar es una parte importante de su vida, tanto en el trabajo como en casa, y disfruta de cada momento en la cocina. Alejandro está interesado en monetizar sus habilidades culinarias, ya que cocina a diario y cree que podría ser rentable. Sin embargo, ha enfrentado barreras como la falta de tiempo y la falta de permisos para vender. Hubo una ocasión en la que intentó vender comida, pero no contaba con los medios necesarios. Alejandro considera que vender comida casera a través de una plataforma en línea sería una excelente manera de llegar a más clientes sin grandes inversiones. La flexibilidad de trabajar desde casa y gestionar sus tiempos y pedidos sin descuidar su trabajo en Rustica es fundamental para él. También ha notado una demanda real de comida casera, ya que muchas personas buscan opciones más auténticas y diferentes de las ofrecidas por los restaurantes. Los comentarios positivos que ha recibido de amigos y familiares sobre su cocina lo han motivado a considerar seriamente esta opción. Alejandro está entusiasmado con la idea de formar parte de una comunidad de cocineros caseros, donde podría compartir experiencias y aprender nuevas recetas.
 
+   2. Entrevista 2:<br>
+   <br>Nombre: Alvaro<br>
+   Apellidos: Arata<br>
+   Edad: 29<br>
+   URL: [Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201913495_upc_edu_pe/EfHHz_BwWnlJuakQCAB4dKoBKLHNCnm84xxbosHjHcfo8A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=E8QUpv)<br>
+   Inicio: 00:40<br>
+   Duración: 7:03 <br>
+   Resumen: <br>
+   Álvaro Arata, de 29 años, trabaja en el área de distribución de licores y realiza la mayor parte de su trabajo desde casa. Nos comentó que le gusta cocinar y que lo hace la mayor parte de los días, por este motivo estuvo considerando abrir un negocio en este ámbito, pero decidió no hacerlo debido a posibles dificultades como la falta de visibilidad y los retos de marketing. Álvaro cree que nuestra aplicación podría ayudarle a superar estos obstáculos y, a su vez, representar un apoyo económico.
+
+   3. Entrevista 3:<br>
+   <br>Nombre: Cristina<br>
+   Apellidos: Villegas<br>
+   Edad: 27<br>
+   URL: [Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201913495_upc_edu_pe/ER5LQ_sMMMpAlmgxIi90ZagBE4AUIHSYawtTROD3h4HItg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=UzJcyo)<br>
+   Inicio: 1:06<br>
+   Duración: 7:07 <br>
+   Resumen: <br>
+   Cristina Villegas, de 27 años, es psicóloga y trabaja desde casa, lo que le permite cocinar regularmente. Nos contó que a menudo le elogian su sazón y que le gustaría aprovechar este talento a través de nuestra plataforma. Recientemente, inició un emprendimiento de postres caseros, pero no ha tenido mucho éxito debido a la falta de visibilidad. Cristina considera que nuestra aplicación es una excelente iniciativa que podría ayudarle a hacer crecer su negocio.
+
 ### 2.2.3. Análisis de entrevistas
 * Segmento 1: Universitarios o Profesionales Ocupados <br>
 
