@@ -2095,9 +2095,8 @@ En este Sprint, hemos alcanzado un avance significativo en el desarrollo de la l
 - Seccion navbar: ![Screenshot1](/assets/images/Landingpage/Navbar.png)
 - Seccion home: ![Screenshot2](/assets/images/Landingpage/Home.png)
 - Seccion about us: ![Screenshot3](/assets/images/Landingpage/About_us.png)
-![Screenshot4](/assets/images/Landingpage/About_us_2.png) 
 - Seccion services: ![Screenshot5](/assets/images/Landingpage/Services.png)
-- Seccion contact us: ![Screenshot6](/assets/images/Landingpage/Contact%20us.png)
+- Seccion contact us: ![Screenshot6](/assets/images/Landingpage/Contact_us.png)
 - Seccion footer: ![Screenshot7](/assets/images/Landingpage/Footer.png)
 
 **Enlace a Video**
