@@ -1936,6 +1936,18 @@ En este Sprint, hemos alcanzado un avance significativo en el desarrollo de la l
 
 En este Sprint, nuestro enfoque principal ha sido el desarrollo y diseño de la landing page. Debido a que aún no hemos implementado Web Services, no contamos con documentación de endpoints en esta fase. En lugar de eso, hemos documentado el desarrollo y diseño de la landing page.
 
+- GitHub - Proyecto Web Services: https://github.com/Rampart-SaboresCercanos/Rampart 
+
+### Resumen de Acciones del Equipo
+
+| Integrante        | Acciones Realizadas                            |
+|-------------------|------------------------------------------------|
+| Maria Jose Pezo   | Diseño e implementación de bounded context Platos |
+| Sebastian Real    | Diseño e implementación de bounded context Cocineros |
+| Jose Alejo        | Diseño e implementación de bounded context Pedidos |
+| Estefano Jaque    | Diseño e implementación de bounded context Recetas |
+| Diego Rosado      | Diseño e implementación de bounded context Plan Alimenticio |
+
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 **Resumen**
