@@ -215,8 +215,18 @@ Sprint Backlog 1, Execution Evidence for Sprint Review, Software Deployment|
     - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
     - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
     - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+    - [Resumen de Acciones del Equipo](#resumen-de-acciones-del-equipo)
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+    - [5.2.1. Sprint 2](#521-sprint-2)
+    - [5.2.1.1. Sprint Planning 2](#5211-sprint-planning-2)
+    - [5.2.1.2. Sprint Backlog 2](#5212-sprint-backlog-2)
+    - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review-1)
+    - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review-1)
+    - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review-1)
+    - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review-1)
+    - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review-1)
+    - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint-1)
   - [Conclusiones](#conclusiones)
   - [Bibliografia](#bibliografia)
   - [Anexos](#anexos)
@@ -1890,11 +1900,11 @@ completa, con un diseño atractivo e intuitivo para los usuarios. Gracias a nues
 
 | **Repository** | **Branch**       | **Commit Id** | **Commit Message**       | **Commit Message Body**                                    | **Committed on (Date)** |
 |----------------|------------------|---------------|--------------------------|------------------------------------------------------------|--------------------------|
-| `Landing-page`      | `main`           | `6b31206`  | `Initial commit`          | `Created the README file.`        | `2024-09-06`             |
-| `Landing-page`      | `main` | `9286067`  | `Added initial project files and structured the repository.`| `Implemented user authentication with JWT.`               | `2024-09-06`             |
-| `Landing-page`      | `main`         | `27eda4a`  | `Feat: add landing page design`          | `Added initial project files and structured the repository.` | `2024-09-06`             |
-| `Landing-page`      | `main`         | `k1l2m3n4o5`  | `Feat: add files and repository structure`          | `Implemented the design for the landing page, including layout and styles.` | `2024-09-07`             |
-| `Landing-page`      | `main`         | `06c098c`  | `Fix: link images`          | `Corrected the links for images on the landing page.` | `2024-09-07`             |
+| `Landing-page`      | `main`           | `067dea3`  | `Feature: Adding section header`          | `Created the header section.`        | `2024-09-26`             |
+| `Landing-page`      | `main` | `bc8fef0`  | `Feature: Added home section.`| `Implemented home section.`               | `2024-09-26`             |
+| `Landing-page`      | `main`         | `862d977`  | `Feat: add section 04-services`          | `Added services section.` | `2024-09-26`             |
+| `Landing-page`      | `main`         | `26d8ce7`  | `Feat: add footer section`          | `Implemented the footer section.` | `2024-09-26`             |
+| `Landing-page`      | `main`         | `dd3a82a`  | `Feat: add 03 Section About`          | `Implemented the about section.` | `2024-09-26`             |
 
 
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review
@@ -1924,7 +1934,6 @@ En este Sprint, hemos alcanzado un avance significativo en el desarrollo de la l
 - Seccion navbar: ![Screenshot1](./assets/images/Landingpage/Navbar.png)
 - Seccion home: ![Screenshot2](./assets/images/Landingpage/Home.png)
 - Seccion about us: ![Screenshot3](./assets/images/Landingpage/About_us.png)
-![Screenshot4](./assets/images/Landingpage/About_us_2.png) 
 - Seccion services: ![Screenshot5](./assets/images/Landingpage/Services.png)
 - Seccion contact us: ![Screenshot6](./assets/images/Landingpage/Contact%20us.png)
 - Seccion footer: ![Screenshot7](./assets/images/Landingpage/Footer.png)
@@ -1935,6 +1944,18 @@ En este Sprint, hemos alcanzado un avance significativo en el desarrollo de la l
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
 En este Sprint, nuestro enfoque principal ha sido el desarrollo y diseño de la landing page. Debido a que aún no hemos implementado Web Services, no contamos con documentación de endpoints en esta fase. En lugar de eso, hemos documentado el desarrollo y diseño de la landing page.
+
+- GitHub - Proyecto Web Services: https://github.com/Rampart-SaboresCercanos/Rampart 
+
+### Resumen de Acciones del Equipo
+
+| Integrante        | Acciones Realizadas                            |
+|-------------------|------------------------------------------------|
+| Maria Jose Pezo   | Diseño e implementación de bounded context Platos |
+| Sebastian Real    | Diseño e implementación de bounded context Cocineros |
+| Jose Alejo        | Diseño e implementación de bounded context Pedidos |
+| Estefano Jaque    | Diseño e implementación de bounded context Recetas |
+| Diego Rosado      | Diseño e implementación de bounded context Plan Alimenticio |
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
@@ -2051,6 +2072,21 @@ Link Trello: https://trello.com/invite/b/66e21f40286ffef6ecd79284/ATTI50beba1033
 
 En esta fase del proyecto, hemos estado concentrados en el desarrollo de la landing page. Debido a este enfoque, aún no hemos implementado pruebas automatizadas, como Unit Tests, Integration Tests y Acceptance Tests. Nuestra prioridad ha sido completar el diseño y la funcionalidad de la página. Sin embargo, planeamos incorporar un conjunto completo de pruebas en las próximas fases del proyecto para asegurar la calidad y robustez de la aplicación.
 
+| **Repository**| **Branch**| **Commit Id**| **Commit Message** | **Commit Message Body**| **Committed on (Date)** |
+|-|-|-|-|-|-|
+| Rampart-SaboresCercanos/Rampart | feature/TP | 1f707b6c836010e3c39e5749d089f17c1c5cf710 |Initial commit  | Initial commit | 24/09/2024|
+| Rampart-SaboresCercanos/Rampart | feature/TP | f606937a71942bacf10be6b9df5cfb364d7f431e |feature: added US05 gherkin  | Se agregaron los features de las User Story 05 | 26/09/2024|
+| Rampart-SaboresCercanos/Rampart | feature/TP | f606937a71942bacf10be6b9df5cfb364d7f431e |feature: added US15 gherkin  | Se agregaron los features de las User Story 15 | 26/09/2024|
+| Rampart-SaboresCercanos/Rampart | feature/TP | f606937a71942bacf10be6b9df5cfb364d7f431e |feature: added US16 gherkin  | Se agregaron los features de las User Story 16 | 26/09/2024|
+| Rampart-SaboresCercanos/Rampart | feature/TP | 4eab30cf9eb74de34a070db9d64d742fecb89e68 |feature: added US29 gherkin  | Creacion del US29 feature | 26/09/2024|
+| Rampart-SaboresCercanos/Rampart | feature/TP | e7e266119cb91e8cd3b36b1182427f8df41d248a |feature: added US30 gherkin  | Creacion del US30 feature| 26/09/2024|
+| Rampart-SaboresCercanos/Rampart | feature/TP | b8090e41aec3c0d3314b9f63b242889320057ec7 |feature: added user 03 gherkin  | feature: added user 03 gherkin | 26/09/2024|
+| Rampart-SaboresCercanos/Rampart | feature/TP | c915c9b8d7831bb2060282af2cc583655b60eb06 |feature: added US19 gherkin  | Se creo el US19 para recetas | 26/09/2024|
+| Rampart-SaboresCercanos/Rampart | feature/TP | cecbe8d2165d6fb86c1092f5742365905ba81b38 |feature: added US20 gherkin  | Se creo es US20.feature para recetas | 26/09/2024|
+| Rampart-SaboresCercanos/Rampart | feature/TP | 4dc04ec922dc1331993e7454a333b52f3b21b976 |feature: added US21 gherkin  | Se creo es US21.feature para recetas | 26/09/2024|
+| Rampart-SaboresCercanos/Rampart | feature/TP | 12aee7b49a5647a81e956d6e7201558611d4eeac |feature: added US04 gherkin  | Agregué la US04.feature | 26/09/2024|
+| Rampart-SaboresCercanos/Rampart | feature/TP | 30d8350233d2e2d2445d58cdcfde16dfe2f252d0 |feature: added US06 gherkin  | Agregué US06.feature | 26/09/2024|
+
 ### 5.2.1.5. Execution Evidence for Sprint Review
 
 En este Sprint, hemos alcanzado un avance significativo en el desarrollo de la landing page. Nos hemos enfocado en implementar el diseño y la funcionalidad básica, incluyendo las principales vistas y elementos interactivos. A continuación, presentamos capturas de pantalla de las vistas principales que hemos desarrollado, junto con un enlace a un video que muestra la visualización y navegación logradas durante este Sprint.
@@ -2059,13 +2095,12 @@ En este Sprint, hemos alcanzado un avance significativo en el desarrollo de la l
 - Seccion navbar: ![Screenshot1](/assets/images/Landingpage/Navbar.png)
 - Seccion home: ![Screenshot2](/assets/images/Landingpage/Home.png)
 - Seccion about us: ![Screenshot3](/assets/images/Landingpage/About_us.png)
-![Screenshot4](/assets/images/Landingpage/About_us_2.png) 
 - Seccion services: ![Screenshot5](/assets/images/Landingpage/Services.png)
-- Seccion contact us: ![Screenshot6](/assets/images/Landingpage/Contact%20us.png)
+- Seccion contact us: ![Screenshot6](/assets/images/Landingpage/Contact_us.png)
 - Seccion footer: ![Screenshot7](/assets/images/Landingpage/Footer.png)
 
 **Enlace a Video**
-[Visualización y Navegación de Landing Page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201620127_upc_edu_pe/EfpuXUqzu-1DhChn0fsPc5ABLiNG5nmudn_BF-MAj_j5eA?e=nxTG5W&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcjHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[Visualización y Navegación de Landing Page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201620127_upc_edu_pe/EQUpR24hsnpMqzCXf8KvZPsBC94OZ_ibAyiUAYzoLm7iiQ?e=czTgej&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
