@@ -1890,11 +1890,11 @@ completa, con un diseño atractivo e intuitivo para los usuarios. Gracias a nues
 
 | **Repository** | **Branch**       | **Commit Id** | **Commit Message**       | **Commit Message Body**                                    | **Committed on (Date)** |
 |----------------|------------------|---------------|--------------------------|------------------------------------------------------------|--------------------------|
-| `Landing-page`      | `main`           | `6b31206`  | `Initial commit`          | `Created the README file.`        | `2024-09-06`             |
-| `Landing-page`      | `main` | `9286067`  | `Added initial project files and structured the repository.`| `Implemented user authentication with JWT.`               | `2024-09-06`             |
-| `Landing-page`      | `main`         | `27eda4a`  | `Feat: add landing page design`          | `Added initial project files and structured the repository.` | `2024-09-06`             |
-| `Landing-page`      | `main`         | `k1l2m3n4o5`  | `Feat: add files and repository structure`          | `Implemented the design for the landing page, including layout and styles.` | `2024-09-07`             |
-| `Landing-page`      | `main`         | `06c098c`  | `Fix: link images`          | `Corrected the links for images on the landing page.` | `2024-09-07`             |
+| `Landing-page`      | `main`           | `067dea3`  | `Feature: Adding section header`          | `Created the header section.`        | `2024-09-26`             |
+| `Landing-page`      | `main` | `bc8fef0`  | `Feature: Added home section.`| `Implemented home section.`               | `2024-09-26`             |
+| `Landing-page`      | `main`         | `862d977`  | `Feat: add section 04-services`          | `Added services section.` | `2024-09-26`             |
+| `Landing-page`      | `main`         | `26d8ce7`  | `Feat: add footer section`          | `Implemented the footer section.` | `2024-09-26`             |
+| `Landing-page`      | `main`         | `dd3a82a`  | `Feat: add 03 Section About`          | `Implemented the about section.` | `2024-09-26`             |
 
 
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review
