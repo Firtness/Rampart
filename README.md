@@ -2157,13 +2157,13 @@ Despliegue: Configuración del entorno de despliegue y transferencia de archivos
 - Commits Realizados: ![Screenshot12](/assets/images/Landingpage/Commits_screen.png)
 
 **Participación del Equipo**
-- Diego: Aunque en este Sprint he sido el único que ha realizado los commits, es importante destacar que todos los miembros del equipo están comprometidos y participarán activamente en la siguiente entrega del proyecto.
+Durante este Sprint, todos los miembros del equipo han contribuido activamente al proyecto y han realizado commits. Es fundamental destacar el compromiso colectivo en el desarrollo de la landing page.
 
-Para la próxima fase, cada miembro del equipo asumirá roles específicos que incluyen la realización de commits y la colaboración en la implementación de características y mejoras. Esto garantizará una distribución equitativa del trabajo y una integración más completa de las contribuciones de cada miembro.
+En esta fase, cada miembro del equipo asumió roles específicos que incluyeron la realización de commits y la colaboración en la implementación de características y mejoras. Esto garantizó una distribución equitativa del trabajo y una integración más completa de las contribuciones de cada miembro.
 
-Además, el diseño principal del proyecto lo hemos desarrollado y revisado en conjunto. Este diseño refleja nuestro esfuerzo colectivo y servirá como base para las próximas iteraciones y desarrollos del proyecto.
+Además, el diseño principal del proyecto ha sido desarrollado y revisado en conjunto, reflejando nuestro esfuerzo colectivo. Este diseño servirá como base para las próximas iteraciones y desarrollos del proyecto.
 
-La participación de cada miembro será clave para el éxito de las siguientes fases, y esperamos que esta colaboración se refleje en los commits y en el progreso general del proyecto.
+La participación de cada miembro fue clave para el éxito de esta fase, y esperamos que esta colaboración se refleje en los commits y en el progreso general del proyecto.
 
 ## Conclusiones
 
