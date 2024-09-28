@@ -73,6 +73,24 @@ Sprint Backlog 1, Execution Evidence for Sprint Review, Software Deployment|
 |Jaque Peña, Estefano Oscar|En el Sprint Planing 1 se pudo redactar los apartados importantes de la reunion para la realizacion de este, como la separacion de bounded context.En el Sprint Backlog 1 se especifico la funcionalidad añadidad a cada bounded contexct respecto a las user stories. Ademas en los apartados en lo que se debio realizar la evidencia del sprint como el Execution Evidence for Sprint Review,Software Deployment Evidence for Sprint Review,Team Collaboration Insights during Sprint se añadio las evidencias especificando mi apartado del bounded context.|
 |Alejo Cárdenas, Jose Antonio|Bounded Context de Pedidos: Define y gestiona todas las funcionalidades relacionadas con los pedidos, asegurando la separación de responsabilidades dentro del sistema.<br>Sprint Backlog 1:Lista priorizada de tareas y funcionalidades que serán desarrolladas durante el Sprint.<br>Testing Suite Evidence for Sprint Review:Evidencia de pruebas realizadas para validar que las funcionalidades cumplen con los requisitos, incluyendo resultados documentados.<br>Execution Evidence for Sprint Review:Demostración de la ejecución de las funcionalidades desarrolladas, con evidencia visual o en video.<br>Software Deployment Evidence for Sprint Review: Comprobación de que el software fue desplegado exitosamente, con documentación del proceso y resultados.|
 
+*Pull requests evidence:*
+
+![alt text](assets/TP_images/Pull%20requests%20evidence.png)
+![alt text](assets/TP_images/Pull%20requests%20evidence2.png)
+
+*Commits evidence:*
+
+![alt text](assets/TP_images/Commits%20evidence.png)
+![alt text](assets/TP_images/Commits%20evidence2.png)
+
+
+*Issues evidence:*
+
+![alt text](assets/TP_images/Issues%20evidence.png)
+![alt text](assets/TP_images/Issues%20evidence2.png)
+
+
+
 ## Contenido
 
 ### Tabla de contenidos
