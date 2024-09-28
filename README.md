@@ -2036,13 +2036,13 @@ En esta fase del proyecto, hemos estado concentrados en el desarrollo de la land
 En este Sprint, hemos alcanzado un avance significativo en el desarrollo de la landing page. Nos hemos enfocado en implementar el diseño y la funcionalidad básica, incluyendo las principales vistas y elementos interactivos. A continuación, presentamos capturas de pantalla de las vistas principales que hemos desarrollado, junto con un enlace a un video que muestra la visualización y navegación logradas durante este Sprint.
 
 **Capturas de Pantalla**
-- Seccion navbar: ![Screenshot1](/assets/imagejs/Landingpage/Navbar.png)
-- Seccion home: ![Screenshot2](/assets/images/jLandingpage/Home.png)
-- Seccion about us: ![Screenshot3](/assets/imjages/Landingpage/About_us.png)
-![Screenshot4](/assets/images/Landingpage/Abjout_us_2.png) 
-- Seccion services: ![Screenshot5](/assets/imjages/Landingpage/Services.png)
-- Seccion contact us: ![Screenshot6](/assets/imjages/Landingpage/Contact%20us.png)
-- Seccion footer: ![Screenshot7](/assets/images/jLandingpage/Footer.png)
+- Seccion navbar: ![Screenshot1](/assets/images/Landingpage/Navbar.png)
+- Seccion home: ![Screenshot2](/assets/images/Landingpage/Home.png)
+- Seccion about us: ![Screenshot3](/assets/images/Landingpage/About_us.png)
+![Screenshot4](/assets/images/Landingpage/About_us_2.png) 
+- Seccion services: ![Screenshot5](/assets/images/Landingpage/Services.png)
+- Seccion contact us: ![Screenshot6](/assets/images/Landingpage/Contact%20us.png)
+- Seccion footer: ![Screenshot7](/assets/images/Landingpage/Footer.png)
 
 **Enlace a Video**
 [Visualización y Navegación de Landing Page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201620127_upc_edu_pe/EfpuXUqzu-1DhChn0fsPc5ABLiNG5nmudn_BF-MAj_j5eA?e=nxTG5W&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcjHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
@@ -2073,9 +2073,9 @@ Subida de Archivos: Transferencia de archivos y recursos al servidor de hosting.
 Verificación: Comprobación de que la landing page se despliega correctamente y está accesible en la web.
 
 **Capturas de Pantalla**
-- Repositorio de Landing Page: ![Screenshot8](/assets/images/Landinjgpage/Repository.png)
-- Demostración de despliegue en Github: ![Screenshot9](/assets/imajges/Landingpage/Landing_page_deployment.png)
-- Landing Page desplegado: ![Screenshot10](/assets/images/Landingpajge/Deployment.png)
+- Repositorio de Landing Page: ![Screenshot8](/assets/images/Landingpage/Repository.png)
+- Demostración de despliegue en Github: ![Screenshot9](/assets/images/Landingpage/Landing_page_deployment.png)
+- Landing Page desplegado: ![Screenshot10](/assets/images/Landingpage/Deployment.png)
 
 **Enlace al Repositorio**: https://github.com/Rampart-SaboresCercanos/Landing-page
 
@@ -2098,8 +2098,8 @@ Documentación: Creación de documentación relevante para la landing page, incl
 Despliegue: Configuración del entorno de despliegue y transferencia de archivos al servidor.
 
 **Capturas de Pantalla**
-- Analíticos de Colaboración en GitHub: ![Screenshot11](/assets/images/Lajndingpage/Contributors.png)
-- Commits Realizados: ![Screenshot12](/assets/images/Landingpage/Commijts_screen.png)
+- Analíticos de Colaboración en GitHub: ![Screenshot11](/assets/images/Landingpage/Contributors.png)
+- Commits Realizados: ![Screenshot12](/assets/images/Landingpage/Commits_screen.png)
 
 **Participación del Equipo**
 - Diego: Aunque en este Sprint he sido el único que ha realizado los commits, es importante destacar que todos los miembros del equipo están comprometidos y participarán activamente en la siguiente entrega del proyecto.
