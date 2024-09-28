@@ -2192,6 +2192,8 @@ Verificación: Comprobación de que la landing page se despliega correctamente y
 
 **Link de landing page**: https://rampart-saborescercanos.github.io/Landing-page/
 
+### 5.2.2.8. Team Collaboration Insights during Sprint
+=======
 Bounded context:  
 
 * Jose Alejo    
@@ -2204,15 +2206,10 @@ Bounded context:
 ![alt text](assets/TP_images/MAJOBC.jpg)
 
 * Diego Rosado  
-
 ![alt text](assets/TP_images/DIEGOBC.jpg)
-
 
 * Sebastian Caderon  
 ![alt text](assets/TP_images/SEBASBC.jpg)
-
-
-### 5.2.1.8. Team Collaboration Insights during Sprint
 
 | Integrante | Acciones realizadas durante el sprint |
 |-|-|
@@ -2223,6 +2220,8 @@ Bounded context:
 | Jose Antonio Alejo Cardenas | Desarrollo del bounder context de Pedidos |
 
 ![Project Insights De La Landing Page](/assets/images/insights_sprint2_1.png)
+
+![Project Insights Del Frontend](/assets/images/insights_sprint2_2.png)
 
 ## Conclusiones
 
