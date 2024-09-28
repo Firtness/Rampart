@@ -215,8 +215,18 @@ Sprint Backlog 1, Execution Evidence for Sprint Review, Software Deployment|
     - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
     - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
     - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+    - [Resumen de Acciones del Equipo](#resumen-de-acciones-del-equipo)
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+    - [5.2.1. Sprint 2](#521-sprint-2)
+    - [5.2.1.1. Sprint Planning 2](#5211-sprint-planning-2)
+    - [5.2.1.2. Sprint Backlog 2](#5212-sprint-backlog-2)
+    - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review-1)
+    - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review-1)
+    - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review-1)
+    - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review-1)
+    - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review-1)
+    - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint-1)
   - [Conclusiones](#conclusiones)
   - [Bibliografia](#bibliografia)
   - [Anexos](#anexos)
@@ -2061,6 +2071,21 @@ Link Trello: https://trello.com/invite/b/66e21f40286ffef6ecd79284/ATTI50beba1033
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 En esta fase del proyecto, hemos estado concentrados en el desarrollo de la landing page. Debido a este enfoque, aún no hemos implementado pruebas automatizadas, como Unit Tests, Integration Tests y Acceptance Tests. Nuestra prioridad ha sido completar el diseño y la funcionalidad de la página. Sin embargo, planeamos incorporar un conjunto completo de pruebas en las próximas fases del proyecto para asegurar la calidad y robustez de la aplicación.
+
+| **Repository**| **Branch**| **Commit Id**| **Commit Message** | **Commit Message Body**| **Committed on (Date)** |
+|-|-|-|-|-|-|
+| Rampart-SaboresCercanos/Rampart | feature/TP | 1f707b6c836010e3c39e5749d089f17c1c5cf710 |Initial commit  | Initial commit | 24/09/2024|
+| Rampart-SaboresCercanos/Rampart | feature/TP | f606937a71942bacf10be6b9df5cfb364d7f431e |feature: added US05 gherkin  | Se agregaron los features de las User Story 05 | 26/09/2024|
+| Rampart-SaboresCercanos/Rampart | feature/TP | f606937a71942bacf10be6b9df5cfb364d7f431e |feature: added US15 gherkin  | Se agregaron los features de las User Story 15 | 26/09/2024|
+| Rampart-SaboresCercanos/Rampart | feature/TP | f606937a71942bacf10be6b9df5cfb364d7f431e |feature: added US16 gherkin  | Se agregaron los features de las User Story 16 | 26/09/2024|
+| Rampart-SaboresCercanos/Rampart | feature/TP | 4eab30cf9eb74de34a070db9d64d742fecb89e68 |feature: added US29 gherkin  | Creacion del US29 feature | 26/09/2024|
+| Rampart-SaboresCercanos/Rampart | feature/TP | e7e266119cb91e8cd3b36b1182427f8df41d248a |feature: added US30 gherkin  | Creacion del US30 feature| 26/09/2024|
+| Rampart-SaboresCercanos/Rampart | feature/TP | b8090e41aec3c0d3314b9f63b242889320057ec7 |feature: added user 03 gherkin  | feature: added user 03 gherkin | 26/09/2024|
+| Rampart-SaboresCercanos/Rampart | feature/TP | c915c9b8d7831bb2060282af2cc583655b60eb06 |feature: added US19 gherkin  | Se creo el US19 para recetas | 26/09/2024|
+| Rampart-SaboresCercanos/Rampart | feature/TP | cecbe8d2165d6fb86c1092f5742365905ba81b38 |feature: added US20 gherkin  | Se creo es US20.feature para recetas | 26/09/2024|
+| Rampart-SaboresCercanos/Rampart | feature/TP | 4dc04ec922dc1331993e7454a333b52f3b21b976 |feature: added US21 gherkin  | Se creo es US21.feature para recetas | 26/09/2024|
+| Rampart-SaboresCercanos/Rampart | feature/TP | 12aee7b49a5647a81e956d6e7201558611d4eeac |feature: added US04 gherkin  | Agregué la US04.feature | 26/09/2024|
+| Rampart-SaboresCercanos/Rampart | feature/TP | 30d8350233d2e2d2445d58cdcfde16dfe2f252d0 |feature: added US06 gherkin  | Agregué US06.feature | 26/09/2024|
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
 
