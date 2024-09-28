@@ -720,7 +720,7 @@ Antes de poder realizar las entrevistas, consideramos prudente poder concretar u
 
 * Segmento 1: Universitarios o Profesionales Ocupados
    1. Entrevista 1:<br>
-   ![Captura entrevista 1](/assets/images/Captura%20Entrevista%201%20Segmento%20Universitarios%20o%20Profesionales%20ocupados.png)
+   ![alt text](assets/images/1.png)
    Nombre: Omar<br>
    Apellidos: Luquillas Asto <br>
    Edad: 20 <br>
@@ -732,7 +732,7 @@ Antes de poder realizar las entrevistas, consideramos prudente poder concretar u
    La entrevista con omar proporcionó información valiosa sobre como un universitario ocupado realiza sus actividades y sus principales desafios respecto a su alimentacion. Omar nos comenta que tiene muy poco tiempo para cocinar durante el horario del almuerzo y tiene que almorzar en restaurantes de comida rapida. Cuando el no tiene tiempo para cocinar pide deliverys mediante aplicativos de celular para ahorrarse el tiempo de cocinar. Por otro lado, el considera que la calidad de la comida nutricional es minima en los restaurantes locales. Así mismo, El considera que una plataforma que permita a las personas ocupadas conseguir buena comida y accesible es una gran idea. El espera que una herramienta le brinde la tranquilidad de encontrar comidas saludables y caseras para su bien estar diario y semanal.
 
    2. Entrevista 2:<br>
-   ![Captura entrevista 2](/assets/images/Captura_Entrevista_2_Segmento_1.png)
+  ![alt text](assets/images/2.png)
    <br>Nombre: Lourdes<br>
    Apellidos: Huamaní <br>
    Edad: 22 <br>
@@ -744,7 +744,7 @@ Antes de poder realizar las entrevistas, consideramos prudente poder concretar u
    En la entrevista con Lourdes, se discutió su rutina diaria y las dificultades que enfrenta en cuanto a la alimentación debido a su apretada agenda. Lourdes, quien está en el séptimo ciclo de enfermería y trabaja, comienza su día temprano para ayudar a su hermana y, debido a su ocupada rutina, compra la mayor parte de sus comidas en la calle, ya que le falta tiempo y recursos para cocinar y calentar alimentos en su lugar de trabajo o estudio.Lourdes expresó que, aunque a veces puede preparar meriendas o algo simple, no tiene tiempo para cocinar comidas más elaboradas. Prefiere comida rápida por su conveniencia, pero ha tenido malas experiencias con la calidad nutricional de estos alimentos y desearía opciones más saludables y caseras. La comida casera es importante para ella, especialmente para el desayuno, aunque su almuerzo suele ser algo rápido debido a su falta de tiempo. Lourdes consideraría muy interesante una plataforma que le permita pedir comida casera a través de una aplicación móvil, ya que le ofrecería la flexibilidad de recibir comida a la hora que desee y revisar menús de antemano. Ella valoraría la posibilidad de personalizar su menú según sus preferencias y horarios, y estaría dispuesta a usar la aplicación si los precios son accesibles y la calidad es buena. Además, Lourdes espera que la aplicación incluya información sobre la salubridad de los cocineros y sus métodos de cocina. Le gustaría ver categorías de comidas en la aplicación y utilizar filtros para encontrar opciones que se ajusten a sus gustos, como la comida asiática.
 
    3. Entrevista 3:<br>
-   ![Captura entrevista 3](assets/Captura_Entrevistas_3_Segmento_1.jpg)
+![alt text](assets/images/3.jpg)
    <br>Nombre: Pia <br>
    Apellidos: Barandiaran <br>
    Edad: 22 <br>
@@ -757,7 +757,7 @@ Antes de poder realizar las entrevistas, consideramos prudente poder concretar u
 
 * Segmento 2: Cocineros Caseros
    1. Entrevista 1:<br>
-   ![Captura entrevista 3](/assets/images/Captura_Entrevista_1_Segmento_2.png)
+![alt text](assets/images/8.png)
    <br>Nombre: Alejandro<br>
    Apellidos: Luján <br>
    Edad: 25 <br>
@@ -1112,7 +1112,7 @@ EPICS:
 
 ### 3.3. Impact Mapping
 
-![Anexo A](/assets/images/Mapa%20de%20impacto.jpg)
+![alt text](assets/images/h.jpg)
 [Anexo A](#anexos)<br><br>
 
 
@@ -1160,7 +1160,7 @@ EPICS:
 
 **Brand Name:** "Sabores Cercanos" es un nombre con el que buscamos transmitir una sensación de familiaridad y comodidad con relación a la comida. Surge de nuestro deseo por llevar a los usuarios la mejor versión del mundo culinario casero.
 
-![Sabores Cercanos, Logo](/assets/images/logo.png)
+![alt text](assets/images/g.png)
 
 **¿Qué debe tener?**
 
@@ -1175,23 +1175,22 @@ EPICS:
 
 * #### Para Títulos: Playfair.
 
-![Playfair, Tipo de Letra](/assets/images/playfair-typography.png)
+![alt text](assets/images/q.png)
 
 Elegimos Playfair para los títulos por su estilo ligeramente elegante a la vez que legible.
 
 * #### Para Párrafos: Lora.
 
-![Lora, Tipo de Letra](/assets/images/lora-typography.png)
-
+![alt text](assets/images/45.png)
 Elegimos Lora para los párrafos debido a su legibilidad y estilo. Haciéndola perfecta para cantidades moderadas de texto.
 
 **Buttons:**
 
-![Botones](/assets/images/button-layout.jpg)
+![alt text](assets/images/898.jpg)
 
 ### 4.1.2. Web Style Guidelines
 
-![Web Style Guidelines](/assets/images/web-style-guidelines.jpg)
+![alt text](assets/images/5646.jpg)
 
 ### 4.2. Information Architecture
 
@@ -1202,11 +1201,11 @@ Para nuestro primer segmento enfocado en Universitarios/Profesionales ocupados p
 Al seleccionar un plato, el usuario accede a una página detallada con información del plato, incluyendo una sección de reseñas y perfil del cocinero. La información está organizada jerárquicamente, con datos esenciales como la descripción del plato y la información nutricional en la parte superior, seguidos por reseñas y calificaciones en secciones inferiores. El usuario lee la descripción del plato, consulta la información nutricional y revisa las reseñas antes de tomar una decisión. La organización jerárquica facilita una navegación lógica desde los detalles del plato hasta la información de los usuarios. El usuario llega a la página de programación de entrega, donde se le presenta un calendario y opciones de horarios. La interfaz está organizada secuencialmente para guiar al usuario a través del proceso de selección de fecha y hora de entrega. El usuario selecciona la fecha y hora deseada para la entrega, revisa la información y confirma la programación. El diseño secuencial asegura que cada etapa del proceso de programación sea clara y fácil de completar.
 Después de realizar su primera compra, en la página de inicio o en una sección dedicada a recomendaciones, el usuario recibe sugerencias de platos basadas en sus pedidos anteriores y preferencias. Las recomendaciones se organizan jerárquicamente por categorías como "Recomendados para Ti" y "Nuevos en la Plataforma". El usuario explora las recomendaciones personalizadas presentadas en una vista de cuadrícula o lista. Puede ver las opciones sugeridas y decidir rápidamente cuáles le interesan. La organización jerárquica y matricial ayuda a destacar las opciones más relevantes y personalizadas.<br> <br>
 
-![Anexo B](/assets/images/UP%20ocupados%20para%20cocinar.png)
+![alt text](assets/images/12441.png)
 [Anexo B](#anexos)<br><br>
 Para nuestro segundo segmento enfocado en Cocineros Caseros, el proceso inicia al registrarse y configurar su perfil. El cocinero casero inicia su viaje en la plataforma mediante un proceso de registro. La interfaz está organizada secuencialmente, comenzando con el registro básico y luego avanzando a la configuración del perfil. El cocinero completa su registro, proporcionando detalles básicos como nombre y contacto. Luego, avanza a la configuración del perfil, donde debe ingresar información sobre sus especialidades culinarias, fotografías de sus platos y detalles de su cocina. Cada etapa del proceso está claramente definida para facilitar la finalización del registro y configuración. Una vez configurado el perfil, el cocinero accede a una sección para crear y gestionar sus menús. La interfaz utiliza una organización jerárquica para presentar opciones como “Añadir Nuevo Plato” y “Gestionar Menús Actuales”. Dentro de estas opciones, el contenido se organiza de forma matricial, mostrando platos individuales con detalles visuales. El cocinero selecciona “Añadir Nuevo Plato”, completa los detalles del plato, incluyendo nombre, descripción, precio y fotos. Luego puede ver y editar los menús existentes. La organización visual permite al cocinero gestionar sus menús de manera eficiente, con un enfoque en las tareas más importantes primero. En la sección de gestión de pedidos, el cocinero puede ver y procesar los pedidos recibidos. La interfaz está organizada secuencialmente por estados del pedido (por ejemplo, “Nuevo”, “En Proceso”, “Completado”), y los pedidos se presentan en un formato cronológico. El cocinero revisa los nuevos pedidos, los procesa según la secuencia establecida, y actualiza el estado de los pedidos en función del progreso. La organización secuencial y cronológica asegura que los pedidos se manejen de manera ordenada y eficiente. El cocinero puede acceder a una sección para revisar las reseñas y calificaciones de sus platos. La interfaz está organizada jerárquicamente, mostrando primero las reseñas más recientes y destacadas, seguidas de las reseñas más antiguas y menos relevantes. El cocinero lee las reseñas y calificaciones recibidas, prestando especial atención a los comentarios destacados para mejorar sus platos y servicios. La organización jerárquica facilita el enfoque en los comentarios más importantes y recientes. En la sección de configuración de perfil, el cocinero puede actualizar su información personal y de menú. La interfaz está organizada jerárquicamente con secciones principales como “Información del Perfil”, “Fotos de Platos”, y “Detalles de Cocina”. Dentro de cada sección, la información se presenta de manera alfabética para una fácil navegación. El cocinero actualiza su perfil y la información de los platos, navegando a través de las secciones y sub-secciones organizadas alfabéticamente para facilitar la búsqueda de elementos específicos. El cocinero tiene acceso a un panel de estadísticas que muestra el rendimiento de sus platos, incluyendo ventas y popularidad. La organización visual se utiliza para presentar gráficos y datos en un formato jerárquico, mientras que los datos se presentan cronológicamente. El cocinero revisa los informes y gráficos, analizando el rendimiento de sus platos a lo largo del tiempo. La organización visual y cronológica ayuda a identificar tendencias y patrones en las ventas y la popularidad de los platos.
 
-![Anexo C](/assets/images/Cocinero%20Casero.png)
+![alt text](assets/images/24234.png)
 [Anexo C](#anexos)<br><br>
 
 ### 4.2.2. Labeling Systems
@@ -1350,15 +1349,15 @@ Estas configuraciones aseguran que los usuarios de "Sabores Cercanos" puedan mov
 
 ### 4.4.1. Web Applications Wireframes
 
-![Wireframe 1](/assets/images/Wireframe_WA_1.png)
+![alt text](assets/images/24234.png)
 
-![Wireframe 2](/assets/images/Wireframe_WA_2.png)
+![alt text](assets/images/12312.png)
 
-![Wireframe 3](/assets/images/Wireframe_WA_3.png)
+![alt text](assets/images/1231.png)
 
-![Wireframe 4](/assets/images/Wireframe_WA_4.png)
+![alt text](assets/images/231.png)
 
-![Wireframe 5](/assets/images/Wireframe_WA_5.png)
+![alt text](assets/images/123125.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
@@ -1399,20 +1398,19 @@ El usuario puede elegir la opción de “Compartir” dentro de la sección de P
 
 ### 4.4.2. Web Applications Mock-ups
 
-![MOCKUP 1](/assets/images/Mockups/Uno.png)
+![alt text](assets/images/Mockups/1.png)
 
-![MOCKUP 2](/assets/images/Mockups/Dos.png)
+![alt text](assets/images/Mockups/2.png)
 
-![MOCKUP 3](/assets/images/Mockups/Tres.png)
+![alt text](assets/images/Mockups/3.png)
 
-![MOCKUP 4](/assets/images/Mockups/Cuatro.png)
+![alt text](assets/images/Mockups/4.png)
 
-![MOCKUP 5](/assets/images/Mockups/Cinco.png)
+![alt text](assets/images/Mockups/5.png)
 
-![MOCKUP 6](/assets/images/Mockups/Seis.png)
+![alt text](assets/images/Mockups/46.png)
 
-![MOCKUP 7](/assets/images/Mockups/Siete.png)
-
+![alt text](assets/images/Mockups/123.png)
 ### 4.4.3. Web Applications User Flow Diagrams
 
 * #### Goal: El usuario se registra en la aplicación:
@@ -1422,21 +1420,22 @@ El usuario ingresa sus datos correctamente en la pantalla de registro y valida l
 #### Unhappy path:
 El usuario no ingresa sus datos correctamente y recibe una advertencia.
 
-![MOCKUP 1](/assets/images/Mockups/Uno.png)
+![alt text](assets/images/Mockups/1.png)
 
 * #### Goal: El usuario inica sesión con su cuenta de Google:
 
 #### Happy path: 
 El usuario selecciona una cuenta de Google de su dispositivo e inicia sesión en la aplicación.
 
-![MOCKUP 2](/assets/images/Mockups/Dos.png)
+![alt text](assets/images/Mockups/2.png)
+
 
 * #### Goal: El usuario restablece su contraseña:
 
 #### Happy path: 
 El usuario ingresa su correo electrónico y recibe el enlace para reestablecer su contraseña.
 
-![MOCKUP 3](/assets/images/Mockups/Tres.png)
+![alt text](assets/images/Mockups/3.png)
 
 * #### Goal: El usuario recibe recomendaciones personalizadas:
 
@@ -1445,7 +1444,7 @@ El usuario agrega su información de dieta y salud. Al dirigirse a la sección d
 #### Unhappy path:
 El usuario, al no agregar su información personal, no recibe recomendaciones de recetas y debe buscarlas manualmente.
 
-![MOCKUP 4](/assets/images/Mockups/Cuatro.png)
+![alt text](assets/images/Mockups/4.png)
 
 * #### Goal: El usuario añade una receta a su plan de alimentación de un día específico:
 
@@ -1454,8 +1453,7 @@ El usuario quiere agregar una receta a su plan de alimentación, así que coloca
 #### Unhappy path:
 El usuario no selecciona la fecha ni tiempo de comida, por lo tanto, la receta no se agrega.
 
-![MOCKUP 5](/assets/images/Mockups/Cinco.png)
-
+![alt text](assets/images/Mockups/123.png)
 * #### Goal: El usuario exporta su plan alimenticio en pdf:
 
 #### Happy path: 
@@ -1463,14 +1461,12 @@ El usuario selecciona la opción de “Exportar a PDF” y el plan se descarga e
 #### Unhappy path:
 El usuario no puede descargar el plan debido a errores.
 
-![MOCKUP 6](/assets/images/Mockups/Seis.png)
-
+![alt text](assets/images/Mockups/46.png)
 * #### Goal: El usuario comparte su plan alimenticio con amigos o familiares:
 
 #### Happy path: 
 El usuario selecciona la opción “Compartir” y elige mediante qué aplicación desea compartir su plan de alimentación a uno de sus contactos.
-
-![MOCKUP 7](/assets/images/Mockups/Siete.png)
+![alt text](assets/images/Mockups/46.png)
 
 ### 4.5. Web Applications Prototyping
 
