@@ -768,63 +768,78 @@ Antes de poder realizar las entrevistas, consideramos prudente poder concretar u
    Resumen: <br>
    De la entrevista con Alejandro sabemos que Alejandro trabaja en Rustica, donde ha desarrollado y perfeccionado sus habilidades culinarias mientras explora diversas recetas. Cocinar es una parte importante de su vida, tanto en el trabajo como en casa, y disfruta de cada momento en la cocina. Alejandro está interesado en monetizar sus habilidades culinarias, ya que cocina a diario y cree que podría ser rentable. Sin embargo, ha enfrentado barreras como la falta de tiempo y la falta de permisos para vender. Hubo una ocasión en la que intentó vender comida, pero no contaba con los medios necesarios. Alejandro considera que vender comida casera a través de una plataforma en línea sería una excelente manera de llegar a más clientes sin grandes inversiones. La flexibilidad de trabajar desde casa y gestionar sus tiempos y pedidos sin descuidar su trabajo en Rustica es fundamental para él. También ha notado una demanda real de comida casera, ya que muchas personas buscan opciones más auténticas y diferentes de las ofrecidas por los restaurantes. Los comentarios positivos que ha recibido de amigos y familiares sobre su cocina lo han motivado a considerar seriamente esta opción. Alejandro está entusiasmado con la idea de formar parte de una comunidad de cocineros caseros, donde podría compartir experiencias y aprender nuevas recetas.
 
-   2. Entrevista 2:<br>
-   <br>Nombre: Alvaro<br>
-   Apellidos: Arata<br>
-   Edad: 29<br>
-   URL: [Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201913495_upc_edu_pe/EfHHz_BwWnlJuakQCAB4dKoBKLHNCnm84xxbosHjHcfo8A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=E8QUpv)<br>
-   Inicio: 00:40<br>
-   Duración: 7:03 <br>
+  2. Entrevista 2:<br>
+   ![Captura entrevista 5](/assets/images/TB1/Entrevista_Alberto.png)
+   <br>Nombre: Alberto<br>
+   Apellidos: Bringas <br>
+   Edad: 25 <br>
+   Distrito: San Martin de Porres <br>
+   URL: [Link de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201620127_upc_edu_pe/EUz1alumG8NJjr8FgnYmofQB6KcUXZC3zzz1B_S-on2j7w?e=gRaz5M&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) <br>
+   Inicio: 00:24<br>
+   Duración: 09:24 <br>
    Resumen: <br>
-   Álvaro Arata, de 29 años, trabaja en el área de distribución de licores y realiza la mayor parte de su trabajo desde casa. Nos comentó que le gusta cocinar y que lo hace la mayor parte de los días, por este motivo estuvo considerando abrir un negocio en este ámbito, pero decidió no hacerlo debido a posibles dificultades como la falta de visibilidad y los retos de marketing. Álvaro cree que nuestra aplicación podría ayudarle a superar estos obstáculos y, a su vez, representar un apoyo económico.
+   De la entrevista con Alberto sabemos que es una persona aficionada por la cocina, cocina 3 veces por semana para su familia, la dificultad que encuentra al momento de iniciar un negocio de cocina es que no calcula la cantidad correcta de sal para muchas personas, pero si se tratara de un circulo pequeño de consumidores si podría preparar unos buenos platillos. Opina que muchas veces las comidas que ha preparado ha sido del agrado de sus familiares, es por eso que ve nuestra aplicación como una gran oportunidad para ganarse un dinerito ya que le gusta la idea de poder vender desde su hogar sin tener que viajar hasta un restaurante para ofrecer sus platillos. También nos comenta que la demanda de menús sigue vigente hasta la actualidad ya que hay muchas personas que no tienen tiempo de trabajar y por eso que van al puesto más cercano para comprar un menú cuando llega la hora del almuerzo.
+   
+  3. Entrevista 3:<br>
+   ![Captura entrevista 6](/assets/images/TB1/Entrevista_Candice.png)
+   <br>Nombre: Candice<br>
+   Apellidos: Zegarra <br>
+   Edad: 29 <br>
+   Distrito: Comas <br>
+   URL: [Link de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201620127_upc_edu_pe/EWpMOEd4Vc1Ol3iN7Lx34IwBERQruAPBEsPfNkBR8QOstw?e=Z072ST&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) <br>
+   Inicio: 00:24<br>
+   Duración: 06:09 <br>
+   Resumen: <br>
+   De la entrevista con Candice Zegarra, podemos concluir que ella es una trabajadora pero que si tiene tiempo para cocinar 5 veces por semanas, ya los fines de semana decide comer afuera por el hecho de que no tiene que trabajar esos días. Ella cocina solo para si misma, pero las veces que ha cocinado para su famlia ha sido halagada por la buen sasón de sus platillos. Una vez pensó en monetizar sus comidas, pero le genera incomodidad el no poder encontrar rapidamente los ingredientes que ella necesita, ya que ella cocina comida de la selva y aqui en Lima no están todos los ingredientes que ella necesita. No ha tenido experiencia vendiendo comida hasta el momento. Pero una aplcacición que facilite la venta sería una buena oportunidad para generar más ingresos. Ella piensa que la demanda por los menús o comida rápida sigue creciendo debido a que las personas actualmente no aprenden a cómo cocinar y solo toman el camino fácil que es comprar una comida lista para servir. Y ella está interesada en unirse a una comunidad de cocineros por el hecho de aprender otros platillos y otras recetas también.
 
-   3. Entrevista 3:<br>
-   <br>Nombre: Cristina<br>
-   Apellidos: Villegas<br>
-   Edad: 27<br>
-   URL: [Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201913495_upc_edu_pe/ER5LQ_sMMMpAlmgxIi90ZagBE4AUIHSYawtTROD3h4HItg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=UzJcyo)<br>
-   Inicio: 1:06<br>
-   Duración: 7:07 <br>
-   Resumen: <br>
-   Cristina Villegas, de 27 años, es psicóloga y trabaja desde casa, lo que le permite cocinar regularmente. Nos contó que a menudo le elogian su sazón y que le gustaría aprovechar este talento a través de nuestra plataforma. Recientemente, inició un emprendimiento de postres caseros, pero no ha tenido mucho éxito debido a la falta de visibilidad. Cristina considera que nuestra aplicación es una excelente iniciativa que podría ayudarle a hacer crecer su negocio.
 
 ### 2.2.3. Análisis de entrevistas
 * Segmento 1: Universitarios o Profesionales Ocupados <br>
 
-Patrones comunes:
+Necesidades:
 
-Falta de tiempo: Todos los entrevistados, Omar, Lourdes y Pia, tienen agendas ocupadas que les impiden cocinar, recurriendo a comida rápida o delivery.
+Falta de tiempo: Todos los entrevistados mencionan la dificultad de cocinar debido a su apretada agenda (Omar, Lourdes, Pia). Esto los lleva a buscar alternativas rápidas, como comida rápida o delivery.
 
-Preocupación por la calidad: A pesar de la conveniencia, les preocupa la baja calidad nutricional de estas opciones y prefieren comidas caseras.
+Comida saludable y casera: Existe un deseo generalizado de tener acceso a alimentos más saludables y caseros, ya que la comida rápida no cubre sus expectativas nutricionales (Omar, Lourdes, Pia).
 
-Necesidades clave:
+Conveniencia y accesibilidad: Lourdes y Omar mencionan la importancia de la facilidad de uso de una plataforma que les permita acceder a comida casera, con opciones personalizables y precios accesibles.
 
-Comida saludable y casera: Valoran la posibilidad de acceder a opciones caseras, nutritivas y económicas.
+Expectativas:
 
-Flexibilidad: Buscan que la plataforma se ajuste a sus horarios con entregas rápidas.
+Comida personalizada: Lourdes quiere la posibilidad de personalizar su menú y utilizar filtros para encontrar opciones que se ajusten a sus gustos.
 
-Personalización: Lourdes destaca la importancia de personalizar menús y contar con información sobre la higiene de los cocineros.
+Flexibilidad en la entrega: Omar y Lourdes valoran la posibilidad de recibir comida a la hora que prefieran, lo cual ayuda a gestionar su apretada agenda.
 
-Conclusión: Nosotros satisfacemos sus demandas, brindando acceso a comida casera de calidad, con flexibilidad y personalización, lo que la convierte en una solución ideal para universitarios ocupados.
+Seguridad y salubridad: Lourdes destaca la importancia de la salubridad de los cocineros y sus métodos de cocina, lo que sugiere que la confianza es un factor clave para este segmento.
   
 * Segmento 2: Cocineros Caseros <br>
 
-Patrones comunes:
+Necesidades:
 
-Habilidades culinarias: Alejandro ha desarrollado amplias habilidades cocinando tanto en su trabajo como en casa, y está interesado en monetizarlas.
+Monetización de habilidades culinarias: Los entrevistados (Alejandro, Alberto, Candice) ven una oportunidad en la plataforma para generar ingresos a partir de sus habilidades culinarias, especialmente porque muchos cocinan regularmente para ellos mismos o sus familias.
 
-Barreras: Ha enfrentado dificultades como falta de permisos y tiempo para vender comida por su cuenta.
+Flexibilidad para vender desde casa: Alejandro y Alberto mencionan que vender desde sus hogares sería ideal, ya que les permitiría gestionar sus tiempos y evitar los desplazamientos.
 
-Oportunidades: Percibe una alta demanda de comida casera y cree que una plataforma online le permitiría llegar a más clientes sin grandes inversiones.
+Acceso a ingredientes específicos: Candice, que cocina comida de la selva, enfrenta desafíos para encontrar ciertos ingredientes en Lima, lo cual afecta su capacidad para ofrecer sus platos típicos.
 
-Necesidades clave:
+Expectativas:
 
-Flexibilidad: La posibilidad de gestionar sus tiempos y pedidos mientras sigue trabajando es esencial.
+Facilidad de uso y flexibilidad: Alejandro y Alberto valoran la capacidad de gestionar los pedidos desde casa y sin grandes inversiones. Candice también menciona que una aplicación que facilite la venta le permitiría generar ingresos.
 
-Comunidad: Valora formar parte de una comunidad de cocineros caseros donde pueda compartir y aprender.
+Formación de comunidad: Alejandro y Candice ven valor en la posibilidad de unirse a una comunidad de cocineros caseros, lo que les permitiría compartir recetas y aprender de otros.
 
-Conclusión: Alejandro es un candidato ideal para Sabores Cercanos, ya que busca una plataforma que le permita monetizar su pasión culinaria con flexibilidad y formar parte de una comunidad de cocineros caseros.
-  
+**Conclusiones Generales del Análisis**
+
+Problemas Identificados:
+
+Hemos identificado que los consumidores están insatisfechos con las opciones actuales de comida rápida o delivery, principalmente debido a la falta de calidad nutricional en las comidas que suelen consumir. Por otro lado, los cocineros caseros enfrentan dificultades para monetizar sus habilidades culinarias debido a la falta de recursos, barreras legales y la dificultad para acceder a ingredientes específicos.
+
+Oportunidades de Mejora:
+
+Vemos la oportunidad de crear una plataforma que permita a los usuarios ocupados acceder a comida casera saludable y de manera accesible. Además, es esencial ofrecer flexibilidad a los cocineros caseros, permitiéndoles vender desde casa sin la necesidad de realizar grandes inversiones. Finalmente, existe una gran oportunidad para desarrollar una comunidad de cocineros, donde puedan compartir recetas, aprender entre ellos y crear relaciones que enriquezcan tanto la oferta gastronómica como la experiencia de los consumidores.
+
+Este análisis nos revela que tanto los consumidores como los cocineros caseros tienen necesidades claras: los primeros buscan comidas caseras y saludables, mientras que los segundos desean una forma flexible y rentable de monetizar sus habilidades culinarias. Estos insights nos brindan una base sólida para seguir mejorando la propuesta de valor de Sabores Cercanos.
+
 ## 2.3. Needfinding
 
 Tras la identificación de los segmentos objetivo (cocineros caseros y estudiantes/profesionales ocupados), se realizaron entrevistas a individuos pertenecientes a dichos segmentos con el objetivo de de hallar información relevante para el desarrollo del producto final, tal como sentimientos, deseos y necesidades. En esta sección se incluirán los esquemas de _User Personas_, _User Task Matrix_, _User Journey Mapping_ y _Empathy Mapping_.
