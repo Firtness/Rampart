@@ -1896,10 +1896,18 @@ completa, con un diseño atractivo e intuitivo para los usuarios. Gracias a nues
 |User<br>Story| |Work-Item /Task| | | | | |
 |ID|Title|ID|Title|Description|Estimation<br>(Hours)|Assigned<br>To|Status<br>(To-do <br>/InProcess<br>/ To-Review <br>/Done)|
 |US01|Registro de usuario|TA001|Diseño y validación del formulario|Crear y estilizar un formulario de registro, implementando validaciones básicas (campos obligatorios, email válido).|5 horas|Estefano Jaque|Done|
-|US02|Búsqueda por preferencias|TA001|Implementar filtros de búsqueda|Crear filtros por tipo de comida, precio y ubicación en la página de búsqueda.|7 horas|Maria Jose Pezo |Done|
-|US03|Visualización de reseñas|TA001|Mostrar reseñas|Desarrollar sección de visualización de reseñas de cocineros, con puntuación y comentarios de usuarios.|5 horas|Jose Alejo|Done|
-|US04|Visualización de información nutricional|TA001|Mostrar datos nutricionales|Agregar una sección con los valores nutricionales de los platos ofrecidos en el menú.|6 horas|Diego Rosado |Done|
-|US25|Gestión de perfil de usuario|TA001|Diseño de edición de perfil|Crear una interfaz donde los usuarios puedan editar su información personal y preferencias.|4 horas|Sebastian Real|Done|
+|US01|Registro de usuario|TA002|Validación avanzada del formulario|Implementar validaciones avanzadas para el formulario de registro.|5 horas|Estefano Jaque|Done|
+|US02|Búsqueda por preferencias|TA005|Implementar filtros de búsqueda|Crear filtros por tipo de comida, precio y ubicación en la página de búsqueda.|7 horas|Maria Jose Pezo |Done|
+|US02|Búsqueda por preferencias|TA006|Mejorar la interfaz de usuario en filtros|Estilizar los filtros de búsqueda para mejorar la experiencia del usuario.|6 horas|Maria Jose Pezo |Done|
+|US03|Visualización de reseñas|TA007|Mostrar reseñas|Desarrollar sección de visualización de reseñas de cocineros, con puntuación y comentarios de usuarios.|5 horas|Jose Alejo|Done|
+|US03|Visualización de reseñas|TA008|Implementar paginación para reseñas|Añadir paginación o scroll infinito en la sección de reseñas.|6 horas|Jose Alejo|Done|
+|US03|Visualización de reseñas|TA009|Agregar opción para ordenar reseñas|Permitir a los usuarios ordenar reseñas por fecha, puntuación o comentarios más útiles.|5 horas|Jose Alejo|Done|
+|US04|Visualización de información nutricional|TA010|Mostrar datos nutricionales|Agregar una sección con los valores nutricionales de los platos ofrecidos en el menú.|6 horas|Diego Rosado |Done|
+|US04|Visualización de información nutricional|TA011|Agregar filtro de búsqueda por nutrientes|Permitir a los usuarios filtrar los platos en el menú según sus preferencias nutricionales (por ejemplo, bajo en calorías o alto en proteínas).|5 horas|Diego Rosado |Done|
+|US25|Gestión de perfil de usuario|TA012|Diseño de edición de perfil|Crear una interfaz donde los usuarios puedan editar su información personal y preferencias.|4 horas|Sebastian Real|Done|
+|US25|Gestión de perfil de usuario|TA013|Permitir a los usuarios cambiar su contraseña desde la página de edición de perfil.|4 horas|Sebastian Real|Done|
+|US25|Gestión de perfil de usuario|TA014|Implementar opción para cambiar foto de perfil|Permitir a los usuarios subir o cambiar su foto de perfil desde la página de edición de perfil.|4 horas|Sebastian Real|Done|
+
 
 ### 5.2.1.3. Development Evidence for Sprint Review
 
