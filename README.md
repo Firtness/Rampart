@@ -1895,11 +1895,11 @@ completa, con un diseño atractivo e intuitivo para los usuarios. Gracias a nues
 |-|-|-|-|-|-|-|-|
 |User<br>Story| |Work-Item /Task| | | | | |
 |ID|Title|ID|Title|Description|Estimation<br>(Hours)|Assigned<br>To|Status<br>(To-do <br>/InProcess<br>/ To-Review <br>/Done)|
-|US01|Registro de usuario|TA001|Diseño y validación del formulario|Crear y estilizar un formulario de registro, implementando validaciones básicas (campos obligatorios, email válido).|1 hora|Estefano Jaque|Done|
-|US02|Búsqueda por preferencias|TA001|Implementar filtros de búsqueda|Crear filtros por tipo de comida, precio y ubicación en la página de búsqueda.|½ hora|Maria Jose Pezo |Done|
-|US03|Visualización de reseñas|TA001|Mostrar reseñas|Desarrollar sección de visualización de reseñas de cocineros, con puntuación y comentarios de usuarios.|½ hora|Jose Alejo|Done|
-|US04|Visualización de información nutricional|TA001|Mostrar datos nutricionales|Agregar una sección con los valores nutricionales de los platos ofrecidos en el menú.|½ hora|Diego Rosado |Done|
-|US25|Gestión de perfil de usuario|TA001|Diseño de edición de perfil|Crear una interfaz donde los usuarios puedan editar su información personal y preferencias.|½ hora|Sebastian Real|Done|
+|US01|Registro de usuario|TA001|Diseño y validación del formulario|Crear y estilizar un formulario de registro, implementando validaciones básicas (campos obligatorios, email válido).|5 horas|Estefano Jaque|Done|
+|US02|Búsqueda por preferencias|TA001|Implementar filtros de búsqueda|Crear filtros por tipo de comida, precio y ubicación en la página de búsqueda.|7 horas|Maria Jose Pezo |Done|
+|US03|Visualización de reseñas|TA001|Mostrar reseñas|Desarrollar sección de visualización de reseñas de cocineros, con puntuación y comentarios de usuarios.|5 horas|Jose Alejo|Done|
+|US04|Visualización de información nutricional|TA001|Mostrar datos nutricionales|Agregar una sección con los valores nutricionales de los platos ofrecidos en el menú.|6 horas|Diego Rosado |Done|
+|US25|Gestión de perfil de usuario|TA001|Diseño de edición de perfil|Crear una interfaz donde los usuarios puedan editar su información personal y preferencias.|4 horas|Sebastian Real|Done|
 
 ### 5.2.1.3. Development Evidence for Sprint Review
 
