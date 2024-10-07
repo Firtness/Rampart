@@ -2043,11 +2043,9 @@ En este Sprint 2 realizaremos la separacion del bounded context y la implementac
 |Sum of story points|49|
 
 ### 5.2.1.2. Sprint Backlog 2
-Para el primer sprint backlog, recopilamos las historias de usuario
-relacionadas con la página de inicio (landing page). Las dividimos en tareas manejables y asignándolas a los miembros del equipo de manera eficiente.<br>
-Durante este sprint, nos enfocamos en completar las historias de
-usuario, con el objetivo principal de desarrollar una landing page
-completa, con un diseño atractivo e intuitivo para los usuarios. Gracias a nuestra buena organización, pudimos seguir el progreso de las tareas y colaborar efectivamente, lo que nos permitió abordar y resolver la mayoría de las historias de usuario planificadas para este sprint.
+En el segundo sprint backlog, nos centramos en las historias de usuario relacionadas con la funcionalidad de publicación y gestión de recetas, así como la personalización de pedidos y la visualización de cocineros. Dividimos las historias en tareas más pequeñas y asignamos cada una de ellas a los miembros del equipo, asegurándonos de mantener un flujo de trabajo eficiente y colaborativo.
+
+Entre las principales funcionalidades desarrolladas en este sprint, se incluyó la implementación de características clave como la opción de añadir, editar y eliminar recetas, la visualización y edición de pedidos, y la comparación de cocineros con base en reseñas y ratings. El progreso de las tareas fue monitoreado regularmente, lo que nos permitió cumplir con la mayoría de los objetivos establecidos para este sprint.
 
 Link Trello: https://trello.com/invite/b/66e21f40286ffef6ecd79284/ATTI50beba103332d73ab459b9c9963c0ade138D7652/mi-tablero-de-trello
 
@@ -2081,9 +2079,16 @@ Link Trello: https://trello.com/invite/b/66e21f40286ffef6ecd79284/ATTI50beba1033
 
 
 ### 5.2.1.3. Development Evidence for Sprint Review
+Durante el segundo sprint, nos enfocamos en implementar las funcionalidades clave relacionadas con la publicación de recetas, gestión de pedidos y la mejora de la experiencia del usuario. El desarrollo se llevó a cabo en múltiples ramas del repositorio, con un enfoque colaborativo en la gestión de commits para asegurar un flujo de trabajo ágil y organizado. A continuación, se presenta un resumen de los commits realizados durante este sprint, que evidencian los avances alcanzados en el desarrollo del proyecto.
 
 | **Repository** | **Branch**       | **Commit Id** | **Commit Message**       | **Commit Message Body**                                    | **Committed on (Date)** |
 |----------------|------------------|---------------|--------------------------|------------------------------------------------------------|--------------------------|
+|`Rampart-SaboresCercanos`|`feature/sprintBacklog2`|`bb4c62652ffae7438109c1a3971d372e5e03f80f`|`feature: Add SprintBacklog and ExecutionEvidence`|`feature: Add SprintBacklog and ExecutionEvidence`|`28/09/2024`|
+|`Rampart-SaboresCercanos`|`development`|`380b432ec4048c6eaebe9a2869507af1f470bf54`|`fix:Project Report Collaboration Insights`|`fix:Project Report Collaboration Insights`|`28/09/2024`|
+|`Rampart-SaboresCercanos`|`docs/team-collaboration-insights-during-sprint`|`b1f28545277d89fc097889260457c20205d2b039`|`feature: added content to team collaboration insights durign sprint section`|`feature: added content to team collaboration insights durign sprint section`|`28/09/2024`|
+|`Rampart-SaboresCercanos`|`Feature/Update-landing-page`|`4125fe74fdf0a07f1749faa291d21d2e9f3842bd`|`Updating Landing Page Commits`|`Updating Landing Page Commits`|`28/09/2024`|
+|`Rampart-SaboresCercanos`|`development`|`279e28fb8a1702bd5e83bf0924ea5d3a38566f6f`|`feature:Testing Suite Evidence for Sprint Review`|`feature:Testing Suite Evidence for Sprint Review`|`28/09/2024`|
+|`Rampart-SaboresCercanos`|`Feature/Update-landing-page`|`b0a481d8a7a38556ae0095cdbde7247e9f2ad934`|`Updating Landing Page images`|`Actualizando imagenes de la nueva landing page y video de demostracion`|`28/09/2024`|
 | `Landing-page`      | `main`           | `6b31206`  | `Initial commit`          | `Created the README file.`        | `2024-09-06`             |
 | `Landing-page`      | `main` | `9286067`  | `Added initial project files and structured the repository.`| `Implemented user authentication with JWT.`               | `2024-09-06`             |
 | `Landing-page`      | `main`         | `27eda4a`  | `Feat: add landing page design`          | `Added initial project files and structured the repository.` | `2024-09-06`             |
@@ -2093,7 +2098,9 @@ Link Trello: https://trello.com/invite/b/66e21f40286ffef6ecd79284/ATTI50beba1033
 
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
-En esta fase del proyecto, hemos estado concentrados en el desarrollo de la landing page. Debido a este enfoque, aún no hemos implementado pruebas automatizadas, como Unit Tests, Integration Tests y Acceptance Tests. Nuestra prioridad ha sido completar el diseño y la funcionalidad de la página. Sin embargo, planeamos incorporar un conjunto completo de pruebas en las próximas fases del proyecto para asegurar la calidad y robustez de la aplicación.
+En esta sección se presenta la evidencia de las pruebas automatizadas desarrolladas durante el sprint, que incluyen Unit Tests, Integration Tests y Acceptance Tests, todos alineados con los User Stories especificados en el backlog del sprint. Se ha utilizado el lenguaje Gherkin para elaborar los archivos .feature que describen el comportamiento del sistema en base a las pruebas de Desarrollo Dirigido por el Comportamiento (BDD).
+
+Se diseñaron y automatizaron pruebas para un total de 21/35 archivos .feature, en los cuales se cubrieron User Stories como la US05, US15, US16, entre otras. En la siguiente tabla se muestran los commits relacionados con la creación y actualización de las pruebas para cada User Story, junto con las ramas y los IDs de commits asociados.
 
 | **Repository**| **Branch**| **Commit Id**| **Commit Message** | **Commit Message Body**| **Committed on (Date)** |
 |-|-|-|-|-|-|
@@ -2153,6 +2160,8 @@ Link_Video_Informacion_Nutricional: https://drive.google.com/drive/folders/1ZY1x
 ![alt text](assets/TP_images/SEBASBC.jpg)
 
 Link_Video_Cocineros: https://drive.google.com/drive/folders/1H70KFOuePRKs8zIt25T2UNWOX__KWu1q?usp=sharing
+
+Deploy Sabores Cercanos: https://saborescercanos-78ff1.web.app/home 
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -2240,7 +2249,7 @@ Bounded context:
 
 
 * <br>Sebastián Omar Real Calderón<br>  
-   - TP: A través del Bounded Context de Cocineros, logré definir de manera precisa las responsabilidades en la gestión de los cocineros, lo que promovió una colaboración fluida entre todos los miembros del equipo. El trabajo realizado en el Sprint Backlog 1 me permitió organizar y priorizar las tareas de manera eficiente, asegurando que cada integrante tomara un papel activo y contribuyera al liderazgo compartido en el desarrollo de las funcionalidades. Además, la preparación de Team Collaboration Insights during Sprint fue clave, ya que brindó una visión clara de cómo el equipo trabajó en conjunto para cumplir los objetivos, y la Execution Evidence for Sprint Review mostró cómo se ejecutaron eficazmente las tareas asignadas por el equipo.
+   - TP: A través del Bounded Context de Cocineros, logré definir de manera precisa las responsabilidades en la gestión de los cocineros, lo que promovió una colaboración fluida entre todos los miembros del equipo. El trabajo realizado en el Sprint Backlog 2 me permitió organizar y priorizar las tareas de manera eficiente, asegurando que cada integrante tomara un papel activo y contribuyera al liderazgo compartido en el desarrollo de las funcionalidades. Además, la preparación de Team Collaboration Insights during Sprint fue clave, ya que brindó una visión clara de cómo el equipo trabajó en conjunto para cumplir los objetivos, y la Execution Evidence for Sprint Review mostró cómo se ejecutaron eficazmente las tareas asignadas por el equipo.
 
 * <br>Diego Alonso Rosado Iporre<br>
 
@@ -2249,7 +2258,7 @@ Bounded context:
 
 * <br>Maria Jose Pezo Castilla:<br>
    - TP:<br>
-   En conclusión, "Sabores Cercanos" ha evolucionado de manera significativa gracias a un enfoque estructurado y colaborativo en su desarrollo. La descripción de la startup, el perfil de la solución y el análisis de antecedentes permitieron al equipo alineal su visión y comprender la problemática del mercado. Las entrevistas con usuarios y el diseño de la landing page, junto con la aplicación web, aseguraron que se abordaran las necesidades de los consumidores de manera efectiva. Además, la implementación del Sprint Backlog 1 y la documentación del progreso, junto con el Bounded Context de Platos, fortalecieron la estructura del sistema y facilitaron la comunicación dentro del equipo. Estas actividades no solo respaldan la misión de conectar cocineros con consumidores, sino que también establecen una base sólida para un ecosistema culinario dinámico. <br>
+   En conclusión, "Sabores Cercanos" ha evolucionado de manera significativa gracias a un enfoque estructurado y colaborativo en su desarrollo. La descripción de la startup, el perfil de la solución y el análisis de antecedentes permitieron al equipo alineal su visión y comprender la problemática del mercado. Las entrevistas con usuarios y el diseño de la landing page, junto con la aplicación web, aseguraron que se abordaran las necesidades de los consumidores de manera efectiva. Además, la implementación del Sprint Backlog 2 y la documentación del progreso, junto con el Bounded Context de Platos, fortalecieron la estructura del sistema y facilitaron la comunicación dentro del equipo. Estas actividades no solo respaldan la misión de conectar cocineros con consumidores, sino que también establecen una base sólida para un ecosistema culinario dinámico. <br>
   
 
 ## Bibliografia
