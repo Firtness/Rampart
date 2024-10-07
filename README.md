@@ -245,7 +245,7 @@ TP:<br>
     - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review-1)
     - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review-1)
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review-1)
-    - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint-1)
+    - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
   - [Conclusiones](#conclusiones)
   - [Bibliografia](#bibliografia)
   - [Anexos](#anexos)
@@ -1895,11 +1895,11 @@ completa, con un diseño atractivo e intuitivo para los usuarios. Gracias a nues
 |-|-|-|-|-|-|-|-|
 |User<br>Story| |Work-Item /Task| | | | | |
 |ID|Title|ID|Title|Description|Estimation<br>(Hours)|Assigned<br>To|Status<br>(To-do <br>/InProcess<br>/ To-Review <br>/Done)|
-|US01|Registro de usuario|TA001|Diseño y validación del formulario|Crear y estilizar un formulario de registro, implementando validaciones básicas (campos obligatorios, email válido).|1 hora|Estefano Jaque|Done|
-|US02|Búsqueda por preferencias|TA001|Implementar filtros de búsqueda|Crear filtros por tipo de comida, precio y ubicación en la página de búsqueda.|½ hora|Maria Jose Pezo |Done|
-|US03|Visualización de reseñas|TA001|Mostrar reseñas|Desarrollar sección de visualización de reseñas de cocineros, con puntuación y comentarios de usuarios.|½ hora|Jose Alejo|Done|
-|US04|Visualización de información nutricional|TA001|Mostrar datos nutricionales|Agregar una sección con los valores nutricionales de los platos ofrecidos en el menú.|½ hora|Diego Rosado |Done|
-|US25|Gestión de perfil de usuario|TA001|Diseño de edición de perfil|Crear una interfaz donde los usuarios puedan editar su información personal y preferencias.|½ hora|Sebastian Real|Done|
+|US01|Registro de usuario|TA001|Diseño y validación del formulario|Crear y estilizar un formulario de registro, implementando validaciones básicas (campos obligatorios, email válido).|5 horas|Estefano Jaque|Done|
+|US02|Búsqueda por preferencias|TA001|Implementar filtros de búsqueda|Crear filtros por tipo de comida, precio y ubicación en la página de búsqueda.|7 horas|Maria Jose Pezo |Done|
+|US03|Visualización de reseñas|TA001|Mostrar reseñas|Desarrollar sección de visualización de reseñas de cocineros, con puntuación y comentarios de usuarios.|5 horas|Jose Alejo|Done|
+|US04|Visualización de información nutricional|TA001|Mostrar datos nutricionales|Agregar una sección con los valores nutricionales de los platos ofrecidos en el menú.|6 horas|Diego Rosado |Done|
+|US25|Gestión de perfil de usuario|TA001|Diseño de edición de perfil|Crear una interfaz donde los usuarios puedan editar su información personal y preferencias.|4 horas|Sebastian Real|Done|
 
 ### 5.2.1.3. Development Evidence for Sprint Review
 
@@ -2056,28 +2056,32 @@ Link Trello: https://trello.com/invite/b/66e21f40286ffef6ecd79284/ATTI50beba1033
 |-|-|-|-|-|-|-|-|
 |User<br>Story| |Work-Item /Task| | | | | |
 |ID|Title|ID|Title|Description|Estimation<br>(Hours)|Assigned<br>To|Status<br>(To-do <br>/InProcess<br>/ To-Review <br>/Done)|
-| US19 | Publicar Recetas | *TA001* | Crear Bounded Context de recetas | Crear la estructura del bounded context para gestionar las recetas (añadir, eliminar, editar). | 3 horas | Jaque Peña, Estefano Oscar | Done |
-| US19 | Publicar Recetas | *TA002* | Implementar funcionalidad de añadir recetas | Programar la funcionalidad para que los usuarios puedan publicar nuevas recetas en la plataforma. | 4 horas | Jaque Peña, Estefano Oscar | InProcess |
-| US19 | Publicar Recetas | *TA003* | Implementar funcionalidad de editar recetas | Permitir que los usuarios editen las recetas ya publicadas. | 3 horas | Jaque Peña, Estefano Oscar | To-Do |
-| US19 | Publicar Recetas | *TA004* | Implementar funcionalidad de eliminar recetas | Permitir que los usuarios eliminen recetas desde su perfil. | 2 horas | Jaque Peña, Estefano Oscar | To-Do |
-| US21 | Guardar Recetas  | *TA005* | Añadir recetas a favoritas | Programar la opción para que los usuarios puedan guardar recetas . | 3 horas | Jaque Peña, Estefano Oscar | InProcess |
-| US21 | Guardar Recetas  | *TA006* | Mostrar recetas guardadas en la sección de favoritos | Implementar la vista para mostrar las recetas  del usuario. | 2 horas | Jaque Peña, Estefano Oscar | To-Do |
-| US05| Programacion de entrega| *TA007*| Editar pedido | Consiste en permitir al usuario modificar los detalles de un pedido previamente realizado, como la cantidad de productos, la dirección de entrega o la fecha programada para la entrega..| 2 horas| Alejo Cardenas,Jose | Done|
-| US15| Programación de pedidos |*TA008*| Mostrar pedido |  Esta tarea está enfocada en dar al usuario la opción de eliminar un pedido existente. | 4 horas| Alejo Cardenas,Jose|Done|
-| US16| Métodos de pago |*TA009*| Crear pedido |Esta tarea permite al usuario formalizar la creación de un pedido, confirmando los detalles ingresados previamente. | 5 horas | Alejo Cardenas,Jose |Done|
-| US16| Programación de pedidos |*TA010*| Eliminar pedido | Esta tarea está enfocada en dar al usuario la opción de eliminar un pedido existente. | 5 horas | Alejo Cardenas,Jose |Done|
-| US04| Visualización de información nutricional  | *TA011* |Mostrar la descripción e información del plato| Mostrar la descripción del plato y datos informativos como el nombre del plato, precio promedio y la cantidad de ordenes realizadas durante el mes.  | 3 horas               | Pezo Castilla, Maria Jose| Done      
-| US06| Experiencia personalizada  | *TA012* | Eliminar platos de la lista personalizada | Desarrollar la eliminación de platos de la lista personalizada. | 3 horas | Pezo Castilla, Maria Jose | Done|
-| US06| Experiencia personalizada | *TA013*  | Actualizar lista de platos | Implementar la actualización de la lista de platos personalizada.| 3 horas| Pezo Castilla, Maria Jose     | Done |
-| US06| Experiencia personalizada | *TA014* |Añadir platos a la lista personalizada| Desarrollar la agregacion de nuevos platos a la lista personalizada.| 2 horas| Pezo Castilla, Maria Jose | Done |
-| US30 | Programación de entrega | *TA015* | Agregar nutrientes | Consiste en permitir al usuario añadir información nutricional a un pedido, como calorías, proteínas, y otros nutrientes importantes. | 2 horas | Rosado Iporre, Diego | Done | 
-| US30 | Programación de pedidos | *TA016* | Mostrar nutrientes | Esta tarea permite al usuario visualizar la información nutricional de un pedido existente, asegurando una elección informada. | 4 horas | Rosado Iporre, Diego | Done |
-| US30 | Métodos de pago | *TA017* | Editar nutrientes | Esta tarea permite al usuario modificar la información nutricional de un pedido, como actualizar las cantidades de cada nutriente. | 5 horas | Rosado Iporre, Diego | Done | 
-| US30 | Programación de pedidos | *TA018* | Eliminar nutrientes | Esta tarea permite al usuario eliminar la información nutricional de un pedido, si así lo desea. | 5 horas | Rosado Iporre, Diego | Done |
-| US03 | Visualización de reseñas  | *TA019* | Añadir una lista de cocineros para permitir la comparación | Programar la funcionalidad del bounded context cocineros que permita ver los perfiles para poder compararlos en base a sus ratings y reseñas | 5 horas  | Real Calderón, Sebastián Omar | Done |
-| US03 | Visualización de reseñas | *TA020* | Añadir lista de cocineros para comparación | Programar la funcionalidad del bounded context "cocineros" que permita ver los perfiles y compararlos en base a sus ratings y reseñas. | 5 horas | Real Calderón, Sebastián Omar | Done |
-| US03 | Visualización de reseñas | *TA021* | Actualizar lista de cocineros en base a reseñas recientes | Implementar la actualización automática de la lista de cocineros cada vez que haya una nueva reseña o actualización de ratings. | 3 horas | Real Calderón, Sebastián Omar | To-Do |
-| US03 | Visualización de reseñas | *TA022* | Editar filtros para la comparación de cocineros | Programar la opción de editar los filtros de comparación para incluir más criterios como tipo de cocina, experiencia, y disponibilidad. | 4 horas | Real Calderón, Sebastián Omar | To-Do |
+| US19 | Publicar Recetas | *TA001* | Crear Bounded Context de recetas | Diseñar la estructura del bounded context que incluye la creación de entidades, servicios, componentes y un page que permita añadir, eliminar y editar. | 6 horas | Jaque Peña, Estefano Oscar | Done |
+| US19 | Publicar Recetas | *TA002* | Implementar funcionalidad de añadir recetas | Implementar la funcionalidad que permite a los usuarios añadir nuevas recetas. | 4 horas | Jaque Peña, Estefano Oscar | Done |
+| US19 | Publicar Recetas | *TA003* | Implementar funcionalidad de editar recetas | Implementar la funcionalidad para editar recetas, permitiendo a los usuarios modificar el título, la descripción, los ingredientes y los pasos de preparación. | 6 horas | Jaque Peña, Estefano Oscar | Done |
+| US19 | Publicar Recetas | *TA004* | Implementar funcionalidad de eliminar recetas | Desarrollar la funcionalidad que permita a los usuarios eliminar recetas mediante una interfaz. | 5 horas | Jaque Peña, Estefano Oscar | Done |
+| US21 | Guardar Recetas  | *TA005* | Añadir recetas a favoritas |  Implementar la funcionalidad que permita a los usuarios agregar recetas a su lista de favoritas. | 6 horas | Jaque Peña, Estefano Oscar | Done |
+| US21 | Guardar Recetas  | *TA006* | Mostrar recetas guardadas | Implementar una vista en la que los usuarios puedan ver todas las recetas que han guardado. | 5 horas | Jaque Peña, Estefano Oscar | Done |
+| US05 | Programacion de entrega | *TA007* | Crear Bounded Context de pedidos | Diseñar la estructura del bounded context que incluye la creación de entidades, servicios, componentes y un page que permita añadir, eliminar y editar. | 6 horas | Alejo Cardenas,Jose | Done |
+| US05| Programacion de entrega| *TA008*| Editar pedido | Implementar la funcionalidad para que el usuario pueda modificar los detalles de un pedido, tales como la cantidad de productos, la dirección y la fecha de entrega.| 4 horas| Alejo Cardenas,Jose | Done|
+| US15| Programación de pedidos |*TA009*| Mostrar pedidos | Diseñar la interfaz de usuario que muestre los detalles del pedido con la información de productos, dirección, fecha de entrega y estado actual. | 4 horas | Alejo Cardenas,Jose|Done|
+| US16| Métodos de pago |*TA010*| Crear pedido | Implementar la lógica para crear un pedido en la base de datos, incluyendo la confirmación de los detalles ingresados, como productos, dirección y método de pago. | 5 horas | Alejo Cardenas,Jose |Done|
+| US16| Programación de pedidos |*TA011*| Eliminar pedido | Implementar la funcionalidad para que el usuario pueda eliminar un pedido de la base de datos y reflejar el cambio en la interfaz de usuario. | 5 horas | Alejo Cardenas,Jose |Done|
+| US04 | Visualización de información nutricional | *TA012* | Crear Bounded Context de platillos | Diseñar la estructura del bounded context que incluye la creación de entidades, servicios, componentes y un page que permita añadir, eliminar y editar. | 8 horas | Pezo Castilla, Maria Jose | Done |
+| US04| Visualización de información nutricional  | *TA013* |Mostrar la descripción e información del plato| Mostrar la descripción del plato y datos informativos como el nombre del plato, precio promedio y la cantidad de ordenes realizadas durante el mes.  | 5 horas | Pezo Castilla, Maria Jose| Done      
+| US06| Experiencia personalizada  | *TA014* | Eliminar platos de la lista personalizada | Desarrollar la eliminación de platos de la lista personalizada. | 6 horas | Pezo Castilla, Maria Jose | Done|
+| US06| Experiencia personalizada | *TA015*  | Actualizar lista de platos | Implementar la actualización de la lista de platos personalizada.| 7 horas| Pezo Castilla, Maria Jose | Done |
+| US06| Experiencia personalizada | *TA016* |Añadir platos a la lista personalizada| Desarrollar la agregacion de nuevos platos a la lista personalizada.| 6 horas| Pezo Castilla, Maria Jose | Done |
+| US30 | Programación de entrega | *TA017* | Crear Bounded Context de plan nutricional | Diseñar la estructura del bounded context que incluye la creación de entidades, servicios, componentes y un page que permita añadir, eliminar y editar. | 7 horas | Rosado Iporre, Diego | Done |
+| US30 | Programación de entrega | *TA018* | Agregar nutrientes | Consiste en permitir al usuario añadir información nutricional a un pedido, como calorías, proteínas, y otros nutrientes importantes. | 4 horas | Rosado Iporre, Diego | Done | 
+| US30 | Programación de pedidos | *TA019* | Mostrar nutrientes | Esta tarea permite al usuario visualizar la información nutricional de un pedido existente, asegurando una elección informada. | 4 horas | Rosado Iporre, Diego | Done |
+| US30 | Métodos de pago | *TA020* | Editar nutrientes | Esta tarea permite al usuario modificar la información nutricional de un pedido, como actualizar las cantidades de cada nutriente. | 5 horas | Rosado Iporre, Diego | Done | 
+| US30 | Programación de pedidos | *TA021* | Eliminar nutrientes | Esta tarea permite al usuario eliminar la información nutricional de un pedido, si así lo desea. | 5 horas | Rosado Iporre, Diego | Done |
+| US03 | Visualización de reseñas | *TA022* | Crear Bounded Context de cocineros | Diseñar la estructura del bounded context que incluye la creación de entidades, servicios, componentes y un page que permita añadir, eliminar y editar. | 6 horas | Real Calderón, Sebastián Omar | Done |
+| US03 | Visualización de reseñas  | *TA023* | Añadir una lista de cocineros para permitir la comparación | Programar la funcionalidad del bounded context cocineros que permita ver los perfiles para poder compararlos en base a sus ratings y reseñas | 5 horas  | Real Calderón, Sebastián Omar | Done |
+| US03 | Visualización de reseñas | *TA024* | Añadir lista de cocineros para comparación | Programar la funcionalidad del bounded context "cocineros" que permita ver los perfiles y compararlos en base a sus ratings y reseñas. | 5 horas | Real Calderón, Sebastián Omar | Done |
+| US03 | Visualización de reseñas | *TA025* | Actualizar lista de cocineros en base a reseñas recientes | Implementar la actualización automática de la lista de cocineros cada vez que haya una nueva reseña o actualización de ratings. | 4 horas | Real Calderón, Sebastián Omar | Done |
+| US03 | Visualización de reseñas | *TA026* | Editar filtros para la comparación de cocineros | Programar la opción de editar los filtros de comparación para incluir más criterios como tipo de cocina, experiencia, y disponibilidad. | 4 horas | Real Calderón, Sebastián Omar | Done |
 
 
 ### 5.2.1.3. Development Evidence for Sprint Review
