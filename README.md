@@ -4,7 +4,7 @@ Product: Sabores Cercanos
 
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
 
-![alt text](assets/images/TB1/Logoupc.png)
+![!\[assets/images/Logo_upc.png\](assets/images/Logo_upc.png)](assets/images/Logo_upc.png)
 
 
 ## Ingenieria de Software
@@ -66,31 +66,12 @@ TB1:<br>
 
 
 TP:<br>
-|Integrante|Tarea Asignada|
-|-|-|
 |Diego Alonso Rosado Iporre | Colaboré en la Project Report Collaboration Insights, la elaboración del Sprint Backlog 1, y la documentación de Execution Evidence for Sprint Review y Software Deployment Evidence for Sprint Review. También trabajé en las Conclusiones del proyecto, el desarrollo de bounded context del Plan Alimenticio, así como en el despliegue y desarrollo de las User Stories 29 y 30 centradas en la creación y seguimiento de planes alimenticios personalizados.| 
+Sprint Backlog 1, Execution Evidence for Sprint Review, Software Deployment|
 |Sebastián Omar Real Calderón |Sprint Backlog 1, Execution Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint y las Conclusiones.|   
 |Pezo Castilla, Maria Jose | En el Sprint Backlog 1, identifiqué y prioricé las tareas clave del sprint, estableciendo los entregables esenciales para el equipo de desarrollo. Para la Execution Evidence for Sprint Review, documenté el progreso del sprint mediante capturas y descripciones detalladas de las funcionalidades completadas. En la Services Documentation Evidence for Sprint Review, proporcioné una guía técnica de los servicios desarrollados, describiendo sus endpoints y lógica de negocio. El Bounded Context de Platos consistió en delimitar las responsabilidades y características del módulo de platos dentro de la arquitectura del sistema, teniendo en cuenta la US04 y la US06 . Finalmente, elaboré la Bibliografía para respaldar teóricamente el proyecto y formulé las Conclusiones, destacando los aprendizajes y resultados del sprint. |
 |Jaque Peña, Estefano Oscar|En el Sprint Planing 1 se pudo redactar los apartados importantes de la reunion para la realizacion de este, como la separacion de bounded context.En el Sprint Backlog 1 se especifico la funcionalidad añadidad a cada bounded contexct respecto a las user stories. Ademas en los apartados en lo que se debio realizar la evidencia del sprint como el Execution Evidence for Sprint Review,Software Deployment Evidence for Sprint Review,Team Collaboration Insights during Sprint se añadio las evidencias especificando mi apartado del bounded context.|
 |Alejo Cárdenas, Jose Antonio|Bounded Context de Pedidos: Define y gestiona todas las funcionalidades relacionadas con los pedidos, asegurando la separación de responsabilidades dentro del sistema.<br>Sprint Backlog 1:Lista priorizada de tareas y funcionalidades que serán desarrolladas durante el Sprint.<br>Testing Suite Evidence for Sprint Review:Evidencia de pruebas realizadas para validar que las funcionalidades cumplen con los requisitos, incluyendo resultados documentados.<br>Execution Evidence for Sprint Review:Demostración de la ejecución de las funcionalidades desarrolladas, con evidencia visual o en video.<br>Software Deployment Evidence for Sprint Review: Comprobación de que el software fue desplegado exitosamente, con documentación del proceso y resultados.|
-
-*Pull requests evidence:*
-
-![alt text](assets/TP_images/Pull%20requests%20evidence.png)
-![alt text](assets/TP_images/Pull%20requests%20evidence2.png)
-
-*Commits evidence:*
-
-![alt text](assets/TP_images/Commits%20evidence.png)
-![alt text](assets/TP_images/Commits%20evidence2.png)
-
-
-*Issues evidence:*
-
-![alt text](assets/TP_images/Issues%20evidence.png)
-![alt text](assets/TP_images/Issues%20evidence2.png)
-
-
 
 ## Contenido
 
@@ -234,18 +215,8 @@ TP:<br>
     - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
     - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
     - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
-    - [Resumen de Acciones del Equipo](#resumen-de-acciones-del-equipo)
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-    - [5.2.1. Sprint 2](#521-sprint-2)
-    - [5.2.1.1. Sprint Planning 2](#5211-sprint-planning-2)
-    - [5.2.1.2. Sprint Backlog 2](#5212-sprint-backlog-2)
-    - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review-1)
-    - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review-1)
-    - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review-1)
-    - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review-1)
-    - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review-1)
-    - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
   - [Conclusiones](#conclusiones)
   - [Bibliografia](#bibliografia)
   - [Anexos](#anexos)
@@ -261,8 +232,18 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 | Criterio especifico                                                          | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Conclusiones |
 | :--------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
-| 1.Trabaja en equipo para proporcionar liderazgo en forma conjunta   | **Estefano Oscar Jaque Peña**<br>TB1: Realice el Lean UX Prolem statements y los assumptions<br>, luego me encargue de el diseño de las preguntas para las entrevistas, para finalizar el cap 3,4 y 5 realice 6 user stories, el product bakclog , el Diagrama de Clases y el diagrama de base de datos y luego el sprint planning y el spring backlog.<br> **Diego Alonso Rosado Iporre**<br> TB1: Realice la "Descripción de la estrategia de la Startup", Competidores, Análisis competitivo, Estrategias y tácticas frente a competidores, Registro de entrevistas, Análisis de entrevistas, Ubiquitous Language, User Stories, Domain-Driven Software Architecture, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review y Team Collaboration Insights during Sprint <br>**Jose Antonio Alejo Cardenas:** <br>TB1: Para esta TB1, realicé actividades como Lean UX Hypothesis Statements, desarrollando hipótesis enfocadas en el usuario, Lean UX Canvas, realizando investigaciones y resaltando puntos clave, definición de Segmentos objetivo basados en datos demográficos, Registro y análisis de entrevistas para obtener informacion valiosa, To-Be Scenario Mapping, detallando escenarios futuros de como deberia ser, User Stories centradas en las necesidades del usuario, Impact Mapping para alinear entregables con sus respectivas user stories, desarrollo de Organization Systems y Labeling Systems para una mejor estructura, implementación de SEO Tags y Meta Tags para optimización de búsqueda, diseño de Searching Systems efectivos y configuración de Navigation Systems para mejorar la experiencia del usuario. <br>**Sebastian Omar Real Calderón**<br> TB1: Realicé los aspectos del Needfinding para hallar las necesidades de nuestros consumidores, realicé los User Persona como la representación de nuestros clientes ideales. Hice el diseño de los Style Guidelines con los que mis compañeros se guiaron para realizar el aspecto visual de la landing page, y documenté los espacios de trabajo utilizados para la realización de las actividades, así como de los lenguajes de programación y convenciones. <br>**Maria Jose Pezo Castilla** <br>TB1: Redacté la Descripción de la Startup, explicando su misión, visión y objetivos principales, completé el Solution Profile, destacando las características clave de la solución propuesta, analicé los Antecedentes y problemática a la que se enfrenta el público objetivo de la startup, realicé y registré una entrevista a un estudiante ocupado, obteniendo información directa de sus necesidades, creé la Landing Page Wireframe que sirva de prototipo visual básico, desarrollé el Landing Page Mock-up, mostrando una versión más refinada y visualmente atractiva, diseñé la UX/UI de la aplicación web, enfocándose en la experiencia y la interfaz de usuario, creé el Web Applications Wireframes, estableciendo las bases del diseño de la estructura, elaboré los Wireflow Diagrams para detallar el flujo de interacción entre pantallas, desarrollé los Mock-ups de la aplicación web, reflejando el diseño final con mayor detalle visual y creé los User Flow Diagrams que representen la navegación completa del usuario dentro de la aplicación. <br>**Diego Alonso Rosado Iporre<br>**<br>TP:Colaboré en la Project Report Collaboration Insights, la elaboración del Sprint Backlog 1, y la documentación de Execution Evidence for Sprint Review y Software Deployment Evidence for Sprint Review. También trabajé en las Conclusiones del proyecto, el desarrollo de bounded context del Plan Alimenticio, así como en el despliegue y desarrollo de las User Stories 29 y 30 centradas en la creación y seguimiento de planes alimenticios personalizados.<br>**Jose Antonio Alejo Cardenas** <br>TP: Para esta TP, realicé actividades como el Bounded Context de Pedidos, delimitando las funcionalidades específicas de la gestión de pedidos y asegurando la correcta separación de responsabilidades dentro del sistema. También trabajé en el Sprint Backlog 1, donde se organizó y priorizó la lista de funcionalidades a desarrollar durante el sprint, asegurando una correcta asignación de tareas al equipo. Además, preparé el Testing Suite Evidence for Sprint Review, generando las evidencias de las pruebas para validar que las nuevas funcionalidades cumplen con los requisitos establecidos. Asimismo, desarrollé la Execution Evidence for Sprint Review, demostrando la ejecución efectiva de cada funcionalidad implementada, y el Software Deployment Evidence for Sprint Review, comprobando que el software fue desplegado exitosamente, con la documentación necesaria para su integración en los ambientes de QA o producción.<br>**Maria Jose Pezo Castilla** <br>TP: El trabajo en equipo durante el Sprint Backlog 1 resultó en una gestión efectiva de las tareas clave, donde identifiqué y prioricé los entregables esenciales para el desarrollo del proyecto. La documentación del progreso en la Execution Evidence for Sprint Review mediante capturas y descripciones detalladas permitió una revisión clara de las funcionalidades completadas. Adicionalmente, en la Services Documentation Evidence for Sprint Review, proporcioné una guía técnica completa que detalla los servicios desarrollados, sus endpoints y la lógica de negocio. El Bounded Context de Platos facilitó la delimitación de responsabilidades dentro del sistema, alineando las características del módulo con las user stories relevantes. Finalmente, la elaboración de la Bibliografía y las Conclusiones resaltó los aprendizajes adquiridos y los resultados alcanzados en este sprint, consolidando el progreso del equipo en un entorno colaborativo.<br>**Estefano Oscar Jaque Peña**<br>TP: En esta entrega, me enfoqué en el Sprint Planning y el Product Backlog. También trabajé en la Execution Evidence y Software Deployment Evidence for Sprint Review, además de documentar el Team Collaboration Insights y el Report Collaboration Insights. Asimismo, desarrollé el Bounded Context para las recetas, lo que mejora la claridad en el código y fomenta una colaboración efectiva en el equipo.<br>**Real Calderón, Sebastián Omar**:<br>TP: Realicé parte de los User Personas, User Task Matrix, User Journey Mapping, Empathy Mapping, As-Is Scenario Mapping, Style Guidelines, Software Development Environment Configuration, Source Code Management, Source Code Style Guide & Conventions, Software Deployment Configuration.|  <br>  **Jose Antonio Alejo Cardenas**<br> TB1:<br> El desarrollo de actividades como las User Stories, Lean UX Canvas e Impact Mapping refleja el liderazgo colaborativo, pues estas tareas implican tener las ideas de todos los miembros centradas en los mismos objetivos y necesidades que se buscan satisfacer o solucionar mediante nuestro producto. Asi mismo, el desarrollo de la arquitectura informacion es tambien un punto importante para la colaboracion y comunicacion constante del equipo pues sera un apartado a cumplir proximamente durante las siguientes entregas.<br>**Estefano Oscar Jaque Peña**<br>TB1:El realizar parte del Lean Ux Process me ayudo a poder aprender mas de la problematica actual en la que nos centramos como equipo para poder crear el aplicativo, asi como tambien aprender de nuestro usuario objetivo. Con la resolución del modelo físico de la base de datos, aprendí a optimizar el almacenamiento de usuarios, pedidos, y menús, así como a organizar eficientemente las relaciones entre tablas para mejorar el rendimiento de la plataforma 'Sabores Cercanos'. Y para finalizar con el Sprint planning y el Sprint Backlog, concluí que una planificación clara de tareas y la descomposición de user stories son fundamentales para organizar el trabajo del equipo, mantener el enfoque en los objetivos del sprint y garantizar un seguimiento eficiente del progreso en la plataforma.<br>**Maria Jose Pezo Castilla**<br> TB1: El trabajo en equipo para proporcionar liderazgo conjunto resultó en un proceso colaborativo y estructurado que facilitó el desarrollo del proyecto de manera eficiente. Las acciones realizadas, como la descripción de la startup, el perfil de la solución y el análisis de antecedentes, permitieron al equipo alinear su visión y tomar decisiones estratégicas en conjunto. La entrevista con un estudiante proporcionó información valiosa para ajustar prioridades, mientras que los diseños de la landing page y la aplicación web reflejaron una planificación detallada y una contribución equitativa de todos los miembros. Esto fortaleció las dinámicas de equipo y el liderazgo compartido, asegurando un progreso efectivo. <br>**Diego Alonso Rosado Iporre**<br> TB1: Desde mi perspectiva, el trabajo en el desarrollo del proyecto ha sido muy enriquecedor. He liderado la creación de la Descripción de la Startup, el análisis de competidores, y la documentación de los resultados de las entrevistas, así como la elaboración del Ubiquitous Language y los Wireframes de la aplicación web. Mi enfoque en la creación y despliegue de la landing page ha incluido la documentación detallada del diseño, la implementación, y el despliegue, reflejando un proceso bien estructurado. A pesar de ser el único en realizar commits, he asegurado una documentación completa de cada fase, incluyendo pruebas y evidencia del despliegue. La planificación meticulosa y el enfoque en la colaboración han sido claves para avanzar de manera efectiva y estructurada en el proyecto.<br>**Sebastián Omar Real Calderón**<br> TB1: El trabajo en equipo fue clave para lograr un liderazgo compartido, ya que cada integrante pudo aportar desde sus habilidades y conocimientos específicos, siempre con un enfoque en los objetivos comunes. Al participar en tareas como el desarrollo de User Personas, User Journey Mapping, y la configuración del entorno de desarrollo, se garantizó una colaboración fluida y eficiente. La coordinación en la gestión del código fuente y el despliegue de software reflejó una planificación clara que permitió cumplir con los hitos del proyecto de manera organizada y precisa. <br>**Diego Alonso Rosado Iporre**<br>TP: Trabajar en equipo es crucial para el éxito del proyecto, ya que permite que cada miembro aporte sus habilidades. En esta entrega, contribuí al Project Report Collaboration Insights, al Sprint Backlog 1 y a la Execution Evidence for Sprint Review. También desarrollé el Bounded Context para el Plan Alimenticio y participé en el deployment de las User Stories 29 y 30, asegurando documentación clara en cada etapa.<br>**Jose Antonio Alejo Cardenas**<br> TP: En esta TP, atraves del Bounded Context de Pedidos, logré definir claramente las responsabilidades en la gestión de pedidos, lo que facilitó una colaboración efectiva entre todos los miembros del equipo. Además, el trabajo realizado en el Sprint Backlog 1 me permitió organizar y priorizar las tareas, asegurando que cada integrante asumiera un rol activo y contribuyera al liderazgo compartido en el desarrollo de las funcionalidades. La preparación del Testing Suite Evidence for Sprint Review también fue fundamental, ya que proporcionó un marco claro para validar las funcionalidades, y la Execution Evidence for Sprint Review demostró cómo cada tarea fue ejecutada efectivamente por el equipo.<br>**Maria Jose Pezo Castilla**<br> TP: En esta TP, atraves del Bounded Context de Pedidos, logré definir claramente las responsabilidades en la gestión de pedidos, lo que facilitó una colaboración efectiva entre todos los miembros del equipo. Además, el trabajo realizado en el Sprint Backlog 1 me permitió organizar y priorizar las tareas, asegurando que cada integrante asumiera un rol activo y contribuyera al liderazgo compartido en el desarrollo de las funcionalidades. La preparación del Testing Suite Evidence for Sprint Review también fue fundamental, ya que proporcionó un marco claro para validar las funcionalidades, y la Execution Evidence for Sprint Review demostró cómo cada tarea fue ejecutada efectivamente por el equipo.<br>**Estefano Oscar Jaque Peña**<br>TP: La colaboración en equipo es fundamental para el éxito del proyecto, ya que cada miembro puede aportar sus talentos. En esta entrega, participé en el Project Report Collaboration Insights, el Sprint Backlog 1 y la Execution Evidence for Sprint Review. Además, trabajé en el Bounded Context para la Receta y estuve involucrado en el deployment de las User Stories 29 y 30, garantizando una documentación clara en cada fase<br>**Sebastián Omar Real Calderón:**<br>TP: Para nuestro proyecto, hemos logrado trabajar en equipo para proporcionar un liderazgo de forma conjunta, permitiendo que cada miembro aporte en gran medida al avance efectivo del proyecto. En esta entrega, aporte a mis compañeros en el desarrollo conjunto del Sprint Backlog 1, la Execution Evidence for Sprint Review, el Software Deployment Evidence for Sprint Review y las conclusiones. Por mi cuenta, hice el desarrollo del bounded context de Cocineros y el Team Collaboration Insights during Sprint.|
-|2. Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | **Estefano Oscar Jaque Peña**<br>TB1: TB1: Realice el Lean UX Prolem statements y los assumptions<br>, luego me encargue de el diseño de las preguntas para las entrevistas, para finalizar el cap 3,4 y 5 realice 6 user stories, el product bakclog , el Diagrama de Clases y el diagrama de base de datos y luego el sprint planning y el spring backlog.<br>**Diego Alonso Rosado Iporre**<br> TB1: Realice la "Descripción de la estrategia de la Startup", Competidores, Análisis competitivo, Estrategias y tácticas frente a competidores, Registro de entrevistas, Análisis de entrevistas, Ubiquitous Language, User Stories, Domain-Driven Software Architecture, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review y Team Collaboration Insights during Sprint <br>**Jose Antonio Alejo Cardenas**<br> TB1: En esta TB1, creé un entorno colaborativo e inclusivo al involucrar a todos lotesis clave. Se establecio metas claras a través del Lean UX Canvas, donde planificamos tareas alineadas con nuestros objetivos. Definimos Segmentoss miembros del equipo en la elaboración de cada uno de los siguientes puntos ,tales como Lean UX Hypothesis Statements, definiendo conjuntamente hipó objetivo basados en datos compartidos y analizamos en equipo el Registro y análisis de entrevistas para tomar decisiones informadas. El To-Be Scenario Mapping nos ayudó a visualizar escenarios futuros y planificar el cumplimiento de nuestras metas. A través de la creación conjunta de User Stories, Impact Mapping, Organization Systems, y Labeling Systems, garantizamos una planificación efectiva y estructurada, mientras que los SEO Tags, Meta Tags, Searching Systems, y Navigation Systems se diseñaron con una visión compartida para cumplir los objetivos establecidos que se implementaran en siguientes entregas. <br>**Sebastian Omar Real Calderón**<br> TB1: Realicé los aspectos del Needfinding para hallar las necesidades de nuestros consumidores, realicé los User Persona como la representación de nuestros clientes ideales. Hice el diseño de los Style Guidelines con los que mis compañeros se guiaron para realizar el aspecto visual de la landing page, y documenté los espacios de trabajo utilizados para la realización de las actividades, así como de los lenguajes de programación y convenciones.<br>**Maria Jose Pezo Castilla** <br>TB1: Redacté la Descripción de la Startup, explicando su misión, visión y objetivos principales, completé el Solution Profile, destacando las características clave de la solución propuesta, analicé los Antecedentes y problemática a la que se enfrenta el público objetivo de la startup, realicé y registré una entrevista a un estudiante ocupado, obteniendo información directa de sus necesidades, creé la Landing Page Wireframe que sirva de prototipo visual básico, desarrollé el Landing Page Mock-up, mostrando una versión más refinada y visualmente atractiva, diseñé la UX/UI de la aplicación web, enfocándose en la experiencia y la interfaz de usuario, creé el Web Applications Wireframes, estableciendo las bases del diseño de la estructura, elaboré los Wireflow Diagrams para detallar el flujo de interacción entre pantallas, desarrollé los Mock-ups de la aplicación web, reflejando el diseño final con mayor detalle visual y creé los User Flow Diagrams que representen la navegación completa del usuario dentro de la aplicación. <br>**Diego Alonso Rosado Iporre<br>**<br>TP:Colaboré en la Project Report Collaboration Insights, la elaboración del Sprint Backlog 1, y la documentación de Execution Evidence for Sprint Review y Software Deployment Evidence for Sprint Review. También trabajé en las Conclusiones del proyecto, el desarrollo de bounded context del Plan Alimenticio, así como en el despliegue y desarrollo de las User Stories 29 y 30 centradas en la creación y seguimiento de planes alimenticios personalizados.<br> **Jose Antonio Alejo Cardenas** <br>TP: Para esta TP, realicé actividades como el Bounded Context de Pedidos, delimitando las funcionalidades específicas de la gestión de pedidos y asegurando la correcta separación de responsabilidades dentro del sistema. También trabajé en el Sprint Backlog 1, donde se organizó y priorizó la lista de funcionalidades a desarrollar durante el sprint, asegurando una correcta asignación de tareas al equipo. Además, preparé el Testing Suite Evidence for Sprint Review, generando las evidencias de las pruebas para validar que las nuevas funcionalidades cumplen con los requisitos establecidos. Asimismo, desarrollé la Execution Evidence for Sprint Review, demostrando la ejecución efectiva de cada funcionalidad implementada, y el Software Deployment Evidence for Sprint Review, comprobando que el software fue desplegado exitosamente, con la documentación necesaria para su integración en los ambientes de QA o producción.<br>**Maria Jose Pezo Castilla** <br>TP: El trabajo en equipo durante el Sprint Backlog 1 resultó en una gestión efectiva de las tareas clave, donde identifiqué y prioricé los entregables esenciales para el desarrollo del proyecto. La documentación del progreso en la Execution Evidence for Sprint Review mediante capturas y descripciones detalladas permitió una revisión clara de las funcionalidades completadas. Adicionalmente, en la Services Documentation Evidence for Sprint Review, proporcioné una guía técnica completa que detalla los servicios desarrollados, sus endpoints y la lógica de negocio. El Bounded Context de Platos facilitó la delimitación de responsabilidades dentro del sistema, alineando las características del módulo con las user stories relevantes. Finalmente, la elaboración de la Bibliografía y las Conclusiones resaltó los aprendizajes adquiridos y los resultados alcanzados en este sprint, consolidando el progreso del equipo en un entorno colaborativo.<br>**Estefano Oscar Jaque Peña**<br>En esta entrega, me enfoqué en el Sprint Planning y el Product Backlog. También trabajé en la Execution Evidence y Software Deployment Evidence for Sprint Review, además de documentar el Team Collaboration Insights y el Report Collaboration Insights. Asimismo, desarrollé el Bounded Context para las recetas, lo que mejora la claridad en el código y fomenta una colaboración efectiva en el equipo.<br>**Sebastián Omar Real Calderón:**<br>TP: Creo que un entorno de trabajo colaborativo e inclusivo es clave para el éxito de nuestro proyecto. Fomentar la participación activa de todos los miembros del equipo asegura que se aprovechen al máximo nuestras fortalezas individuales. En esta entrega, colaboré en el Sprint Backlog 1, Execution Evidence for Sprint Review y Software Deployment Evidence for Sprint Review, ayudando a garantizar que cada etapa del proceso estuviera bien documentada y alineada con nuestros objetivos. También desarrollé la User Story 03, centrada en la visualización de reseñas y perfiles de cocineros, lo que permitirá a los usuarios tomar decisiones informadas antes de realizar pedidos. Este esfuerzo asegura una mejor experiencia de usuario y refuerza nuestro compromiso con la calidad del producto.|<br>  **Jose Antonio Alejo Cardenas**<br> TB1: Crear un entorno colaborativo, donde cada integrante cumpla sus tareas establecidas, fue un punto crucial durante el desarrollo de este entregable, ya que al planificar y ejecutar actividades como la definicion de Segmentos Objetivos y la distribucion de las entrevistas nos permitio obtener informacion vital para el desarrollo cada punto de los entregables. En otras palabras, gracias a nuestro entorno colaborativo se aseguraron metas claras y compartidas por todos lo que permitio cumplir con los objetivos de este entregable.<br>**Maria Jose Pezo Castilla**<br> TB1: La creación de un entorno colaborativo e inclusivo, junto con metas claras y planificación efectiva, fue clave para el éxito del proyecto. El equipo trabajó en conjunto para definir la visión de la startup, desarrollar el perfil de la solución y analizar antecedentes, distribuyendo responsabilidades y garantizando el cumplimiento de plazos. La entrevista a un estudiante permitió ajustar objetivos en función de las necesidades reales. Además, el diseño de la landing page y la aplicación web reflejó una colaboración eficiente y una planificación detallada, lo que consolidó al equipo y permitió cumplir con los hitos establecidos.<br>**Diego Alonso Rosado Iporre**<br> TB1: He creado un entorno colaborativo e inclusivo al asegurar que cada aspecto del proyecto esté bien documentado y comunicado. He establecido metas claras y planificado tareas con precisión, como la descripción de la startup, el análisis competitivo, y el desarrollo de la landing page. A través de la documentación exhaustiva y la evidencia de cada fase, he garantizado que los objetivos del proyecto se cumplan de manera efectiva. Mi enfoque ha sido mantener un progreso constante y transparente, facilitando la colaboración y asegurando que cada tarea se complete con calidad y precisión.<br>**Sebastián Omar Real Calderón**<br> TB1: El trabajo en equipo y la colaboración fueron clave para alcanzar los objetivos de esta primera etapa del proyecto. Con una buena planificación y distribución de tareas, pude aportar con la creación de las User Personas, el desarrollo de la User Task Matrix y el User Journey Mapping, además de trabajar en el Empathy Mapping y el As-Is Scenario Mapping. También me enfoqué en definir las Style Guidelines, configurar el entorno de desarrollo de software y gestionar el código fuente con lineamientos claros, así como asegurar una correcta configuración para el despliegue. Estas acciones contribuyeron a que cada etapa del proyecto avanzara sin contratiempos, cumpliendo con los plazos y garantizando un desarrollo exitoso.<br>**Diego Alonso Rosado Iporre**<br>TP: Creo en la importancia de un entorno colaborativo e inclusivo, donde todos se sientan valorados. Al establecer metas claras y planificar tareas, garantizamos el compromiso del equipo con los objetivos del proyecto. En esta entrega, contribuí al Project Report Collaboration Insights, al Sprint Backlog 1 y a la Execution Evidence for Sprint Review. Además, desarrollé el Bounded Context para el Plan Alimenticio y participé en el deployment de las User Stories 29 y 30, asegurando una documentación clara en cada etapa del proceso.<br>**Jose Antonio Alejo Cardenas**<br> TP: La realización de actividades como el Testing Suite Evidence for Sprint Review y la Execution Evidence for Sprint Review fomentó un ambiente inclusivo donde cada miembro del equipo participó en la validación y demostración de las funcionalidades implementadas. Además, al recopilar el Software Deployment Evidence for Sprint Review, aseguré que el equipo mantuviera el compromiso con la planificación y la ejecución eficaz. Todas estas actividades, desde el Bounded Context de Pedidos hasta la revisión final del despliegue, contribuyeron a que lográramos cumplir con las metas establecidas dentro de los plazos y con la calidad necesaria.<br>**Maria Jose Pezo Castilla**<br> TP: La creación de un entorno colaborativo y bien estructurado fue fundamental para el éxito del Sprint Backlog 1. Identifiqué y prioricé las tareas clave, estableciendo entregables esenciales que facilitaron la organización y el enfoque del equipo de desarrollo. La documentación del progreso en la Execution Evidence for Sprint Review, con capturas y descripciones detalladas de las funcionalidades completadas, permitió una evaluación clara de los avances. Además, la Services Documentation Evidence for Sprint Review proporcionó una guía técnica completa que describió los servicios desarrollados, sus endpoints y la lógica de negocio. El Bounded Context de Platos ayudó a delimitar responsabilidades dentro del sistema, asegurando que se cumplieran las user stories relevantes. Finalmente, la elaboración de la Bibliografía y las Conclusiones destacaron los aprendizajes y resultados del sprint, consolidando así el progreso del equipo en un marco de colaboración efectiva.<br><br>**Estefano Oscar Jaque Peña**<br>La creación de un entorno colaborativo e inclusivo es esencial para el éxito de cualquier proyecto. Un espacio donde cada miembro del equipo se sienta valorado y escuchado fomenta la creatividad y el intercambio de ideas. Al alentar la diversidad de opiniones, se enriquece la toma de decisiones y se fortalecen las soluciones propuestas. Además, un ambiente inclusivo motiva a todos a contribuir activamente, lo que mejora la cohesión del equipo y permite alcanzar nuestras metas con mayor eficacia. Al establecer metas claras y fomentar una comunicación abierta, podemos asegurar que todos estén alineados y comprometidos con el objetivo común.|
+| 1.Trabaja en equipo para proporcionar liderazgo en forma conjunta   | **Estefano Oscar Jaque Peña**<br>TB1: Realice el Lean UX Prolem statements y los assumptions<br>, luego me encargue de el diseño de las preguntas para las entrevistas, para finalizar el cap 3,4 y 5 realice 6 user stories, el product bakclog , el Diagrama de Clases y el diagrama de base de datos y luego el sprint planning y el spring backlog.<br> **Diego Alonso Rosado Iporre**<br> TB1: Realice la "Descripción de la estrategia de la Startup", Competidores, Análisis competitivo, Estrategias y tácticas frente a competidores, Registro de entrevistas, Análisis de entrevistas, Ubiquitous Language, User Stories, Domain-Driven Software Architecture, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review y Team Collaboration Insights during Sprint <br>**Jose Antonio Alejo Cardenas:** <br>TB1: Para esta TB1, realicé actividades como Lean UX Hypothesis Statements, desarrollando hipótesis enfocadas en el usuario, Lean UX Canvas, realizando investigaciones y resaltando puntos clave, definición de Segmentos objetivo basados en datos demográficos, Registro y análisis de entrevistas para obtener informacion valiosa, To-Be Scenario Mapping, detallando escenarios futuros de como deberia ser, User Stories centradas en las necesidades del usuario, Impact Mapping para alinear entregables con sus respectivas user stories, desarrollo de Organization Systems y Labeling Systems para una mejor estructura, implementación de SEO Tags y Meta Tags para optimización de búsqueda, diseño de Searching Systems efectivos y configuración de Navigation Systems para mejorar la experiencia del usuario. <br>**Sebastian Omar Real Calderón**<br> TB1: Realicé los aspectos del Needfinding para hallar las necesidades de nuestros consumidores, realicé los User Persona como la representación de nuestros clientes ideales. Hice el diseño de los Style Guidelines con los que mis compañeros se guiaron para realizar el aspecto visual de la landing page, y documenté los espacios de trabajo utilizados para la realización de las actividades, así como de los lenguajes de programación y convenciones. <br>**Maria Jose Pezo Castilla** <br>TB1: Redacté la Descripción de la Startup, explicando su misión, visión y objetivos principales, completé el Solution Profile, destacando las características clave de la solución propuesta, analicé los Antecedentes y problemática a la que se enfrenta el público objetivo de la startup, realicé y registré una entrevista a un estudiante ocupado, obteniendo información directa de sus necesidades, creé la Landing Page Wireframe que sirva de prototipo visual básico, desarrollé el Landing Page Mock-up, mostrando una versión más refinada y visualmente atractiva, diseñé la UX/UI de la aplicación web, enfocándose en la experiencia y la interfaz de usuario, creé el Web Applications Wireframes, estableciendo las bases del diseño de la estructura, elaboré los Wireflow Diagrams para detallar el flujo de interacción entre pantallas, desarrollé los Mock-ups de la aplicación web, reflejando el diseño final con mayor detalle visual y creé los User Flow Diagrams que representen la navegación completa del usuario dentro de la aplicación. <br>**Diego Alonso Rosado Iporre<br>**<br>TP:Colaboré en la Project Report Collaboration Insights, la elaboración del Sprint Backlog 1, y la documentación de Execution Evidence for Sprint Review y Software Deployment Evidence for Sprint Review. También trabajé en las Conclusiones del proyecto, el desarrollo de bounded context del Plan Alimenticio, así como en el despliegue y desarrollo de las User Stories 29 y 30 centradas en la creación y seguimiento de planes alimenticios personalizados.<br>**Jose Antonio Alejo Cardenas** <br>TP: Para esta TP, realicé actividades como el Bounded Context de Pedidos, delimitando las funcionalidades específicas de la gestión de pedidos y asegurando la correcta separación de responsabilidades dentro del sistema. También trabajé en el Sprint Backlog 1, donde se organizó y priorizó la lista de funcionalidades a desarrollar durante el sprint, asegurando una correcta asignación de tareas al equipo. Además, preparé el Testing Suite Evidence for Sprint Review, generando las evidencias de las pruebas para validar que las nuevas funcionalidades cumplen con los requisitos establecidos. Asimismo, desarrollé la Execution Evidence for Sprint Review, demostrando la ejecución efectiva de cada funcionalidad implementada, y el Software Deployment Evidence for Sprint Review, comprobando que el software fue desplegado exitosamente, con la documentación necesaria para su integración en los ambientes de QA o producción.<br>**Maria Jose Pezo Castilla** <br>TP: El trabajo en equipo durante el Sprint Backlog 1 resultó en una gestión efectiva de las tareas clave, donde identifiqué y prioricé los entregables esenciales para el desarrollo del proyecto. La documentación del progreso en la Execution Evidence for Sprint Review mediante capturas y descripciones detalladas permitió una revisión clara de las funcionalidades completadas. Adicionalmente, en la Services Documentation Evidence for Sprint Review, proporcioné una guía técnica completa que detalla los servicios desarrollados, sus endpoints y la lógica de negocio. El Bounded Context de Platos facilitó la delimitación de responsabilidades dentro del sistema, alineando las características del módulo con las user stories relevantes. Finalmente, la elaboración de la Bibliografía y las Conclusiones resaltó los aprendizajes adquiridos y los resultados alcanzados en este sprint, consolidando el progreso del equipo en un entorno colaborativo.<br>**Estefano Oscar Jaque Peña**<br>En esta entrega, me enfoqué en el Sprint Planning y el Product Backlog. También trabajé en la Execution Evidence y Software Deployment Evidence for Sprint Review, además de documentar el Team Collaboration Insights y el Report Collaboration Insights. Asimismo, desarrollé el Bounded Context para las recetas, lo que mejora la claridad en el código y fomenta una colaboración efectiva en el equipo.
+
+|  <br>  **Jose Antonio Alejo Cardenas**<br> TB1:<br> El desarrollo de actividades como las User Stories, Lean UX Canvas e Impact Mapping refleja el liderazgo colaborativo, pues estas tareas implican tener las ideas de todos los miembros centradas en los mismos objetivos y necesidades que se buscan satisfacer o solucionar mediante nuestro producto. Asi mismo, el desarrollo de la arquitectura informacion es tambien un punto importante para la colaboracion y comunicacion constante del equipo pues sera un apartado a cumplir proximamente durante las siguientes entregas.<br>**Estefano Oscar Jaque Peña**<br>TB1:El realizar parte del Lean Ux Process me ayudo a poder aprender mas de la problematica actual en la que nos centramos como equipo para poder crear el aplicativo, asi como tambien aprender de nuestro usuario objetivo. Con la resolución del modelo físico de la base de datos, aprendí a optimizar el almacenamiento de usuarios, pedidos, y menús, así como a organizar eficientemente las relaciones entre tablas para mejorar el rendimiento de la plataforma 'Sabores Cercanos'. Y para finalizar con el Sprint planning y el Sprint Backlog, concluí que una planificación clara de tareas y la descomposición de user stories son fundamentales para organizar el trabajo del equipo, mantener el enfoque en los objetivos del sprint y garantizar un seguimiento eficiente del progreso en la plataforma.<br>**Maria Jose Pezo Castilla**<br> TB1: El trabajo en equipo para proporcionar liderazgo conjunto resultó en un proceso colaborativo y estructurado que facilitó el desarrollo del proyecto de manera eficiente. Las acciones realizadas, como la descripción de la startup, el perfil de la solución y el análisis de antecedentes, permitieron al equipo alinear su visión y tomar decisiones estratégicas en conjunto. La entrevista con un estudiante proporcionó información valiosa para ajustar prioridades, mientras que los diseños de la landing page y la aplicación web reflejaron una planificación detallada y una contribución equitativa de todos los miembros. Esto fortaleció las dinámicas de equipo y el liderazgo compartido, asegurando un progreso efectivo. <br>**Diego Alonso Rosado Iporre**<br> TB1: Desde mi perspectiva, el trabajo en el desarrollo del proyecto ha sido muy enriquecedor. He liderado la creación de la Descripción de la Startup, el análisis de competidores, y la documentación de los resultados de las entrevistas, así como la elaboración del Ubiquitous Language y los Wireframes de la aplicación web. Mi enfoque en la creación y despliegue de la landing page ha incluido la documentación detallada del diseño, la implementación, y el despliegue, reflejando un proceso bien estructurado. A pesar de ser el único en realizar commits, he asegurado una documentación completa de cada fase, incluyendo pruebas y evidencia del despliegue. La planificación meticulosa y el enfoque en la colaboración han sido claves para avanzar de manera efectiva y estructurada en el proyecto.<br>**Sebastián Omar Real Calderón**<br> TB1: El trabajo en equipo fue clave para lograr un liderazgo compartido, ya que cada integrante pudo aportar desde sus habilidades y conocimientos específicos, siempre con un enfoque en los objetivos comunes. Al participar en tareas como el desarrollo de User Personas, User Journey Mapping, y la configuración del entorno de desarrollo, se garantizó una colaboración fluida y eficiente. La coordinación en la gestión del código fuente y el despliegue de software reflejó una planificación clara que permitió cumplir con los hitos del proyecto de manera organizada y precisa. <br>**Diego Alonso Rosado Iporre**<br>TP: Trabajar en equipo es crucial para el éxito del proyecto, ya que permite que cada miembro aporte sus habilidades. En esta entrega, contribuí al Project Report Collaboration Insights, al Sprint Backlog 1 y a la Execution Evidence for Sprint Review. También desarrollé el Bounded Context para el Plan Alimenticio y participé en el deployment de las User Stories 29 y 30, asegurando documentación clara en cada etapa.<br>**Jose Antonio Alejo Cardenas**<br> TP: En esta TP, atraves del Bounded Context de Pedidos, logré definir claramente las responsabilidades en la gestión de pedidos, lo que facilitó una colaboración efectiva entre todos los miembros del equipo. Además, el trabajo realizado en el Sprint Backlog 1 me permitió organizar y priorizar las tareas, asegurando que cada integrante asumiera un rol activo y contribuyera al liderazgo compartido en el desarrollo de las funcionalidades. La preparación del Testing Suite Evidence for Sprint Review también fue fundamental, ya que proporcionó un marco claro para validar las funcionalidades, y la Execution Evidence for Sprint Review demostró cómo cada tarea fue ejecutada efectivamente por el equipo.<br>**Maria Jose Pezo Castilla**<br> TP: En esta TP, atraves del Bounded Context de Pedidos, logré definir claramente las responsabilidades en la gestión de pedidos, lo que facilitó una colaboración efectiva entre todos los miembros del equipo. Además, el trabajo realizado en el Sprint Backlog 1 me permitió organizar y priorizar las tareas, asegurando que cada integrante asumiera un rol activo y contribuyera al liderazgo compartido en el desarrollo de las funcionalidades. La preparación del Testing Suite Evidence for Sprint Review también fue fundamental, ya que proporcionó un marco claro para validar las funcionalidades, y la Execution Evidence for Sprint Review demostró cómo cada tarea fue ejecutada efectivamente por el equipo.<br>**Estefano Oscar Jaque Peña**<br>TP: La colaboración en equipo es fundamental para el éxito del proyecto, ya que cada miembro puede aportar sus talentos. En esta entrega, participé en el Project Report Collaboration Insights, el Sprint Backlog 1 y la Execution Evidence for Sprint Review. Además, trabajé en el Bounded Context para la Receta y estuve involucrado en el deployment de las User Stories 29 y 30, garantizando una documentación clara en cada fase.
+
+
+|
+| 2. Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.  | **Estefano Oscar Jaque Peña**<br>TB1: TB1: Realice el Lean UX Prolem statements y los assumptions<br>, luego me encargue de el diseño de las preguntas para las entrevistas, para finalizar el cap 3,4 y 5 realice 6 user stories, el product bakclog , el Diagrama de Clases y el diagrama de base de datos y luego el sprint planning y el spring backlog.<br>**Diego Alonso Rosado Iporre**<br> TB1: Realice la "Descripción de la estrategia de la Startup", Competidores, Análisis competitivo, Estrategias y tácticas frente a competidores, Registro de entrevistas, Análisis de entrevistas, Ubiquitous Language, User Stories, Domain-Driven Software Architecture, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review y Team Collaboration Insights during Sprint <br>**Jose Antonio Alejo Cardenas**<br> TB1: En esta TB1, creé un entorno colaborativo e inclusivo al involucrar a todos lotesis clave. Se establecio metas claras a través del Lean UX Canvas, donde planificamos tareas alineadas con nuestros objetivos. Definimos Segmentoss miembros del equipo en la elaboración de cada uno de los siguientes puntos ,tales como Lean UX Hypothesis Statements, definiendo conjuntamente hipó objetivo basados en datos compartidos y analizamos en equipo el Registro y análisis de entrevistas para tomar decisiones informadas. El To-Be Scenario Mapping nos ayudó a visualizar escenarios futuros y planificar el cumplimiento de nuestras metas. A través de la creación conjunta de User Stories, Impact Mapping, Organization Systems, y Labeling Systems, garantizamos una planificación efectiva y estructurada, mientras que los SEO Tags, Meta Tags, Searching Systems, y Navigation Systems se diseñaron con una visión compartida para cumplir los objetivos establecidos que se implementaran en siguientes entregas. <br>**Sebastian Omar Real Calderón**<br> TB1: Realicé los aspectos del Needfinding para hallar las necesidades de nuestros consumidores, realicé los User Persona como la representación de nuestros clientes ideales. Hice el diseño de los Style Guidelines con los que mis compañeros se guiaron para realizar el aspecto visual de la landing page, y documenté los espacios de trabajo utilizados para la realización de las actividades, así como de los lenguajes de programación y convenciones.<br>**Maria Jose Pezo Castilla** <br>TB1: Redacté la Descripción de la Startup, explicando su misión, visión y objetivos principales, completé el Solution Profile, destacando las características clave de la solución propuesta, analicé los Antecedentes y problemática a la que se enfrenta el público objetivo de la startup, realicé y registré una entrevista a un estudiante ocupado, obteniendo información directa de sus necesidades, creé la Landing Page Wireframe que sirva de prototipo visual básico, desarrollé el Landing Page Mock-up, mostrando una versión más refinada y visualmente atractiva, diseñé la UX/UI de la aplicación web, enfocándose en la experiencia y la interfaz de usuario, creé el Web Applications Wireframes, estableciendo las bases del diseño de la estructura, elaboré los Wireflow Diagrams para detallar el flujo de interacción entre pantallas, desarrollé los Mock-ups de la aplicación web, reflejando el diseño final con mayor detalle visual y creé los User Flow Diagrams que representen la navegación completa del usuario dentro de la aplicación. <br>**Diego Alonso Rosado Iporre<br>**<br>TP:Colaboré en la Project Report Collaboration Insights, la elaboración del Sprint Backlog 1, y la documentación de Execution Evidence for Sprint Review y Software Deployment Evidence for Sprint Review. También trabajé en las Conclusiones del proyecto, el desarrollo de bounded context del Plan Alimenticio, así como en el despliegue y desarrollo de las User Stories 29 y 30 centradas en la creación y seguimiento de planes alimenticios personalizados.<br> **Jose Antonio Alejo Cardenas** <br>TP: Para esta TP, realicé actividades como el Bounded Context de Pedidos, delimitando las funcionalidades específicas de la gestión de pedidos y asegurando la correcta separación de responsabilidades dentro del sistema. También trabajé en el Sprint Backlog 1, donde se organizó y priorizó la lista de funcionalidades a desarrollar durante el sprint, asegurando una correcta asignación de tareas al equipo. Además, preparé el Testing Suite Evidence for Sprint Review, generando las evidencias de las pruebas para validar que las nuevas funcionalidades cumplen con los requisitos establecidos. Asimismo, desarrollé la Execution Evidence for Sprint Review, demostrando la ejecución efectiva de cada funcionalidad implementada, y el Software Deployment Evidence for Sprint Review, comprobando que el software fue desplegado exitosamente, con la documentación necesaria para su integración en los ambientes de QA o producción.<br>**Maria Jose Pezo Castilla** <br>TP: El trabajo en equipo durante el Sprint Backlog 1 resultó en una gestión efectiva de las tareas clave, donde identifiqué y prioricé los entregables esenciales para el desarrollo del proyecto. La documentación del progreso en la Execution Evidence for Sprint Review mediante capturas y descripciones detalladas permitió una revisión clara de las funcionalidades completadas. Adicionalmente, en la Services Documentation Evidence for Sprint Review, proporcioné una guía técnica completa que detalla los servicios desarrollados, sus endpoints y la lógica de negocio. El Bounded Context de Platos facilitó la delimitación de responsabilidades dentro del sistema, alineando las características del módulo con las user stories relevantes. Finalmente, la elaboración de la Bibliografía y las Conclusiones resaltó los aprendizajes adquiridos y los resultados alcanzados en este sprint, consolidando el progreso del equipo en un entorno colaborativo.<br>**Estefano Oscar Jaque Peña**<br>En esta entrega, me enfoqué en el Sprint Planning y el Product Backlog. También trabajé en la Execution Evidence y Software Deployment Evidence for Sprint Review, además de documentar el Team Collaboration Insights y el Report Collaboration Insights. Asimismo, desarrollé el Bounded Context para las recetas, lo que mejora la claridad en el código y fomenta una colaboración efectiva en el equipo.
+
+|
+|  <br>  **Jose Antonio Alejo Cardenas**<br> TB1: Crear un entorno colaborativo, donde cada integrante cumpla sus tareas establecidas, fue un punto crucial durante el desarrollo de este entregable, ya que al planificar y ejecutar actividades como la definicion de Segmentos Objetivos y la distribucion de las entrevistas nos permitio obtener informacion vital para el desarrollo cada punto de los entregables. En otras palabras, gracias a nuestro entorno colaborativo se aseguraron metas claras y compartidas por todos lo que permitio cumplir con los objetivos de este entregable.<br>**Maria Jose Pezo Castilla**<br> TB1: La creación de un entorno colaborativo e inclusivo, junto con metas claras y planificación efectiva, fue clave para el éxito del proyecto. El equipo trabajó en conjunto para definir la visión de la startup, desarrollar el perfil de la solución y analizar antecedentes, distribuyendo responsabilidades y garantizando el cumplimiento de plazos. La entrevista a un estudiante permitió ajustar objetivos en función de las necesidades reales. Además, el diseño de la landing page y la aplicación web reflejó una colaboración eficiente y una planificación detallada, lo que consolidó al equipo y permitió cumplir con los hitos establecidos.<br>**Diego Alonso Rosado Iporre**<br> TB1: He creado un entorno colaborativo e inclusivo al asegurar que cada aspecto del proyecto esté bien documentado y comunicado. He establecido metas claras y planificado tareas con precisión, como la descripción de la startup, el análisis competitivo, y el desarrollo de la landing page. A través de la documentación exhaustiva y la evidencia de cada fase, he garantizado que los objetivos del proyecto se cumplan de manera efectiva. Mi enfoque ha sido mantener un progreso constante y transparente, facilitando la colaboración y asegurando que cada tarea se complete con calidad y precisión.<br>**Sebastián Omar Real Calderón**<br> TB1: El trabajo en equipo y la colaboración fueron clave para alcanzar los objetivos de esta primera etapa del proyecto. Con una buena planificación y distribución de tareas, pude aportar con la creación de las User Personas, el desarrollo de la User Task Matrix y el User Journey Mapping, además de trabajar en el Empathy Mapping y el As-Is Scenario Mapping. También me enfoqué en definir las Style Guidelines, configurar el entorno de desarrollo de software y gestionar el código fuente con lineamientos claros, así como asegurar una correcta configuración para el despliegue. Estas acciones contribuyeron a que cada etapa del proyecto avanzara sin contratiempos, cumpliendo con los plazos y garantizando un desarrollo exitoso.<br>**Diego Alonso Rosado Iporre**<br>TP: Creo en la importancia de un entorno colaborativo e inclusivo, donde todos se sientan valorados. Al establecer metas claras y planificar tareas, garantizamos el compromiso del equipo con los objetivos del proyecto. En esta entrega, contribuí al Project Report Collaboration Insights, al Sprint Backlog 1 y a la Execution Evidence for Sprint Review. Además, desarrollé el Bounded Context para el Plan Alimenticio y participé en el deployment de las User Stories 29 y 30, asegurando una documentación clara en cada etapa del proceso.<br>**Jose Antonio Alejo Cardenas**<br> TP: La realización de actividades como el Testing Suite Evidence for Sprint Review y la Execution Evidence for Sprint Review fomentó un ambiente inclusivo donde cada miembro del equipo participó en la validación y demostración de las funcionalidades implementadas. Además, al recopilar el Software Deployment Evidence for Sprint Review, aseguré que el equipo mantuviera el compromiso con la planificación y la ejecución eficaz. Todas estas actividades, desde el Bounded Context de Pedidos hasta la revisión final del despliegue, contribuyeron a que lográramos cumplir con las metas establecidas dentro de los plazos y con la calidad necesaria.<br>**Maria Jose Pezo Castilla**<br> TP: La creación de un entorno colaborativo y bien estructurado fue fundamental para el éxito del Sprint Backlog 1. Identifiqué y prioricé las tareas clave, estableciendo entregables esenciales que facilitaron la organización y el enfoque del equipo de desarrollo. La documentación del progreso en la Execution Evidence for Sprint Review, con capturas y descripciones detalladas de las funcionalidades completadas, permitió una evaluación clara de los avances. Además, la Services Documentation Evidence for Sprint Review proporcionó una guía técnica completa que describió los servicios desarrollados, sus endpoints y la lógica de negocio. El Bounded Context de Platos ayudó a delimitar responsabilidades dentro del sistema, asegurando que se cumplieran las user stories relevantes. Finalmente, la elaboración de la Bibliografía y las Conclusiones destacaron los aprendizajes y resultados del sprint, consolidando así el progreso del equipo en un marco de colaboración efectiva.<br><br>**Estefano Oscar Jaque Peña**<br>La creación de un entorno colaborativo e inclusivo es esencial para el éxito de cualquier proyecto. Un espacio donde cada miembro del equipo se sienta valorado y escuchado fomenta la creatividad y el intercambio de ideas. Al alentar la diversidad de opiniones, se enriquece la toma de decisiones y se fortalecen las soluciones propuestas. Además, un ambiente inclusivo motiva a todos a contribuir activamente, lo que mejora la cohesión del equipo y permite alcanzar nuestras metas con mayor eficacia. Al establecer metas claras y fomentar una comunicación abierta, podemos asegurar que todos estén alineados y comprometidos con el objetivo común.
+
+|
 
 
 ## Capítulo I: Introducción
@@ -289,25 +270,25 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 - Estefano Oscar Jaque Peña - U202225466
 
-| <p align="center"><img width="auto" height="auto" src="assets/images/TB1/Estefanoprofile.jpg"> </p> | Soy Estefano Oscar Jaque Peña, tengo 23 años y soy estudiante de la carrera de Ingeniería de Software,<br> una disciplina enfocada en el diseño, desarrollo y gestión de software para solucionar problemas <br>complejos. Desde temprana edad, he sentido fascinación por la tecnología y he buscado aprender <br>constantemente sobre las últimas tendencias en programación. He ampliado mis conocimientos a <br>través de cursos en Python, SQL, y C++, así como también explorando otros lenguajes de programación <br>por mi cuenta. Además, tengo habilidades en el uso avanzado de Excel para análisis de datos y gestión<br> de información. Mi experiencia trabajando en equipos me ha brindado habilidades de comunicación y <br>colaboración que considero fundamentales para contribuir de manera efectiva a proyectos innovadores en el área de la Ingeniería de Software. |
+| <p align="center"><img width="auto" height="auto" src="assets/images/Estefano_profile.jpg"> </p> | Soy Estefano Oscar Jaque Peña, tengo 23 años y soy estudiante de la carrera de Ingeniería de Software,<br> una disciplina enfocada en el diseño, desarrollo y gestión de software para solucionar problemas <br>complejos. Desde temprana edad, he sentido fascinación por la tecnología y he buscado aprender <br>constantemente sobre las últimas tendencias en programación. He ampliado mis conocimientos a <br>través de cursos en Python, SQL, y C++, así como también explorando otros lenguajes de programación <br>por mi cuenta. Además, tengo habilidades en el uso avanzado de Excel para análisis de datos y gestión<br> de información. Mi experiencia trabajando en equipos me ha brindado habilidades de comunicación y <br>colaboración que considero fundamentales para contribuir de manera efectiva a proyectos innovadores en el área de la Ingeniería de Software. |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 - Diego Alonso Rosado Iporre -   u201620127
 
-| <p align="center"><img width="auto" height="auto" src="assets/images/TB1/Diegoprofile.jpg"> </p> | Mi nombre es Diego Rosado, tengo 24 años. Mi interés en las base de datos y arquitectura de páginas web me impulsó a estudiar Ingeniería de Software. Tengo conocimiento de lenguajes como C#, C++, JavaScript, Python, base de datos como MySQL y me atrae el diseño de páginas web con HTML y CSS. Me considero una persona positiva, tolerante y creativa. Mi aporte al grupo es mi total compromiso, apoyo mutuo y el esfuerzo por asegurar que todos tengamos una visión compartida del proyecto a elaborar. Mis habilidades son resolución de problemas, adaptabilidad, trabajo en equipo y toma de decisiones.  |
+| <p align="center"><img width="auto" height="auto" src="assets/images/Diego_profile.jpg"> </p> | Mi nombre es Diego Rosado, tengo 24 años. Mi interés en las base de datos y arquitectura de páginas web me impulsó a estudiar Ingeniería de Software. Tengo conocimiento de lenguajes como C#, C++, JavaScript, Python, base de datos como MySQL y me atrae el diseño de páginas web con HTML y CSS. Me considero una persona positiva, tolerante y creativa. Mi aporte al grupo es mi total compromiso, apoyo mutuo y el esfuerzo por asegurar que todos tengamos una visión compartida del proyecto a elaborar. Mis habilidades son resolución de problemas, adaptabilidad, trabajo en equipo y toma de decisiones.  |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------ |
 
 - Maria Jose Pezo Castilla - u20221c590
 
-| <p align="center"><img width="3400" src="assets/images/TB1/Majoprofile.png"> </p> | Mi nombre es Maria Jose Pezo Castilla tengo 22 años, actualmente curso el quinto ciclo de la carrera de Ingeniería de Software. Soy una persona responsable, disciplinada y dedicada, tengo gran capacidad para adaptarme a diversos entornos y aportar siempre lo mejor de mi. Me caracterizo por mi facilidad para el trabajo en equipo y mi entusiasmo por aprender y desarrollar mis habilidades. He estudiado lenguajes de programación como C++, C# y HTML; y bases de datos como Microsoft SQL Server y Mongo DB.Asimismo, me considero una persona asertiva y empática con predisposición al aprendizaje continuo. Poseo habilidades para la programación y elaboracion de algoritmos que brinden soluciones efectivas a necesidades o problemáticas específicas.Mis principales hobbies son bailar, entrenar y lee. Para el desarrollo eficiente del presente proyecto pondre en práctica todos mis conocimientos aprendidos, brindare apoyo y entablare una comunicación efectiva. 
+| <p align="center"><img width="3400" src="assets/images/Majo_profile.png"> </p> | Mi nombre es Maria Jose Pezo Castilla tengo 22 años, actualmente curso el quinto ciclo de la carrera de Ingeniería de Software. Soy una persona responsable, disciplinada y dedicada, tengo gran capacidad para adaptarme a diversos entornos y aportar siempre lo mejor de mi. Me caracterizo por mi facilidad para el trabajo en equipo y mi entusiasmo por aprender y desarrollar mis habilidades. He estudiado lenguajes de programación como C++, C# y HTML; y bases de datos como Microsoft SQL Server y Mongo DB.Asimismo, me considero una persona asertiva y empática con predisposición al aprendizaje continuo. Poseo habilidades para la programación y elaboracion de algoritmos que brinden soluciones efectivas a necesidades o problemáticas específicas.Mis principales hobbies son bailar, entrenar y lee. Para el desarrollo eficiente del presente proyecto pondre en práctica todos mis conocimientos aprendidos, brindare apoyo y entablare una comunicación efectiva. 
 |-|-|
 - José Antonio Alejo Cárdenas - U202122484
 
-| <p align="center"><img width="3000" height="auto" src="assets/images/TB1/Joseprofile.jpg"> | Soy José Alejo Cárdenas tengo 23 años soy estudiante de la carrera de Ingeniería de Software del quinto ciclo. Desde pequeño he sentido facinacion por la tecnologia en general sobretodo por el funcionamiento, desarrollo y proteccion del software. He estudiado lenguajes de programacion (java, python y C++), bases de datos (Microsoft SQL Server y Mongo DB) y Sistemas Operativos (Kali Linux y Windows). Asi mismo, tengo experiencia con hardware a nivel de esamblamiento de equipos y funcionamiento del mismo con sus especificaciones tecnicas. Además, mi constante comunicacion y organizacion durante cualquier trabajo grupal aportara mucho dinamismo al proyecto. Mis principales hobbies son entrenar en el gimnasio, jugar videojuegos con mis amigos y salir a conversar con estos ultimos durante algun almuerzo o cena. Para el proyecto aportare organizacion, comunicacion e inspiracion durante todo el transcurso del mismo.
+| <p align="center"><img width="3000" height="auto" src="assets/images/Jose_profile.jpg"> | Soy José Alejo Cárdenas tengo 23 años soy estudiante de la carrera de Ingeniería de Software del quinto ciclo. Desde pequeño he sentido facinacion por la tecnologia en general sobretodo por el funcionamiento, desarrollo y proteccion del software. He estudiado lenguajes de programacion (java, python y C++), bases de datos (Microsoft SQL Server y Mongo DB) y Sistemas Operativos (Kali Linux y Windows). Asi mismo, tengo experiencia con hardware a nivel de esamblamiento de equipos y funcionamiento del mismo con sus especificaciones tecnicas. Además, mi constante comunicacion y organizacion durante cualquier trabajo grupal aportara mucho dinamismo al proyecto. Mis principales hobbies son entrenar en el gimnasio, jugar videojuegos con mis amigos y salir a conversar con estos ultimos durante algun almuerzo o cena. Para el proyecto aportare organizacion, comunicacion e inspiracion durante todo el transcurso del mismo.
 |-|-|
 - Sebastián Omar Real Calderón - U20221D964
 
-| <p align="center"><img width="1000" src="assets/images/TB1/Sebastianprofile.jpg"> </p> | Soy Sebastián Real Calderón, tengo 19 años y soy estudiante de la carrera de Ingeniería de Software. Tengo conocimientos sobre lenguajes de programación como C++, C# y Java. Principalmente me dedico al desarrollo de proyectos que me permitan desarrollar mis habilidades de programación, tales como videojuegos o programas sencillos, ya que apunto a volverme desarrollador. Dentro de mis hobbies están los videojuegos, las series, el baile y el fútbol.
+| <p align="center"><img width="1000" src="assets/images/Sebastian_profile.jpg"> </p> | Soy Sebastián Real Calderón, tengo 19 años y soy estudiante de la carrera de Ingeniería de Software. Tengo conocimientos sobre lenguajes de programación como C++, C# y Java. Principalmente me dedico al desarrollo de proyectos que me permitan desarrollar mis habilidades de programación, tales como videojuegos o programas sencillos, ya que apunto a volverme desarrollador. Dentro de mis hobbies están los videojuegos, las series, el baile y el fútbol.
 |-|-|
 
 ### 1.2. Solution Profile
@@ -720,7 +701,7 @@ Antes de poder realizar las entrevistas, consideramos prudente poder concretar u
 
 * Segmento 1: Universitarios o Profesionales Ocupados
    1. Entrevista 1:<br>
-   ![alt text](assets/images/TB1/1.png)
+   ![Captura entrevista 1](/assets/images/1.png)
    Nombre: Omar<br>
    Apellidos: Luquillas Asto <br>
    Edad: 20 <br>
@@ -732,7 +713,7 @@ Antes de poder realizar las entrevistas, consideramos prudente poder concretar u
    La entrevista con omar proporcionó información valiosa sobre como un universitario ocupado realiza sus actividades y sus principales desafios respecto a su alimentacion. Omar nos comenta que tiene muy poco tiempo para cocinar durante el horario del almuerzo y tiene que almorzar en restaurantes de comida rapida. Cuando el no tiene tiempo para cocinar pide deliverys mediante aplicativos de celular para ahorrarse el tiempo de cocinar. Por otro lado, el considera que la calidad de la comida nutricional es minima en los restaurantes locales. Así mismo, El considera que una plataforma que permita a las personas ocupadas conseguir buena comida y accesible es una gran idea. El espera que una herramienta le brinde la tranquilidad de encontrar comidas saludables y caseras para su bien estar diario y semanal.
 
    2. Entrevista 2:<br>
-  ![alt text](assets/images/TB1/2.png)
+   ![Captura entrevista 2](/assets/images/TB1/2.png)
    <br>Nombre: Lourdes<br>
    Apellidos: Huamaní <br>
    Edad: 22 <br>
@@ -744,7 +725,7 @@ Antes de poder realizar las entrevistas, consideramos prudente poder concretar u
    En la entrevista con Lourdes, se discutió su rutina diaria y las dificultades que enfrenta en cuanto a la alimentación debido a su apretada agenda. Lourdes, quien está en el séptimo ciclo de enfermería y trabaja, comienza su día temprano para ayudar a su hermana y, debido a su ocupada rutina, compra la mayor parte de sus comidas en la calle, ya que le falta tiempo y recursos para cocinar y calentar alimentos en su lugar de trabajo o estudio.Lourdes expresó que, aunque a veces puede preparar meriendas o algo simple, no tiene tiempo para cocinar comidas más elaboradas. Prefiere comida rápida por su conveniencia, pero ha tenido malas experiencias con la calidad nutricional de estos alimentos y desearía opciones más saludables y caseras. La comida casera es importante para ella, especialmente para el desayuno, aunque su almuerzo suele ser algo rápido debido a su falta de tiempo. Lourdes consideraría muy interesante una plataforma que le permita pedir comida casera a través de una aplicación móvil, ya que le ofrecería la flexibilidad de recibir comida a la hora que desee y revisar menús de antemano. Ella valoraría la posibilidad de personalizar su menú según sus preferencias y horarios, y estaría dispuesta a usar la aplicación si los precios son accesibles y la calidad es buena. Además, Lourdes espera que la aplicación incluya información sobre la salubridad de los cocineros y sus métodos de cocina. Le gustaría ver categorías de comidas en la aplicación y utilizar filtros para encontrar opciones que se ajusten a sus gustos, como la comida asiática.
 
    3. Entrevista 3:<br>
-![alt text](assets/images/TB1/3.jpg)
+   ![Captura entrevista 3](assets/images/TB1/3.jpg)
    <br>Nombre: Pia <br>
    Apellidos: Barandiaran <br>
    Edad: 22 <br>
@@ -757,7 +738,7 @@ Antes de poder realizar las entrevistas, consideramos prudente poder concretar u
 
 * Segmento 2: Cocineros Caseros
    1. Entrevista 1:<br>
-![alt text](assets/images/TB1/4.png)
+   ![Captura entrevista 4](/assets/images/TB1/4.png)
    <br>Nombre: Alejandro<br>
    Apellidos: Luján <br>
    Edad: 25 <br>
@@ -768,63 +749,77 @@ Antes de poder realizar las entrevistas, consideramos prudente poder concretar u
    Resumen: <br>
    De la entrevista con Alejandro sabemos que Alejandro trabaja en Rustica, donde ha desarrollado y perfeccionado sus habilidades culinarias mientras explora diversas recetas. Cocinar es una parte importante de su vida, tanto en el trabajo como en casa, y disfruta de cada momento en la cocina. Alejandro está interesado en monetizar sus habilidades culinarias, ya que cocina a diario y cree que podría ser rentable. Sin embargo, ha enfrentado barreras como la falta de tiempo y la falta de permisos para vender. Hubo una ocasión en la que intentó vender comida, pero no contaba con los medios necesarios. Alejandro considera que vender comida casera a través de una plataforma en línea sería una excelente manera de llegar a más clientes sin grandes inversiones. La flexibilidad de trabajar desde casa y gestionar sus tiempos y pedidos sin descuidar su trabajo en Rustica es fundamental para él. También ha notado una demanda real de comida casera, ya que muchas personas buscan opciones más auténticas y diferentes de las ofrecidas por los restaurantes. Los comentarios positivos que ha recibido de amigos y familiares sobre su cocina lo han motivado a considerar seriamente esta opción. Alejandro está entusiasmado con la idea de formar parte de una comunidad de cocineros caseros, donde podría compartir experiencias y aprender nuevas recetas.
 
-   2. Entrevista 2:<br>
-   <br>Nombre: Alvaro<br>
-   Apellidos: Arata<br>
-   Edad: 29<br>
-   URL: [Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201913495_upc_edu_pe/EfHHz_BwWnlJuakQCAB4dKoBKLHNCnm84xxbosHjHcfo8A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=E8QUpv)<br>
-   Inicio: 00:40<br>
-   Duración: 7:03 <br>
+2. Entrevista 2:<br>
+   ![Captura entrevista 5](/assets/images/TB1/Entrevista_Alberto.png)
+   <br>Nombre: Alberto<br>
+   Apellidos: Bringas <br>
+   Edad: 25 <br>
+   Distrito: San Martin de Porres <br>
+   URL: [Link de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201620127_upc_edu_pe/EUz1alumG8NJjr8FgnYmofQB6KcUXZC3zzz1B_S-on2j7w?e=gRaz5M&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) <br>
+   Inicio: 00:24<br>
+   Duración: 09:24 <br>
    Resumen: <br>
-   Álvaro Arata, de 29 años, trabaja en el área de distribución de licores y realiza la mayor parte de su trabajo desde casa. Nos comentó que le gusta cocinar y que lo hace la mayor parte de los días, por este motivo estuvo considerando abrir un negocio en este ámbito, pero decidió no hacerlo debido a posibles dificultades como la falta de visibilidad y los retos de marketing. Álvaro cree que nuestra aplicación podría ayudarle a superar estos obstáculos y, a su vez, representar un apoyo económico.
+   De la entrevista con Alberto sabemos que es una persona aficionada por la cocina, cocina 3 veces por semana para su familia, la dificultad que encuentra al momento de iniciar un negocio de cocina es que no calcula la cantidad correcta de sal para muchas personas, pero si se tratara de un circulo pequeño de consumidores si podría preparar unos buenos platillos. Opina que muchas veces las comidas que ha preparado ha sido del agrado de sus familiares, es por eso que ve nuestra aplicación como una gran oportunidad para ganarse un dinerito ya que le gusta la idea de poder vender desde su hogar sin tener que viajar hasta un restaurante para ofrecer sus platillos. También nos comenta que la demanda de menús sigue vigente hasta la actualidad ya que hay muchas personas que no tienen tiempo de trabajar y por eso que van al puesto más cercano para comprar un menú cuando llega la hora del almuerzo.
 
-   3. Entrevista 3:<br>
-   <br>Nombre: Cristina<br>
-   Apellidos: Villegas<br>
-   Edad: 27<br>
-   URL: [Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201913495_upc_edu_pe/ER5LQ_sMMMpAlmgxIi90ZagBE4AUIHSYawtTROD3h4HItg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=UzJcyo)<br>
-   Inicio: 1:06<br>
-   Duración: 7:07 <br>
+3. Entrevista 3:<br>
+   ![Captura entrevista 6](/assets/images/TB1/Entrevista_Candice.png)
+   <br>Nombre: Candice<br>
+   Apellidos: Zegarra <br>
+   Edad: 29 <br>
+   Distrito: Comas <br>
+   URL: [Link de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201620127_upc_edu_pe/EWpMOEd4Vc1Ol3iN7Lx34IwBERQruAPBEsPfNkBR8QOstw?e=Z072ST&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) <br>
+   Inicio: 00:24<br>
+   Duración: 06:09 <br>
    Resumen: <br>
-   Cristina Villegas, de 27 años, es psicóloga y trabaja desde casa, lo que le permite cocinar regularmente. Nos contó que a menudo le elogian su sazón y que le gustaría aprovechar este talento a través de nuestra plataforma. Recientemente, inició un emprendimiento de postres caseros, pero no ha tenido mucho éxito debido a la falta de visibilidad. Cristina considera que nuestra aplicación es una excelente iniciativa que podría ayudarle a hacer crecer su negocio.
+   De la entrevista con Candice Zegarra, podemos concluir que ella es una trabajadora pero que si tiene tiempo para cocinar 5 veces por semanas, ya los fines de semana decide comer afuera por el hecho de que no tiene que trabajar esos días. Ella cocina solo para si misma, pero las veces que ha cocinado para su famlia ha sido halagada por la buen sasón de sus platillos. Una vez pensó en monetizar sus comidas, pero le genera incomodidad el no poder encontrar rapidamente los ingredientes que ella necesita, ya que ella cocina comida de la selva y aqui en Lima no están todos los ingredientes que ella necesita. No ha tenido experiencia vendiendo comida hasta el momento. Pero una aplcacición que facilite la venta sería una buena oportunidad para generar más ingresos. Ella piensa que la demanda por los menús o comida rápida sigue creciendo debido a que las personas actualmente no aprenden a cómo cocinar y solo toman el camino fácil que es comprar una comida lista para servir. Y ella está interesada en unirse a una comunidad de cocineros por el hecho de aprender otros platillos y otras recetas también.
 
 ### 2.2.3. Análisis de entrevistas
 * Segmento 1: Universitarios o Profesionales Ocupados <br>
 
-Patrones comunes:
+Necesidades:
 
-Falta de tiempo: Todos los entrevistados, Omar, Lourdes y Pia, tienen agendas ocupadas que les impiden cocinar, recurriendo a comida rápida o delivery.
+Falta de tiempo: Todos los entrevistados mencionan la dificultad de cocinar debido a su apretada agenda (Omar, Lourdes, Pia). Esto los lleva a buscar alternativas rápidas, como comida rápida o delivery.
 
-Preocupación por la calidad: A pesar de la conveniencia, les preocupa la baja calidad nutricional de estas opciones y prefieren comidas caseras.
+Comida saludable y casera: Existe un deseo generalizado de tener acceso a alimentos más saludables y caseros, ya que la comida rápida no cubre sus expectativas nutricionales (Omar, Lourdes, Pia).
 
-Necesidades clave:
+Conveniencia y accesibilidad: Lourdes y Omar mencionan la importancia de la facilidad de uso de una plataforma que les permita acceder a comida casera, con opciones personalizables y precios accesibles.
 
-Comida saludable y casera: Valoran la posibilidad de acceder a opciones caseras, nutritivas y económicas.
+Expectativas:
 
-Flexibilidad: Buscan que la plataforma se ajuste a sus horarios con entregas rápidas.
+Comida personalizada: Lourdes quiere la posibilidad de personalizar su menú y utilizar filtros para encontrar opciones que se ajusten a sus gustos.
 
-Personalización: Lourdes destaca la importancia de personalizar menús y contar con información sobre la higiene de los cocineros.
+Flexibilidad en la entrega: Omar y Lourdes valoran la posibilidad de recibir comida a la hora que prefieran, lo cual ayuda a gestionar su apretada agenda.
 
-Conclusión: Nosotros satisfacemos sus demandas, brindando acceso a comida casera de calidad, con flexibilidad y personalización, lo que la convierte en una solución ideal para universitarios ocupados.
+Seguridad y salubridad: Lourdes destaca la importancia de la salubridad de los cocineros y sus métodos de cocina, lo que sugiere que la confianza es un factor clave para este segmento.
   
 * Segmento 2: Cocineros Caseros <br>
 
-Patrones comunes:
+Necesidades:
 
-Habilidades culinarias: Alejandro ha desarrollado amplias habilidades cocinando tanto en su trabajo como en casa, y está interesado en monetizarlas.
+Monetización de habilidades culinarias: Los entrevistados (Alejandro, Alberto, Candice) ven una oportunidad en la plataforma para generar ingresos a partir de sus habilidades culinarias, especialmente porque muchos cocinan regularmente para ellos mismos o sus familias.
 
-Barreras: Ha enfrentado dificultades como falta de permisos y tiempo para vender comida por su cuenta.
+Flexibilidad para vender desde casa: Alejandro y Alberto mencionan que vender desde sus hogares sería ideal, ya que les permitiría gestionar sus tiempos y evitar los desplazamientos.
 
-Oportunidades: Percibe una alta demanda de comida casera y cree que una plataforma online le permitiría llegar a más clientes sin grandes inversiones.
+Acceso a ingredientes específicos: Candice, que cocina comida de la selva, enfrenta desafíos para encontrar ciertos ingredientes en Lima, lo cual afecta su capacidad para ofrecer sus platos típicos.
 
-Necesidades clave:
+Expectativas:
 
-Flexibilidad: La posibilidad de gestionar sus tiempos y pedidos mientras sigue trabajando es esencial.
+Facilidad de uso y flexibilidad: Alejandro y Alberto valoran la capacidad de gestionar los pedidos desde casa y sin grandes inversiones. Candice también menciona que una aplicación que facilite la venta le permitiría generar ingresos.
 
-Comunidad: Valora formar parte de una comunidad de cocineros caseros donde pueda compartir y aprender.
+Formación de comunidad: Alejandro y Candice ven valor en la posibilidad de unirse a una comunidad de cocineros caseros, lo que les permitiría compartir recetas y aprender de otros.
 
-Conclusión: Alejandro es un candidato ideal para Sabores Cercanos, ya que busca una plataforma que le permita monetizar su pasión culinaria con flexibilidad y formar parte de una comunidad de cocineros caseros.
-  
+**Conclusiones Generales del Análisis**
+
+Problemas Identificados:
+
+Hemos identificado que los consumidores están insatisfechos con las opciones actuales de comida rápida o delivery, principalmente debido a la falta de calidad nutricional en las comidas que suelen consumir. Por otro lado, los cocineros caseros enfrentan dificultades para monetizar sus habilidades culinarias debido a la falta de recursos, barreras legales y la dificultad para acceder a ingredientes específicos.
+
+Oportunidades de Mejora:
+
+Vemos la oportunidad de crear una plataforma que permita a los usuarios ocupados acceder a comida casera saludable y de manera accesible. Además, es esencial ofrecer flexibilidad a los cocineros caseros, permitiéndoles vender desde casa sin la necesidad de realizar grandes inversiones. Finalmente, existe una gran oportunidad para desarrollar una comunidad de cocineros, donde puedan compartir recetas, aprender entre ellos y crear relaciones que enriquezcan tanto la oferta gastronómica como la experiencia de los consumidores.
+
+Este análisis nos revela que tanto los consumidores como los cocineros caseros tienen necesidades claras: los primeros buscan comidas caseras y saludables, mientras que los segundos desean una forma flexible y rentable de monetizar sus habilidades culinarias. Estos insights nos brindan una base sólida para seguir mejorando la propuesta de valor de Sabores Cercanos.
+
 ## 2.3. Needfinding
 
 Tras la identificación de los segmentos objetivo (cocineros caseros y estudiantes/profesionales ocupados), se realizaron entrevistas a individuos pertenecientes a dichos segmentos con el objetivo de de hallar información relevante para el desarrollo del producto final, tal como sentimientos, deseos y necesidades. En esta sección se incluirán los esquemas de _User Personas_, _User Task Matrix_, _User Journey Mapping_ y _Empathy Mapping_.
@@ -842,7 +837,7 @@ Tras la identificación de los segmentos objetivo (cocineros caseros y estudiant
 | Location | Lima, Perú |
 | Tier | Madre de Familia |
 | Archetype | Cocinera |
-| Image | <br><p align="center"><img height="100px" src="assets/images/TB1/userpersona1.jpg"></p> |
+| Image | <br><p align="center"><img height="100px" src="assets/images/user-persona-1.jpg"></p> |
 | Quote | _"Cada comida que preparo es una manera de compartir mi corazón con los demás."_ |
 | Motivations | <p><ul><li>Incentive: **70 de 100**<li>Fear: **60 de 100**<li>Achievement: **60 de 100**<li>Growth: **50 de 100**<li>Power: **60 de 100**<li>Social: **80 de 100** |
 | Goals | <p><ul><li>Generar ingresos adicionales para su familia.</li><li>Ser flexible en su trabajo, para poder gestionar mejor sus responsabilidades familiares.</li><li>Compartir su pasión por la cocina con una comunidad.</li></ul></p> |
@@ -863,7 +858,7 @@ Tras la identificación de los segmentos objetivo (cocineros caseros y estudiant
 | Location | Lima, Perú |
 | Tier | Estudiante Pregrado |
 | Archetype | Estudiante |
-| Image | <br><p align="center"><img height="100px" src="assets/images/TB1/userpersona2.jpg"></p> |
+| Image | <br><p align="center"><img height="100px" src="assets/images/user-persona-2.jpg"></p> |
 | Quote | _"El tiempo lo es todo, pero la salud también, por eso es importante encontrar un balance."_ |
 | Motivations | <p><ul><li>Incentive: **90 de 100**<li>Fear: **60 de 100**<li>Achievement: **80 de 100**<li>Growth: **80 de 100**<li>Power: **60 de 100**<li>Social: **50 de 100** |
 | Goals | <p><ul><li>Ahorrar tiempo.</li><li>Estar saludable.</li><li>Disfrutar de buena comida.</li></ul></p> |
@@ -1112,7 +1107,7 @@ EPICS:
 
 ### 3.3. Impact Mapping
 
-![alt text](assets/images/TB1/impactmaping.jpg)
+![Anexo A](/assets/images/Mapa%20de%20impacto.jpg)
 [Anexo A](#anexos)<br><br>
 
 
@@ -1160,7 +1155,7 @@ EPICS:
 
 **Brand Name:** "Sabores Cercanos" es un nombre con el que buscamos transmitir una sensación de familiaridad y comodidad con relación a la comida. Surge de nuestro deseo por llevar a los usuarios la mejor versión del mundo culinario casero.
 
-![alt text](assets/images/TB1/nuestrologo.png)
+![Sabores Cercanos, Logo](/assets/images/logo.png)
 
 **¿Qué debe tener?**
 
@@ -1175,22 +1170,23 @@ EPICS:
 
 * #### Para Títulos: Playfair.
 
-![alt text](assets/images/TB1/tipography1.png)
+![Playfair, Tipo de Letra](/assets/images/playfair-typography.png)
 
 Elegimos Playfair para los títulos por su estilo ligeramente elegante a la vez que legible.
 
 * #### Para Párrafos: Lora.
 
-![alt text](assets/images/TB1/tipography2.png)
+![Lora, Tipo de Letra](/assets/images/lora-typography.png)
+
 Elegimos Lora para los párrafos debido a su legibilidad y estilo. Haciéndola perfecta para cantidades moderadas de texto.
 
 **Buttons:**
 
-![alt text](assets/images/TB1/buttons.jpg)
+![Botones](/assets/images/button-layout.jpg)
 
 ### 4.1.2. Web Style Guidelines
 
-![alt text](assets/images/TB1/webstyleguidelines.jpg)
+![Web Style Guidelines](/assets/images/web-style-guidelines.jpg)
 
 ### 4.2. Information Architecture
 
@@ -1201,11 +1197,11 @@ Para nuestro primer segmento enfocado en Universitarios/Profesionales ocupados p
 Al seleccionar un plato, el usuario accede a una página detallada con información del plato, incluyendo una sección de reseñas y perfil del cocinero. La información está organizada jerárquicamente, con datos esenciales como la descripción del plato y la información nutricional en la parte superior, seguidos por reseñas y calificaciones en secciones inferiores. El usuario lee la descripción del plato, consulta la información nutricional y revisa las reseñas antes de tomar una decisión. La organización jerárquica facilita una navegación lógica desde los detalles del plato hasta la información de los usuarios. El usuario llega a la página de programación de entrega, donde se le presenta un calendario y opciones de horarios. La interfaz está organizada secuencialmente para guiar al usuario a través del proceso de selección de fecha y hora de entrega. El usuario selecciona la fecha y hora deseada para la entrega, revisa la información y confirma la programación. El diseño secuencial asegura que cada etapa del proceso de programación sea clara y fácil de completar.
 Después de realizar su primera compra, en la página de inicio o en una sección dedicada a recomendaciones, el usuario recibe sugerencias de platos basadas en sus pedidos anteriores y preferencias. Las recomendaciones se organizan jerárquicamente por categorías como "Recomendados para Ti" y "Nuevos en la Plataforma". El usuario explora las recomendaciones personalizadas presentadas en una vista de cuadrícula o lista. Puede ver las opciones sugeridas y decidir rápidamente cuáles le interesan. La organización jerárquica y matricial ayuda a destacar las opciones más relevantes y personalizadas.<br> <br>
 
-![alt text](assets/images/TB1/organizationsystems1.png)
+![Anexo B](/assets/images/UP%20ocupados%20para%20cocinar.png)
 [Anexo B](#anexos)<br><br>
 Para nuestro segundo segmento enfocado en Cocineros Caseros, el proceso inicia al registrarse y configurar su perfil. El cocinero casero inicia su viaje en la plataforma mediante un proceso de registro. La interfaz está organizada secuencialmente, comenzando con el registro básico y luego avanzando a la configuración del perfil. El cocinero completa su registro, proporcionando detalles básicos como nombre y contacto. Luego, avanza a la configuración del perfil, donde debe ingresar información sobre sus especialidades culinarias, fotografías de sus platos y detalles de su cocina. Cada etapa del proceso está claramente definida para facilitar la finalización del registro y configuración. Una vez configurado el perfil, el cocinero accede a una sección para crear y gestionar sus menús. La interfaz utiliza una organización jerárquica para presentar opciones como “Añadir Nuevo Plato” y “Gestionar Menús Actuales”. Dentro de estas opciones, el contenido se organiza de forma matricial, mostrando platos individuales con detalles visuales. El cocinero selecciona “Añadir Nuevo Plato”, completa los detalles del plato, incluyendo nombre, descripción, precio y fotos. Luego puede ver y editar los menús existentes. La organización visual permite al cocinero gestionar sus menús de manera eficiente, con un enfoque en las tareas más importantes primero. En la sección de gestión de pedidos, el cocinero puede ver y procesar los pedidos recibidos. La interfaz está organizada secuencialmente por estados del pedido (por ejemplo, “Nuevo”, “En Proceso”, “Completado”), y los pedidos se presentan en un formato cronológico. El cocinero revisa los nuevos pedidos, los procesa según la secuencia establecida, y actualiza el estado de los pedidos en función del progreso. La organización secuencial y cronológica asegura que los pedidos se manejen de manera ordenada y eficiente. El cocinero puede acceder a una sección para revisar las reseñas y calificaciones de sus platos. La interfaz está organizada jerárquicamente, mostrando primero las reseñas más recientes y destacadas, seguidas de las reseñas más antiguas y menos relevantes. El cocinero lee las reseñas y calificaciones recibidas, prestando especial atención a los comentarios destacados para mejorar sus platos y servicios. La organización jerárquica facilita el enfoque en los comentarios más importantes y recientes. En la sección de configuración de perfil, el cocinero puede actualizar su información personal y de menú. La interfaz está organizada jerárquicamente con secciones principales como “Información del Perfil”, “Fotos de Platos”, y “Detalles de Cocina”. Dentro de cada sección, la información se presenta de manera alfabética para una fácil navegación. El cocinero actualiza su perfil y la información de los platos, navegando a través de las secciones y sub-secciones organizadas alfabéticamente para facilitar la búsqueda de elementos específicos. El cocinero tiene acceso a un panel de estadísticas que muestra el rendimiento de sus platos, incluyendo ventas y popularidad. La organización visual se utiliza para presentar gráficos y datos en un formato jerárquico, mientras que los datos se presentan cronológicamente. El cocinero revisa los informes y gráficos, analizando el rendimiento de sus platos a lo largo del tiempo. La organización visual y cronológica ayuda a identificar tendencias y patrones en las ventas y la popularidad de los platos.
 
-![alt text](assets/images/TB1/organizationsystems2.png)
+![Anexo C](/assets/images/Cocinero%20Casero.png)
 [Anexo C](#anexos)<br><br>
 
 ### 4.2.2. Labeling Systems
@@ -1333,84 +1329,85 @@ Estas configuraciones aseguran que los usuarios de "Sabores Cercanos" puedan mov
 
 ### 4.3.1. Landing Page Wireframe
 
-![](assets/images/TB1/WireframeLP.png)
+![](assets/images/Wireframe_LP.png)
 
-![](assets/images/TB1/WireframeLPMobile.png)
+![](assets/images/Wireframe_LP_Mobile.png)
 
 ### 4.3.2. Landing Page Mock-up
 
-![](assets/images/TB1/MockupLP1.png)
+![](assets/images/Mockup_LP_1.png)
 
-![](assets/images/TB1/MockupLP2.png)
+![](assets/images/Mockup_LP_2.png)
 
-![](assets/images/TB1/MockuoLPMobile.png)
+![](assets/images/Mockuo_LP_Mobile.png)
 
 ### 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
 
-![alt text](assets/images/TB1/WAwireframes1.png)
+![Wireframe 1](/assets/images/Wireframe_WA_1.png)
 
-![alt text](assets/images/TB1/WAwireframes2.png)
+![Wireframe 2](/assets/images/Wireframe_WA_2.png)
 
-![alt text](assets/images/TB1/WAwireframes3.png)
+![Wireframe 3](/assets/images/Wireframe_WA_3.png)
 
-![alt text](assets/images/TB1/WAwireframes4.png)
+![Wireframe 4](/assets/images/Wireframe_WA_4.png)
 
-![alt text](assets/images/TB1/WAwireframes5.png)
+![Wireframe 5](/assets/images/Wireframe_WA_5.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 * #### Goal: El usuario se registra en la aplicacion:
 El siguiente wireflow muestra la secuencia de pasos que un usuario sigue para crear una cuenta. Primero debe elegir el tipo de usuario, llenar todos los campos solicitados en el registro, hacer clic en “Siguiente” e ingresar el código de verificación enviado al correo electrónico proporcionado.
 
-![Wireflow 1](assets/images/TB1/WAwireflow1.png)
+![Wireflow 1](assets/images/WA_Wireflow1.png)
 
 * #### Goal: El usuario inicia sesión con su cuenta de Google:
 Para iniciar sesión con una cuenta de Google, el usuario debe hacer clic en “Continuar con Google” y elegir una cuenta en la que previamente ha iniciado sesión en su dispositivo. Esto le redirigirá a la página de bienvenida.
 
-![Wireflow 2](assets/images/TB1/WAwireflow2.png)
+![Wireflow 2](assets/images/WA_Wireflow2.png)
 
 * #### Goal: El usuario restablece su contraseña:
 Para lograr este goal, el usuario hace clic en “¿Olvidaste tu contraseña?” y será redirigido a un formulario en el cual debe ingresar el correo electrónico con el que se registró. Al hacer clic en “Enviar”, se le enviará un correo electrónico con un enlace para cambiar la contraseña. Una vez en esta sección, el usuario deberá ingresar una contraseña nueva y hacer clic en “Aceptar”.
 
-![Wireflow 3](assets/images/TB1/WAwireflow3.png)
+![Wireflow 3](assets/images/WA_Wireflow3.png)
 
 * #### Goal: El usuario recibe recomendaciones personalizadas:
 El usuario inicia en la página de su cuenta. Al  hacer clic en la sección de “Preferencias dietéticas” es redirigido a un formulario donde deberá indicar sus gustos, alergias, etc. Una vez guardados los cambios, el usuario se dirige a la página “Recetas” y aparecerán sugerencias personalizadas, de lo contrario, aparecerá un mensaje de “No tienes recomendaciones”.
 
-![Wireflow 4](assets/images/TB1/WAwireflow4.png)
+![Wireflow 4](assets/images/WA_Wireflow4.png)
 
 * #### Goal: El usuario añade una receta a su plan de alimentación de un día específico:
 El usuario inicia en la sección de “Recetas”. Aquí, puede dar clic en “Ver receta” para visualizar la información y agregarla a su plan de alimentación. Al momento de agregar, se solicitará elegir en qué fecha desea agregar la receta y en qué tiempo de comida. Una vez seleccionadas las opciones, el usuario podrá visualizar la receta en el apartado de “Recetas”.
 
-![Wireflow 5](assets/images/TB1/WAwireflow5.png)
+![Wireflow 5](assets/images/WA_Wireflow5.png)
 
 * #### Goal: El usuario exporta su plan alimenticio en pdf:
 En este goal, el usuario se dirige a la sección “Plan alimenticio”, hace clic en el menú desplegable y selecciona la opción “Exportar a PDF”. La descarga se confirma mediante un mensaje.
 
-![Wireflow 6](assets/images/TB1/WAwireflow6.png)
+![Wireflow 6](assets/images/WA_Wireflow6.png)
 
 * #### Goal: El usuario comparte su plan alimenticio con familiares o amigos:
 El usuario puede elegir la opción de “Compartir” dentro de la sección de Plan Alimenticio. Luego deberá elegir a quién desea enviar el archivo.
 
-![Wireflow 7](assets/images/TB1/WAwireflow7.png)
+![Wireflow 7](assets/images/WA_Wireflow7.png)
 
 ### 4.4.2. Web Applications Mock-ups
 
-![alt text](assets/images/Mockups/1.png)
+![MOCKUP 1](/assets/images/Mockups/Uno.png)
 
-![alt text](assets/images/Mockups/2.png)
+![MOCKUP 2](/assets/images/Mockups/Dos.png)
 
-![alt text](assets/images/Mockups/3.png)
+![MOCKUP 3](/assets/images/Mockups/Tres.png)
 
-![alt text](assets/images/Mockups/4.png)
+![MOCKUP 4](/assets/images/Mockups/Cuatro.png)
 
-![alt text](assets/images/Mockups/5.png)
+![MOCKUP 5](/assets/images/Mockups/Cinco.png)
 
-![alt text](assets/images/Mockups/46.png)
+![MOCKUP 6](/assets/images/Mockups/Seis.png)
 
-![alt text](assets/images/Mockups/123.png)
+![MOCKUP 7](/assets/images/Mockups/Siete.png)
+
 ### 4.4.3. Web Applications User Flow Diagrams
 
 * #### Goal: El usuario se registra en la aplicación:
@@ -1420,22 +1417,21 @@ El usuario ingresa sus datos correctamente en la pantalla de registro y valida l
 #### Unhappy path:
 El usuario no ingresa sus datos correctamente y recibe una advertencia.
 
-![alt text](assets/images/Mockups/1.png)
+![MOCKUP 1](/assets/images/Mockups/Uno.png)
 
 * #### Goal: El usuario inica sesión con su cuenta de Google:
 
 #### Happy path: 
 El usuario selecciona una cuenta de Google de su dispositivo e inicia sesión en la aplicación.
 
-![alt text](assets/images/Mockups/2.png)
-
+![MOCKUP 2](/assets/images/Mockups/Dos.png)
 
 * #### Goal: El usuario restablece su contraseña:
 
 #### Happy path: 
 El usuario ingresa su correo electrónico y recibe el enlace para reestablecer su contraseña.
 
-![alt text](assets/images/Mockups/3.png)
+![MOCKUP 3](/assets/images/Mockups/Tres.png)
 
 * #### Goal: El usuario recibe recomendaciones personalizadas:
 
@@ -1444,7 +1440,7 @@ El usuario agrega su información de dieta y salud. Al dirigirse a la sección d
 #### Unhappy path:
 El usuario, al no agregar su información personal, no recibe recomendaciones de recetas y debe buscarlas manualmente.
 
-![alt text](assets/images/Mockups/4.png)
+![MOCKUP 4](/assets/images/Mockups/Cuatro.png)
 
 * #### Goal: El usuario añade una receta a su plan de alimentación de un día específico:
 
@@ -1453,7 +1449,8 @@ El usuario quiere agregar una receta a su plan de alimentación, así que coloca
 #### Unhappy path:
 El usuario no selecciona la fecha ni tiempo de comida, por lo tanto, la receta no se agrega.
 
-![alt text](assets/images/Mockups/123.png)
+![MOCKUP 5](/assets/images/Mockups/Cinco.png)
+
 * #### Goal: El usuario exporta su plan alimenticio en pdf:
 
 #### Happy path: 
@@ -1461,12 +1458,14 @@ El usuario selecciona la opción de “Exportar a PDF” y el plan se descarga e
 #### Unhappy path:
 El usuario no puede descargar el plan debido a errores.
 
-![alt text](assets/images/Mockups/46.png)
+![MOCKUP 6](/assets/images/Mockups/Seis.png)
+
 * #### Goal: El usuario comparte su plan alimenticio con amigos o familiares:
 
 #### Happy path: 
 El usuario selecciona la opción “Compartir” y elige mediante qué aplicación desea compartir su plan de alimentación a uno de sus contactos.
-![alt text](assets/images/Mockups/46.png)
+
+![MOCKUP 7](/assets/images/Mockups/Siete.png)
 
 ### 4.5. Web Applications Prototyping
 
@@ -1479,7 +1478,7 @@ En esta sección, presentamos la arquitectura de software para nuestro proyecto 
 Este diagrama muestra las interacciones principales entre el sistema y los actores externos, como los consumidores, los cocineros, y el administrador de la plataforma. Además, se incluyen las conexiones con sistemas externos como el Payment Gateway y el Email Service, proporcionando una vista general de cómo el sistema se integra y se comunica con el entorno externo.
 
 <p align="center">
-  <img src="assets/images/TB1/structurizrSystemContextDiagram.png">
+  <img src="assets/images/structurizr-SystemContext_Diagram.png">
 </p>
 
 ### 4.6.2. Software Architecture Container Diagrams
@@ -1487,7 +1486,7 @@ Este diagrama muestra las interacciones principales entre el sistema y los actor
 Aquí se detalla los principales contenedores de software dentro del sistema, como la Web Application, la Mobile App, la Single-Page Application, la API, y la Database. Cada contenedor representa una parte clave de la arquitectura del sistema y se muestra cómo interactúan entre sí, manejando funciones como la gestión de usuarios, el procesamiento de pagos, y la comunicación con los servicios externos.
 
 <p align="center">
-  <img src="assets/images/TB1/structurizrContainersDiagram.png">
+  <img src="assets/images/structurizr-Containers_Diagram.png">
 </p>
 
 ### 4.6.3. Software Architecture Components Diagrams
@@ -1495,22 +1494,22 @@ Aquí se detalla los principales contenedores de software dentro del sistema, co
 Este diagrama desglosa los componentes internos clave, como el Order Controller, el User Controller, el Payment Service, y el Notification Manager. El diagrama muestra las relaciones y dependencias entre estos componentes, ilustrando cómo trabajan juntos para proporcionar la funcionalidad central de la plataforma.
 
 <p align="center">
-  <img src="assets/images/TB1/structurizrComponentDiagram.png">
+  <img src="assets/images/structurizr-Component_Diagram.png">
 </p>
 
 ### 4.7. Software Object-Oriented Design
-s
+
 ### 4.7.1. Class Diagrams
 
-![alt text](assets/images/TB1/diagamaclassright.png)
-![alt text](assets/images/TB1/diagramaclassleft.png)
+![alt text](assets/images/diagama_class_right.png)
+![alt text](assets/images/diagrama_class_left.png)
 LINK:  
 https://lucid.app/lucidchart/c228e218-6d6b-484c-8557-0fae7cba2738/edit?viewport_loc=-216%2C49%2C4474%2C2081%2CHWEp-vi-RSFO&invitationId=inv_387afe2d-3886-4d53-a6e8-c42b2ae376e3
 
 ### 4.8. Database Design
 
 ### 4.8.1. Database Diagram
-![alt text](assets/images/TB1/basedatosdiagram.png)
+![alt text](assets/images/basedatos_diagram.png)
 LINK:
 https://lucid.app/lucidchart/de7494c8-ca20-4b78-8732-fb0986780e5e/edit?viewport_loc=-5%2C469%2C2982%2C1387%2C0_0&invitationId=inv_df6f46c5-10c8-405e-8b2b-2a1a52ca42fa
 ### 4.8.2. Database Dictionary
@@ -1895,19 +1894,11 @@ completa, con un diseño atractivo e intuitivo para los usuarios. Gracias a nues
 |-|-|-|-|-|-|-|-|
 |User<br>Story| |Work-Item /Task| | | | | |
 |ID|Title|ID|Title|Description|Estimation<br>(Hours)|Assigned<br>To|Status<br>(To-do <br>/InProcess<br>/ To-Review <br>/Done)|
-|US01|Registro de usuario|TA001|Diseño y validación del formulario|Crear y estilizar un formulario de registro, implementando validaciones básicas (campos obligatorios, email válido).|5 horas|Estefano Jaque|Done|
-|US01|Registro de usuario|TA002|Validación avanzada del formulario|Implementar validaciones avanzadas para el formulario de registro.|5 horas|Estefano Jaque|Done|
-|US02|Búsqueda por preferencias|TA005|Implementar filtros de búsqueda|Crear filtros por tipo de comida, precio y ubicación en la página de búsqueda.|7 horas|Maria Jose Pezo |Done|
-|US02|Búsqueda por preferencias|TA006|Mejorar la interfaz de usuario en filtros|Estilizar los filtros de búsqueda para mejorar la experiencia del usuario.|6 horas|Maria Jose Pezo |Done|
-|US03|Visualización de reseñas|TA007|Mostrar reseñas|Desarrollar sección de visualización de reseñas de cocineros, con puntuación y comentarios de usuarios.|5 horas|Jose Alejo|Done|
-|US03|Visualización de reseñas|TA008|Implementar paginación para reseñas|Añadir paginación o scroll infinito en la sección de reseñas.|6 horas|Jose Alejo|Done|
-|US03|Visualización de reseñas|TA009|Agregar opción para ordenar reseñas|Permitir a los usuarios ordenar reseñas por fecha, puntuación o comentarios más útiles.|5 horas|Jose Alejo|Done|
-|US04|Visualización de información nutricional|TA010|Mostrar datos nutricionales|Agregar una sección con los valores nutricionales de los platos ofrecidos en el menú.|6 horas|Diego Rosado |Done|
-|US04|Visualización de información nutricional|TA011|Agregar filtro de búsqueda por nutrientes|Permitir a los usuarios filtrar los platos en el menú según sus preferencias nutricionales (por ejemplo, bajo en calorías o alto en proteínas).|5 horas|Diego Rosado |Done|
-|US25|Gestión de perfil de usuario|TA012|Diseño de edición de perfil|Crear una interfaz donde los usuarios puedan editar su información personal y preferencias.|4 horas|Sebastian Real|Done|
-|US25|Gestión de perfil de usuario|TA013|Permitir a los usuarios cambiar su contraseña desde la página de edición de perfil.|4 horas|Sebastian Real|Done|
-|US25|Gestión de perfil de usuario|TA014|Implementar opción para cambiar foto de perfil|Permitir a los usuarios subir o cambiar su foto de perfil desde la página de edición de perfil.|4 horas|Sebastian Real|Done|
-
+|US01|Registro de usuario|TA001|Diseño y validación del formulario|Crear y estilizar un formulario de registro, implementando validaciones básicas (campos obligatorios, email válido).|1 hora|Estefano Jaque|Done|
+|US02|Búsqueda por preferencias|TA001|Implementar filtros de búsqueda|Crear filtros por tipo de comida, precio y ubicación en la página de búsqueda.|½ hora|Maria Jose Pezo |Done|
+|US03|Visualización de reseñas|TA001|Mostrar reseñas|Desarrollar sección de visualización de reseñas de cocineros, con puntuación y comentarios de usuarios.|½ hora|Jose Alejo|Done|
+|US04|Visualización de información nutricional|TA001|Mostrar datos nutricionales|Agregar una sección con los valores nutricionales de los platos ofrecidos en el menú.|½ hora|Diego Rosado |Done|
+|US25|Gestión de perfil de usuario|TA001|Diseño de edición de perfil|Crear una interfaz donde los usuarios puedan editar su información personal y preferencias.|½ hora|Sebastian Real|Done|
 
 ### 5.2.1.3. Development Evidence for Sprint Review
 
@@ -1941,39 +1932,28 @@ En esta fase del proyecto, hemos estado concentrados en el desarrollo de la land
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
 
-En este Sprint, hemos alcanzado un avance significativo en el desarrollo de la landing page. Nos hemos enfocado en implementar el diseño y la funcionalidad básica, incluyendo las principales vistas y elementos interactivos. A continuación, presentamos capturas de pantalla de las vistas principales que hemos desarrollado, junto con un enlace a un video que muestra la visualización y navegación logradas durante este Sprint.
+En este Sprint, hemos culminado el desarrollo de la landing page. Nos hemos enfocado en implementar  las principales vistas y elementos interactivos. A continuación, presentamos capturas de pantalla de las vistas principales que hemos desarrollado, junto con un enlace a un video que muestra la visualización y navegación logradas durante este Sprint.
 
 **Capturas de Pantalla**
 - Seccion navbar: ![Screenshot1](./assets/images/Landingpage/Navbar.png)
 - Seccion home: ![Screenshot2](./assets/images/Landingpage/Home.png)
 - Seccion about us: ![Screenshot3](./assets/images/Landingpage/About_us.png)
 - Seccion services: ![Screenshot5](./assets/images/Landingpage/Services.png)
-- Seccion contact us: ![Screenshot6](./assets/images/Landingpage/Contact%20us.png)
+- Seccion contact us: ![Screenshot6](./assets/images/Landingpage/Contact_us.png)
 - Seccion footer: ![Screenshot7](./assets/images/Landingpage/Footer.png)
 
 **Enlace a Video**
-[Visualización y Navegación de Landing Page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201620127_upc_edu_pe/EfpuXUqzu-1DhChn0fsPc5ABLiNG5nmudn_BF-MAj_j5eA?e=nxTG5W&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[Visualización y Navegación de Landing Page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201620127_upc_edu_pe/EQUpR24hsnpMqzCXf8KvZPsBhJf17avUqkjgopFZquDjcg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=HFtT3m)
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
-En este Sprint, nuestro enfoque principal ha sido el desarrollo y diseño de la landing page. Debido a que aún no hemos implementado Web Services, no contamos con documentación de endpoints en esta fase. En lugar de eso, hemos documentado el desarrollo y diseño de la landing page.
+En este Sprint, hemos completado el desarrollo y despliegue de la landing page, así como la implementación de los web services. Hemos documentado tanto el desarrollo de la landing page como la creación de los endpoints de los web services que soportan la funcionalidad de la aplicación.
 
-- GitHub - Proyecto Web Services: https://github.com/Rampart-SaboresCercanos/Rampart 
-
-### Resumen de Acciones del Equipo
-
-| Integrante        | Acciones Realizadas                            |
-|-------------------|------------------------------------------------|
-| Maria Jose Pezo   | Diseño e implementación de bounded context Platos |
-| Sebastian Real    | Diseño e implementación de bounded context Cocineros |
-| Jose Alejo        | Diseño e implementación de bounded context Pedidos |
-| Estefano Jaque    | Diseño e implementación de bounded context Recetas |
-| Diego Rosado      | Diseño e implementación de bounded context Plan Alimenticio |
+La documentación de los endpoints incluye descripciones de cada servicio, sus métodos HTTP, parámetros de entrada y salida, así como ejemplos de solicitudes y respuestas. Esto garantiza que los miembros del equipo y cualquier desarrollador externo puedan comprender y utilizar los servicios de manera efectiva.
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
-**Resumen**
-Durante este Sprint, nos hemos enfocado en el despliegue de la landing page. Las actividades realizadas incluyen la configuración del entorno de desarrollo y el despliegue inicial del sitio. A continuación, se detalla el proceso seguido para el despliegue de la landing page.
+Durante este Sprint, hemos completado con éxito el despliegue de la landing page. Las actividades realizadas incluyen la configuración del entorno de desarrollo y el despliegue inicial del sitio. A continuación, se detalla el proceso seguido para el despliegue de la landing page.
 
 **Actividades Realizadas**
 - Creación de Cuentas y Configuración de Recursos:
@@ -1996,9 +1976,9 @@ Verificación: Comprobación de que la landing page se despliega correctamente y
 - Demostración de despliegue en Github: ![Screenshot9](/assets/images/Landingpage/Landing_page_deployment.png)
 - Landing Page desplegado: ![Screenshot10](/assets/images/Landingpage/Deployment.png)
 
-**Enlace al Repositorio**: https://github.com/Rampart-SaboresCercanos/Landing-page
+**Enlace al Repositorio**: https://github.com/Rampart-SaboresCercanos
 
-**Link de landing page**: https://rampart-saborescercanos.github.io/Landing-page/
+**Link de landing page**: https://github.com/Rampart-SaboresCercanos/LandingPage
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 
@@ -2038,7 +2018,7 @@ determinado que sera lo que dure el sprint, para crearlo fomentaremos la colabor
 En este Sprint 2 realizaremos la separacion del bounded context y la implementacion de lo aprendido en clase a cada uno de ellos.
 
 |Sprint#|Srint 2|
-|:--|:--|
+|:--:|:--:|
 |Sprint Planning Background|---------|
 |Date|2024-09-06|
 |Time|10:10 PM|
@@ -2047,8 +2027,8 @@ En este Sprint 2 realizaremos la separacion del bounded context y la implementac
 |Attendees (to <br>planning meeting)|Estefano Oscar Jaque Peña, Maria Jose Pezo Castillam, Jose Antonio Alejo Cardenas, Diego Alonso Rosado Iporre, Sebastian Omar Real Calderón|
 |Sprint Goal & User<br>stories|---------|
 |Sprint 2 Goal|Nuestro enfoque está en separar las tareas para cada integrante respecto al bounded context que elijan y finalizar el informe detallando el trabajo realizado por cada integrantepara para la aplicación web "Sabores Cercanos".|
-|Sprint 2 Velocity|11(US05,US15,US16,US04,US06,US03,US21,US19,US30)|
-|Sum of story points|49|
+|Sprint 2 Velocity|11(US05,US15,US16,US04,US06,US03,US21,US22,US23,US9,US30)|
+|Sum of story points|41|
 
 ### 5.2.1.2. Sprint Backlog 2
 Para el primer sprint backlog, recopilamos las historias de usuario
@@ -2064,33 +2044,11 @@ Link Trello: https://trello.com/invite/b/66e21f40286ffef6ecd79284/ATTI50beba1033
 |-|-|-|-|-|-|-|-|
 |User<br>Story| |Work-Item /Task| | | | | |
 |ID|Title|ID|Title|Description|Estimation<br>(Hours)|Assigned<br>To|Status<br>(To-do <br>/InProcess<br>/ To-Review <br>/Done)|
-| US19 | Publicar Recetas | *TA001* | Crear Bounded Context de recetas | Diseñar la estructura del bounded context que incluye la creación de entidades, servicios, componentes y un page que permita añadir, eliminar y editar. | 6 horas | Jaque Peña, Estefano Oscar | Done |
-| US19 | Publicar Recetas | *TA002* | Implementar funcionalidad de añadir recetas | Implementar la funcionalidad que permite a los usuarios añadir nuevas recetas. | 4 horas | Jaque Peña, Estefano Oscar | Done |
-| US19 | Publicar Recetas | *TA003* | Implementar funcionalidad de editar recetas | Implementar la funcionalidad para editar recetas, permitiendo a los usuarios modificar el título, la descripción, los ingredientes y los pasos de preparación. | 6 horas | Jaque Peña, Estefano Oscar | Done |
-| US19 | Publicar Recetas | *TA004* | Implementar funcionalidad de eliminar recetas | Desarrollar la funcionalidad que permita a los usuarios eliminar recetas mediante una interfaz. | 5 horas | Jaque Peña, Estefano Oscar | Done |
-| US21 | Guardar Recetas  | *TA005* | Añadir recetas a favoritas |  Implementar la funcionalidad que permita a los usuarios agregar recetas a su lista de favoritas. | 6 horas | Jaque Peña, Estefano Oscar | Done |
-| US21 | Guardar Recetas  | *TA006* | Mostrar recetas guardadas | Implementar una vista en la que los usuarios puedan ver todas las recetas que han guardado. | 5 horas | Jaque Peña, Estefano Oscar | Done |
-| US05 | Programacion de entrega | *TA007* | Crear Bounded Context de pedidos | Diseñar la estructura del bounded context que incluye la creación de entidades, servicios, componentes y un page que permita añadir, eliminar y editar. | 6 horas | Alejo Cardenas,Jose | Done |
-| US05| Programacion de entrega| *TA008*| Editar pedido | Implementar la funcionalidad para que el usuario pueda modificar los detalles de un pedido, tales como la cantidad de productos, la dirección y la fecha de entrega.| 4 horas| Alejo Cardenas,Jose | Done|
-| US15| Programación de pedidos |*TA009*| Mostrar pedidos | Diseñar la interfaz de usuario que muestre los detalles del pedido con la información de productos, dirección, fecha de entrega y estado actual. | 4 horas | Alejo Cardenas,Jose|Done|
-| US16| Métodos de pago |*TA010*| Crear pedido | Implementar la lógica para crear un pedido en la base de datos, incluyendo la confirmación de los detalles ingresados, como productos, dirección y método de pago. | 5 horas | Alejo Cardenas,Jose |Done|
-| US16| Programación de pedidos |*TA011*| Eliminar pedido | Implementar la funcionalidad para que el usuario pueda eliminar un pedido de la base de datos y reflejar el cambio en la interfaz de usuario. | 5 horas | Alejo Cardenas,Jose |Done|
-| US04 | Visualización de información nutricional | *TA012* | Crear Bounded Context de platillos | Diseñar la estructura del bounded context que incluye la creación de entidades, servicios, componentes y un page que permita añadir, eliminar y editar. | 8 horas | Pezo Castilla, Maria Jose | Done |
-| US04| Visualización de información nutricional  | *TA013* |Mostrar la descripción e información del plato| Mostrar la descripción del plato y datos informativos como el nombre del plato, precio promedio y la cantidad de ordenes realizadas durante el mes.  | 5 horas | Pezo Castilla, Maria Jose| Done      
-| US06| Experiencia personalizada  | *TA014* | Eliminar platos de la lista personalizada | Desarrollar la eliminación de platos de la lista personalizada. | 6 horas | Pezo Castilla, Maria Jose | Done|
-| US06| Experiencia personalizada | *TA015*  | Actualizar lista de platos | Implementar la actualización de la lista de platos personalizada.| 7 horas| Pezo Castilla, Maria Jose | Done |
-| US06| Experiencia personalizada | *TA016* |Añadir platos a la lista personalizada| Desarrollar la agregacion de nuevos platos a la lista personalizada.| 6 horas| Pezo Castilla, Maria Jose | Done |
-| US30 | Programación de entrega | *TA017* | Crear Bounded Context de plan nutricional | Diseñar la estructura del bounded context que incluye la creación de entidades, servicios, componentes y un page que permita añadir, eliminar y editar. | 7 horas | Rosado Iporre, Diego | Done |
-| US30 | Programación de entrega | *TA018* | Agregar nutrientes | Consiste en permitir al usuario añadir información nutricional a un pedido, como calorías, proteínas, y otros nutrientes importantes. | 4 horas | Rosado Iporre, Diego | Done | 
-| US30 | Programación de pedidos | *TA019* | Mostrar nutrientes | Esta tarea permite al usuario visualizar la información nutricional de un pedido existente, asegurando una elección informada. | 4 horas | Rosado Iporre, Diego | Done |
-| US30 | Métodos de pago | *TA020* | Editar nutrientes | Esta tarea permite al usuario modificar la información nutricional de un pedido, como actualizar las cantidades de cada nutriente. | 5 horas | Rosado Iporre, Diego | Done | 
-| US30 | Programación de pedidos | *TA021* | Eliminar nutrientes | Esta tarea permite al usuario eliminar la información nutricional de un pedido, si así lo desea. | 5 horas | Rosado Iporre, Diego | Done |
-| US03 | Visualización de reseñas | *TA022* | Crear Bounded Context de cocineros | Diseñar la estructura del bounded context que incluye la creación de entidades, servicios, componentes y un page que permita añadir, eliminar y editar. | 6 horas | Real Calderón, Sebastián Omar | Done |
-| US03 | Visualización de reseñas  | *TA023* | Añadir una lista de cocineros para permitir la comparación | Programar la funcionalidad del bounded context cocineros que permita ver los perfiles para poder compararlos en base a sus ratings y reseñas | 5 horas  | Real Calderón, Sebastián Omar | Done |
-| US03 | Visualización de reseñas | *TA024* | Añadir lista de cocineros para comparación | Programar la funcionalidad del bounded context "cocineros" que permita ver los perfiles y compararlos en base a sus ratings y reseñas. | 5 horas | Real Calderón, Sebastián Omar | Done |
-| US03 | Visualización de reseñas | *TA025* | Actualizar lista de cocineros en base a reseñas recientes | Implementar la actualización automática de la lista de cocineros cada vez que haya una nueva reseña o actualización de ratings. | 4 horas | Real Calderón, Sebastián Omar | Done |
-| US03 | Visualización de reseñas | *TA026* | Editar filtros para la comparación de cocineros | Programar la opción de editar los filtros de comparación para incluir más criterios como tipo de cocina, experiencia, y disponibilidad. | 4 horas | Real Calderón, Sebastián Omar | Done |
-
+|US01|Registro de usuario|TA001|Diseño y validación del formulario|Crear y estilizar un formulario de registro, implementando validaciones básicas (campos obligatorios, email válido).|1 hora|Estefano Jaque|Done|
+|US02|Búsqueda por preferencias|TA001|Implementar filtros de búsqueda|Crear filtros por tipo de comida, precio y ubicación en la página de búsqueda.|½ hora|Maria Jose Pezo |Done|
+|US03|Visualización de reseñas|TA001|Mostrar reseñas|Desarrollar sección de visualización de reseñas de cocineros, con puntuación y comentarios de usuarios.|½ hora|Jose Alejo|Done|
+|US04|Visualización de información nutricional|TA001|Mostrar datos nutricionales|Agregar una sección con los valores nutricionales de los platos ofrecidos en el menú.|½ hora|Diego Rosado |Done|
+|US25|Gestión de perfil de usuario|TA001|Diseño de edición de perfil|Crear una interfaz donde los usuarios puedan editar su información personal y preferencias.|½ hora|Sebastian Real|Done|
 
 ### 5.2.1.3. Development Evidence for Sprint Review
 
@@ -2107,21 +2065,6 @@ Link Trello: https://trello.com/invite/b/66e21f40286ffef6ecd79284/ATTI50beba1033
 
 En esta fase del proyecto, hemos estado concentrados en el desarrollo de la landing page. Debido a este enfoque, aún no hemos implementado pruebas automatizadas, como Unit Tests, Integration Tests y Acceptance Tests. Nuestra prioridad ha sido completar el diseño y la funcionalidad de la página. Sin embargo, planeamos incorporar un conjunto completo de pruebas en las próximas fases del proyecto para asegurar la calidad y robustez de la aplicación.
 
-| **Repository**| **Branch**| **Commit Id**| **Commit Message** | **Commit Message Body**| **Committed on (Date)** |
-|-|-|-|-|-|-|
-| Rampart-SaboresCercanos/Rampart | feature/TP | 1f707b6c836010e3c39e5749d089f17c1c5cf710 |Initial commit  | Initial commit | 24/09/2024|
-| Rampart-SaboresCercanos/Rampart | feature/TP | f606937a71942bacf10be6b9df5cfb364d7f431e |feature: added US05 gherkin  | Se agregaron los features de las User Story 05 | 26/09/2024|
-| Rampart-SaboresCercanos/Rampart | feature/TP | f606937a71942bacf10be6b9df5cfb364d7f431e |feature: added US15 gherkin  | Se agregaron los features de las User Story 15 | 26/09/2024|
-| Rampart-SaboresCercanos/Rampart | feature/TP | f606937a71942bacf10be6b9df5cfb364d7f431e |feature: added US16 gherkin  | Se agregaron los features de las User Story 16 | 26/09/2024|
-| Rampart-SaboresCercanos/Rampart | feature/TP | 4eab30cf9eb74de34a070db9d64d742fecb89e68 |feature: added US29 gherkin  | Creacion del US29 feature | 26/09/2024|
-| Rampart-SaboresCercanos/Rampart | feature/TP | e7e266119cb91e8cd3b36b1182427f8df41d248a |feature: added US30 gherkin  | Creacion del US30 feature| 26/09/2024|
-| Rampart-SaboresCercanos/Rampart | feature/TP | b8090e41aec3c0d3314b9f63b242889320057ec7 |feature: added user 03 gherkin  | feature: added user 03 gherkin | 26/09/2024|
-| Rampart-SaboresCercanos/Rampart | feature/TP | c915c9b8d7831bb2060282af2cc583655b60eb06 |feature: added US19 gherkin  | Se creo el US19 para recetas | 26/09/2024|
-| Rampart-SaboresCercanos/Rampart | feature/TP | cecbe8d2165d6fb86c1092f5742365905ba81b38 |feature: added US20 gherkin  | Se creo es US20.feature para recetas | 26/09/2024|
-| Rampart-SaboresCercanos/Rampart | feature/TP | 4dc04ec922dc1331993e7454a333b52f3b21b976 |feature: added US21 gherkin  | Se creo es US21.feature para recetas | 26/09/2024|
-| Rampart-SaboresCercanos/Rampart | feature/TP | 12aee7b49a5647a81e956d6e7201558611d4eeac |feature: added US04 gherkin  | Agregué la US04.feature | 26/09/2024|
-| Rampart-SaboresCercanos/Rampart | feature/TP | 30d8350233d2e2d2445d58cdcfde16dfe2f252d0 |feature: added US06 gherkin  | Agregué US06.feature | 26/09/2024|
-
 ### 5.2.1.5. Execution Evidence for Sprint Review
 
 En este Sprint, hemos alcanzado un avance significativo en el desarrollo de la landing page. Nos hemos enfocado en implementar el diseño y la funcionalidad básica, incluyendo las principales vistas y elementos interactivos. A continuación, presentamos capturas de pantalla de las vistas principales que hemos desarrollado, junto con un enlace a un video que muestra la visualización y navegación logradas durante este Sprint.
@@ -2130,41 +2073,13 @@ En este Sprint, hemos alcanzado un avance significativo en el desarrollo de la l
 - Seccion navbar: ![Screenshot1](/assets/images/Landingpage/Navbar.png)
 - Seccion home: ![Screenshot2](/assets/images/Landingpage/Home.png)
 - Seccion about us: ![Screenshot3](/assets/images/Landingpage/About_us.png)
+![Screenshot4](/assets/images/Landingpage/About_us_2.png) 
 - Seccion services: ![Screenshot5](/assets/images/Landingpage/Services.png)
-- Seccion contact us: ![Screenshot6](/assets/images/Landingpage/Contact_us.png)
+- Seccion contact us: ![Screenshot6](/assets/images/Landingpage/Contact%20us.png)
 - Seccion footer: ![Screenshot7](/assets/images/Landingpage/Footer.png)
 
 **Enlace a Video**
-[Visualización y Navegación de Landing Page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201620127_upc_edu_pe/EQUpR24hsnpMqzCXf8KvZPsBC94OZ_ibAyiUAYzoLm7iiQ?e=czTgej&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-
-Bounded context:  
-
-* Jose Alejo    
-![alt text](assets/TP_images/ALEJOBC.png)
-
-Link_video_Orders: https://drive.google.com/file/d/1RpMsI-kr2CqZcSMzFNyIAyT0LErAnYm5/view?usp=sharing
-
-* Estefano Jaque   
-![alt text](assets/TP_images/JAQUEBC.png)
-
-Link_Video_Recetas: https://drive.google.com/drive/folders/141kHB31hOD-6zzTjcswAdu-bNQJYvzDN?usp=sharing 
-
-* Maria Jose Pezo  
-![alt text](assets/TP_images/MAJOBC.jpg)
-
-Link_Video_Platos: https://drive.google.com/drive/folders/10TSidDpkkNhTG6r1WnQEyWYK6RtaF3Nh?usp=drive_link 
-
-* Diego Rosado  
-
-![alt text](assets/TP_images/DIEGOBC.jpg)
-
-Link_Video_Informacion_Nutricional: https://drive.google.com/drive/folders/1ZY1xnS6dxgx5AG8TgEjwMiySludq87qI
-
-
-* Sebastian Caderon  
-![alt text](assets/TP_images/SEBASBC.jpg)
-
-Link_Video_Cocineros: https://drive.google.com/drive/folders/1H70KFOuePRKs8zIt25T2UNWOX__KWu1q?usp=sharing
+[Visualización y Navegación de Landing Page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201620127_upc_edu_pe/EfpuXUqzu-1DhChn0fsPc5ABLiNG5nmudn_BF-MAj_j5eA?e=nxTG5W&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcjHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -2200,36 +2115,34 @@ Verificación: Comprobación de que la landing page se despliega correctamente y
 
 **Link de landing page**: https://rampart-saborescercanos.github.io/Landing-page/
 
-### 5.2.2.8. Team Collaboration Insights during Sprint
-=======
-Bounded context:  
+### 5.2.1.8. Team Collaboration Insights during Sprint
 
-* Jose Alejo    
-![alt text](assets/TP_images/ALEJOBC.png)
+Durante este Sprint, hemos trabajado en conjunto para gestionar el desarrollo y despliegue de la landing page. Las actividades de implementación, documentación y despliegue han sido realizadas colaborativamente por todos los integrantes del equipo. A continuación, se detalla el trabajo realizado y la colaboración en términos de gestión y control de versiones.
 
-* Estefano Jaque   
-![alt text](assets/TP_images/JAQUEBC.png)
+Actividades de Implementación:
 
-* Maria Jose Pezo  
-![alt text](assets/TP_images/MAJOBC.jpg)
+- Diseño y Desarrollo:
 
-* Diego Rosado  
-![alt text](assets/TP_images/DIEGOBC.jpg)
+Diseño de la Landing Page: Desarrollo y diseño completo de la landing page, incluyendo la creación de secciones y funcionalidad. <br>
+Implementación: Realización de las tareas de codificación, pruebas y ajustes necesarios para completar la página.
 
-* Sebastian Caderon  
-![alt text](assets/TP_images/SEBASBC.jpg)
+- Documentación y Despliegue:
 
-| Integrante | Acciones realizadas durante el sprint |
-|-|-|
-| Estefano Oscar Jaque Peña | Desarrollo del bounded context de Recetas |
-| Maria Jose Pezo Castilla | Desarrollo del bounded context de Platillos |
-| Diego Alonso Rosado Iporre | Desarrollo del bounded context de Plan Alimenticio |
-| Sebastián Omar Real Calderón | Desarrollo del bounded context de Cocineros |
-| Jose Antonio Alejo Cardenas | Desarrollo del bounder context de Pedidos |
+Documentación: Creación de documentación relevante para la landing page, incluyendo capturas de pantalla y descripciones. <br>
+Despliegue: Configuración del entorno de despliegue y transferencia de archivos al servidor.
 
-![Project Insights De La Landing Page](assets/TP_images/1insightsSprint2.png)
+**Capturas de Pantalla**
+- Analíticos de Colaboración en GitHub: ![Screenshot11](/assets/images/Landingpage/Contributors.png)
+- Commits Realizados: ![Screenshot12](/assets/images/Landingpage/Commits_screen.png)
 
-![Project Insights Del Frontend](assets/TP_images/2insightsSprint2.png)
+**Participación del Equipo**
+Durante este Sprint, todos los miembros del equipo han contribuido activamente al proyecto y han realizado commits. Es fundamental destacar el compromiso colectivo en el desarrollo de la landing page.
+
+En esta fase, cada miembro del equipo asumió roles específicos que incluyeron la realización de commits y la colaboración en la implementación de características y mejoras. Esto garantizó una distribución equitativa del trabajo y una integración más completa de las contribuciones de cada miembro.
+
+Además, el diseño principal del proyecto ha sido desarrollado y revisado en conjunto, reflejando nuestro esfuerzo colectivo. Este diseño servirá como base para las próximas iteraciones y desarrollos del proyecto.
+
+La participación de cada miembro fue clave para el éxito de esta fase, y esperamos que esta colaboración se refleje en los commits y en el progreso general del proyecto.
 
 ## Conclusiones
 
@@ -2288,10 +2201,3 @@ Anexo E:  https://lucid.app/lucidchart/de7494c8-ca20-4b78-8732-fb0986780e5e/edit
 ANEFO F: https://drive.google.com/drive/folders/14X--cRiq700Ryxi1WeZE7CM0riqFNCae?usp=sharing
 
 ANEXO G: https://drive.google.com/drive/folders/1aIE_Dj5v-rLgMxIZl-rMrsUlPqoVnidZ?usp=sharing
-
-ANEXO H:
-ANEXO I:
-ANEXO J:
-ANEXO K:
-ANEXO L:
-ANEXO M:
