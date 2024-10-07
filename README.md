@@ -4,7 +4,7 @@ Product: Sabores Cercanos
 
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
 
-![!\[assets/images/Logo_upc.png\](assets/images/Logo_upc.png)](assets/images/Logo_upc.png)
+![alt text](assets/images/TB1/Logoupc.png)
 
 
 ## Ingenieria de Software
@@ -289,25 +289,25 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 - Estefano Oscar Jaque Peña - U202225466
 
-| <p align="center"><img width="auto" height="auto" src="assets/images/Estefano_profile.jpg"> </p> | Soy Estefano Oscar Jaque Peña, tengo 23 años y soy estudiante de la carrera de Ingeniería de Software,<br> una disciplina enfocada en el diseño, desarrollo y gestión de software para solucionar problemas <br>complejos. Desde temprana edad, he sentido fascinación por la tecnología y he buscado aprender <br>constantemente sobre las últimas tendencias en programación. He ampliado mis conocimientos a <br>través de cursos en Python, SQL, y C++, así como también explorando otros lenguajes de programación <br>por mi cuenta. Además, tengo habilidades en el uso avanzado de Excel para análisis de datos y gestión<br> de información. Mi experiencia trabajando en equipos me ha brindado habilidades de comunicación y <br>colaboración que considero fundamentales para contribuir de manera efectiva a proyectos innovadores en el área de la Ingeniería de Software. |
+| <p align="center"><img width="auto" height="auto" src="assets/images/TB1/Estefanoprofile.jpg"> </p> | Soy Estefano Oscar Jaque Peña, tengo 23 años y soy estudiante de la carrera de Ingeniería de Software,<br> una disciplina enfocada en el diseño, desarrollo y gestión de software para solucionar problemas <br>complejos. Desde temprana edad, he sentido fascinación por la tecnología y he buscado aprender <br>constantemente sobre las últimas tendencias en programación. He ampliado mis conocimientos a <br>través de cursos en Python, SQL, y C++, así como también explorando otros lenguajes de programación <br>por mi cuenta. Además, tengo habilidades en el uso avanzado de Excel para análisis de datos y gestión<br> de información. Mi experiencia trabajando en equipos me ha brindado habilidades de comunicación y <br>colaboración que considero fundamentales para contribuir de manera efectiva a proyectos innovadores en el área de la Ingeniería de Software. |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 - Diego Alonso Rosado Iporre -   u201620127
 
-| <p align="center"><img width="auto" height="auto" src="assets/images/Diego_profile.jpg"> </p> | Mi nombre es Diego Rosado, tengo 24 años. Mi interés en las base de datos y arquitectura de páginas web me impulsó a estudiar Ingeniería de Software. Tengo conocimiento de lenguajes como C#, C++, JavaScript, Python, base de datos como MySQL y me atrae el diseño de páginas web con HTML y CSS. Me considero una persona positiva, tolerante y creativa. Mi aporte al grupo es mi total compromiso, apoyo mutuo y el esfuerzo por asegurar que todos tengamos una visión compartida del proyecto a elaborar. Mis habilidades son resolución de problemas, adaptabilidad, trabajo en equipo y toma de decisiones.  |
+| <p align="center"><img width="auto" height="auto" src="assets/images/TB1/Diegoprofile.jpg"> </p> | Mi nombre es Diego Rosado, tengo 24 años. Mi interés en las base de datos y arquitectura de páginas web me impulsó a estudiar Ingeniería de Software. Tengo conocimiento de lenguajes como C#, C++, JavaScript, Python, base de datos como MySQL y me atrae el diseño de páginas web con HTML y CSS. Me considero una persona positiva, tolerante y creativa. Mi aporte al grupo es mi total compromiso, apoyo mutuo y el esfuerzo por asegurar que todos tengamos una visión compartida del proyecto a elaborar. Mis habilidades son resolución de problemas, adaptabilidad, trabajo en equipo y toma de decisiones.  |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------ |
 
 - Maria Jose Pezo Castilla - u20221c590
 
-| <p align="center"><img width="3400" src="assets/images/Majo_profile.png"> </p> | Mi nombre es Maria Jose Pezo Castilla tengo 22 años, actualmente curso el quinto ciclo de la carrera de Ingeniería de Software. Soy una persona responsable, disciplinada y dedicada, tengo gran capacidad para adaptarme a diversos entornos y aportar siempre lo mejor de mi. Me caracterizo por mi facilidad para el trabajo en equipo y mi entusiasmo por aprender y desarrollar mis habilidades. He estudiado lenguajes de programación como C++, C# y HTML; y bases de datos como Microsoft SQL Server y Mongo DB.Asimismo, me considero una persona asertiva y empática con predisposición al aprendizaje continuo. Poseo habilidades para la programación y elaboracion de algoritmos que brinden soluciones efectivas a necesidades o problemáticas específicas.Mis principales hobbies son bailar, entrenar y lee. Para el desarrollo eficiente del presente proyecto pondre en práctica todos mis conocimientos aprendidos, brindare apoyo y entablare una comunicación efectiva. 
+| <p align="center"><img width="3400" src="assets/images/TB1/Majoprofile.png"> </p> | Mi nombre es Maria Jose Pezo Castilla tengo 22 años, actualmente curso el quinto ciclo de la carrera de Ingeniería de Software. Soy una persona responsable, disciplinada y dedicada, tengo gran capacidad para adaptarme a diversos entornos y aportar siempre lo mejor de mi. Me caracterizo por mi facilidad para el trabajo en equipo y mi entusiasmo por aprender y desarrollar mis habilidades. He estudiado lenguajes de programación como C++, C# y HTML; y bases de datos como Microsoft SQL Server y Mongo DB.Asimismo, me considero una persona asertiva y empática con predisposición al aprendizaje continuo. Poseo habilidades para la programación y elaboracion de algoritmos que brinden soluciones efectivas a necesidades o problemáticas específicas.Mis principales hobbies son bailar, entrenar y lee. Para el desarrollo eficiente del presente proyecto pondre en práctica todos mis conocimientos aprendidos, brindare apoyo y entablare una comunicación efectiva. 
 |-|-|
 - José Antonio Alejo Cárdenas - U202122484
 
-| <p align="center"><img width="3000" height="auto" src="assets/images/Jose_profile.jpg"> | Soy José Alejo Cárdenas tengo 23 años soy estudiante de la carrera de Ingeniería de Software del quinto ciclo. Desde pequeño he sentido facinacion por la tecnologia en general sobretodo por el funcionamiento, desarrollo y proteccion del software. He estudiado lenguajes de programacion (java, python y C++), bases de datos (Microsoft SQL Server y Mongo DB) y Sistemas Operativos (Kali Linux y Windows). Asi mismo, tengo experiencia con hardware a nivel de esamblamiento de equipos y funcionamiento del mismo con sus especificaciones tecnicas. Además, mi constante comunicacion y organizacion durante cualquier trabajo grupal aportara mucho dinamismo al proyecto. Mis principales hobbies son entrenar en el gimnasio, jugar videojuegos con mis amigos y salir a conversar con estos ultimos durante algun almuerzo o cena. Para el proyecto aportare organizacion, comunicacion e inspiracion durante todo el transcurso del mismo.
+| <p align="center"><img width="3000" height="auto" src="assets/images/TB1/Joseprofile.jpg"> | Soy José Alejo Cárdenas tengo 23 años soy estudiante de la carrera de Ingeniería de Software del quinto ciclo. Desde pequeño he sentido facinacion por la tecnologia en general sobretodo por el funcionamiento, desarrollo y proteccion del software. He estudiado lenguajes de programacion (java, python y C++), bases de datos (Microsoft SQL Server y Mongo DB) y Sistemas Operativos (Kali Linux y Windows). Asi mismo, tengo experiencia con hardware a nivel de esamblamiento de equipos y funcionamiento del mismo con sus especificaciones tecnicas. Además, mi constante comunicacion y organizacion durante cualquier trabajo grupal aportara mucho dinamismo al proyecto. Mis principales hobbies son entrenar en el gimnasio, jugar videojuegos con mis amigos y salir a conversar con estos ultimos durante algun almuerzo o cena. Para el proyecto aportare organizacion, comunicacion e inspiracion durante todo el transcurso del mismo.
 |-|-|
 - Sebastián Omar Real Calderón - U20221D964
 
-| <p align="center"><img width="1000" src="assets/images/Sebastian_profile.jpg"> </p> | Soy Sebastián Real Calderón, tengo 19 años y soy estudiante de la carrera de Ingeniería de Software. Tengo conocimientos sobre lenguajes de programación como C++, C# y Java. Principalmente me dedico al desarrollo de proyectos que me permitan desarrollar mis habilidades de programación, tales como videojuegos o programas sencillos, ya que apunto a volverme desarrollador. Dentro de mis hobbies están los videojuegos, las series, el baile y el fútbol.
+| <p align="center"><img width="1000" src="assets/images/TB1/Sebastianprofile.jpg"> </p> | Soy Sebastián Real Calderón, tengo 19 años y soy estudiante de la carrera de Ingeniería de Software. Tengo conocimientos sobre lenguajes de programación como C++, C# y Java. Principalmente me dedico al desarrollo de proyectos que me permitan desarrollar mis habilidades de programación, tales como videojuegos o programas sencillos, ya que apunto a volverme desarrollador. Dentro de mis hobbies están los videojuegos, las series, el baile y el fútbol.
 |-|-|
 
 ### 1.2. Solution Profile
@@ -720,7 +720,7 @@ Antes de poder realizar las entrevistas, consideramos prudente poder concretar u
 
 * Segmento 1: Universitarios o Profesionales Ocupados
    1. Entrevista 1:<br>
-   ![alt text](assets/images/1.png)
+   ![alt text](assets/images/TB1/1.png)
    Nombre: Omar<br>
    Apellidos: Luquillas Asto <br>
    Edad: 20 <br>
@@ -732,7 +732,7 @@ Antes de poder realizar las entrevistas, consideramos prudente poder concretar u
    La entrevista con omar proporcionó información valiosa sobre como un universitario ocupado realiza sus actividades y sus principales desafios respecto a su alimentacion. Omar nos comenta que tiene muy poco tiempo para cocinar durante el horario del almuerzo y tiene que almorzar en restaurantes de comida rapida. Cuando el no tiene tiempo para cocinar pide deliverys mediante aplicativos de celular para ahorrarse el tiempo de cocinar. Por otro lado, el considera que la calidad de la comida nutricional es minima en los restaurantes locales. Así mismo, El considera que una plataforma que permita a las personas ocupadas conseguir buena comida y accesible es una gran idea. El espera que una herramienta le brinde la tranquilidad de encontrar comidas saludables y caseras para su bien estar diario y semanal.
 
    2. Entrevista 2:<br>
-  ![alt text](assets/images/2.png)
+  ![alt text](assets/images/TB1/2.png)
    <br>Nombre: Lourdes<br>
    Apellidos: Huamaní <br>
    Edad: 22 <br>
@@ -744,7 +744,7 @@ Antes de poder realizar las entrevistas, consideramos prudente poder concretar u
    En la entrevista con Lourdes, se discutió su rutina diaria y las dificultades que enfrenta en cuanto a la alimentación debido a su apretada agenda. Lourdes, quien está en el séptimo ciclo de enfermería y trabaja, comienza su día temprano para ayudar a su hermana y, debido a su ocupada rutina, compra la mayor parte de sus comidas en la calle, ya que le falta tiempo y recursos para cocinar y calentar alimentos en su lugar de trabajo o estudio.Lourdes expresó que, aunque a veces puede preparar meriendas o algo simple, no tiene tiempo para cocinar comidas más elaboradas. Prefiere comida rápida por su conveniencia, pero ha tenido malas experiencias con la calidad nutricional de estos alimentos y desearía opciones más saludables y caseras. La comida casera es importante para ella, especialmente para el desayuno, aunque su almuerzo suele ser algo rápido debido a su falta de tiempo. Lourdes consideraría muy interesante una plataforma que le permita pedir comida casera a través de una aplicación móvil, ya que le ofrecería la flexibilidad de recibir comida a la hora que desee y revisar menús de antemano. Ella valoraría la posibilidad de personalizar su menú según sus preferencias y horarios, y estaría dispuesta a usar la aplicación si los precios son accesibles y la calidad es buena. Además, Lourdes espera que la aplicación incluya información sobre la salubridad de los cocineros y sus métodos de cocina. Le gustaría ver categorías de comidas en la aplicación y utilizar filtros para encontrar opciones que se ajusten a sus gustos, como la comida asiática.
 
    3. Entrevista 3:<br>
-![alt text](assets/images/3.jpg)
+![alt text](assets/images/TB1/3.jpg)
    <br>Nombre: Pia <br>
    Apellidos: Barandiaran <br>
    Edad: 22 <br>
@@ -757,7 +757,7 @@ Antes de poder realizar las entrevistas, consideramos prudente poder concretar u
 
 * Segmento 2: Cocineros Caseros
    1. Entrevista 1:<br>
-![alt text](assets/images/8.png)
+![alt text](assets/images/TB1/4.png)
    <br>Nombre: Alejandro<br>
    Apellidos: Luján <br>
    Edad: 25 <br>
@@ -842,7 +842,7 @@ Tras la identificación de los segmentos objetivo (cocineros caseros y estudiant
 | Location | Lima, Perú |
 | Tier | Madre de Familia |
 | Archetype | Cocinera |
-| Image | <br><p align="center"><img height="100px" src="assets/images/user-persona-1.jpg"></p> |
+| Image | <br><p align="center"><img height="100px" src="assets/images/TB1/userpersona1.jpg"></p> |
 | Quote | _"Cada comida que preparo es una manera de compartir mi corazón con los demás."_ |
 | Motivations | <p><ul><li>Incentive: **70 de 100**<li>Fear: **60 de 100**<li>Achievement: **60 de 100**<li>Growth: **50 de 100**<li>Power: **60 de 100**<li>Social: **80 de 100** |
 | Goals | <p><ul><li>Generar ingresos adicionales para su familia.</li><li>Ser flexible en su trabajo, para poder gestionar mejor sus responsabilidades familiares.</li><li>Compartir su pasión por la cocina con una comunidad.</li></ul></p> |
@@ -863,7 +863,7 @@ Tras la identificación de los segmentos objetivo (cocineros caseros y estudiant
 | Location | Lima, Perú |
 | Tier | Estudiante Pregrado |
 | Archetype | Estudiante |
-| Image | <br><p align="center"><img height="100px" src="assets/images/user-persona-2.jpg"></p> |
+| Image | <br><p align="center"><img height="100px" src="assets/images/TB1/userpersona2.jpg"></p> |
 | Quote | _"El tiempo lo es todo, pero la salud también, por eso es importante encontrar un balance."_ |
 | Motivations | <p><ul><li>Incentive: **90 de 100**<li>Fear: **60 de 100**<li>Achievement: **80 de 100**<li>Growth: **80 de 100**<li>Power: **60 de 100**<li>Social: **50 de 100** |
 | Goals | <p><ul><li>Ahorrar tiempo.</li><li>Estar saludable.</li><li>Disfrutar de buena comida.</li></ul></p> |
@@ -1112,7 +1112,7 @@ EPICS:
 
 ### 3.3. Impact Mapping
 
-![alt text](assets/images/h.jpg)
+![alt text](assets/images/TB1/impactmaping.jpg)
 [Anexo A](#anexos)<br><br>
 
 
@@ -1160,7 +1160,7 @@ EPICS:
 
 **Brand Name:** "Sabores Cercanos" es un nombre con el que buscamos transmitir una sensación de familiaridad y comodidad con relación a la comida. Surge de nuestro deseo por llevar a los usuarios la mejor versión del mundo culinario casero.
 
-![alt text](assets/images/g.png)
+![alt text](assets/images/TB1/nuestrologo.png)
 
 **¿Qué debe tener?**
 
@@ -1175,22 +1175,22 @@ EPICS:
 
 * #### Para Títulos: Playfair.
 
-![alt text](assets/images/q.png)
+![alt text](assets/images/TB1/tipography1.png)
 
 Elegimos Playfair para los títulos por su estilo ligeramente elegante a la vez que legible.
 
 * #### Para Párrafos: Lora.
 
-![alt text](assets/images/45.png)
+![alt text](assets/images/TB1/tipography2.png)
 Elegimos Lora para los párrafos debido a su legibilidad y estilo. Haciéndola perfecta para cantidades moderadas de texto.
 
 **Buttons:**
 
-![alt text](assets/images/898.jpg)
+![alt text](assets/images/TB1/buttons.jpg)
 
 ### 4.1.2. Web Style Guidelines
 
-![alt text](assets/images/5646.jpg)
+![alt text](assets/images/TB1/webstyleguidelines.jpg)
 
 ### 4.2. Information Architecture
 
@@ -1201,11 +1201,11 @@ Para nuestro primer segmento enfocado en Universitarios/Profesionales ocupados p
 Al seleccionar un plato, el usuario accede a una página detallada con información del plato, incluyendo una sección de reseñas y perfil del cocinero. La información está organizada jerárquicamente, con datos esenciales como la descripción del plato y la información nutricional en la parte superior, seguidos por reseñas y calificaciones en secciones inferiores. El usuario lee la descripción del plato, consulta la información nutricional y revisa las reseñas antes de tomar una decisión. La organización jerárquica facilita una navegación lógica desde los detalles del plato hasta la información de los usuarios. El usuario llega a la página de programación de entrega, donde se le presenta un calendario y opciones de horarios. La interfaz está organizada secuencialmente para guiar al usuario a través del proceso de selección de fecha y hora de entrega. El usuario selecciona la fecha y hora deseada para la entrega, revisa la información y confirma la programación. El diseño secuencial asegura que cada etapa del proceso de programación sea clara y fácil de completar.
 Después de realizar su primera compra, en la página de inicio o en una sección dedicada a recomendaciones, el usuario recibe sugerencias de platos basadas en sus pedidos anteriores y preferencias. Las recomendaciones se organizan jerárquicamente por categorías como "Recomendados para Ti" y "Nuevos en la Plataforma". El usuario explora las recomendaciones personalizadas presentadas en una vista de cuadrícula o lista. Puede ver las opciones sugeridas y decidir rápidamente cuáles le interesan. La organización jerárquica y matricial ayuda a destacar las opciones más relevantes y personalizadas.<br> <br>
 
-![alt text](assets/images/12441.png)
+![alt text](assets/images/TB1/organizationsystems1.png)
 [Anexo B](#anexos)<br><br>
 Para nuestro segundo segmento enfocado en Cocineros Caseros, el proceso inicia al registrarse y configurar su perfil. El cocinero casero inicia su viaje en la plataforma mediante un proceso de registro. La interfaz está organizada secuencialmente, comenzando con el registro básico y luego avanzando a la configuración del perfil. El cocinero completa su registro, proporcionando detalles básicos como nombre y contacto. Luego, avanza a la configuración del perfil, donde debe ingresar información sobre sus especialidades culinarias, fotografías de sus platos y detalles de su cocina. Cada etapa del proceso está claramente definida para facilitar la finalización del registro y configuración. Una vez configurado el perfil, el cocinero accede a una sección para crear y gestionar sus menús. La interfaz utiliza una organización jerárquica para presentar opciones como “Añadir Nuevo Plato” y “Gestionar Menús Actuales”. Dentro de estas opciones, el contenido se organiza de forma matricial, mostrando platos individuales con detalles visuales. El cocinero selecciona “Añadir Nuevo Plato”, completa los detalles del plato, incluyendo nombre, descripción, precio y fotos. Luego puede ver y editar los menús existentes. La organización visual permite al cocinero gestionar sus menús de manera eficiente, con un enfoque en las tareas más importantes primero. En la sección de gestión de pedidos, el cocinero puede ver y procesar los pedidos recibidos. La interfaz está organizada secuencialmente por estados del pedido (por ejemplo, “Nuevo”, “En Proceso”, “Completado”), y los pedidos se presentan en un formato cronológico. El cocinero revisa los nuevos pedidos, los procesa según la secuencia establecida, y actualiza el estado de los pedidos en función del progreso. La organización secuencial y cronológica asegura que los pedidos se manejen de manera ordenada y eficiente. El cocinero puede acceder a una sección para revisar las reseñas y calificaciones de sus platos. La interfaz está organizada jerárquicamente, mostrando primero las reseñas más recientes y destacadas, seguidas de las reseñas más antiguas y menos relevantes. El cocinero lee las reseñas y calificaciones recibidas, prestando especial atención a los comentarios destacados para mejorar sus platos y servicios. La organización jerárquica facilita el enfoque en los comentarios más importantes y recientes. En la sección de configuración de perfil, el cocinero puede actualizar su información personal y de menú. La interfaz está organizada jerárquicamente con secciones principales como “Información del Perfil”, “Fotos de Platos”, y “Detalles de Cocina”. Dentro de cada sección, la información se presenta de manera alfabética para una fácil navegación. El cocinero actualiza su perfil y la información de los platos, navegando a través de las secciones y sub-secciones organizadas alfabéticamente para facilitar la búsqueda de elementos específicos. El cocinero tiene acceso a un panel de estadísticas que muestra el rendimiento de sus platos, incluyendo ventas y popularidad. La organización visual se utiliza para presentar gráficos y datos en un formato jerárquico, mientras que los datos se presentan cronológicamente. El cocinero revisa los informes y gráficos, analizando el rendimiento de sus platos a lo largo del tiempo. La organización visual y cronológica ayuda a identificar tendencias y patrones en las ventas y la popularidad de los platos.
 
-![alt text](assets/images/24234.png)
+![alt text](assets/images/TB1/organizationsystems2.png)
 [Anexo C](#anexos)<br><br>
 
 ### 4.2.2. Labeling Systems
@@ -1333,68 +1333,68 @@ Estas configuraciones aseguran que los usuarios de "Sabores Cercanos" puedan mov
 
 ### 4.3.1. Landing Page Wireframe
 
-![](assets/images/Wireframe_LP.png)
+![](assets/images/TB1/WireframeLP.png)
 
-![](assets/images/Wireframe_LP_Mobile.png)
+![](assets/images/TB1/WireframeLPMobile.png)
 
 ### 4.3.2. Landing Page Mock-up
 
-![](assets/images/Mockup_LP_1.png)
+![](assets/images/TB1/MockupLP1.png)
 
-![](assets/images/Mockup_LP_2.png)
+![](assets/images/TB1/MockupLP2.png)
 
-![](assets/images/Mockuo_LP_Mobile.png)
+![](assets/images/TB1/MockuoLPMobile.png)
 
 ### 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
 
-![alt text](assets/images/24234.png)
+![alt text](assets/images/TB1/WAwireframes1.png)
 
-![alt text](assets/images/12312.png)
+![alt text](assets/images/TB1/WAwireframes2.png)
 
-![alt text](assets/images/1231.png)
+![alt text](assets/images/TB1/WAwireframes3.png)
 
-![alt text](assets/images/231.png)
+![alt text](assets/images/TB1/WAwireframes4.png)
 
-![alt text](assets/images/123125.png)
+![alt text](assets/images/TB1/WAwireframes5.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 * #### Goal: El usuario se registra en la aplicacion:
 El siguiente wireflow muestra la secuencia de pasos que un usuario sigue para crear una cuenta. Primero debe elegir el tipo de usuario, llenar todos los campos solicitados en el registro, hacer clic en “Siguiente” e ingresar el código de verificación enviado al correo electrónico proporcionado.
 
-![Wireflow 1](assets/images/WA_Wireflow1.png)
+![Wireflow 1](assets/images/TB1/WAwireflow1.png)
 
 * #### Goal: El usuario inicia sesión con su cuenta de Google:
 Para iniciar sesión con una cuenta de Google, el usuario debe hacer clic en “Continuar con Google” y elegir una cuenta en la que previamente ha iniciado sesión en su dispositivo. Esto le redirigirá a la página de bienvenida.
 
-![Wireflow 2](assets/images/WA_Wireflow2.png)
+![Wireflow 2](assets/images/TB1/WAwireflow2.png)
 
 * #### Goal: El usuario restablece su contraseña:
 Para lograr este goal, el usuario hace clic en “¿Olvidaste tu contraseña?” y será redirigido a un formulario en el cual debe ingresar el correo electrónico con el que se registró. Al hacer clic en “Enviar”, se le enviará un correo electrónico con un enlace para cambiar la contraseña. Una vez en esta sección, el usuario deberá ingresar una contraseña nueva y hacer clic en “Aceptar”.
 
-![Wireflow 3](assets/images/WA_Wireflow3.png)
+![Wireflow 3](assets/images/TB1/WAwireflow3.png)
 
 * #### Goal: El usuario recibe recomendaciones personalizadas:
 El usuario inicia en la página de su cuenta. Al  hacer clic en la sección de “Preferencias dietéticas” es redirigido a un formulario donde deberá indicar sus gustos, alergias, etc. Una vez guardados los cambios, el usuario se dirige a la página “Recetas” y aparecerán sugerencias personalizadas, de lo contrario, aparecerá un mensaje de “No tienes recomendaciones”.
 
-![Wireflow 4](assets/images/WA_Wireflow4.png)
+![Wireflow 4](assets/images/TB1/WAwireflow4.png)
 
 * #### Goal: El usuario añade una receta a su plan de alimentación de un día específico:
 El usuario inicia en la sección de “Recetas”. Aquí, puede dar clic en “Ver receta” para visualizar la información y agregarla a su plan de alimentación. Al momento de agregar, se solicitará elegir en qué fecha desea agregar la receta y en qué tiempo de comida. Una vez seleccionadas las opciones, el usuario podrá visualizar la receta en el apartado de “Recetas”.
 
-![Wireflow 5](assets/images/WA_Wireflow5.png)
+![Wireflow 5](assets/images/TB1/WAwireflow5.png)
 
 * #### Goal: El usuario exporta su plan alimenticio en pdf:
 En este goal, el usuario se dirige a la sección “Plan alimenticio”, hace clic en el menú desplegable y selecciona la opción “Exportar a PDF”. La descarga se confirma mediante un mensaje.
 
-![Wireflow 6](assets/images/WA_Wireflow6.png)
+![Wireflow 6](assets/images/TB1/WAwireflow6.png)
 
 * #### Goal: El usuario comparte su plan alimenticio con familiares o amigos:
 El usuario puede elegir la opción de “Compartir” dentro de la sección de Plan Alimenticio. Luego deberá elegir a quién desea enviar el archivo.
 
-![Wireflow 7](assets/images/WA_Wireflow7.png)
+![Wireflow 7](assets/images/TB1/WAwireflow7.png)
 
 ### 4.4.2. Web Applications Mock-ups
 
@@ -1479,7 +1479,7 @@ En esta sección, presentamos la arquitectura de software para nuestro proyecto 
 Este diagrama muestra las interacciones principales entre el sistema y los actores externos, como los consumidores, los cocineros, y el administrador de la plataforma. Además, se incluyen las conexiones con sistemas externos como el Payment Gateway y el Email Service, proporcionando una vista general de cómo el sistema se integra y se comunica con el entorno externo.
 
 <p align="center">
-  <img src="assets/images/structurizr-SystemContext_Diagram.png">
+  <img src="assets/images/TB1/structurizrSystemContextDiagram.png">
 </p>
 
 ### 4.6.2. Software Architecture Container Diagrams
@@ -1487,7 +1487,7 @@ Este diagrama muestra las interacciones principales entre el sistema y los actor
 Aquí se detalla los principales contenedores de software dentro del sistema, como la Web Application, la Mobile App, la Single-Page Application, la API, y la Database. Cada contenedor representa una parte clave de la arquitectura del sistema y se muestra cómo interactúan entre sí, manejando funciones como la gestión de usuarios, el procesamiento de pagos, y la comunicación con los servicios externos.
 
 <p align="center">
-  <img src="assets/images/structurizr-Containers_Diagram.png">
+  <img src="assets/images/TB1/structurizrContainersDiagram.png">
 </p>
 
 ### 4.6.3. Software Architecture Components Diagrams
@@ -1495,22 +1495,22 @@ Aquí se detalla los principales contenedores de software dentro del sistema, co
 Este diagrama desglosa los componentes internos clave, como el Order Controller, el User Controller, el Payment Service, y el Notification Manager. El diagrama muestra las relaciones y dependencias entre estos componentes, ilustrando cómo trabajan juntos para proporcionar la funcionalidad central de la plataforma.
 
 <p align="center">
-  <img src="assets/images/structurizr-Component_Diagram.png">
+  <img src="assets/images/TB1/structurizrComponentDiagram.png">
 </p>
 
 ### 4.7. Software Object-Oriented Design
-
+s
 ### 4.7.1. Class Diagrams
 
-![alt text](assets/images/diagama_class_right.png)
-![alt text](assets/images/diagrama_class_left.png)
+![alt text](assets/images/TB1/diagamaclassright.png)
+![alt text](assets/images/TB1/diagramaclassleft.png)
 LINK:  
 https://lucid.app/lucidchart/c228e218-6d6b-484c-8557-0fae7cba2738/edit?viewport_loc=-216%2C49%2C4474%2C2081%2CHWEp-vi-RSFO&invitationId=inv_387afe2d-3886-4d53-a6e8-c42b2ae376e3
 
 ### 4.8. Database Design
 
 ### 4.8.1. Database Diagram
-![alt text](assets/images/basedatos_diagram.png)
+![alt text](assets/images/TB1/basedatosdiagram.png)
 LINK:
 https://lucid.app/lucidchart/de7494c8-ca20-4b78-8732-fb0986780e5e/edit?viewport_loc=-5%2C469%2C2982%2C1387%2C0_0&invitationId=inv_df6f46c5-10c8-405e-8b2b-2a1a52ca42fa
 ### 4.8.2. Database Dictionary
@@ -2215,9 +2215,9 @@ Bounded context:
 | Sebastián Omar Real Calderón | Desarrollo del bounded context de Cocineros |
 | Jose Antonio Alejo Cardenas | Desarrollo del bounder context de Pedidos |
 
-![Project Insights De La Landing Page](/assets/images/insights_sprint2_1.png)
+![Project Insights De La Landing Page](assets/TP_images/1insightsSprint2.png)
 
-![Project Insights Del Frontend](/assets/images/insights_sprint2_2.png)
+![Project Insights Del Frontend](assets/TP_images/2insightsSprint2.png)
 
 ## Conclusiones
 
