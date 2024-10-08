@@ -1936,12 +1936,12 @@ En esta fase del proyecto, hemos estado concentrados en el desarrollo de la land
 En este Sprint, hemos alcanzado un avance significativo en el desarrollo de la landing page. Nos hemos enfocado en implementar el diseño y la funcionalidad básica, incluyendo las principales vistas y elementos interactivos. A continuación, presentamos capturas de pantalla de las vistas principales que hemos desarrollado, junto con un enlace a un video que muestra la visualización y navegación logradas durante este Sprint.
 
 **Capturas de Pantalla**
-- Seccion navbar: ![Screenshot1](./assets/images/Landingpage/Navbar.png)
-- Seccion home: ![Screenshot2](./assets/images/Landingpage/Home.png)
-- Seccion about us: ![Screenshot3](./assets/images/Landingpage/About_us.png)
-- Seccion services: ![Screenshot5](./assets/images/Landingpage/Services.png)
-- Seccion contact us: ![Screenshot6](./assets/images/Landingpage/Contact%20us.png)
-- Seccion footer: ![Screenshot7](./assets/images/Landingpage/Footer.png)
+- Seccion navbar: ![Screenshot1](assets/images/Landingpage/Navbar.png)
+- Seccion home: ![Screenshot2](assets/images/Landingpage/Home.png)
+- Seccion about us: ![Screenshot3](assets/images/Landingpage/AboutUs.png)
+- Seccion services: ![Screenshot5](assets/images/Landingpage/Services.png)
+- Seccion contact us: ![Screenshot6](assets/images/Landingpage/ContactUs.png)
+- Seccion footer: ![Screenshot7](assets/images/Landingpage/Footer.png)
 
 **Enlace a Video**
 [Visualización y Navegación de Landing Page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201620127_upc_edu_pe/EfpuXUqzu-1DhChn0fsPc5ABLiNG5nmudn_BF-MAj_j5eA?e=nxTG5W&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
