@@ -1634,7 +1634,7 @@ La gestión de la configuración del software es fundamental para nuestro trabaj
 
   Imagen de evidencia de uso
 
-  ![Meet](/assets/images/environments/meet.jpg)
+  ![Meet](assets/images/environments/meet.jpg)
 
 * ### Requirement Management
   * ### Structurizr
@@ -1642,7 +1642,7 @@ La gestión de la configuración del software es fundamental para nuestro trabaj
   
   Imagen de evidencia de uso
 
-  ![Structurizr](/assets/images/environments/structurizr.jpg)
+  ![Structurizr](assets/images/environments/structurizr.jpg)
 
 * ### Product UX/UI Design
   * ### Figma
@@ -1650,13 +1650,13 @@ La gestión de la configuración del software es fundamental para nuestro trabaj
 
   Imagen de evidencia de uso
 
-  ![Figma](/assets/images/environments/figma.jpg)
+  ![Figma](assets/images/environments/figma.jpg)
   * ### Lucidchart
   Una herramienta colaborativa que posibilita la creación conjunta de wireframes flow y mockups flow.
 
   Imagen de evidencia de uso
 
-  ![Lucidchart](/assets/images/environments/lucidchart.jpg)
+  ![Lucidchart](assets/images/environments/lucidchart.jpg)
 
 * ### Software Development
   * ### HTML5
@@ -1664,21 +1664,21 @@ La gestión de la configuración del software es fundamental para nuestro trabaj
 
   Imagen de evidencia de uso
 
-  ![HTML5](/assets/images/environments/html.jpg)
+  ![HTML5](assets/images/environments/html.jpg)
 
   * ### CSS
   Lenguaje de diseño gráfico utilizado para dar formato al código escrito en HTML.
 
   Imagen de evidencia de uso
 
-  ![CSS](/assets/images/environments/css.jpg)
+  ![CSS](assets/images/environments/css.jpg)
 
   * ### Javascript
   Lenguaje de programación orientado a objetos dinámico que utilizamos para implementar funcionalidades en un documento HTML.
 
   Imagen de evidencia de uso
 
-  ![Javascript](/assets/images/environments/javascript.jpg)
+  ![Javascript](assets/images/environments/javascript.jpg)
 
 * ### Software Documentation
   * ### Github
@@ -1692,7 +1692,7 @@ La gestión de la configuración del software es fundamental para nuestro trabaj
 
 * ### **Gitflow Implementation:**
 Implementamos el flujo de trabajo gitflow para el control de versiones con branches(ramas) para trabajar paralelamente.
-![Gitflow](/assets/images/environments/gitflow.jpg)
+![Gitflow](assets/images/environments/gitflow.jpg)
 
 ### **Master o Main branch**
 La rama principal de desarrollo del proyecto es la Master branch. En esta rama reside el código que actualmente se encuentra en producción.
@@ -1872,15 +1872,15 @@ git commit -m “<type>[optional scope]: <title>“ -m “<description”
 - Creación Landing Page:<br>
 1. Se crea un repositorio remoto en GitHub:
 
-![Creación de Repositorio](/assets/images/deployment/create-repository.jpg)
+![Creación de Repositorio](assets/images/deployment/create-repository.jpg)
 
 2. Agregar a participantes:
 
-![Añadiendo Miembros](/assets/images/deployment/add-members.jpg)
+![Añadiendo Miembros](assets/images/deployment/add-members.jpg)
 
 3. Habilitamos GitHub Pages en branch "master" y ruta "/(root)":
 
-![Github Pages](/assets/images/deployment/github-pages.jpg)
+![Github Pages](assets/images/deployment/github-pages.jpg)
 
 ### 5.2. Landing Page, Services & Applications Implementation
 
@@ -1959,12 +1959,12 @@ En esta fase del proyecto, hemos estado concentrados en el desarrollo de la land
 En este Sprint, hemos alcanzado un avance significativo en el desarrollo de la landing page. Nos hemos enfocado en implementar el diseño y la funcionalidad básica, incluyendo las principales vistas y elementos interactivos. A continuación, presentamos capturas de pantalla de las vistas principales que hemos desarrollado, junto con un enlace a un video que muestra la visualización y navegación logradas durante este Sprint.
 
 **Capturas de Pantalla**
-- Seccion navbar: ![Screenshot1](./assets/images/Landingpage/Navbar.png)
-- Seccion home: ![Screenshot2](./assets/images/Landingpage/Home.png)
-- Seccion about us: ![Screenshot3](./assets/images/Landingpage/About_us.png)
-- Seccion services: ![Screenshot5](./assets/images/Landingpage/Services.png)
-- Seccion contact us: ![Screenshot6](./assets/images/Landingpage/Contact%20us.png)
-- Seccion footer: ![Screenshot7](./assets/images/Landingpage/Footer.png)
+- Seccion navbar: ![Screenshot1](assets/images/Landingpage/Navbar.png)
+- Seccion home: ![Screenshot2](assets/images/Landingpage/Home.png)
+- Seccion about us: ![Screenshot3](assets/images/Landingpage/About_us.png)
+- Seccion services: ![Screenshot5](assets/images/Landingpage/Services.png)
+- Seccion contact us: ![Screenshot6](assets/images/Landingpage/Contact_us.png)
+- Seccion footer: ![Screenshot7](assets/images/Landingpage/Footer.png)
 
 **Enlace a Video**
 [Visualización y Navegación de Landing Page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201620127_upc_edu_pe/EfpuXUqzu-1DhChn0fsPc5ABLiNG5nmudn_BF-MAj_j5eA?e=nxTG5W&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
@@ -2007,9 +2007,9 @@ Subida de Archivos: Transferencia de archivos y recursos al servidor de hosting.
 Verificación: Comprobación de que la landing page se despliega correctamente y está accesible en la web.
 
 **Capturas de Pantalla**
-- Repositorio de Landing Page: ![Screenshot8](/assets/images/Landingpage/Repository.png)
-- Demostración de despliegue en Github: ![Screenshot9](/assets/images/Landingpage/Landing_page_deployment.png)
-- Landing Page desplegado: ![Screenshot10](/assets/images/Landingpage/Deployment.png)
+- Repositorio de Landing Page: ![Screenshot8](assets/images/Landingpage/Repository.png)
+- Demostración de despliegue en Github: ![Screenshot9](assets/images/Landingpage/Landing_page_deployment.png)
+- Landing Page desplegado: ![Screenshot10](assets/images/Landingpage/Deployment.png)
 
 **Enlace al Repositorio**: https://github.com/Rampart-SaboresCercanos/Landing-page
 
@@ -2032,8 +2032,8 @@ Documentación: Creación de documentación relevante para la landing page, incl
 Despliegue: Configuración del entorno de despliegue y transferencia de archivos al servidor.
 
 **Capturas de Pantalla**
-- Analíticos de Colaboración en GitHub: ![Screenshot11](/assets/images/Landingpage/Contributors.png)
-- Commits Realizados: ![Screenshot12](/assets/images/Landingpage/Commits_screen.png)
+- Analíticos de Colaboración en GitHub: ![Screenshot11](assets/images/Landingpage/Contributors.png)
+- Commits Realizados: ![Screenshot12](assets/images/Landingpage/Commits_screen.png)
 
 **Participación del Equipo**
 - Diego: Aunque en este Sprint he sido el único que ha realizado los commits, es importante destacar que todos los miembros del equipo están comprometidos y participarán activamente en la siguiente entrega del proyecto.
@@ -2149,12 +2149,12 @@ Se diseñaron y automatizaron pruebas para un total de 21/35 archivos .feature, 
 En este Sprint, hemos alcanzado un avance significativo en el desarrollo de la landing page. Nos hemos enfocado en implementar el diseño y la funcionalidad básica, incluyendo las principales vistas y elementos interactivos. A continuación, presentamos capturas de pantalla de las vistas principales que hemos desarrollado, junto con un enlace a un video que muestra la visualización y navegación logradas durante este Sprint.
 
 **Capturas de Pantalla**
-- Seccion navbar: ![Screenshot1](/assets/images/Landingpage/Navbar.png)
-- Seccion home: ![Screenshot2](/assets/images/Landingpage/Home.png)
-- Seccion about us: ![Screenshot3](/assets/images/Landingpage/About_us.png)
-- Seccion services: ![Screenshot5](/assets/images/Landingpage/Services.png)
-- Seccion contact us: ![Screenshot6](/assets/images/Landingpage/Contact_us.png)
-- Seccion footer: ![Screenshot7](/assets/images/Landingpage/Footer.png)
+- Seccion navbar: ![Screenshot1](assets/images/Landingpage/Navbar.png)
+- Seccion home: ![Screenshot2](assets/images/Landingpage/Home.png)
+- Seccion about us: ![Screenshot3](assets/images/Landingpage/About_us.png)
+- Seccion services: ![Screenshot5](assets/images/Landingpage/Services.png)
+- Seccion contact us: ![Screenshot6](assets/images/Landingpage/Contact_us.png)
+- Seccion footer: ![Screenshot7](assets/images/Landingpage/Footer.png)
 
 **Enlace a Video**
 [Visualización y Navegación de Landing Page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201620127_upc_edu_pe/EQUpR24hsnpMqzCXf8KvZPsBC94OZ_ibAyiUAYzoLm7iiQ?e=czTgej&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
@@ -2217,9 +2217,9 @@ Subida de Archivos: Transferencia de archivos y recursos al servidor de hosting.
 Verificación: Comprobación de que la landing page se despliega correctamente y está accesible en la web.
 
 **Capturas de Pantalla**
-- Repositorio de Landing Page: ![Screenshot8](/assets/images/Landingpage/Repository.png)
-- Demostración de despliegue en Github: ![Screenshot9](/assets/images/Landingpage/Landing_page_deployment.png)
-- Landing Page desplegado: ![Screenshot10](/assets/images/Landingpage/Deployment.png)
+- Repositorio de Landing Page: ![Screenshot8](assets/images/Landingpage/Repository.png)
+- Demostración de despliegue en Github: ![Screenshot9](assets/images/Landingpage/Landing_page_deployment.png)
+- Landing Page desplegado: ![Screenshot10](assets/images/Landingpage/Deployment.png)
 
 **Enlace al Repositorio**: https://github.com/Rampart-SaboresCercanos/Landing-page
 
